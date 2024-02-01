@@ -1,0 +1,45 @@
+{
+  "command_timeout": 5,
+  "templates_folder": "⚙️ Meta/📐 Templates",
+  "templates_pairs": [
+    [
+      "",
+      ""
+    ]
+  ],
+  "trigger_on_file_creation": true,
+  "auto_jump_to_cursor": false,
+  "enable_system_commands": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "enable_folder_templates": true,
+  "folder_templates": [
+    {
+      "folder": "/",
+      "template": "⚙️ Meta/📐 Templates/✨ Nueva nota.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Campañas/Puerta de Baldur - Descenso a Averno/NPCs",
+      "template": "⚙️ Meta/📐 Templates/NPC.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Campañas/Puerta de Baldur - Descenso a Averno/Lugares",
+      "template": "⚙️ Meta/📐 Templates/Lugar.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Campañas/Puerta de Baldur - Descenso a Averno/Misiones",
+      "template": "⚙️ Meta/📐 Templates/Misión.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Criaturas",
+      "template": "⚙️ Meta/📐 Templates/Enemigo.md"
+    }
+  ],
+  "syntax_highlighting": true,
+  "enabled_templates_hotkeys": [
+    ""
+  ],
+  "startup_templates": [
+    "⚙️ Meta/📐 Templates/✨ Nueva nota.md"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "chapters": "multitext",
+    "class": "multitext",
+    "is_dungeon": "checkbox",
+    "is_completed": "checkbox"
+  }
+}

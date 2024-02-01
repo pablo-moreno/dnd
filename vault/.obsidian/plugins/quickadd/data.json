@@ -1,0 +1,91 @@
+{
+  "choices": [
+    {
+      "id": "abe6af59-a13a-4363-b156-44df4733532a",
+      "name": "Template - Nueva partida",
+      "type": "Template",
+      "command": true,
+      "templatePath": "⚙️ Meta/📐 Templates/Nueva Partida.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:DD-MM-YYYY}} {{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🌳 Fangorn 🌳/✨ Juegos de Mesa/▶️ Partidas"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "ac7e44ab-7d18-4308-950c-6c27406a0cbd",
+      "name": "Template - Añadir juego a la colección",
+      "type": "Template",
+      "command": true,
+      "templatePath": "⚙️ Meta/📐 Templates/Juego de mesa.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{value}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "🌳 Fangorn 🌳/✨ Juegos de Mesa/🗃️ Colección"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "7d938e06-b5f3-4017-a4b1-217e6b32e8cd",
+      "name": "patata",
+      "type": "Multi",
+      "command": true,
+      "choices": [],
+      "collapsed": false
+    }
+  ],
+  "macros": [
+    {
+      "name": "patata",
+      "id": "12016e34-e971-4bb8-ab71-5148abe293bc",
+      "commands": [
+        {
+          "name": "Template - Nueva partida",
+          "type": "Choice",
+          "id": "9cc44aa2-f070-4cf3-8938-3a41abd733e7",
+          "choiceId": "abe6af59-a13a-4363-b156-44df4733532a"
+        },
+        {
+          "name": "Edit file property",
+          "type": "Obsidian",
+          "id": "bd24e1f1-54bb-4323-ac10-2c70290335e2",
+          "commandId": "markdown:edit-metadata-property"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

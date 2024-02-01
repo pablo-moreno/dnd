@@ -1,0 +1,123 @@
+{
+  "main": {
+    "id": "e96cf9ff2bf1d4a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d20704b7b1d7b77b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c6e4f3874d3670c1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5fb606cad29d8479",
+    "type": "split",
+    "children": [
+      {
+        "id": "7340b79db8e00ae7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a01807c3bf25171",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cda2cf1dd9d06591",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "39003fb8c5e30461",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23d628a03a1c3783",
+    "type": "split",
+    "children": [
+      {
+        "id": "ebd50e0411781f24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74939d5ea87c3711",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "markdown-importer:Abrir el importador de Markdown": false
+    }
+  },
+  "active": "6a01807c3bf25171",
+  "lastOpenFiles": [
+    "README.md",
+    "vault/💧 Sources/Appleton, Maggie - The Six Patterns of Gardening.md",
+    "vault/🏝 Spaces/📓 Journal/2021-11-25.md",
+    "vault/🌳 The Forest/Note-making vs note-taking.md",
+    "vault/🌳 The Forest/🗃️ PKM.md",
+    "vault/🌳 The Forest/Atomic notes.md",
+    "vault/⚙️ Meta/Folder structure.md",
+    "vault/⚙️ Meta/🪴 Tending this Garden.md",
+    "vault/⚙️ Meta/🗺️ Map of maps.md",
+    "vault/⚙️ Meta/📐 Templates/New seedling.md"
+  ]
+}
