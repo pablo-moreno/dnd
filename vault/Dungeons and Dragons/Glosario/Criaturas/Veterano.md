@@ -4,7 +4,7 @@ tags:
   - type/enemy
 alignment: 
 race: "[[Humano]]"
-size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
+size: "[[Mediano]]"
 aliases:
   - veterano
   - veteranos
@@ -12,14 +12,14 @@ aliases:
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 16 | 3 | `dice: 1d20 + 3` |
+| [[Fuerza]] | 16 | 3 | `dice: 1d20 + 3` |
 | [[Destreza]] | 13 | 1 | `dice: 1d20 + 1` |
 | [[Constitución]] | 14 | 2 | `dice: 1d20 + 2` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Sabiduría]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 10 | 0 | `dice: 1d20 + 0` |
 [[Clase de Armadura]]: 17
-[[Puntos de Golpe]]: 58 (`dice: 9d8+18`)
+[[Puntos de golpe]]: 58 (`dice: 9d8+18`)
 [[Velocidad]]: 30
 ## Habilidades
 | Habilidad | Bonificador |

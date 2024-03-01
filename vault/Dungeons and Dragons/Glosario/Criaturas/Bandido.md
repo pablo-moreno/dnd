@@ -4,7 +4,7 @@ tags:
   - type/enemy
 alignment: Cualquiera no legal
 race: "[[Humanoide]]"
-size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
+size: "[[Mediano]]"
 aliases:
   - Pirata
   - piratas
@@ -17,15 +17,15 @@ aliases:
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
+| [[Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 12 | 1 | `dice: 1d20 + 1` |
 | [[Constitución]] | 12 | 1 | `dice: 1d20 + 1` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Sabiduría]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 10 | 0 | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 12 ([[Armadura de Cuero]])
-[[Puntos de Golpe]]: 11 (`dice: 2d8 + 2`)
+[[Clase de Armadura]]: 12 ([[Armadura de cuero]])
+[[Puntos de golpe]]: 11 (`dice: 2d8 + 2`)
 [[Velocidad]]: 30
 ## Sentidos
 - [[Percepción pasiva]] 10

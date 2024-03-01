@@ -4,7 +4,7 @@ tags:
   - type/enemy
 alignment: 
 race: "[[Humanoide]]"
-size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
+size: "[[Mediano]]"
 aliases:
   - noble
   - nobles
@@ -13,15 +13,15 @@ aliases:
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
+| [[Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 12 | 1 | `dice: 1d20 + 1` |
 | [[Constitución]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Inteligencia]] | 12 | 1 | `dice: 1d20 + 1` |
 | [[Sabiduría]] | 14 | 2 | `dice: 1d20 + 2` |
 | [[Carisma]] | 16 | 3 | `dice: 1d20 + 3` |
 
-[[Clase de Armadura]]: 15 ([[Coraza]])
-[[Puntos de Golpe]]: 9 (`dice: 2d8`)
+[[Clase de Armadura]]: 15 ([[coraza]])
+[[Puntos de golpe]]: 9 (`dice: 2d8`)
 [[Velocidad]]: 30
 ## Habilidades
 | Habilidad | Bonificador |

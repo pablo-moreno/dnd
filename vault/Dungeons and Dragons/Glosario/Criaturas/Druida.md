@@ -4,13 +4,13 @@ tags:
   - type/enemy
 alignment: 
 race: "[[Humanoide]]"
-size: "[[Mediano]]"
+size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
 ---
 > Los druidas moran en bosques y otros lugares apartados, desde los que protegen el mundo natural de los monstruos y las intrusiones de la civilización. Algunos son chamanes tribales, cuya labor es curar a los enfermos, rezar a los espíritus animales y hacer de consejeros espirituales
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
+| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 12 | 1 | `dice: 1d20 + 1` |
 | [[Constitución]] | 13 | 1 | `dice: 1d20 + 1` |
 | [[Inteligencia]] | 12 | 1 | `dice: 1d20 + 1` |
@@ -18,7 +18,7 @@ size: "[[Mediano]]"
 | [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 11 (16 con [[Piel robliza]])
-[[Puntos de golpe]]: 27 (`dice: 5d8 + 5`)
+[[Puntos de Golpe]]: 27 (`dice: 5d8 + 5`)
 [[Velocidad]]: 30
 ## Habilidades
 

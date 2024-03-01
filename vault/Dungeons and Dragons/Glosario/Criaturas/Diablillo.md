@@ -12,7 +12,7 @@ aliases:
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 6 | -2 | `dice: 1d20 - 2` |
+| [[Fuerza]] | 6 | -2 | `dice: 1d20 - 2` |
 | [[Destreza]] | 17 | 3 | `dice: 1d20 + 3` |
 | [[Constitución]] | 13 | 1 | `dice: 1d20 + 1` |
 | [[Inteligencia]] | 11 | 0 | `dice: 1d20 + 0` |
@@ -20,7 +20,7 @@ aliases:
 | [[Carisma]] | 14 | 2 | `dice: 1d20 + 2` |
 
 [[Clase de Armadura]]: 13
-[[Puntos de Golpe]]: 10 (`dice: 3d4 + 3`)
+[[Puntos de golpe]]: 10 (`dice: 3d4 + 3`)
 [[Velocidad]]: 20 pies
 [[Volar]]: 40 pies
 ## Habilidades
@@ -44,7 +44,7 @@ aliases:
 - [[Envenenado]]
 
 ## Sentidos
-- [[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 2/Visión en la oscuridad]] 120 pies
+- [[Visión en la oscuridad]] 120 pies
 - [[Percepción pasiva]] 11
 
 ## Idiomas

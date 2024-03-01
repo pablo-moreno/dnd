@@ -7,17 +7,17 @@ alignment: Caótico malo
 race: "[[Humanoide]]"
 aliases:
   - cuchillas nocturnas
-size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
+size: "[[Mediano]]"
 ---
 ## Características
 
 **[[Clase de Armadura]]**: 12
-**[[Puntos de Golpe]]**: 11 (2d8 + 2 = `dice: 2d8 + 2`)
+**[[Puntos de golpe]]**: 11 (2d8 + 2 = `dice: 2d8 + 2`)
 **[[Velocidad]]**: 40 pies
 
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
+| [[Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 15 | +2 | `dice: 1d20 + 2` |
 | [[Constitución]] | 12 | +1 | `dice: 1d20 + 1` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
@@ -41,7 +41,7 @@ size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
 Común
 ## Pasivas
 
-**[[Aura del asesino]]**: Mientras el Cuchilla Nocturna no esté incapacitado, las criaturas hostiles a 5 pies o menos de él adquieren [[vulnerabilidad]] al [[daño perforante]], salvo si ya tenían [[Resistencia]] o [[inmunidad]] a dicho daño.
+**[[Aura del asesino]]**: Mientras el Cuchilla Nocturna no esté incapacitado, las criaturas hostiles a 5 pies o menos de él adquieren [[vulnerabilidad]] al [[daño perforante]], salvo si ya tenían [[resistencia]] o [[inmunidad]] a dicho daño.
 ## Acciones
 
 - **Daga**: Ataque con arma cuerpo a cuerpo o a distancia: +4 a impactar, alcance 5 pies o alcance 20/60 pies, un objetivo. Impacto: 4 (1d4 +2 = `dice: 1d4+2`) de [[daño perforante]].

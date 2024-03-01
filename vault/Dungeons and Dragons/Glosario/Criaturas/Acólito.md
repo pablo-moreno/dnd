@@ -4,13 +4,13 @@ tags:
   - type/enemy
 alignment: 
 race: "[[Humanoide]]"
-size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
+size: "[[Mediano]]"
 ---
 > Los acólitos son los miembros de menor rango del clero, que suelen responder ante un sacerdote. Llevan a cabo una gran variedad de funciones en los templos y reciben unos pocos conjuros de sus deidades
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
+| [[Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Constitución]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
@@ -18,7 +18,7 @@ size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
 | [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 10
-[[Puntos de Golpe]]: 9 (`dice: 2d8`)
+[[Puntos de golpe]]: 9 (`dice: 2d8`)
 [[Velocidad]]: 30
 ## Habilidades
 | Habilidad | Bonificador |
