@@ -1,0 +1,31 @@
+---
+title: Protección contra energía
+creation date: 2024-02-14 23:20
+tags:
+  - state/seedling
+  - type/note
+  - conj/lv3
+  - c/exp
+  - c/cle
+  - c/dru
+  - c/hec
+  - c/mag
+aliases: 
+Nivel: 3
+Escuela: "[[Abjuración]]"
+Tiempo_de_Lanzamiento: 1 accion
+Alcance: Toque
+Componente:
+  - "[[Verbal]]"
+  - "[[Somático]]"
+Duración: 1 hora
+Ritual: 
+Concentración: true
+Clases:
+  - "[[Explorador]]"
+  - "[[Clérigo]]"
+  - "[[Druida]]"
+  - "[[Hechicero]]"
+  - "[[Mago]]"
+---
+Mientras dura el conjuro, una criatura voluntaria a la que tocas tiene resistencia al tipo de daño que elijas: [[ácido]], [[frío]], [[fuego]], [[relámpago]] o [[trueno]].

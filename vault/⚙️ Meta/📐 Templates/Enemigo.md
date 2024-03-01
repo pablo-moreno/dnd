@@ -11,7 +11,7 @@ aliases:
 ## Características
 | Característica   | Nivel | Bonificador | Lanzar dado |
 | ---------------- | ----- | ----------- | ----------- |
-| [[Fuerza]]       | 0     | 0           | `dice: 1d20 + 0` |
+| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]]       | 0     | 0           | `dice: 1d20 + 0` |
 | [[Destreza]]     | 0     | 0           | `dice: 1d20 + 0`            |
 | [[Constitución]] | 0     | 0           | `dice: 1d20 + 0`            |
 | [[Inteligencia]] | 0     | 0           | `dice: 1d20 + 0`            |
@@ -19,7 +19,7 @@ aliases:
 | [[Carisma]]      | 0     | 0           | `dice: 1d20 + 0`            |
 
 [[Clase de Armadura]]: 0
-[[Puntos de golpe]]: 0 (`dice: 1d4`)
+[[Puntos de Golpe]]: 0 (`dice: 1d4`)
 [[Velocidad]]: 30
 ## Habilidades
 | Habilidad | Bonificador |

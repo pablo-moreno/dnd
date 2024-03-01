@@ -1,0 +1,13 @@
+---
+title: Martillo
+creation date: 2024-02-16 00:31
+tags:
+  - type/object
+  - obj/com
+aliases: 
+Peso: 3 lb
+Precio: "100"
+int_peso: 3
+int_precio: 100
+---
+

@@ -1,9 +1,9 @@
 ---
 name: Ebshoon Skandalor
-race: Tiefling
+race: "[[Tiflin]]"
 class:
-  - Mago
-alignment: Caótico neutral
+  - "[[Mago]]"
+alignment: "[[Caótico neutral]]"
 campaign:
 ---
 # Ebshoon Skandalor

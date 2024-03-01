@@ -2,3 +2,18 @@ b, strong {
   font-weight: 600;
   color: var(--text-error);
 }
+
+table.dataview {
+    font-size: 15px; /* Cambia el tamaño de la fuente */
+    font-family: Arial, sans-serif; /* Cambia la fuente */
+
+   
+}
+
+
+table.dataview td{
+    font-size: 15px; /* Cambia el tamaño de la fuente */
+    font-family: Arial, sans-serif; /* Cambia la fuente */
+
+       padding-bottom: 10px; /* Ajusta el espacio entre las filas verticalmente */
+}
