@@ -7,7 +7,7 @@ tags:
 aliases: 
 Clase_de_Armadura: 12 + Destreza
 Tipo_de_Armadura: "[[Ligera]]"
-Req.Fuerza: 
+Req_Fuerza: 
 Sigilo: 
 Peso: 13 lb
 Precio: "45.000"

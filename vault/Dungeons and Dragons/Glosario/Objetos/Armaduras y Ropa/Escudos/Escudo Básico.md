@@ -7,7 +7,7 @@ tags:
 aliases: 
 Clase_de_Armadura: "+2"
 Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]]"
-Req.Fuerza: 
+Req_Fuerza: 
 Sigilo: 
 Peso: 6 lb
 Precio: "1.000"

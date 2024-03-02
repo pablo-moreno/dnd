@@ -7,7 +7,7 @@ tags:
 aliases: 
 Clase_de_Armadura: 14 + Destreza (max. +2)
 Tipo_de_Armadura: "[[Media]]"
-Req.Fuerza: 
+Req_Fuerza: 
 Sigilo: 
 Peso: 20 lb
 Precio: "40.000"

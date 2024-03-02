@@ -11,14 +11,14 @@ aliases:
 ## Armadura Ligera
 
 ```dataview
-table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req.Fuerza, Sigilo, Peso, Precio as "Precio (po)"
+table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req_Fuerza as "Req.Fuerza", Sigilo, Peso, Precio as "Precio (po)"
 from #armor/lig 
 ```
 
 ## Armadura Media
 
 ```dataview
-table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req.Fuerza, Sigilo, Peso, Precio as "Precio (po)"
+table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req_Fuerza as "Req.Fuerza", Sigilo, Peso, Precio as "Precio (po)"
 from #armor/med  
 ```
 
@@ -26,7 +26,7 @@ from #armor/med
 ## Armadura Pesada
 
 ```dataview
-table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req.Fuerza, Sigilo, Peso, Precio as "Precio (po)"
+table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req_Fuerza as "Req.Fuerza", Sigilo, Peso, Precio as "Precio (po)"
 from #armor/pes  
 ```
 
@@ -34,7 +34,7 @@ from #armor/pes
 ## Escudos
 
 ```dataview
-table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req.Fuerza, Sigilo, Peso, Precio as "Precio (po)"
+table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req_Fuerza as "Req.Fuerza", Sigilo, Peso, Precio as "Precio (po)"
 from #armor/esc  
 ```
 
@@ -43,7 +43,7 @@ from #armor/esc
 ## Conjunto de Ropa
 
 ```dataview
-table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Req.Fuerza, Sigilo, Peso, Precio as "Precio (po)"
+table Clase_de_Armadura as "Clase de Armadura", Tipo_de_Armadura as "Tipo", Sigilo, Peso, Precio as "Precio (po)"
 from #armor/ropa  
 ```
 

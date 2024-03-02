@@ -7,7 +7,6 @@ tags:
 aliases: 
 Clase_de_Armadura: "10"
 Tipo_de_Armadura: "[[Ropa]]"
-Req.Fuerza: 
 Sigilo: 
 Peso: 3 lb
 Precio: "50"

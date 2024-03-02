@@ -7,7 +7,7 @@ tags:
 aliases: 
 Clase_de_Armadura: "16"
 Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Pesada|Pesada]]"
-Req.Fuerza: "13"
+Req_Fuerza: "13"
 Sigilo: Desventaja
 Peso: 55 lb
 Precio: "75.000"
