@@ -4,7 +4,7 @@ tags:
   - type/enemy
 alignment: Cualquiera no bueno
 race: "[[Humanoide]]"
-size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
+size: "[[Mediano]]"
 aliases:
   - matones
   - matón
@@ -13,15 +13,15 @@ aliases:
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 15 | 2 | `dice: 1d20 + 2` |
+| [[Fuerza]] | 15 | 2 | `dice: 1d20 + 2` |
 | [[Destreza]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Constitución]] | 14 | 2 | `dice: 1d20 + 2` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Sabiduría]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 11 ([[Armadura de Cuero]])
-[[Puntos de Golpe]]: 32 (`dice: 5d8+10`)
+[[Clase de Armadura]]: 11 ([[Armadura de cuero]])
+[[Puntos de golpe]]: 32 (`dice: 5d8+10`)
 [[Velocidad]]: 30
 ## Habilidades
 | Habilidad        | Bonificador |
