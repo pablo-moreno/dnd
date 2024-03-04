@@ -14,4 +14,4 @@ Rareza:
 Efecto: " Agrandar 1d4h"
 ---
 
-
+Después de beber esta poción, ganas el efecto de “agrandar” del conjuro agrandar/reducir durante 1d4 horas (no requiere concentración). El color rojo del líquido de la poción se expande continuamente desde una pequeña mota para colorear el líquido claro que la rodea y vuelve a contraerse. Sacudir la botella no interrumpe el proceso.

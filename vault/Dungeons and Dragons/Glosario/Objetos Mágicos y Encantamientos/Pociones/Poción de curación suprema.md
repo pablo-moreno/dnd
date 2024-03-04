@@ -10,8 +10,11 @@ Peso: 1 lb
 Precio: 1.000.000
 int_peso: 1
 int_precio: 1000000
-Rareza: 
-Efecto: 2d20 + 20 PG
+Rareza: Muy rara
+Efecto: 10d4 + 20 PG
 ---
+
+
+Un personaje que bebe el líquido rojo mágico contenido en este vial recupera 10d4 + 20 Puntos de Golpe. Beber o administrar una poción lleva una acción.
 
 

@@ -10,7 +10,8 @@ Peso: 1 lb
 Precio: "100.000"
 int_peso: 1
 int_precio: 100000
-Rareza: 
+Rareza: rara
 Efecto: Invulnerable al Daño 1m
 ---
 
+Durante 1 minuto tras beberte esta poción, tienes resistencia a todo el daño. El líquido almibarado de la poción parece hierro líquido.
