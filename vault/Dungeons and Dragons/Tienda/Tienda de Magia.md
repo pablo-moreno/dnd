@@ -10,8 +10,8 @@ aliases:
 ## Pociones
 
 ```dataview
-table Peso, Precio as "Precio (po)"
-from x
+table Efecto, Rareza, Precio as "Precio (po)"
+from #om/poc 
 ```
 
 ## Pergaminos
@@ -52,8 +52,8 @@ from #Foco/SS
 ## Venenos
 
 ```dataview
-table Peso, Precio as "Precio (po)"
-from x
+table Efecto, Aplicación, Condición, Precio as "Precio (po)"
+from #om/ven 
 ```
 
 

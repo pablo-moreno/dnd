@@ -6,12 +6,13 @@ tags:
   - type/note
   - om/ven
 aliases: 
-Peso: 
+Peso: 1 lb
 Precio: 
-int_peso: 
+int_peso: 1
 int_precio: 
-Usos: 
-Rareza: 
-Efecto:
+Usos: 4
+Efecto: 
+Condición: 
+Aplicación:
 ---
 
