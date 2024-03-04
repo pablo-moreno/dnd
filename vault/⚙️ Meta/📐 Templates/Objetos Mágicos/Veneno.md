@@ -10,7 +10,8 @@ Peso:
 Precio: 
 int_peso: 
 int_precio: 
-Uso: 
-Rareza:
+Usos: 
+Rareza: 
+Efecto:
 ---
 
