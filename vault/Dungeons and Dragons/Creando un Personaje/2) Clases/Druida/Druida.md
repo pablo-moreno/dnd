@@ -20,7 +20,7 @@ druida después del primer nivel.
 
 *Competencias*
 Armadura: armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]] (los druidas no son competentes con ninguna armadura o escudo hecho de metal).
-Armas: [[Bastón]], [[cimitarra]], [[Garrote]], [[daga]], [[dardo]], [[hoz]], [[honda]], [[lanza]], [[maza]].
+Armas: [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]], [[cimitarra]], [[Garrote]], [[daga]], [[dardo]], [[hoz]], [[honda]], [[lanza]], [[maza]].
 Herramientas: [[Kit de Herborista]].
 Tiradas de Salvación: [[Inteligencia]], [[Sabiduría]].
 Habilidades: Escoge dos entre [[Arcano]], [[Perspicacia]], [[Medicina]], [[Naturaleza]], [[Percepción]],

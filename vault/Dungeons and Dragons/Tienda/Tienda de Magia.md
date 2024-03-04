@@ -51,6 +51,8 @@ from #Foco/SS
 
 ## Venenos
 
+(Verter: 5p, Lanzar: 20p + Bon. Fuerza, R: 5p)
+
 ```dataview
 table Efecto, Aplicación, Condición, Precio as "Precio (po)"
 from #om/ven 

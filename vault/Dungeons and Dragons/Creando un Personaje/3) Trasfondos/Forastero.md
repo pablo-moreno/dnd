@@ -17,7 +17,7 @@ Llevas las tierras salvajes en la sangre, fueras un nómada, un explorador, un e
 
 *Idiomas*: uno de tu elección.
 
-*Equipo*: un [[Bastón]], una [[Trampa de Caza de Cuerda]], un trofeo de un animal que mataste, un conjunto de [[Ropa de Viaje]] y un [[Monedero]] que contiene 1000 po.
+*Equipo*: un [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]], una [[Trampa de Caza de Cuerda]], un trofeo de un animal que mataste, un conjunto de [[Ropa de Viaje]] y un [[Monedero]] que contiene 1000 po.
 
 *Rasgo*: [[Viajero]]
 

@@ -35,6 +35,7 @@
     "int_peso": "number",
     "int_precio": "number",
     "Usos": "number",
-    "Objeto": "multitext"
+    "Objeto": "multitext",
+    "Sintonía": "checkbox"
   }
 }

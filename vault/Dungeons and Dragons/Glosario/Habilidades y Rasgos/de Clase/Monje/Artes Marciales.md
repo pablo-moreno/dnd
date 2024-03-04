@@ -21,7 +21,7 @@ Marciales en la tabla Monje.
 
 • Cuando uses la acción de ataque en tu turno estando desarmado o usando un arma de monje,
 puedes realizar un ataque sin armas como una acción adicional. Por ejemplo, si usas la acción de
-ataque para atacar con un [[bastón]], puedes hacer un ataque desarmado como una acción adicional,
+ataque para atacar con un [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]], puedes hacer un ataque desarmado como una acción adicional,
 asumiendo que no hayas usado una acción adicional este turno.
 
 Algunos monasterios emplean formas especializadas de armas de monje. Por ejemplo, puedes usar una [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Vara|Vara]] que son dos trozos de madera unidos por una cadena corta (llamada nunchaku) o una [[hoz]] con una hoja más corta y recta (llamada kama). Cualquiera que sea el nombre que uses para un arma de monje.

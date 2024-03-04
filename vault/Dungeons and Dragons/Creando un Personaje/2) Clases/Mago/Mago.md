@@ -19,7 +19,7 @@ mago después del primer nivel.
 
 *Competencias*
 Armadura: ninguna.
-Armas: [[Bastón]], [[ballesta ligera]], [[daga]], [[dardo]], [[honda]].
+Armas: [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]], [[ballesta ligera]], [[daga]], [[dardo]], [[honda]].
 Herramientas: ninguna.
 Tiradas de Salvación: [[Inteligencia]], [[Sabiduría]].
 Habilidades: elige dos entre [[Arcano]], [[Perspicacia]], [[Historia]], [[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]], [[Medicina]] y
@@ -27,7 +27,7 @@ Habilidades: elige dos entre [[Arcano]], [[Perspicacia]], [[Historia]], [[Dungeo
 
 *Equipo*
 Comienzas con el siguiente equipo, además del equipo otorgado por tu trasfondo:
-● (a) un [[Bastón]] (b) o una [[daga]].
+● (a) un [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]] (b) o una [[daga]].
 ● (a) una bolsa de componentes de conjuro o (b) un foco arcano.
 ● (a) un [[equipo de erudito]] o (b) un [[equipo de explorador]].
 ● Un [[libro de conjuros]].

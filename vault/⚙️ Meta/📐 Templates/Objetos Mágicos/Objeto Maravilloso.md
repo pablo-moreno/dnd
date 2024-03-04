@@ -5,6 +5,7 @@ tags:
   - type/object
   - om/mar
 aliases: 
-Rareza:
+Rareza: 
+Sintonía:
 ---
 

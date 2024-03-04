@@ -6,6 +6,7 @@ tags:
   - om/enc
 aliases: 
 Rareza: 
-Objeto:
+Objeto: 
+Sintonía:
 ---
 

@@ -19,7 +19,7 @@ hechicero después de primer nivel.
 
 *Competencias*
 Armadura: ninguna.
-Armas: [[daga]], [[dardo]], [[honda]], [[Bastón]], [[ballesta ligera]].
+Armas: [[daga]], [[dardo]], [[honda]], [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]], [[ballesta ligera]].
 Herramientas: ninguna.
 Tiradas de Salvación: [[Constitución]], [[Carisma]].
 Habilidades: escoge dos entre [[Arcano]], [[Perspicacia]], [[Engaño]], [[Intimidación]], [[Persuasión]] y
