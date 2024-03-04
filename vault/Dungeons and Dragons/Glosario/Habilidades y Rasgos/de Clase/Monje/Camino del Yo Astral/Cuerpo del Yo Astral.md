@@ -13,5 +13,5 @@ Este cuerpo espectral te recubre como una armadura, uniéndose a los brazos y el
 
 *Brazos Potenciados*. Una vez durante cada uno de tus turnos, cuando impactes a un objetivo con los Brazos del Yo Astral, podrás causarle daño adicional igual al resultado de una tirada de tu dado de [[Artes Marciales]].
 
-*Desviar Energía*. Cuando recibas daño de [[ácido]], [[frío]], [[fuego]], [[fuerza]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Relámpago]] o [[trueno]], puedes usar tu reacción para desviarlo. Si lo haces, el daño que recibes se reduce en 1d10 + tu modificador por [[Sabiduría]] (reducción mínima de 1).
+*Desviar Energía*. Cuando recibas daño de [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[frío]], [[fuego]], [[fuerza]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Relámpago]] o [[trueno]], puedes usar tu reacción para desviarlo. Si lo haces, el daño que recibes se reduce en 1d10 + tu modificador por [[Sabiduría]] (reducción mínima de 1).
 

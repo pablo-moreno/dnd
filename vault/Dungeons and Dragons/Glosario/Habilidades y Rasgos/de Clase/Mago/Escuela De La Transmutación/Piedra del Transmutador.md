@@ -18,7 +18,7 @@ Puedes beneficiarte de la piedra tú mismo o dársela a otra criatura. Una criat
 
 • Competencia en las tiradas de salvación de [[Constitución]].
 
-• Resistencia al daño de [[ácido]], [[frío]], [[fuego]], eléctrico o sónico (eliges uno en el momento de crear la
+• Resistencia al daño de [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[frío]], [[fuego]], eléctrico o sónico (eliges uno en el momento de crear la
 piedra).
 
 Cada vez que lanzas un conjuro de transmutación de nivel 1 o superior, puedes cambiar el efecto de tu piedra si está en tu poder. Si creas una nueva Piedra del Transmutador, la anterior deja de funcionar.

@@ -10,7 +10,7 @@ tags:
   - c/cle
 aliases: 
 Nivel: 2
-Escuela: "[[Encantamiento]]"
+Escuela: "[[Dungeons and Dragons/Glosario/Conjuros/Escuelas de Conjuros/Encantamiento]]"
 Tiempo_de_Lanzamiento: 1 accion
 Alcance: "60"
 Componente:

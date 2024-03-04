@@ -28,7 +28,7 @@ hit_points: 33
 [[Velocidad]]: 10
 ## Inmunidad a daño
 - [[Psíquico]]
-- [[Veneno]]
+- [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]]
 ## Inmunidad a estados
 - [[Asustado]]
 - [[Cegado]]

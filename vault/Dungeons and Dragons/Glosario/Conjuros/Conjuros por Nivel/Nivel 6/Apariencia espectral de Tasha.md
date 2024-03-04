@@ -28,7 +28,7 @@ Clases:
 Pronuncias unas palabras de poder y recurres a la magia de los Planos Inferiores o los Planos
 Superiores (a tu elección) para transformarte. Hasta que el conjuro termine, obtienes los siguientes beneficios:
 
-• Eres inmune al daño de [[fuego]] y de [[veneno]] (Planos Inferiores) o al daño [[radiante]] y [[necrótico]]
+• Eres inmune al daño de [[fuego]] y de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]] (Planos Inferiores) o al daño [[radiante]] y [[necrótico]]
 (Planos Superiores).
 
 • Eres inmune al estado "[[envenenado]]" (Planos Inferiores) o "[[hechizado]]" (Planos Superiores).

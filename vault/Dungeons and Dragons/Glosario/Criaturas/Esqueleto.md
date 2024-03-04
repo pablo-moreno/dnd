@@ -30,7 +30,7 @@ ca: "13"
 [[Velocidad]]: 30
 
 ## Inmunidad a daño
-- [[Veneno]]
+- [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]]
 
 ## Inmunidad a estados
 - [[Cansancio]]

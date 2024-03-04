@@ -16,13 +16,13 @@ Dragón                     Tipo de Daño
 Azul                          Eléctrico
 Blanco                      [[Frío]]
 Bronce                      [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Relámpago|Relámpago]]
-Cobre                       [[Ácido]]
+Cobre                       [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]]
 Latón                        [[Fuego]]
-Negro                       [[Ácido]]
+Negro                       [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]]
 Oro                           [[Fuego]]
 Rojo                          [[Fuego]]
 Plata                         [[Frío]]
-Verde                        [[Veneno]]
+Verde                        [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]]
 
 Puedes leer, escribir y hablar [[dracónico]]. Además, siempre que hagas una prueba de [[Carisma]]
 interactuando con dragones tu bonificador de competencia se duplica si es aplicable a la tirada.

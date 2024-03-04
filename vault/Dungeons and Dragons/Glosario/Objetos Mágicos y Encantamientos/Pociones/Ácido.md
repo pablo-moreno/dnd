@@ -4,6 +4,7 @@ creation date: 2024-02-19 10:17
 tags:
   - state/seedling
   - type/note
+  - om/alq
 aliases: 
 Peso: 
 Precio:

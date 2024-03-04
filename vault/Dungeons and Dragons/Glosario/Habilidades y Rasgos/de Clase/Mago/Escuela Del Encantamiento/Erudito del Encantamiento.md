@@ -8,6 +8,6 @@ aliases:
 Nivel de Clase: 2
 Mejora de Habilidad:
 ---
-El oro y el tiempo que debes invertir para copiar un conjuro de [[encantamiento]] en tu [[libro de conjuros]] se divide a la mitad.
+El oro y el tiempo que debes invertir para copiar un conjuro de [[Dungeons and Dragons/Glosario/Conjuros/Escuelas de Conjuros/Encantamiento]] en tu [[libro de conjuros]] se divide a la mitad.
 
 

@@ -24,7 +24,7 @@ Se crea una enorme nube de tormenta cuyo centro es un punto que puedas ver y se 
 
 Cada ronda que mantengas la concentración en este conjuro, la tormenta produce efectos adicionales en tu turno.
 
-**Ronda 2.** Cae lluvia ácida de la nube. Todas las criaturas y objetos que haya debajo la nube reciben 1d6 puntos de daño por [[ácido]].
+**Ronda 2.** Cae lluvia ácida de la nube. Todas las criaturas y objetos que haya debajo la nube reciben 1d6 puntos de daño por [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]].
 
 **Ronda 3.** Puedes convocar seis rayos de luz de la nube para que golpeen a seis criaturas u objetos de tu elección que se encuentren debajo de la nube. Cada uno no puede ser golpeado por más de un rayo. Una criatura que ha sido golpeada debe hacer una tirada de salvación de [[Destreza]]: si falla, recibe 10d6 puntos de daño por [[relámpago]] y, si tiene éxito, la mitad.
 

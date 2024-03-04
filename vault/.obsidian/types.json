@@ -33,6 +33,7 @@
     "Mejora": "multitext",
     "Lanzador de Conjuros": "checkbox",
     "int_peso": "number",
-    "int_precio": "number"
+    "int_precio": "number",
+    "Usos": "number"
   }
 }

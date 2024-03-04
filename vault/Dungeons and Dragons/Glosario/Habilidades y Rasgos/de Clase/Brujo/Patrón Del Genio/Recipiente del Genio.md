@@ -31,7 +31,7 @@ Cuando entres en el recipiente, no podrás volver a hacerlo hasta que finalices 
 *Ira del Genio*. Una vez durante cada uno de tus turnos, cuando impactas con una [[tirada de ataque]], puedes infligir daño extra al objetivo igual a tu bonificador por competencia. El tipo de daño lo determina tu patrón: [[contundente]] (dao), [[trueno]] (djinni), [[fuego]] (efreeti) o [[frío]] (marid).
 
 
-La CA del recipiente es igual a tu CD de salvación de conjuros. Sus [[puntos de golpe]] son iguales a tu nivel de brujo más tu bonificador por competencia y es inmune al daño de [[veneno]] y al [[psíquico]].
+La CA del recipiente es igual a tu CD de salvación de conjuros. Sus [[puntos de golpe]] son iguales a tu nivel de brujo más tu bonificador por competencia y es inmune al daño de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]] y al [[psíquico]].
 Si el recipiente es destruido o lo pierdes, puedes realizar una ceremonia de 1 hora para recibir uno
 de sustitución de tu patrón. Esta ceremonia se puede llevar a cabo durante un descanso corto o
 largo y destruye el recipiente anterior, si aún existe. 

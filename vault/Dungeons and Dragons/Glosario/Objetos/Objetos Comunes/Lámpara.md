@@ -10,4 +10,4 @@ Precio: "50"
 int_peso: 1
 int_precio: 50
 ---
-Ilumina con luz brillante en un radio de 15 pies y 30 de pies adicionales de luz tenue. Una vez encendida, la llama dura 6 horas con un frasco de [[aceite]] (1 pinta).
+Ilumina con luz brillante en un radio de 15 pies y 30 de pies adicionales de luz tenue. Una vez encendida, la llama dura 6 horas con un frasco de [[Aceite]] (1 pinta).

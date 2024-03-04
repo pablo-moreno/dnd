@@ -22,7 +22,7 @@ La tabla Lanzamiento de Conjuros del Bribón Arcano muestra cuántos [[espacios 
 Recuperarás todos los espacios usados cuando termines un descanso prolongado. Por ejemplo, si conoces el conjuro de nivel 1 hechizar persona y tienes un espacio de conjuro de nivel 1 y uno de nivel 2, puedes lanzar hechizar persona usando cualquiera de los dos.
 
 *Conjuros Conocidos de Nivel 1 y Superiores*
-Conoces tres conjuros de mago de nivel 1, dos de los cuales deben ser elegidos de la escuela de [[encantamiento]] y escuela de [[Ilusionismo]] de la [[lista de conjuros de mago]].
+Conoces tres conjuros de mago de nivel 1, dos de los cuales deben ser elegidos de la escuela de [[Dungeons and Dragons/Glosario/Conjuros/Escuelas de Conjuros/Encantamiento]] y escuela de [[Ilusionismo]] de la [[lista de conjuros de mago]].
 
 La columna de Conjuros Conocidos de la tabla Lanzamiento de Conjuros del Bribón Arcano muestra cuándo aprendes más conjuros de mago de nivel 1 o superiores. Cada uno de estos conjuros deben ser un encantamiento o ilusión de tu elección, y deben ser de un nivel en el que tengas espacios de conjuro. 
 

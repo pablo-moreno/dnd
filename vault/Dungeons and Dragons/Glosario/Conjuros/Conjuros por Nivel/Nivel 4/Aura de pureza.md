@@ -20,4 +20,4 @@ Clases:
   - "[[Paladín]]"
 ---
 Irradias una energía purificadora en forma de aura con un radio de 30 pies (6 casillas, 9 m).
-Hasta que el conjuro finalice, el aura se desplaza contigo centrada en ti. Cada criatura no hostil (incluido tú) que permanezca dentro del aura no puede enfermar, adquiere resistencia al daño por [[veneno]], y tiene ventaja en las tiradas de salvación contra efectos que causen  cualquiera de las siguientes condiciones: [[cegado]], [[Hechizado]], [[ensordecido]], [[asustado]], [[paralizado]], [[envenenado]] y [[aturdido]].
+Hasta que el conjuro finalice, el aura se desplaza contigo centrada en ti. Cada criatura no hostil (incluido tú) que permanezca dentro del aura no puede enfermar, adquiere resistencia al daño por [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]], y tiene ventaja en las tiradas de salvación contra efectos que causen  cualquiera de las siguientes condiciones: [[cegado]], [[Hechizado]], [[ensordecido]], [[asustado]], [[paralizado]], [[envenenado]] y [[aturdido]].

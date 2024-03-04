@@ -38,7 +38,7 @@ aliases:
 
 ## Inmunidad a daño
 - [[Fuego]]
-- [[Veneno]]
+- [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]]
 
 ## Inmunidad a estados
 - [[Envenenado]]

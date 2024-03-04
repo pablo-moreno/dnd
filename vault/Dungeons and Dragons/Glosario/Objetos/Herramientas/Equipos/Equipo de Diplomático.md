@@ -10,4 +10,4 @@ Precio: "3.900"
 int_precio: 3900
 ---
 
-Incluye un [[cofre]], 2 [[estuche para mapas]] o [[Bolsa de Pergaminos]], una muda de [[Ropa Elegante]], una botella de [[tinta]], una [[pluma]], 2 frascos de [[aceite]], 5 [[Papel (una hoja)]], un [[Perfume (vial)]], [[Pasta para Sello]] y un [[jabón]].
+Incluye un [[cofre]], 2 [[estuche para mapas]] o [[Bolsa de Pergaminos]], una muda de [[Ropa Elegante]], una botella de [[tinta]], una [[pluma]], 2 frascos de [[Aceite]], 5 [[Papel (una hoja)]], un [[Perfume (vial)]], [[Pasta para Sello]] y un [[jabón]].

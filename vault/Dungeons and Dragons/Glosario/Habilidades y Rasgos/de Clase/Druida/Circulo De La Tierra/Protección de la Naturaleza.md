@@ -8,7 +8,7 @@ aliases:
 Nivel de Clase: 10
 Mejora de Habilidad:
 ---
-No puedes ser [[Hechizado]] o [[asustado]] por elementales o criaturas feéricas y eres inmune al [[veneno]] y la enfermedad.
+No puedes ser [[Hechizado]] o [[asustado]] por elementales o criaturas feéricas y eres inmune al [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]] y la enfermedad.
 
 
 

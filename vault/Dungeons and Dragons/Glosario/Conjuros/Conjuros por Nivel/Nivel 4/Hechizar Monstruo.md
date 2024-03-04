@@ -12,7 +12,7 @@ tags:
   - c/mag
 aliases: 
 Nivel: 4
-Escuela: "[[Encantamiento]]"
+Escuela: "[[Dungeons and Dragons/Glosario/Conjuros/Escuelas de Conjuros/Encantamiento]]"
 Tiempo_de_Lanzamiento: 1 acción
 Alcance: "30"
 Componente:
