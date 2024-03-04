@@ -5,6 +5,7 @@ tags:
   - type/object
   - om/enc
 aliases: 
-Rareza:
+Rareza: 
+Objeto:
 ---
 

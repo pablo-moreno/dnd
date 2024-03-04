@@ -34,6 +34,7 @@
     "Lanzador de Conjuros": "checkbox",
     "int_peso": "number",
     "int_precio": "number",
-    "Usos": "number"
+    "Usos": "number",
+    "Objeto": "multitext"
   }
 }

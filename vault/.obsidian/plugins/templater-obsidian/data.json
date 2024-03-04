@@ -33,6 +33,22 @@
     {
       "folder": "Dungeons and Dragons/Criaturas",
       "template": "⚙️ Meta/📐 Templates/Enemigo.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Encantamientos",
+      "template": "⚙️ Meta/📐 Templates/Objetos Mágicos/Encantamiento (OM).md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Objetos Maravillosos",
+      "template": "⚙️ Meta/📐 Templates/Objetos Mágicos/Objeto Maravilloso.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones",
+      "template": "⚙️ Meta/📐 Templates/Objetos Mágicos/Poción.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Venenos",
+      "template": "⚙️ Meta/📐 Templates/Objetos Mágicos/Veneno.md"
     }
   ],
   "syntax_highlighting": true,
@@ -40,6 +56,6 @@
     ""
   ],
   "startup_templates": [
-    "⚙️ Meta/📐 Templates/✨ Nueva nota.md"
+    ""
   ]
 }
