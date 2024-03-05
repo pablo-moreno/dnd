@@ -25,4 +25,4 @@ Clases:
 ---
 Estableces un vínculo telepático con una bestia que tocas que es amigable o que está hechizada por ti. El conjuro falla si la puntuación de [[Inteligencia]] de la bestia es 4 o mayor.
 
-Hasta que el conjuro termine, el enlace estará activo mientras tú y la bestia están a la vista el uno del otro. A través del enlace, la bestia puede entender tus mensajes telepáticos y puede comunicar telepáticamente emociones y conceptos simples de vuelta a ti. Mientras el enlace está activo, la bestia gana ventaja en las [[tiradas de ataque]] contra cualquier criatura a 5 pies de ti que puedas ver.
+Hasta que el conjuro termine, el enlace estará activo mientras tú y la bestia están a la vista el uno del otro. A través del enlace, la bestia puede entender tus mensajes telepáticos y puede comunicar telepáticamente emociones y conceptos simples de vuelta a ti. Mientras el enlace está activo, la bestia gana ventaja en las [[Tiradas de Ataque]] contra cualquier criatura a 5 pies de ti que puedas ver.

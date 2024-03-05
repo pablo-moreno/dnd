@@ -28,6 +28,6 @@ Clases:
 ---
 (una vara de incienso encendida o un vial de cristal lleno de material fosforescente)
 
-Creas un patrón de colores zigzagueante que ondula en el aire dentro de un cubo de 30 pies que se encuentra dentro del alcance. El patrón aparece durante un momento y luego e desvanece. Cada criatura dentro del área que vea el patrón debe hacer una [[tirada de salvación]] de [[Sabiduría]]. Si falla, queda [[hechizado]] mientras dura el conjuro. Mientras esté hechizada por este conjuro, la criatura está [[incapacitado]] y tiene una velocidad igual a 0.
+Creas un patrón de colores zigzagueante que ondula en el aire dentro de un cubo de 30 pies que se encuentra dentro del alcance. El patrón aparece durante un momento y luego e desvanece. Cada criatura dentro del área que vea el patrón debe hacer una [[Tirada de Salvación]] de [[Sabiduría]]. Si falla, queda [[Hechizado]] mientras dura el conjuro. Mientras esté hechizada por este conjuro, la criatura está [[Incapacitado]] y tiene una velocidad igual a 0.
 
 El conjuro termina si la criatura recibe daño o si alguien usa una acción para zarandearla y hacer que salga de su estupor.

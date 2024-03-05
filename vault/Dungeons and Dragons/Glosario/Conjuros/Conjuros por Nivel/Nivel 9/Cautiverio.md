@@ -25,7 +25,7 @@ Clases:
 ---
 (una representación en vitela o una estatuilla que se parezca al objetivo y un componente especial que varía de acuerdo a la versión del conjuro que elijas, de al menos 50.000 po de valor por dado de golpe del objetivo)
 
-Creas un límite mágico para retener a una criatura que puedas ver dentro del alcance. El objetivo debe superar una [[tirada de salvación]] de [[Sabiduría]] para no quedar vinculado por el conjuro; si tiene éxito, se vuelve inmune a este conjuro si lo vuelves a lanzar. Mientras esté afectada por el conjuro, la criatura no necesita respirar, comer ni beber, y no envejece. Los conjuros de [[adivinación]] no pueden ni localizarla ni percibirla.
+Creas un límite mágico para retener a una criatura que puedas ver dentro del alcance. El objetivo debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar vinculado por el conjuro; si tiene éxito, se vuelve inmune a este conjuro si lo vuelves a lanzar. Mientras esté afectada por el conjuro, la criatura no necesita respirar, comer ni beber, y no envejece. Los conjuros de [[adivinación]] no pueden ni localizarla ni percibirla.
 
 Cuando lances el conjuro, elige una de las siguientes formas de cautiverio.
 

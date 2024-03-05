@@ -8,7 +8,7 @@ aliases:
 Nivel de Clase: 14
 Mejora de Habilidad:
 ---
-Puedes zambullir a una criatura en un reino ilusorio. Como una acción, elige una criatura que puedas ver en un rango de 60 pies (18 metros) de ti. Debe realizar una [[tirada de salvación]] de [[Sabiduría]] contra la CD de tus conjuros de brujo. Si falla la tirada de salvación, pasa a estar [[hechizado]] o [[asustado]] por ti (a tu elección) durante un minuto o hasta que tu concentración se rompa (como si estuvieses concentrándote en un conjuro). Este efecto termina si la criatura recibe cualquier daño.
+Puedes zambullir a una criatura en un reino ilusorio. Como una acción, elige una criatura que puedas ver en un rango de 60 pies (18 metros) de ti. Debe realizar una [[Tirada de Salvación]] de [[Sabiduría]] contra la CD de tus conjuros de brujo. Si falla la tirada de salvación, pasa a estar [[Hechizado]] o [[Asustado]] por ti (a tu elección) durante un minuto o hasta que tu concentración se rompa (como si estuvieses concentrándote en un conjuro). Este efecto termina si la criatura recibe cualquier daño.
 
 Hasta que la ilusión finaliza la criatura piensa que está perdida en un reino brumoso con la
 apariencia que elijas. La criatura sólo puede ver y escucharse a sí misma, a ti y a la ilusión.

@@ -8,5 +8,5 @@ aliases:
 Nivel de Clase: 6
 Mejora de Habilidad:
 ---
-Obtienes resistencia al daño [[psíquico]] y tienes ventaja en las tiradas de salvación para evitar que te asusten o te hechicen.
+Obtienes resistencia al daño [[Psíquico]] y tienes ventaja en las tiradas de salvación para evitar que te asusten o te hechicen.
 

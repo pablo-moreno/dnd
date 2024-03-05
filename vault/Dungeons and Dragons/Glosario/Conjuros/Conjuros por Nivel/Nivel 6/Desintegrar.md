@@ -27,7 +27,7 @@ Clases:
 
 Apuntando a un objetivo que puedas ver dentro del alcance, de tu dedo sale un delgado rayo verde. El objetivo puede ser una criatura, un objeto o una creación de fuerza mágica, como el muro creado por [[Muro de fuerza]].
 
-Una criatura objetivo debe hacer una [[tirada de salvación]] de [[Destreza]]. Si falla, recibe 10d6+40 puntos de daño por [[fuerza]]. Si este daño reduce sus [[puntos de golpe]] a 0, esta se desintegra.
+Una criatura objetivo debe hacer una [[Tirada de Salvación]] de [[Destreza]]. Si falla, recibe 10d6+40 puntos de daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]. Si este daño reduce sus [[Puntos de Golpe]] a 0, esta se desintegra.
 
 Una criatura desintegrada, y todo lo que lleve puesto o transporte, excepto los objetos mágicos, queda reducida o un montón de polvillo gris. La criatura solo puede volver a la vida mediante los conjuros Resurrección verdadera o Deseo.
 

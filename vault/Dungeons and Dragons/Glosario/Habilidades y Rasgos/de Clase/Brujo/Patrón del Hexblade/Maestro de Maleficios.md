@@ -9,4 +9,4 @@ Nivel de Clase: 14
 Mejora de Habilidad:
 ---
 A partir del nivel 14, puedes extender tu [[Maldición de Hexblade]] de una criatura asesinada a otra
-criatura. Cuando la criatura víctima de tu Maldición de Hexblade muere, puedes aplicar la maldición a una criatura diferente que puedas ver a 30 pies de ti, siempre que no estés [[incapacitado]].
+criatura. Cuando la criatura víctima de tu Maldición de Hexblade muere, puedes aplicar la maldición a una criatura diferente que puedas ver a 30 pies de ti, siempre que no estés [[Incapacitado]].

@@ -25,6 +25,6 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Pronuncias una palabra de poder que puede aturdir la mente de una criatura que puedas ver dentro del alcance, lo que la deja pasmada. Si el objetivo tiene 150 [[puntos de golpe]] o menos, queda [[aturdido]]. Si no, el conjuro no tiene efecto.
+Pronuncias una palabra de poder que puede aturdir la mente de una criatura que puedas ver dentro del alcance, lo que la deja pasmada. Si el objetivo tiene 150 [[Puntos de Golpe]] o menos, queda [[Aturdido]]. Si no, el conjuro no tiene efecto.
 
-El objetivo aturdido debe hacer una [[tirada de salvación]] de [[Constitución]] al final de cada uno de sus turnos. Si la supera, el efecto aturdidor termina.
+El objetivo aturdido debe hacer una [[Tirada de Salvación]] de [[Constitución]] al final de cada uno de sus turnos. Si la supera, el efecto aturdidor termina.

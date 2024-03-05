@@ -7,5 +7,5 @@ tags:
 aliases:
 ---
 Cuando haces una prueba de [[Destreza]] ([[Sigilo]]) o una tirada de iniciativa, puedes gastar
-un dado de supremacía y añadirlo a la tirada, siempre que no estés [[incapacitado]].
+un dado de supremacía y añadirlo a la tirada, siempre que no estés [[Incapacitado]].
 

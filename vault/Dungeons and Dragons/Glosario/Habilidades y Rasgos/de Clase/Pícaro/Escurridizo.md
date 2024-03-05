@@ -8,5 +8,5 @@ aliases:
 Nivel de Clase: 18
 Mejora de Habilidad:
 ---
-Eres tan evasivo que raramente los atacantes pueden comprometer tu defensa. Ninguna [[tirada de ataque]] tiene ventaja contra ti mientras no estés [[incapacitado]].
+Eres tan evasivo que raramente los atacantes pueden comprometer tu defensa. Ninguna [[Tirada de Ataque]] tiene ventaja contra ti mientras no estés [[Incapacitado]].
 

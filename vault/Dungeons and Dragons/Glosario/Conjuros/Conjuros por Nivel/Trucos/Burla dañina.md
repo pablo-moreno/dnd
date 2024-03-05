@@ -18,6 +18,6 @@ Concentración:
 Clases:
   - "[[Bardo]]"
 ---
-Sueltas una sarta de insultos enlazados con sutiles encantamientos a una criatura que puedas ver dentro del alcance. Si el objetivo puede oírte (aunque no es necesario que te entienda), debe superar una [[tirada de salvación]] de [[Sabiduría]] para no recibir 1d4 puntos de daño [[psíquico]] y tener desventaja en la siguiente tirada de ataque que haga antes del final de su siguiente turno.
+Sueltas una sarta de insultos enlazados con sutiles encantamientos a una criatura que puedas ver dentro del alcance. Si el objetivo puede oírte (aunque no es necesario que te entienda), debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no recibir 1d4 puntos de daño [[Psíquico]] y tener desventaja en la siguiente tirada de ataque que haga antes del final de su siguiente turno.
 
 El daño de este conjuro aumenta en 1d4 cuando llegas al nivel 5 (2d4), al nivel 11 (3d4) y la nivel 17 (4d4)

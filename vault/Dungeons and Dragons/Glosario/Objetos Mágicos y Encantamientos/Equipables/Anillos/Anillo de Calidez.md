@@ -10,4 +10,4 @@ Objeto:
   - Anillo
 Sintonía: true
 ---
-Mientras lleves puesto este anillo, obtienes resistencia al daño por [[frío]]. Además, tu y todo lo que transportes no resultaran dañadas a temperaturas tan bajas como - 50 grados Fahrenheit (-45Cº).
+Mientras lleves puesto este anillo, obtienes resistencia al daño por [[Frío]]. Además, tu y todo lo que transportes no resultaran dañadas a temperaturas tan bajas como - 50 grados Fahrenheit (-45Cº).

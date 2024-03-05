@@ -12,6 +12,6 @@ Como enano de las montañas, eres fuerte y duro, acostumbrado a una vida difíci
 áspero. Probablemente eres alto (para un enano) y tiendes hacia una coloración de piel más clara.
 Los enanos escudo del norte de Faerûn a la vez que el dominante clan Hylar y el noble clan Daewar de Dragonlance, son enanos de las montañas.
 
-*Incremento de Puntuación de Característica*. Tu puntuación en [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] aumenta en 2.
+*Incremento de Puntuación de Característica*. Tu puntuación en [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] aumenta en 2.
 
 

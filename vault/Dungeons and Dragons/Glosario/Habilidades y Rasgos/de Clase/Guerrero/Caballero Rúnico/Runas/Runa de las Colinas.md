@@ -10,9 +10,9 @@ aliases:
 
 La magia de esta runa otorga una resistencia que recuerda a la de los gigantes de las colinas. 
 
-Mientras vistas o lleves contigo un objeto que tenga grabada esta runa, tendrás ventaja en las tiradas de salvación para evitar que te envenenen y poseerás resistencia al daño de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]].
+Mientras vistas o lleves contigo un objeto que tenga grabada esta runa, tendrás ventaja en las tiradas de salvación para evitar que te envenenen y poseerás resistencia al daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]].
 
-Además, podrás invocar la runa como acción adicional para obtener resistencia al daño [[contundente]], [[perforante]] y [[cortante]] durante 1 minuto. 
+Además, podrás invocar la runa como acción adicional para obtener resistencia al daño [[Contundente]], [[Perforante]] y [[Cortante]] durante 1 minuto. 
 
 Cuando invoques esta runa, no podrás volver a hacerlo hasta que finalices un descanso corto o largo.
 

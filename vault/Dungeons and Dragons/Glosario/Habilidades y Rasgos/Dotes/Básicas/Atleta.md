@@ -8,7 +8,7 @@ aliases:
 ---
 Te has sometido a un entrenamiento físico extensivo para ganar los siguientes beneficios:
 
-• Incrementa tu puntuación de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] o [[Destreza]] en 1, hasta un máximo de 20.
+• Incrementa tu puntuación de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] o [[Destreza]] en 1, hasta un máximo de 20.
 
 • Cuando estás tumbado, levantarte sólo usa 5 pies de tu movimiento.
 

@@ -10,7 +10,7 @@ Tipo_de_Daño: "[[Perforante]]"
 Rango: (20/60)
 Propiedades:
   - "[[Arrojadiza]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Ligera]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Ligera]]"
   - "[[Sutil]]"
 Peso: 1 lb
 Precio: "200"

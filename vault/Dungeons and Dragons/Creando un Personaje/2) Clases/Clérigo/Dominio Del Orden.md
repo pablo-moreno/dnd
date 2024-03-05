@@ -25,7 +25,7 @@ Nivel de Clérigo            Conjuros
 
 
 *Competencias Adicionales*
-Obtienes competencia con armadura [[pesada]]. También adquieres competencia en la habilidad
+Obtienes competencia con armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]]. También adquieres competencia en la habilidad
 [[Intimidación]] o [[Persuasión]] (a tu elección)
 
 

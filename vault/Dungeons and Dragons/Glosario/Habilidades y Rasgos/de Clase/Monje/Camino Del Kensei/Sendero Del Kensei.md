@@ -12,7 +12,7 @@ Tu entrenamiento especial en artes marciales te lleva a dominar el uso de cierta
 
 *Armas Kensei*. Elige dos tipos de armas para que sean tus armas kensei: un arma cuerpo a cuerpo y un arma a distancia. Cada una de estas armas puede ser cualquier arma marcial o simple que carezca de propiedades pesadas y especiales. El [[arco largo]] es también una opción válida. Obtienes competencia con estas armas si aún no la tienes. Las armas de los tipos elegidos son armas de monje para ti.
 
-*Parada Ágil*. Si haces un golpe desarmado como parte de la acción de Ataque en tu turno y tienes un arma kensei, puedes usarla para defenderte si es un arma cuerpo a cuerpo. Ganas un bonificador de +2 a la CA hasta el comienzo de tu siguiente turno, mientras el arma está en tu mano y no estás [[incapacitado]].
+*Parada Ágil*. Si haces un golpe desarmado como parte de la acción de Ataque en tu turno y tienes un arma kensei, puedes usarla para defenderte si es un arma cuerpo a cuerpo. Ganas un bonificador de +2 a la CA hasta el comienzo de tu siguiente turno, mientras el arma está en tu mano y no estás [[Incapacitado]].
 
 *Tiro de Kensei*. Puedes usar una acción adicional en tu turno para hacer que tus ataques a distancia con un arma kensei sean más letales. Cuando lo haces, cualquier objetivo que golpees con un ataque a distancia usando un arma kensei recibe un daño adicional de 1d4 del tipo de arma. Conservas este beneficio hasta el final del turno actual.
 

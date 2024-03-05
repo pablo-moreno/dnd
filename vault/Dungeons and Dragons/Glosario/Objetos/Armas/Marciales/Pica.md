@@ -9,8 +9,8 @@ Dado_de_Daño: 1d10
 Tipo_de_Daño: "[[Perforante]]"
 Propiedades:
   - "[[A Dos Manos]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Alcance]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Pesada]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Alcance]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Pesada]]"
 Rango: 
 Peso: 18 lb
 Precio: "500"

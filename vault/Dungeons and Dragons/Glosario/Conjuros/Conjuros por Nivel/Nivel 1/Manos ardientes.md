@@ -22,7 +22,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Juntas las manos con los dedos extendidos y una lámina de fuego se dispara desde las puntas de tus dedos. Todas las criaturas que se encuentren en un cono de 15 pies deben hacer una [[tirada de salvación]] de [[Destreza]]. Si fallan, reciben 3d6 puntos de daño por [[fuego]] y, si tienen éxito, la mitad.
+Juntas las manos con los dedos extendidos y una lámina de fuego se dispara desde las puntas de tus dedos. Todas las criaturas que se encuentren en un cono de 15 pies deben hacer una [[Tirada de Salvación]] de [[Destreza]]. Si fallan, reciben 3d6 puntos de daño por [[Fuego]] y, si tienen éxito, la mitad.
 
 El fuego quema cualquier objeto inflamable que se encuentre dentro del área y que nadie lleve puesto ni transporte.
 

@@ -11,7 +11,7 @@ Requisito: La habilidad de lanzar al menos un conjuro.
 • Has aprendido técnicas para mejorar tus ataques con ciertas clases de conjuros, ganando los
 siguientes beneficios:
 
-• Cuando lanzas un conjuro que requiere que hagas una [[tirada de ataque]], el alcance del conjuro se dobla.
+• Cuando lanzas un conjuro que requiere que hagas una [[Tirada de Ataque]], el alcance del conjuro se dobla.
 
 • Tus conjuros a distancia ignoran que el objetivo esté medio cubierto o a tres cuartos.
 

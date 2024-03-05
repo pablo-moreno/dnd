@@ -13,7 +13,7 @@ pesada o media ni uses un escudo. Esta magia te otorga una velocidad, una agilid
 concentración sobrenaturales.
 
 Puedes usar una acción adicional para iniciar la Canción de la Hoja, que dura 1 minuto. Acaba si
-quedas [[incapacitado]], si usas una armadura [[pesada]] o [[media]] o un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], o si utilizas dos manos para hacer un ataque con un arma. También puedes hacer que la Canción de la Hoja desaparezca en cualquier momento (no requiere acción).
+quedas [[Incapacitado]], si usas una armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]] o [[Media]] o un [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]], o si utilizas dos manos para hacer un ataque con un arma. También puedes hacer que la Canción de la Hoja desaparezca en cualquier momento (no requiere acción).
 
 Mientras tu Canción de la Hoja esté activa, obtienes los siguientes beneficios:
 

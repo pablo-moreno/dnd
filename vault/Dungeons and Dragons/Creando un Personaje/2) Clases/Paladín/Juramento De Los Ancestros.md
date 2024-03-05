@@ -25,7 +25,7 @@ Cuando eliges este juramento en el nivel 3, obtienes las dos siguientes opciones
 Divinidad.
 
 *Ira de la Naturaleza*. Puedes usar tu [[Canalizar Divinidad]] para invocar fuerzas primigenias que
-paralicen al objetivo. Como una acción, puedes hacer que enredaderas espectrales crezcan y atrapen a una criatura que puedas ver y esté a 10 pies (3 metros) o menos de ti. La criatura debe superar una tirada de salvación de [[Fuerza]] o [[Destreza]] o quedará [[Apresado]].
+paralicen al objetivo. Como una acción, puedes hacer que enredaderas espectrales crezcan y atrapen a una criatura que puedas ver y esté a 10 pies (3 metros) o menos de ti. La criatura debe superar una tirada de salvación de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] o [[Destreza]] o quedará [[Apresado]].
 Mientras está apresada por las enredaderas, la criatura repite la tirada de salvación al final de cada uno de sus turnos. Si la supera se libera y las enredaderas desaparecen.
 
 *Expulsar a los Infieles*. Puedes usar tu [[Canalizar Divinidad]] para pronunciar antiguas palabras que

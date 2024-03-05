@@ -20,9 +20,9 @@ ASPECTO DEL ENJAMBRE
 
 Una vez en cada uno de tus turnos, puedes hacer que el enjambre te ayude de una de las siguientes formas justo después de impactar a una criatura con un ataque:
 
-• El objetivo del ataque recibe 1d6 de daño [[perforante]] del enjambre.
+• El objetivo del ataque recibe 1d6 de daño [[Perforante]] del enjambre.
 
-• El objetivo del ataque debe tener éxito en una [[tirada de salvación]] de [[Fuerza]] contra tu CD de
+• El objetivo del ataque debe tener éxito en una [[Tirada de Salvación]] de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] contra tu CD de
 salvación de conjuros o el enjambre lo moverá hasta 15 pies horizontalmente en la dirección de tu
 elección.
 

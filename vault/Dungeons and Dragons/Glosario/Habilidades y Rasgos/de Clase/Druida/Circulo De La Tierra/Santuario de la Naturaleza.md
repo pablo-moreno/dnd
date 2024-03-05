@@ -11,7 +11,7 @@ Mejora de Habilidad:
 Las criaturas del mundo natural sienten tu conexión con la naturaleza y se vuelven reacios a
 atacarte.
 
-Cuando un animal o una planta te ataquen deberán realizar una [[tirada de salvación]] de [[Sabiduría]]
+Cuando un animal o una planta te ataquen deberán realizar una [[Tirada de Salvación]] de [[Sabiduría]]
 contra la CD de salvación de tus conjuros. 
 En una tirada fallida la criatura deberá elegir un objetivo diferente o el ataque fallará automáticamente. 
 Si supera la salvación la criatura es inmune a este efecto durante 24 horas. La criatura es consciente de este efecto antes de que haga su ataque contra ti.

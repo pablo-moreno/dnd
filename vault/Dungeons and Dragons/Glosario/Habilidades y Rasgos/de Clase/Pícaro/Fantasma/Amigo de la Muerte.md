@@ -10,7 +10,7 @@ Mejora de Habilidad:
 ---
 Tu asociación con la muerte ha llegado a ser tan estrecha que obtienes los siguientes beneficios:
 
-• Cuando uses [[Lamentos de Ultratumba]], podrás causar daño [[necrótico]] tanto a la primera como a la segunda criatura.
+• Cuando uses [[Lamentos de Ultratumba]], podrás causar daño [[Necrótico]] tanto a la primera como a la segunda criatura.
 
 • Tras finalizar un descanso largo, en tu mano aparecerá una baratija de alma si no tienes ninguna,
 ya que atraes a los espíritus de los muertos.

@@ -8,7 +8,7 @@ aliases:
 Nivel de Clase: 6
 Mejora de Habilidad:
 ---
-Puedes invocar el rostro de tu yo astral. Como acción adicional, o como parte de la acción adicional que haces para activar los [[Brazos del Yo Astral]], puedes gastar 1 punto de [[ki]] para invocar este rostro durante 10 minutos. Se desvanece si quedas [[incapacitado]] o mueres.
+Puedes invocar el rostro de tu yo astral. Como acción adicional, o como parte de la acción adicional que haces para activar los [[Brazos del Yo Astral]], puedes gastar 1 punto de [[ki]] para invocar este rostro durante 10 minutos. Se desvanece si quedas [[Incapacitado]] o mueres.
 
 Este rostro espectral cubre tu cara como un casco o una máscara. Tú eliges su aspecto.
 Mientras tengas el rostro espectral, obtendrás los siguientes beneficios:

@@ -29,6 +29,6 @@ Creas una copia ilusoria de ti mismo que dura mientras lo hace el conjuro. La co
 
 Puedes usar tu acción para mover esta ilusión hasta el doble de tu velocidad y hacer que gesticule, hable o se comporte como elijas. Imita tus gestos a la perfección.
 
-Puedes ver a través de sus ojos y escuchar a través de sus oídos como si estuvieras en su espacio. Durante tu turno, como acción adicional, puedes pasar de usar sus sentidos a usar los tuyos, o a la inversa. Mientras estás usando sus sentidos, estás [[cegado]] y [[ensordecido]] respecto a lo que te rodea.
+Puedes ver a través de sus ojos y escuchar a través de sus oídos como si estuvieras en su espacio. Durante tu turno, como acción adicional, puedes pasar de usar sus sentidos a usar los tuyos, o a la inversa. Mientras estás usando sus sentidos, estás [[Cegado]] y [[Ensordecido]] respecto a lo que te rodea.
 
-Interactuar físicamente con la imagen revela que es una ilusión, dado que las cosas pueden atravesarla. Una criatura que use su acción para examinar la imagen puede determinar que es una ilusión si supera una prueba de [[Inteligencia]] ([[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]]) enfrentada a la CD de salvación de tu conjuro. Si lo consigue, puede ver a través de la imagen y cualquier sonido que haga le suena vacío.
+Interactuar físicamente con la imagen revela que es una ilusión, dado que las cosas pueden atravesarla. Una criatura que use su acción para examinar la imagen puede determinar que es una ilusión si supera una prueba de [[Inteligencia]] ([[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]]) enfrentada a la CD de salvación de tu conjuro. Si lo consigue, puede ver a través de la imagen y cualquier sonido que haga le suena vacío.

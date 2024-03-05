@@ -9,7 +9,7 @@ Dado_de_Daño: 1d4
 Tipo_de_Daño: "[[Contundente]]"
 Propiedades:
   - "[[Arrojadiza]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Ligera]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Ligera]]"
 Rango: (20/60)
 Peso: 2 lb
 Precio: "200"

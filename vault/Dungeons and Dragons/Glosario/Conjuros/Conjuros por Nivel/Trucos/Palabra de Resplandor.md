@@ -22,6 +22,6 @@ Clases:
 ---
 (un símbolo sagrado)
 
-Pronuncias una palabra divina, y un ardor radiante surge de ti. Cada criatura de tu elección que puedas ver dentro del alcance debe tener éxito en una [[tirada de salvación]] de [[Constitución]] o recibir 1d6 de daño [[radiante]].
+Pronuncias una palabra divina, y un ardor radiante surge de ti. Cada criatura de tu elección que puedas ver dentro del alcance debe tener éxito en una [[Tirada de Salvación]] de [[Constitución]] o recibir 1d6 de daño [[Radiante]].
 
 El daño de este conjuro aumenta en 1d6 cuando alcanzas el 5° nivel (2d6), 11° nivel (3d6), y el 17° nivel (4d6).

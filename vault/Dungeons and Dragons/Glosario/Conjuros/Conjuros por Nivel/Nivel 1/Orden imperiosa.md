@@ -21,7 +21,7 @@ Clases:
   - "[[Paladín]]"
   - "[[Clérigo]]"
 ---
-Le das una orden de una palabra a una criatura que puedas ver dentro del alcance. El objetivo debe superar una [[tirada de salvación]] de [[Sabiduría]] para no seguir la orden durante su siguiente turno. El conjuro no tiene efecto si el objetivo es un no muerto, si no entiende tu idioma o si tu orden es directamente dañina para él.
+Le das una orden de una palabra a una criatura que puedas ver dentro del alcance. El objetivo debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no seguir la orden durante su siguiente turno. El conjuro no tiene efecto si el objetivo es un no muerto, si no entiende tu idioma o si tu orden es directamente dañina para él.
 
 A continuación tienes algunas órdenes comunes y sus efectos. Puedes dar una orden diferente a las que aparecen aquí, en cuyo caso el director de juego determina el comportamiento del objetivo. Si el objetivo no puede seguir tu orden, el conjuro termina.
 

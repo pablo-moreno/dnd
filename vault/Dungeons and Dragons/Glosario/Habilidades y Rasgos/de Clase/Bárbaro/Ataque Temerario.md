@@ -9,4 +9,4 @@ Nivel de Clase: 2
 Mejora de Habilidad:
 ---
 Puedes dejar a un lado tu defensa para atacar con feroz desesperación. Cuando hagas tu primer
-ataque en tu turno, puedes decidir atacar de forma temeraria. Hacerlo te da ventaja en un ataque de armas cuerpo a cuerpo que use [[Fuerza]] durante este turno, pero los ataques contra ti tienen ventaja hasta el siguiente turno.
+ataque en tu turno, puedes decidir atacar de forma temeraria. Hacerlo te da ventaja en un ataque de armas cuerpo a cuerpo que use [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] durante este turno, pero los ataques contra ti tienen ventaja hasta el siguiente turno.

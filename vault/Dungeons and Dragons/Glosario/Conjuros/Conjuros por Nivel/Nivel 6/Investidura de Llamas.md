@@ -28,8 +28,8 @@ Clases:
 ---
 Las llamas corren a través de su cuerpo, arrojando luz brillante en un radio de 30 pies y luz tenue a 30 pies adicionales por la duración del conjuro. Las llamas no te hacen daño. Hasta que el conjuro termine, ganas los siguientes beneficios:
 
-Eres inmune al daño por [[fuego]] y tienes resistencia al daño por [[frío]].
+Eres inmune al daño por [[Fuego]] y tienes resistencia al daño por [[Frío]].
 
 Cualquier criatura que se mueva en un radio de 5 pies de ti por primera vez en un turno o termine su turno allí recibe 1d10 de daño de fuego.
 
-Puedes usar tu acción para crear una línea de fuego de 15 pies de largo y 5 pies de ancho que se extiende desde ti en la dirección que elijas. Cada criatura en la línea debe hacer una [[tirada de salvación]] de [[Destreza]]. Una criatura recibe 4d8 de daño de fuego en una salvación fallida, o la mitad de daño en una exitosa.
+Puedes usar tu acción para crear una línea de fuego de 15 pies de largo y 5 pies de ancho que se extiende desde ti en la dirección que elijas. Cada criatura en la línea debe hacer una [[Tirada de Salvación]] de [[Destreza]]. Una criatura recibe 4d8 de daño de fuego en una salvación fallida, o la mitad de daño en una exitosa.

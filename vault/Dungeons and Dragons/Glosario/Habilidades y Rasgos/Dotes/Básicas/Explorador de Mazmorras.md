@@ -9,7 +9,7 @@ aliases:
 Estás alerta ante las trampas ocultas y las puertas secretas localizadas en muchas mazmorras, y
 ganas los siguientes beneficios:
 
-• Tienes ventaja en las tiradas de [[sabiduría]] ([[percepción]]) e [[inteligencia]] ([[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]]) para detectar la presencia de puertas ocultas.
+• Tienes ventaja en las tiradas de [[Sabiduría]] ([[Percepción]]) e [[Inteligencia]] ([[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]]) para detectar la presencia de puertas ocultas.
 
 • Tienes ventaja en las tiradas de salvación para evitar o resistir trampas.
 

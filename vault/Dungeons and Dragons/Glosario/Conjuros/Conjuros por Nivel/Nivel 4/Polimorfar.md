@@ -29,7 +29,7 @@ Clases:
 ---
 (un capullo de oruga)
 
-Este conjuro transforma a una criatura que puedas ver dentro del alcance en una nueva forma. Una criatura involuntaria debe superar una [[tirada de salvación]] de [[Sabiduría]] para evitar el efecto. El conjuro no tiene efecto en los cambiaformas o en criaturas con 0 [[puntos de golpe]].
+Este conjuro transforma a una criatura que puedas ver dentro del alcance en una nueva forma. Una criatura involuntaria debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para evitar el efecto. El conjuro no tiene efecto en los cambiaformas o en criaturas con 0 [[Puntos de Golpe]].
 
 La transformación dura mientras lo haga el conjuro, hasta que los puntos de golpe del objetivo se reduzcan a 0 o hasta que muera. La nueva forma puede ser cualquier bestia cuyo valor de desafío sea igual o menor que el del objetivo (o que su nivel si no tiene valor de desafío). Las estadísticas de juego del objetivo, incluyendo las puntuaciones de las características mentales, se remplazan por las estadísticas de la bestia elegida, aunque mantiene su alineamiento y su personalidad.
 

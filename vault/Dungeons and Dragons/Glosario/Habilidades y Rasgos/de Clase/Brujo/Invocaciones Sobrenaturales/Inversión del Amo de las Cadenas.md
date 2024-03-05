@@ -16,7 +16,7 @@ Cuando lanzas [[Encontrar familiar]], imbuyes al familiar invocado de una cierta
 
 • Los ataques con arma del familiar se consideran mágicos en lo que respecta a ignorar la inmunidad y la resistencia a ataques no mágicos.
 
-• Si el familiar obliga a una criatura a realizar una [[tirada de salvación]], esta utiliza tu CD de salvación de conjuros.
+• Si el familiar obliga a una criatura a realizar una [[Tirada de Salvación]], esta utiliza tu CD de salvación de conjuros.
 
 • Cuando el familiar recibe daño, puedes usar tu reacción para otorgarle resistencia contra ese daño.
 

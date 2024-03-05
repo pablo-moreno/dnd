@@ -19,11 +19,11 @@ Competencia + tu modificador por [[Constitución]].
 
 2. Te teletransportas un máximo de 30 pies hasta un espacio sin ocupar que puedas ver. Hasta que finalice tu [[furia]], podrás volver a usar este efecto en cada uno de tus turnos como acción adicional.
 
-3. Un espíritu intangible, con aspecto de flumph o pixie (a tu elección), aparece a 5 pies o menos de una criatura de tu elección que puedas ver a 30 pies o menos de ti. Al final de ese turno, el espíritu explota y cada criatura que este a 5 pies o menos de el deberá tener éxito en una [[Tirada de Salvación]] de [[Destreza]] o recibirá 1d6 de daño de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza|Fuerza]]. Hasta que finalice tu furia, podrás volver a usar este efecto e invocar a otro espiritu en cada uno de tus turnos como acción adicional.
+3. Un espíritu intangible, con aspecto de flumph o pixie (a tu elección), aparece a 5 pies o menos de una criatura de tu elección que puedas ver a 30 pies o menos de ti. Al final de ese turno, el espíritu explota y cada criatura que este a 5 pies o menos de el deberá tener éxito en una [[Tirada de Salvación]] de [[Destreza]] o recibirá 1d6 de daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza|Fuerza]]. Hasta que finalice tu furia, podrás volver a usar este efecto e invocar a otro espiritu en cada uno de tus turnos como acción adicional.
 
-4. La magia imbuye un arma de tu elección que sostengas. Hasta que finalice tu furia,  el tipo de daño del arma cambiara a [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza|Fuerza]] y tendrá las propiedades "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Ligera|Ligera]]" y "[[Arrojadiza]]", con un alcance largo de 60. Si el arma abandona tu mano, volverá a aparecer en ella al final de tu turno.
+4. La magia imbuye un arma de tu elección que sostengas. Hasta que finalice tu furia,  el tipo de daño del arma cambiara a [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza|Fuerza]] y tendrá las propiedades "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Ligera|Ligera]]" y "[[Arrojadiza]]", con un alcance largo de 60. Si el arma abandona tu mano, volverá a aparecer en ella al final de tu turno.
 
-5. Cuando una criatura te impacte con una [[Tirada de Ataque]] antes de que finalice tu furia, recibirá 1d6 de daño de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza|Fuerza]], ya que la magia lo atacara como castigo.
+5. Cuando una criatura te impacte con una [[Tirada de Ataque]] antes de que finalice tu furia, recibirá 1d6 de daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza|Fuerza]], ya que la magia lo atacara como castigo.
 
 6. Hasta que finalice tu furia, estará rodeado de luces protectoras de varios colores. Obtienes un bonificador de +1 a la CA y tus aliados obtendrán lo mismo mientras estén a 10 pies o menos de ti.
 

@@ -25,4 +25,4 @@ Clases:
 
 Unas tenues llamas envuelven tu cuerpo mientras dura el conjuro, emitiendo luz brillante en un radio de 10 pies y luz tenue en 10 pies adicionales. Puedes terminar el conjuro antes usando una acción para disiparlo.
 
-Las llamas te proporcionan un escudo cálido o un escudo gélido, según elijas. El escudo cálido te proporciona resistencia al daño por [[frío]] y el gélido, al daño por [[fuego]]. Además, cuando una criatura que se encuentre a 5 pies o menos de ti te impacta con un ataque cuerpo a cuerpo, el escudo lanza llamas. El atacante recibe 2d8 puntos de daño por fuego del escudo cálido o 2d8 de daño por frío del escudo gélido.
+Las llamas te proporcionan un escudo cálido o un escudo gélido, según elijas. El escudo cálido te proporciona resistencia al daño por [[Frío]] y el gélido, al daño por [[Fuego]]. Además, cuando una criatura que se encuentre a 5 pies o menos de ti te impacta con un ataque cuerpo a cuerpo, el escudo lanza llamas. El atacante recibe 2d8 puntos de daño por fuego del escudo cálido o 2d8 de daño por frío del escudo gélido.

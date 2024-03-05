@@ -23,7 +23,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Mago]]"
 ---
-Con un conjuro oscuro, convocas a un diablo de los Nueve Infiernos. Eliges el tipo del diablo, que debe ser uno de nivel de desafío 6 o inferior, como un diablo punzante o un diablo barbado. El diablo aparece en un espacio desocupado que puedes ver dentro del alcance. El diablo desaparece cuando cae a 0 [[puntos de golpe]] o cuando termina el conjuro.
+Con un conjuro oscuro, convocas a un diablo de los Nueve Infiernos. Eliges el tipo del diablo, que debe ser uno de nivel de desafío 6 o inferior, como un diablo punzante o un diablo barbado. El diablo aparece en un espacio desocupado que puedes ver dentro del alcance. El diablo desaparece cuando cae a 0 [[Puntos de Golpe]] o cuando termina el conjuro.
 
 El diablo es hostil hacia ti y tus compañeros. Tira iniciativa para el diablo, que tiene sus propios turnos. Está bajo el control del Dungeon Master y actúa de acuerdo con su naturaleza en cada uno de sus turnos, lo que podría resultar en su ataque si cree que puede prevalecer, o intentar tentarte a emprender un acto malvado a cambio de un servicio limitado. El DM tiene las estadísticas de la criatura. En cada uno de tus turnos, puedes intentar emitir un comando verbal al diablo (no es necesaria una acción).
 

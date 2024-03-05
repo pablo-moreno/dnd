@@ -27,4 +27,4 @@ Clases:
 
 Después de dedicar el tiempo de lanzamiento a trazar senderos mágicos en una piedra preciosa, tocas a una bestia o planta de tamaño Enorme o menor. El objetivo debe tener una puntuación de [[Inteligencia]] de 3 o menos o directamente no tener Inteligencia. El objetivo consigue Inteligencia 10 y la capacidad de hablar un idioma que conozcas. Si el objetivo es una planta, consigue la capacidad de mover sus ramas, raíces, vides, enredaderas, etcétera, y recibe sentidos similares a los humanos. El director de juego elige las estadísticas apropiadas para la enredadera o el árbol consciente.
 
-La bestia o planta consciente está hechizada durante 30 días o hasta que tú o tus compañeros hagáis algo para dañarla. Cuando termine el estado [[hechizado]], la criatura consciente elige si sigue siendo amistosa hacia ti, de acuerdo a cómo la hayas tratado mientras estaba encantada.
+La bestia o planta consciente está hechizada durante 30 días o hasta que tú o tus compañeros hagáis algo para dañarla. Cuando termine el estado [[Hechizado]], la criatura consciente elige si sigue siendo amistosa hacia ti, de acuerdo a cómo la hayas tratado mientras estaba encantada.

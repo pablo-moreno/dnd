@@ -27,7 +27,7 @@ Clases:
   - "[[Mago]]"
   - "[[Artífice]]"
 ---
-Hasta que acabe el conjuro, tú o una criatura voluntaria que puedas ver dentro del alcance obtiene resistencia al daño [[psíquico]] y ventaja en las [[tirada de salvación]] de [[Inteligencia]], [[Sabiduría]] y [[Carisma]].
+Hasta que acabe el conjuro, tú o una criatura voluntaria que puedas ver dentro del alcance obtiene resistencia al daño [[Psíquico]] y ventaja en las [[Tirada de Salvación]] de [[Inteligencia]], [[Sabiduría]] y [[Carisma]].
 
 *A niveles superiores*. Cuando lanzas este conjuro mediante un espacio de conjuro de nivel 4 o superior, puedes elegir como objetivo a una criatura adicional por cada nivel por encima de 3 que tenga el espacio que hayas empleado.
 

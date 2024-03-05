@@ -23,7 +23,7 @@ Nivel de clérigo          Conjuros
       9                        [[circulo de poder]], [[Engañar|Engañar]]
 
 *Competencias Adicionales*
-Ganas competencia con armas marciales y armadura [[pesada]].
+Ganas competencia con armas marciales y armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]].
 
 
 Habilidades: [[Ojos Nocturnos]], [[Bendición Vigilante]], [[Canalizar Divinidad, Santuario del Crepúsculo]], [[Pasos Nocturnos]], [[Golpe Divino (C)]], [[Velo Crepuscular]].

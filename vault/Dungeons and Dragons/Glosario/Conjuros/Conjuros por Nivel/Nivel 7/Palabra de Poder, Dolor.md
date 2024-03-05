@@ -25,7 +25,7 @@ Clases:
 ---
 Dices una palabra de poder que hace que oleadas de intenso dolor asalten a una criatura que puedes ver dentro del alcance. Si el objetivo tiene 100 puntos de golpe o menos, está sujeto a un dolor paralizante. De lo contrario, el conjuro no tiene efecto sobre él. Un objetivo tampoco se ve afectado si es inmune a ser [[Hechizado]].
 
-Mientras el objetivo se ve afectado por el dolor paralizante, cualquier velocidad que tenga no puede ser superior a 10 pies. El objetivo también tiene desventaja en [[tiradas de ataque]], pruebas de habilidad y [[tiradas de salvación]], exceptuando tiradas de salvación de [[Constitución]].
+Mientras el objetivo se ve afectado por el dolor paralizante, cualquier velocidad que tenga no puede ser superior a 10 pies. El objetivo también tiene desventaja en [[Tiradas de Ataque]], pruebas de habilidad y [[Tiradas de Salvación]], exceptuando tiradas de salvación de [[Constitución]].
 Finalmente, si el objetivo intenta lanzar un conjuro, primero debe tener éxito en una tirada de salvación de Constitución, o el lanzamiento falla y el conjuro se desperdicia.
 
 Un objetivo que sufre este dolor puede hacer una tirada de salvación de Constitución al final de cada uno de sus turnos. En una salvada exitosa, el dolor termina.

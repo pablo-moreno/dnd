@@ -11,8 +11,8 @@ Mejora de Habilidad:
 Ganas un beneficio mágico basado en el tótem animal de tu elección. Puedes elegir el mismo animal que elegiste previamente o uno distinto.
 
 *Oso*. Mientras estás en [[furia]], las criaturas a 5 pies (1,5 metros) de ti que te sean hostiles tienen
-desventaja en las [[tirada de ataque]] contra cualquier otro que no seas tú u otro personaje con este
-rasgo. Un enemigo es inmune a este efecto si no puede verte u oírte, o si no puede ser [[asustado]].
+desventaja en las [[Tirada de Ataque]] contra cualquier otro que no seas tú u otro personaje con este
+rasgo. Un enemigo es inmune a este efecto si no puede verte u oírte, o si no puede ser [[Asustado]].
 
 *Águila*. Mientras estás en [[furia]], tienes una velocidad de vuelo igual a tu velocidad de movimiento
 actual. Este beneficio sólo funciona en breves intervalos de tiempo; caes si terminas tu turno en el

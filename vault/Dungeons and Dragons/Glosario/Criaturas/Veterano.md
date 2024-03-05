@@ -12,14 +12,14 @@ aliases:
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Fuerza]] | 16 | 3 | `dice: 1d20 + 3` |
+| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 16 | 3 | `dice: 1d20 + 3` |
 | [[Destreza]] | 13 | 1 | `dice: 1d20 + 1` |
 | [[Constitución]] | 14 | 2 | `dice: 1d20 + 2` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Sabiduría]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 10 | 0 | `dice: 1d20 + 0` |
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 17
-[[Puntos de golpe]]: 58 (`dice: 9d8+18`)
+[[Puntos de Golpe]]: 58 (`dice: 9d8+18`)
 [[Velocidad]]: 30
 ## Habilidades
 | Habilidad | Bonificador |

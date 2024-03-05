@@ -15,5 +15,5 @@ El objetivo deberá tener éxito en una tirada de salvación de Sabiduría (CD i
 • El objetivo debe usar su reacción para realizar un ataque cuerpo a cuerpo contra otra criatura de
 tu elección que puedas ver.
 
-• El objetivo recibe 2dl2 de daño [[psíquico]]. Puedes usar este rasgo una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo.
+• El objetivo recibe 2dl2 de daño [[Psíquico]]. Puedes usar este rasgo una cantidad de veces igual a tu bonificador por competencia y recuperas todos los usos tras finalizar un descanso largo.
 

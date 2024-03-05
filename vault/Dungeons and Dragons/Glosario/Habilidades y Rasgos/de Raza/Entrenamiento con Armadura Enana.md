@@ -6,4 +6,4 @@ tags:
   - type/note
 aliases:
 ---
-Tienes competencia con las armaduras [[ligera]] y [[media]].
+Tienes competencia con las armaduras [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]] y [[Media]].

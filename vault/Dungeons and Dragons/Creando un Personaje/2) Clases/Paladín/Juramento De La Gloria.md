@@ -25,7 +25,7 @@ Nivel de Paladín             Conjuros
 Obtienes las siguientes dos opciones de Canalizar Divinidad. Consulta el rasgo de clase juramento
 Sagrado para saber cómo funciona Canalizar Divinidad.
 
-*Atleta sin Parangón*. Como acción adicional, puedes usar tu rasgo [[Canalizar Divinidad]] para potenciar tus capacidades atléticas. Durante los siguientes 10 minutos, tendrás ventaja en las pruebas de [[Fuerza]] ([[Atletismo]]) y [[Destreza]] ([[Acrobacias]]), podrás cargar, empujar, arrastrar y levantar el doble de peso de lo normal y la distancia de tus saltos de longitud y de altura aumentará en 10 pies (para esta distancia adicional, tendrás que gastar movimiento del modo habitual).
+*Atleta sin Parangón*. Como acción adicional, puedes usar tu rasgo [[Canalizar Divinidad]] para potenciar tus capacidades atléticas. Durante los siguientes 10 minutos, tendrás ventaja en las pruebas de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] ([[Atletismo]]) y [[Destreza]] ([[Acrobacias]]), podrás cargar, empujar, arrastrar y levantar el doble de peso de lo normal y la distancia de tus saltos de longitud y de altura aumentará en 10 pies (para esta distancia adicional, tendrás que gastar movimiento del modo habitual).
 
 *Castigo Inspirador*. justo después de infligir daño a una criatura con tu rasgo [[Castigo Divino]], puedes usar [[Canalizar Divinidad]] como acción adicional y distribuir puntos de golpe temporales entre las criaturas de tu elección (que puede incluirte a ti) que se encuentren a 30 pies o menos de ti. La cantidad total de puntos de golpe temporales es igual a 2d8 + tu nivel en esta clase, repartidos como tú quieras entre las criaturas elegidas.
 

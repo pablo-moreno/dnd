@@ -16,7 +16,7 @@ Conoces tres trucos de tu elección de la lista de conjuros del mago. Aprenderá
 Tienes un [[libro de conjuros]] que contiene seis conjuros de tu elección de nivel 1 de la [[lista de conjuros de mago]].
 
 *Preparando y Lanzando Conjuros*
-La tabla Mago muestra cuántos [[espacios de conjuros]] tienes para lanzar conjuros de nivel 1 o
+La tabla Mago muestra cuántos [[Espacios de Conjuros]] tienes para lanzar conjuros de nivel 1 o
 superior. Para lanzar uno de estos conjuros, debes gastar un espacio de conjuro de nivel igual o
 superior. Recuperas todos tus espacios de conjuros cuando finalizas un descanso prolongado.
 Preparas la lista de conjuros que estarán disponibles para ser lanzados. 

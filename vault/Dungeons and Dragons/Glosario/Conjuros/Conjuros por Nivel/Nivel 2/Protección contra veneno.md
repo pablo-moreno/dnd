@@ -30,4 +30,4 @@ Clases:
 ---
 Tocas a una criatura. Si está envenenada, neutralizas el veneno. Si más de un veneno aflige al objetivo, neutralizas un veneno que sabes que está presente o uno al azar.
 
-Mientras dura el conjuro, el objetivo tiene ventaja en las [[tiradas de salvación]] que haga contra ser [[envenenado]] y tiene resistencia al daño por [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]].
+Mientras dura el conjuro, el objetivo tiene ventaja en las [[Tiradas de Salvación]] que haga contra ser [[Envenenado]] y tiene resistencia al daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]].

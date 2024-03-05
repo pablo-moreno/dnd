@@ -12,6 +12,6 @@ Has practicado técnicas útiles en combate cuerpo a cuerpo contra lanzadores de
 para hacer un ataque cuerpo a cuerpo contra esa criatura.
 
 • Cuando dañas a una criatura que se está concentrando en un conjuro, esa criatura tiene
-desventaja haciendo la [[tirada de salvación]] que necesita para mantener la concentración.
+desventaja haciendo la [[Tirada de Salvación]] que necesita para mantener la concentración.
 
 • Tienes ventaja en tiradas de salvación contra hechizos lanzados por criaturas a cinco pies de ti

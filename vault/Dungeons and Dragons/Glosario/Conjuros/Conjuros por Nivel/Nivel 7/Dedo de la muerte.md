@@ -24,6 +24,6 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Envías energía negativa a una criatura que puedas ver dentro del alcance, lo que le provoca un dolor agudo. El objetivo debe realizar una [[tirada de salvación]] de [[Constitución]]. Si falla, recibe 7d8+30 puntos de daño [[necrótico]] y, si tiene éxito, la mitad.
+Envías energía negativa a una criatura que puedas ver dentro del alcance, lo que le provoca un dolor agudo. El objetivo debe realizar una [[Tirada de Salvación]] de [[Constitución]]. Si falla, recibe 7d8+30 puntos de daño [[Necrótico]] y, si tiene éxito, la mitad.
 
 Un humanoide que muera a causa de este conjuro se levanta al principio de tu siguiente turno como un zombi que está bajo tu control de manera permanente y sigue tus órdenes verbales lo mejor que puede.

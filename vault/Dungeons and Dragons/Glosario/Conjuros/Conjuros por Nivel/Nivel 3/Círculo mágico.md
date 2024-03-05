@@ -33,11 +33,11 @@ Creas un cilindro de energía mágica de 10 pies de radio y 20 pies de altura cu
 
 Elige uno o más de los siguientes tipos de criaturas: celestiales, elementales, fatas, infernales y no muertos. El círculo afecta a una criatura del tipo elegido de los siguientes modos:
 
-- La criatura no puede entrar en el cilindro voluntariamente por medios no mágicos. Si la criatura intenta usar el teletransporte o el viaje intraplanar para hacerlo, primero debe superar una [[tirada de salvación]] de [[Carisma]].
+- La criatura no puede entrar en el cilindro voluntariamente por medios no mágicos. Si la criatura intenta usar el teletransporte o el viaje intraplanar para hacerlo, primero debe superar una [[Tirada de Salvación]] de [[Carisma]].
 - 
-- La criatura tiene desventaja en las [[tiradas de ataque]] contra objetivos que se encuentren dentro del cilindro.
+- La criatura tiene desventaja en las [[Tiradas de Ataque]] contra objetivos que se encuentren dentro del cilindro.
 - 
-- Los objetivos que se encuentran dentro del cilindro no pueden quedar [[hechizado]], [[asustado]] o poseídos por la criatura.
+- Los objetivos que se encuentran dentro del cilindro no pueden quedar [[Hechizado]], [[Asustado]] o poseídos por la criatura.
 
 Cuando lanzas este conjuro, puedes decidir que su magia opere en el sentido inverso: evitando que una criatura de un tipo específico deje el cilindro y protegiendo a los objetivos que se encuentran fuera.
 

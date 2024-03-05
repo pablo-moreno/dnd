@@ -6,11 +6,11 @@ tags:
   - type/note
 aliases:
 ---
-Requisito: Competencia con armadura [[ligera]].
+Requisito: Competencia con armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]].
 
-Has entrenado para dominar el uso de armadura [[media]] y [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]], ganando los siguientes
+Has entrenado para dominar el uso de armadura [[Media]] y [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]], ganando los siguientes
 beneficios:
 
-• Incrementa tu puntuación de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] o [[Destreza]] en 1, hasta un máximo de 20.
+• Incrementa tu puntuación de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] o [[Destreza]] en 1, hasta un máximo de 20.
 
-• Ganas competencia con armadura [[media]] y [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]]
+• Ganas competencia con armadura [[Media]] y [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]]

@@ -19,4 +19,4 @@ Concentración: true
 Clases:
   - "[[Paladín]]"
 ---
-Irradias un poder sagrado en un aura de 30 pies (6 casillas, 9 m) de radio, volviendo más audaces a las criaturas amigas. Hasta que finalice el conjuro, el aura se mueve contigo, centrada en ti. Mientras se encuentre dentro del aura, cada criatura no hostil (incluido tú) que impacte con un ataque armado causa un daño extra de 1d4 puntos de daño [[radiante]].
+Irradias un poder sagrado en un aura de 30 pies (6 casillas, 9 m) de radio, volviendo más audaces a las criaturas amigas. Hasta que finalice el conjuro, el aura se mueve contigo, centrada en ti. Mientras se encuentre dentro del aura, cada criatura no hostil (incluido tú) que impacte con un ataque armado causa un daño extra de 1d4 puntos de daño [[Radiante]].

@@ -29,7 +29,7 @@ Clases:
 
 Este conjuro crea una fuerza invisible, inconsciente e informe que realiza tareas simples bajo tus órdenes hasta que el conjuro termine. 
 
-El sirviente aparece en un lugar sin ocupar en el suelo dentro del alcance. Tiene CA 10, 1 punto de golpe y [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] 2, y no puede atacar. Si sus [[puntos de golpe]] se reducen a 0, el conjuro termina.
+El sirviente aparece en un lugar sin ocupar en el suelo dentro del alcance. Tiene CA 10, 1 punto de golpe y [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] 2, y no puede atacar. Si sus [[Puntos de Golpe]] se reducen a 0, el conjuro termina.
 
 Una vez en cada uno de tus turnos, como acción adicional, puedes darle órdenes mentalmente para que se mueva hasta 15 pies e interactúe con un objeto. El sirviente puede realizar una tarea simple que un sirviente humano podría hacer, como coger cosas, limpiar, remendar, doblar ropa, encender fuego y servir comida y vino. Una vez le das una orden, el sirviente realiza la tarea lo mejor que puede hasta que la completa. Luego espera tu siguiente orden.
 

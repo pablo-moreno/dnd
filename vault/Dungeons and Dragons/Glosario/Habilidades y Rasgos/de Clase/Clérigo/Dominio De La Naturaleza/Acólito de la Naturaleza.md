@@ -12,5 +12,5 @@ Aprendes un truco de druida de tu elección. También ganas competencia en una d
 habilidades, a tu elección: [[Trato con Animales]], [[Naturaleza]], o [[Supervivencia]].
 
 *Competencia Adicional*
-Obtienes competencia con armadura [[pesada]].
+Obtienes competencia con armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]].
 

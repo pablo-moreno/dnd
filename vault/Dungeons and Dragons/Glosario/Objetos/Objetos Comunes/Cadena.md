@@ -12,4 +12,4 @@ int_precio: 500
 ---
 (10 pies)
 
-Una cadena cuenta con 10 Puntos de Golpe. Se puede romper con una prueba exitosa de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] CD 20
+Una cadena cuenta con 10 Puntos de Golpe. Se puede romper con una prueba exitosa de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] CD 20

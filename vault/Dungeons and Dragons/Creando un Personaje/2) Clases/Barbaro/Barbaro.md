@@ -16,10 +16,10 @@ bárbaro después del primer nivel.
 
 
 *Competencias*
-Armadura: armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]].
+Armadura: armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]].
 Armas: armas simples, armas marciales.
 Herramientas: ninguna.
-Tiradas de Salvación: [[Fuerza]], [[Constitución]].
+Tiradas de Salvación: [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]], [[Constitución]].
 Habilidades: escoge dos de entre [[Atletismo]], [[Intimidación]], [[Naturaleza]], [[Percepción]], [[Supervivencia]] y
 [[Trato con Animales]].
 

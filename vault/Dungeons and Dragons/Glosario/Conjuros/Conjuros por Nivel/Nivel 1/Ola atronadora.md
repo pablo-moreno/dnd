@@ -26,7 +26,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Una ola de una fuerza atronadora surge de ti. Cada criatura que se encuentre en un cubo de 15 pies adyacente a ti debe hacer una [[tirada de salvación]] de [[Constitución]]. Si falla, recibe 2d8 puntos de daño por [[trueno]] y es empujada lejos de ti a 10 pies. Si tiene éxito, recibe la mitad del daño y no es empujada.
+Una ola de una fuerza atronadora surge de ti. Cada criatura que se encuentre en un cubo de 15 pies adyacente a ti debe hacer una [[Tirada de Salvación]] de [[Constitución]]. Si falla, recibe 2d8 puntos de daño por [[Trueno]] y es empujada lejos de ti a 10 pies. Si tiene éxito, recibe la mitad del daño y no es empujada.
 
 Además, los objetos que no estén sujetos y que se encuentren completamente dentro del área son alejados de ti 10 pies debido al efecto del conjuro, y el conjuro emite un bum atronador que se oye a una distancia de 300 pies.
 

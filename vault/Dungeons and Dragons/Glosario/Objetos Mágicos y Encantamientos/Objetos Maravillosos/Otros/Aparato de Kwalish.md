@@ -8,7 +8,7 @@ aliases:
 Rareza: legendario
 Sintonía:
 ---
-Este objeto aparenta ser un gran barril de hierro sellado grande de 500 libras de peso. El barril tiene un pestillo oculto, el cual puede ser encontrado con una prueba con éxito de [[inteligencia]] ([[investigación]]) CD 20. Abrir el pestillo, abre una escotilla en un extremo del barril, permitiendo alojar dentro hasta dos criaturas medias o pequeñas. Diez palancas están colocadas en fila en el lado mas alejado, cada una en una posición neutral, con capacidad para moverse hacia arriba o hacia abajo. Cuando ciertas palancas son usadas, el aparato se transforma en una langosta gigante.
+Este objeto aparenta ser un gran barril de hierro sellado grande de 500 libras de peso. El barril tiene un pestillo oculto, el cual puede ser encontrado con una prueba con éxito de [[Inteligencia]] ([[Dungeons and Dragons/Reglas/3) Entorno/Actividades/Xanathar/Investigación]]) CD 20. Abrir el pestillo, abre una escotilla en un extremo del barril, permitiendo alojar dentro hasta dos criaturas medias o pequeñas. Diez palancas están colocadas en fila en el lado mas alejado, cada una en una posición neutral, con capacidad para moverse hacia arriba o hacia abajo. Cuando ciertas palancas son usadas, el aparato se transforma en una langosta gigante.
 
 El aparato de Kwalish es un objeto Grande con las siguientes estadísticas:
 Clase de Armadura: 20

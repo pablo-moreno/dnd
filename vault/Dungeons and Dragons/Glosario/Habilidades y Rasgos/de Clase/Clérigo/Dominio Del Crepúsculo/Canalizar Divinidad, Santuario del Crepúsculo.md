@@ -12,11 +12,11 @@ Puedes usar tu rasgo [[Golpe Divino o Lanzamiento Potente [[Dungeons and Dragons
 Como acción, muestras tu símbolo sagrado y de ti emana una esfera crepuscular. La esfera está
 centrada en ti, tiene un radio de 30 pies y brilla con luz tenue.
 
-La esfera se mueve a la vez que tú y dura 1 minuto o hasta que quedes [[incapacitado]] o mueras.
+La esfera se mueve a la vez que tú y dura 1 minuto o hasta que quedes [[Incapacitado]] o mueras.
 Siempre que una criatura (incluyéndote a ti) termine su turno en la esfera, puedes otorgarle uno de
 estos beneficios:
 
-• Le concedes una cantidad [[puntos de golpe]] temporales igual a 1d6 más tu nivel de clérigo.
+• Le concedes una cantidad [[Puntos de Golpe]] temporales igual a 1d6 más tu nivel de clérigo.
 
-• Acabas con un efecto que hace que esté [[hechizado]] o [[asustado]].
+• Acabas con un efecto que hace que esté [[Hechizado]] o [[Asustado]].
 

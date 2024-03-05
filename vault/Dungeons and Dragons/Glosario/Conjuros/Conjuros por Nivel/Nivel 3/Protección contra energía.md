@@ -30,4 +30,4 @@ Clases:
   - "[[Mago]]"
   - "[[Artífice]]"
 ---
-Mientras dura el conjuro, una criatura voluntaria a la que tocas tiene resistencia al tipo de daño que elijas: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[frío]], [[fuego]], [[relámpago]] o [[trueno]].
+Mientras dura el conjuro, una criatura voluntaria a la que tocas tiene resistencia al tipo de daño que elijas: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[Frío]], [[Fuego]], [[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 3/Relámpago]] o [[Trueno]].

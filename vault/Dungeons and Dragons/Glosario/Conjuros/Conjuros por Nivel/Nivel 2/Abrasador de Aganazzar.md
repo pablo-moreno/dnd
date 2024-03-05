@@ -25,8 +25,8 @@ Clases:
 ---
 (una escama de dragón rojo)
 
-Una línea de llamas rugientes de 30 pies de largo y 5 pies de ancho emana de ti en la dirección que elijas. Cada criatura en la línea debe hacer una [[tirada de salvación]] de [[Destreza]].
-Una criatura recibe 3d8 de daño de [[fuego]] en una salvación fallida, o la mitad de daño en una exitosa.
+Una línea de llamas rugientes de 30 pies de largo y 5 pies de ancho emana de ti en la dirección que elijas. Cada criatura en la línea debe hacer una [[Tirada de Salvación]] de [[Destreza]].
+Una criatura recibe 3d8 de daño de [[Fuego]] en una salvación fallida, o la mitad de daño en una exitosa.
 
 A niveles superiores. Cuando lances este conjuro usando una ranura de conjuro de 2° nivel o
 superior, el daño aumenta por 1d8 por cada nivel de ranura por encima de 2°.

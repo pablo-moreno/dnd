@@ -6,7 +6,7 @@ tags:
   - type/note
 aliases:
 ---
-Usas la magia de transmutación para darle a tu flecha una calidad etérea. Cuando usas esta opción, no haces una [[tirada de ataque]] para el ataque. En cambio, la flecha dispara hacia
+Usas la magia de transmutación para darle a tu flecha una calidad etérea. Cuando usas esta opción, no haces una [[Tirada de Ataque]] para el ataque. En cambio, la flecha dispara hacia
 adelante en una línea, que mide 1 pie de ancho y 30 pies de largo, antes de desaparecer. La flecha
 pasa inofensivamente a través de los objetos, ignorando la cubierta.
 

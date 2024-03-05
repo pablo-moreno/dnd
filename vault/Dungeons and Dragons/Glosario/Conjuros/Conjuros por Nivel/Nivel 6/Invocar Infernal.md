@@ -28,7 +28,7 @@ Clases:
 Invocas un [[Espíritu infernal]] que se manifiesta en un espacio sin ocupar que puedas ver dentro del
 alcance. Esta forma corpórea usa el perfil del espíritu infernal. Cuando lances el conjuro, elige
 demonio, diablo o yugoloth. La criatura se asemejará a un infernal de ese tipo, lo que determinará
-ciertos atributos de su perfil. La criatura desaparecerá si sus [[puntos de golpe]] se reducen a 0 o si el conjuro termina.
+ciertos atributos de su perfil. La criatura desaparecerá si sus [[Puntos de Golpe]] se reducen a 0 o si el conjuro termina.
 
 La criatura se considera un aliado para ti y para tus compañeros. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo. Obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, hace la acción de [[Esquivar]] y usa su movimiento para evitar el peligro.
 

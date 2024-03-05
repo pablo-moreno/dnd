@@ -13,7 +13,7 @@ Eres rápido y preciso con las armas de fuego, lo que te otorga los siguientes b
 • Obtienes competencia con armas de fuego (consulta la sección "Armas de fuego" en la Dungeon
 Master's Cuide).
 
-• Ignoras la propiedad "[[cargar]]" de las armas de fuego.
+• Ignoras la propiedad "[[Dungeons and Dragons/Glosario/Habilidades y Rasgos/Dotes/Básicas/Cargar]]" de las armas de fuego.
 
 • Estar a 5 pies o menos de una criatura hostil no provoca desventaja en tus tiradas de ataque a
 distancia

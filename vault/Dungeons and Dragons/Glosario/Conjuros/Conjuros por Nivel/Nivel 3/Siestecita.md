@@ -28,7 +28,7 @@ Clases:
 ---
 (una pizca de arena)
 
-Haces un gesto de calma, y hasta tres criaturas voluntarias de tu elección que puedes ver dentro del alcance quedan [[inconsciente]] hasta el final de la duración del conjuro. El conjuro termina antes en un objetivo si recibe daño o alguien usa una acción para sacudirlo o golpearlo para despertarlo.
+Haces un gesto de calma, y hasta tres criaturas voluntarias de tu elección que puedes ver dentro del alcance quedan [[Inconsciente]] hasta el final de la duración del conjuro. El conjuro termina antes en un objetivo si recibe daño o alguien usa una acción para sacudirlo o golpearlo para despertarlo.
 
 Si un objetivo permanece inconsciente durante toda la duración, ese objetivo obtiene el beneficio de un descanso corto, y este conjuro no lo puede afectar de nuevo hasta que finalice un descanso largo.
 

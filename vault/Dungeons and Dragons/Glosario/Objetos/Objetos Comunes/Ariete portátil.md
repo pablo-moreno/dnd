@@ -11,4 +11,4 @@ int_peso: 35
 int_precio: 400
 ---
 Puedes utilizarlo para derribar puertas.
-Al hacerlo, ganas una bonificación de +4 en la Prueba de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]]. Otro personaje puede ayudarte a utilizar el ariete, que te da ventaja en esa prueba.
+Al hacerlo, ganas una bonificación de +4 en la Prueba de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]. Otro personaje puede ayudarte a utilizar el ariete, que te da ventaja en esa prueba.

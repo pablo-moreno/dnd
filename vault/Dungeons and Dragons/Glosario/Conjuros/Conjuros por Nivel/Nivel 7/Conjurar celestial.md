@@ -20,7 +20,7 @@ Concentración: true
 Clases:
   - "[[Clérigo]]"
 ---
-Convocas a un celestial con un valor de desafío igual a 4 o menos, el cual aparece en un espacio sin ocupar que puedas ver dentro del alcance. El celestial desaparece cuando sus [[puntos de golpe]] se reducen a 0 o cuando el conjuro termina.
+Convocas a un celestial con un valor de desafío igual a 4 o menos, el cual aparece en un espacio sin ocupar que puedas ver dentro del alcance. El celestial desaparece cuando sus [[Puntos de Golpe]] se reducen a 0 o cuando el conjuro termina.
 
 El celestial es amistoso hacia ti y tus compañeros mientras dura el conjuro. Tira iniciativa por el celestial, que tiene sus propios turnos. Obedece cualquier orden verbal que le des (no requiere que realices ninguna acción), siempre y cuando no viole su alineamiento. Si no le das ninguna orden, se defiende de criaturas hostiles, pero, si no las hay, no realiza ninguna acción.
 

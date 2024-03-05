@@ -14,7 +14,7 @@ Usando tu acción, comienzas a transformarte. Durante 1 hora, ganas los siguient
 • De tu espalda surgen alas y te otorgan una velocidad de vuelo de 60 pies (18 metros).
 
 • Emanas un aura amenazante en un radio de 30 pies (9 metros). La primera vez que una criatura
-enemiga entra en el aura, o comienza su turno ahí durante la batalla, debe superar una [[tirada de salvación]] de [[Sabiduría]] o estará [[asustado]] durante 1 minuto o hasta que reciba algún daño. Las [[tiradas de ataque]] contra la criatura asustada tienen ventaja.
+enemiga entra en el aura, o comienza su turno ahí durante la batalla, debe superar una [[Tirada de Salvación]] de [[Sabiduría]] o estará [[Asustado]] durante 1 minuto o hasta que reciba algún daño. Las [[Tiradas de Ataque]] contra la criatura asustada tienen ventaja.
 
 Una vez hayas usado esta característica, no podrás volver a usarla hasta que finalices un descanso prolongado.
 

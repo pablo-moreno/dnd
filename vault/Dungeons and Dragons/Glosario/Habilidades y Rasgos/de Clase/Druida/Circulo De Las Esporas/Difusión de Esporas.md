@@ -12,7 +12,7 @@ Obtienes la capacidad de cubrir una zona con esporas mortales. Como acción adic
 
 Las esporas desaparecerán si vuelves a usar este rasgo, si las descartas como acción adicional o si el rasgo Entidad Simbiótica deja de estar activo.
 
-Siempre que una criatura se mueva a la zona del cubo o comience su turno allí, recibirá el daño de tu [[Halo de Esporas]], a menos que tenga éxito en una [[tirada de salvación]] de [[Constitución]] contra tu CD de salvación de conjuros. Una criatura solo puede sufrir este daño una vez por turno. Mientras dure el cubo de esporas, no puedes usar la reacción del Halo de Esporas.
+Siempre que una criatura se mueva a la zona del cubo o comience su turno allí, recibirá el daño de tu [[Halo de Esporas]], a menos que tenga éxito en una [[Tirada de Salvación]] de [[Constitución]] contra tu CD de salvación de conjuros. Una criatura solo puede sufrir este daño una vez por turno. Mientras dure el cubo de esporas, no puedes usar la reacción del Halo de Esporas.
 
 
 

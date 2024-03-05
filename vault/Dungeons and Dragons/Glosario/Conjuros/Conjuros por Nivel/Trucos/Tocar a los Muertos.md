@@ -24,6 +24,6 @@ Clases:
   - "[[Clérigo]]"
   - "[[Mago]]"
 ---
-Señala a una criatura que puedes ver dentro del alcance, y el sonido de una campana dolorosa llena el aire a su alrededor por un momento. El objetivo debe tener éxito en una [[tirada de salvación]] de [[Sabiduría]] o recibir 1d8 de daño [[necrótico]]. Si al objetivo le falta alguno de sus [[puntos de golpe]], en su lugar recibe 1d12 de daño necrótico.
+Señala a una criatura que puedes ver dentro del alcance, y el sonido de una campana dolorosa llena el aire a su alrededor por un momento. El objetivo debe tener éxito en una [[Tirada de Salvación]] de [[Sabiduría]] o recibir 1d8 de daño [[Necrótico]]. Si al objetivo le falta alguno de sus [[Puntos de Golpe]], en su lugar recibe 1d12 de daño necrótico.
 
 El daño del conjuro aumenta en un dado cuando alcanzas el nivel 5 (2d8 o 2d12), el nivel 11 (3d8 o 3d12) y el nivel 17 (4d8 o 4d12).

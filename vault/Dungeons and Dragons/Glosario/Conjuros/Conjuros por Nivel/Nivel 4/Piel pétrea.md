@@ -31,4 +31,4 @@ Clases:
 ---
 (polvo de diamante de 10.000 po de valor, el cual consume el conjuro)
 
-Este conjuro hace que la carne de una criatura voluntaria que toques sea tan dura como la piedra. Hasta que el conjuro termine, el objetivo tiene resistencia al daño [[contundente]], [[perforante]] y [[cortante]] no mágico.
+Este conjuro hace que la carne de una criatura voluntaria que toques sea tan dura como la piedra. Hasta que el conjuro termine, el objetivo tiene resistencia al daño [[Contundente]], [[Perforante]] y [[Cortante]] no mágico.

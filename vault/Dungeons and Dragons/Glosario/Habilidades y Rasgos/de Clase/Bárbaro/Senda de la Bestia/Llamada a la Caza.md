@@ -13,7 +13,7 @@ otros Y conseguir resistencia de ellos cuando se unen a tu caza.
 
 Cuando te dejas llevar por la [[furia]], puedes elegir una cantidad de otras criaturas voluntarias que puedas ver a 30 pies o menos de ti igual a tu modificador por [[Constitución]] (mínimo una criatura). Ganas 5 puntos de golpe temporales por cada criatura que acepte este rasgo.
 
-Hasta que la furia termine, las criaturas elegidas podrán usar el siguiente beneficio una vez en cada uno de sus turnos: cuando la criatura impacte a un objetivo con una [[tirada de ataque]] y le cause daño, podrá lanzar 1d6 y ganará un bonificador al daño igual al resultado.
+Hasta que la furia termine, las criaturas elegidas podrán usar el siguiente beneficio una vez en cada uno de sus turnos: cuando la criatura impacte a un objetivo con una [[Tirada de Ataque]] y le cause daño, podrá lanzar 1d6 y ganará un bonificador al daño igual al resultado.
 
 Puedes usar este rasgo una cantidad de veces igual a tu bonificador por competencia y recuperas
 todos los usos tras finalizar un descanso largo.

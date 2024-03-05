@@ -9,7 +9,7 @@ Dado_de_Daño: 1d12
 Tipo_de_Daño: "[[Cortante]]"
 Propiedades:
   - "[[A Dos Manos]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Pesada]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Pesada]]"
 Rango: 
 Peso: 7 lb
 Precio: "3.000"

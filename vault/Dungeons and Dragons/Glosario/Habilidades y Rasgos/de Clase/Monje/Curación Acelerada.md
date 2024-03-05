@@ -9,7 +9,7 @@ Nivel de Clase: 4
 Mejora de Habilidad:
 ---
 Como acción, puedes gastar 2 puntos de [[ki]] y tirar un dado de [[Artes Marciales]]. Recuperas una
-cantidad de [[puntos de golpe]] igual al resultado + tu bonificador por competencia.
+cantidad de [[Puntos de Golpe]] igual al resultado + tu bonificador por competencia.
 
 
 

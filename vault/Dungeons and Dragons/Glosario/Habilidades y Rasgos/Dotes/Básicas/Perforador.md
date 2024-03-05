@@ -8,10 +8,10 @@ aliases:
 ---
 Has conseguido una precisión perforadora en combate, que te concede los siguientes beneficios:
 
-• Aumenta tu [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] o tu [[Destreza]] en 1, hasta un máximo de 20.
+• Aumenta tu [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] o tu [[Destreza]] en 1, hasta un máximo de 20.
 
-• Una vez por turno, cuando impactes a una criatura con un ataque que cause daño [[perforante]],
+• Una vez por turno, cuando impactes a una criatura con un ataque que cause daño [[Perforante]],
 podrás volver a tirar uno de los dados de daño del ataque, pero tendrás que usar el nuevo resultado.
 
-• Cuando causes un crítico que haga daño [[perforante]] a una criatura, podrás tirar un dado de daño
+• Cuando causes un crítico que haga daño [[Perforante]] a una criatura, podrás tirar un dado de daño
 adicional al determinar el daño perforante adicional que recibe el objetivo

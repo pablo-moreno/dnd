@@ -25,7 +25,7 @@ Clases:
 ---
 (un poco de sebo, una pizca de azufre y un poco de hierro pulverizado)
 
-Una esfera de fuego de 5 pies de diámetro aparece en un espacio libre de tu elección dentro del alcance y dura mientras lo haga el conjuro. Cualquier criatura que termine su turno a 5 pies o menos de la esfera debe hacer una [[tirada de salvación]] de [[Destreza]]. Si falla, recibe 2d6 puntos de daño por [[fuego]] y, si tiene éxito, la mitad.
+Una esfera de fuego de 5 pies de diámetro aparece en un espacio libre de tu elección dentro del alcance y dura mientras lo haga el conjuro. Cualquier criatura que termine su turno a 5 pies o menos de la esfera debe hacer una [[Tirada de Salvación]] de [[Destreza]]. Si falla, recibe 2d6 puntos de daño por [[Fuego]] y, si tiene éxito, la mitad.
 
 Como acción adicional, puedes mover la esfera hasta 30 pies. Si se la arrojas a una criatura, esta debe hacer una tirada de salvación contra el daño de la esfera y la esfera deja de moverse durante su turno.
 

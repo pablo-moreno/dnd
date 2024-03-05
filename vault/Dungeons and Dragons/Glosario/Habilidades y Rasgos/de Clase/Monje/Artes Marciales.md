@@ -12,9 +12,9 @@ La práctica que tienes con las artes marciales te da maestría en estilos de co
 golpes sin armas y armas de monje, que son espadas cortas y cualquier arma simple que no tenga las propiedades a dos manos o pesada.
 
 Obtienes los siguientes beneficios mientras no estés armado o uses armas de monje y no lleves
-armadura ni [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]]:
+armadura ni [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]]:
 
-• Puedes usar tu [[Destreza]] en lugar de tu [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] para el ataque y daño de tus golpes sin armas y con armas de monje.
+• Puedes usar tu [[Destreza]] en lugar de tu [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] para el ataque y daño de tus golpes sin armas y con armas de monje.
 
 • Puedes tirar un d4 en lugar del daño normal de tus golpes sin armas o de tus armas de monje. Este dado cambia conforme obtienes niveles de monje, tal como se muestra en la columna Artes
 Marciales en la tabla Monje.

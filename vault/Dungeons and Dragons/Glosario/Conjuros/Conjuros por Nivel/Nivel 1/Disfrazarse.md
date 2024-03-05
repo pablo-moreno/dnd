@@ -30,4 +30,4 @@ Haces que tu apariencia (así como la de tu ropa, armadura, armas y otras perten
 
 Los cambios que provoca este conjuro no aguantan una inspección física. Por ejemplo, si usas este conjuro para añadir un sombrero a tu atuendo, los objetos traspasan el sombrero y cualquiera que lo toque no sentirá nada o sentirá tu cabeza y tu pelo. Si usas este conjuro para parecer más delgado de lo que eres, la mano de alguien que estirara el brazo para tocarte se chocará contra ti aunque aparentemente todavía esté en el aire.
 
-Para distinguir si estás disfrazado, una criatura puede usar su acción para inspeccionar tu apariencia y hacer una prueba de [[Inteligencia]] ([[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]]) enfrentada a la CD de la salvación de tu conjuro.
+Para distinguir si estás disfrazado, una criatura puede usar su acción para inspeccionar tu apariencia y hacer una prueba de [[Inteligencia]] ([[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]]) enfrentada a la CD de la salvación de tu conjuro.

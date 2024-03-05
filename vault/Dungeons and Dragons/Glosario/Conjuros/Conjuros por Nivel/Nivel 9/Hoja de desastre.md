@@ -24,7 +24,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Creas una grieta planar en forma de hoja de aproximadamente 3 pies de largo en un espacio sin ocupar que puedas ver dentro del alcance. La hoja durará hasta que acabe el conjuro. Al lanzar este conjuro, puedes hacer hasta dos ataques de conjuro cuerpo a cuerpo con la hoja, cada uno contra una criatura, un objeto suelto o una estructura que se encuentre a 5 pies o menos de la hoja. Si impacta, el objetivo recibe 4d12 de daño de [[fuerza]]. 
+Creas una grieta planar en forma de hoja de aproximadamente 3 pies de largo en un espacio sin ocupar que puedas ver dentro del alcance. La hoja durará hasta que acabe el conjuro. Al lanzar este conjuro, puedes hacer hasta dos ataques de conjuro cuerpo a cuerpo con la hoja, cada uno contra una criatura, un objeto suelto o una estructura que se encuentre a 5 pies o menos de la hoja. Si impacta, el objetivo recibe 4d12 de daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]. 
 
 Este ataque causará críticos si la tirada del d20 es de 18 o más. Con un crítico, la hoja causa un daño de fuerza adicional de 8d12 (total de 12d12 de daño de fuerza).
 

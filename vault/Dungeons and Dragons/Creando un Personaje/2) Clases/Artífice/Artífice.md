@@ -14,11 +14,11 @@ Puntos de golpe a nivel 1: 8 + tu modificador por Constitución.
 Puntos de golpe a niveles superiores: 1d8 (o 5) + tu modificador por Constitución por cada nivel de artífice por encima del primero.
 
 *Competencias*
-Armadura: armadura [[ligera]] y [[media]], [[escudo]].
+Armadura: armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]] y [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]].
 Armas: armas sencillas, armas de fuego.
 Herramientas: [[herramientas de ladrón]], [[Herramientas de Hojalatero]] , un tipo de herramientas de artesano a tu elección.
 Tiradas de salvación: [[Constitución]], [[Inteligencia]].
-Habilidades: escoge dos de entre [[Arcano]], [[Historia]], [[Investigación]], [[Medicina]],
+Habilidades: escoge dos de entre [[Arcano]], [[Historia]], [[Dungeons and Dragons/Reglas/3) Entorno/Actividades/Xanathar/Investigación]], [[Medicina]],
 [[Naturaleza]], [[Percepción]] y [[Juego de Manos]].
 
 *Equipo*

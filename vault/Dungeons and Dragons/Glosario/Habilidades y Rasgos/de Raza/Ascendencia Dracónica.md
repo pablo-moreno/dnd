@@ -11,13 +11,13 @@ Tienes ascendencia dracónica, elige un tipo de dragón de la tabla. Tu arma de 
 
 
 *Dragón        Tipo de daño               Arma de aliento*
-Azul             [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Relámpago]]                   Línea 5x30 pies (salvación Des.)
+Azul             [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago]]                   Línea 5x30 pies (salvación Des.)
 Blanco         [[Frío]]                               Cono 15 pies (salvación Con.)
-Bronce        [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Relámpago]]                   Línea 5x30 pies (salvación Des.)
+Bronce        [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago]]                   Línea 5x30 pies (salvación Des.)
 Cobre          [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]]                            Línea 5x30 pies (salvación Des.)
 Latón           [[Fuego]]                           Línea 5x30 pies (salvación Des.)
 Negro          [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]]                            Línea 5x30 pies (salvación Des.)
 Oro              [[Fuego]]                           Cono 15 pies (salvación Des.)
 Plata            [[Frío]]                               Cono 15 pies (salvación Con.)
 Rojo             [[Fuego]]                           Cono 15 pies (salvación Des.)
-Verde          [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]]                         Cono 15 pies (salvación Con.)
+Verde          [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]]                         Cono 15 pies (salvación Con.)

@@ -8,7 +8,7 @@ aliases:
 ---
 Estás acostumbrado a las peleas de taberna usando cualquier arma que tengas a tu alcance. Ganas los siguientes beneficios:
 
-• Aumentas tu puntuación en [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] o [[Constitución]] en 1, hasta un máximo de 20.
+• Aumentas tu puntuación en [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] o [[Constitución]] en 1, hasta un máximo de 20.
 
 • Eres competente con armas improvisadas y golpes sin armas.
 

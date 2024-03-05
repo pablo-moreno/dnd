@@ -6,7 +6,7 @@ tags:
   - armor/pes
 aliases: 
 Clase_de_Armadura: "17"
-Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Pesada|Pesada]]"
+Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada|Pesada]]"
 Req_Fuerza: "15"
 Sigilo: Desventaja
 Peso: 60 lb

@@ -29,6 +29,6 @@ Clases:
 ---
 (una pluma de colibrí)
 
-Tocas una criatura voluntaria y le concedes una capacidad limitada para ver el futuro inmediato. Mientras dura el conjuro, el objetivo no puede ser sorprendido y tiene ventaja en las [[tiradas de ataque]], pruebas de característica y [[tiradas de salvación]]. Además, las criaturas que le ataquen tienen desventaja en la tirada de ataque.
+Tocas una criatura voluntaria y le concedes una capacidad limitada para ver el futuro inmediato. Mientras dura el conjuro, el objetivo no puede ser sorprendido y tiene ventaja en las [[Tiradas de Ataque]], pruebas de característica y [[Tiradas de Salvación]]. Además, las criaturas que le ataquen tienen desventaja en la tirada de ataque.
 
 Este conjuro termina inmediatamente si lo vuelves a lanzar antes de que termine su duración.

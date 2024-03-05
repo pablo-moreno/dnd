@@ -6,7 +6,7 @@ tags:
   - armor/esc
 aliases: 
 Clase_de_Armadura: "+2"
-Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]]"
+Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]]"
 Req_Fuerza: 
 Sigilo: 
 Peso: 6 lb

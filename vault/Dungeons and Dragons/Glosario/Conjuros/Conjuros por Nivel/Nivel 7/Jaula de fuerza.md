@@ -31,6 +31,6 @@ Una prisión de fuerza mágica con forma de cubo, inmóvil e invisible, surge al
 
 Cuando lanzas el conjuro, cualquier criatura que esté completamente dentro del área de la jaula queda atrapada. Las criaturas que solo están parcialmente dentro de la jaula y las que son demasiado grandes como para entrar en ella son expulsadas hasta que están completamente fuera de ella.
 
-Una criatura dentro de la jaula no puede salir de ella por medios no mágicos. Si intenta teleportarse o hacer un viaje intraplanar, primero debe hacer una [[tirada de salvación]] de [[Carisma]]. Si tiene éxito, puede salir. Si no, no puede salir y desperdicia un uso del conjuro o efecto. La jaula también afecta el Plano Etéreo y bloquea el viaje etéreo.
+Una criatura dentro de la jaula no puede salir de ella por medios no mágicos. Si intenta teleportarse o hacer un viaje intraplanar, primero debe hacer una [[Tirada de Salvación]] de [[Carisma]]. Si tiene éxito, puede salir. Si no, no puede salir y desperdicia un uso del conjuro o efecto. La jaula también afecta el Plano Etéreo y bloquea el viaje etéreo.
 
 Este conjuro no se puede disipar con [[Disipar magia]].

@@ -26,7 +26,7 @@ Clases:
 ---
 Tomas el aire y lo obligas a crear uno de los siguientes efectos en un punto que puedes ver dentro del alcance:
 
--Una criatura mediana o más pequeña que elijas debe tener éxito en una [[tirada de salvación]] de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] o ser empujada a una distancia de hasta 5 pies de distancia de ti.
+-Una criatura mediana o más pequeña que elijas debe tener éxito en una [[Tirada de Salvación]] de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] o ser empujada a una distancia de hasta 5 pies de distancia de ti.
 
 -Creas una pequeña ráfaga de aire capaz de mover un objeto que no se sostiene ni se transporta y que no pesa más de 5 libras. El objeto es empujado hasta a 10 pies de distancia de ti. No es empujado con suficiente fuerza para causar daño.
 

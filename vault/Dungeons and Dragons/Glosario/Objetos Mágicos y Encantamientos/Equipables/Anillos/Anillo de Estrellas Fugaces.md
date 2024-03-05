@@ -19,7 +19,7 @@ Bola de Relámpago. Puedes gastar 2 cargas como una acción para crear de una a 
 
 Cada esfera aparece en un espacio desocupado a tu vista a menos de 120 pies (36 metros) de ti. Las esferas duran mientras te concentres (como te concentraras en un conjuro), con un máximo de 1 minuto. Cada esfera desprende una luz tenue en un radio de 30 pies (9 metros).
 
-Como una acción adicional, puedes mover cada esfera hasta 30 pies (9 metros), pero a no más de 120 pies (36 metros) de ti. Cuando una criatura que no seas tú se encuentre a menos de 5 pies (1.5 metros) de una esfera, la esfera descarga relámpagos a la criatura y desaparece. La criatura debe hacer una tirada de salvación de [[Destreza]] con CD 15. Si falla, la criatura sufre daño por [[relámpago]] basado en el numero de esferas que hayas creado.
+Como una acción adicional, puedes mover cada esfera hasta 30 pies (9 metros), pero a no más de 120 pies (36 metros) de ti. Cuando una criatura que no seas tú se encuentre a menos de 5 pies (1.5 metros) de una esfera, la esfera descarga relámpagos a la criatura y desaparece. La criatura debe hacer una tirada de salvación de [[Destreza]] con CD 15. Si falla, la criatura sufre daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago]] basado en el numero de esferas que hayas creado.
 
 
 | Esferas | Daño por Relámpago |

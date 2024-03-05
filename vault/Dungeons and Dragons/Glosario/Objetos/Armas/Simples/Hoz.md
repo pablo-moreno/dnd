@@ -8,7 +8,7 @@ aliases:
 Dado_de_Daño: 1d4
 Tipo_de_Daño: "[[Cortante]]"
 Propiedades:
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Ligera]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Ligera]]"
 Rango: 
 Peso: 2 lb
 Precio: "500"

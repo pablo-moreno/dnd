@@ -28,8 +28,8 @@ Clases:
 ---
 Hasta que el conjuro termine, trozos de roca se esparcirán por tu cuerpo y obtendrás los siguientes beneficios:
 
-Tienes resistencia a daño [[contundente]], [[perforante]] y [[cortante]] de ataques no mágicos.
+Tienes resistencia a daño [[Contundente]], [[Perforante]] y [[Cortante]] de ataques no mágicos.
 
-Puedes usar tu acción para crear un pequeño terremoto en el suelo en un radio de 15 pies centrado en ti. Otras criaturas en ese terreno deben tener éxito en una [[tirada de salvación]] de [[Destreza]] o ser derribadas.
+Puedes usar tu acción para crear un pequeño terremoto en el suelo en un radio de 15 pies centrado en ti. Otras criaturas en ese terreno deben tener éxito en una [[Tirada de Salvación]] de [[Destreza]] o ser derribadas.
 
 Puedes moverte por terrenos difíciles de tierra o piedra sin gastar movimiento adicional. Puedes moverte a través de la tierra sólida o la piedra como si fuera aire y sin desestabilizarla, pero no puedes terminar tu movimiento allí. Si lo haces, eres expulsado al espacio no ocupado más cercano, este conjuro termina y quedas aturdido hasta el final de tu siguiente turno.

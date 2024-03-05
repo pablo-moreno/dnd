@@ -22,4 +22,4 @@ Clases:
   - "[[Clérigo]]"
   - "[[Artífice]]"
 ---
-Tocas a una criatura viva que tenga 0 [[puntos de golpe]]. La criatura se estabiliza. Este conjuro no tiene efecto sobre no muertos ni constructos.
+Tocas a una criatura viva que tenga 0 [[Puntos de Golpe]]. La criatura se estabiliza. Este conjuro no tiene efecto sobre no muertos ni constructos.

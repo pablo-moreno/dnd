@@ -35,11 +35,11 @@ Tocas a una criatura y le otorgas una mejora mágica. Elige uno de los siguiente
 
 - **Astucia de zorro.** El objetivo tiene ventaja en las pruebas de [[Inteligencia]]. 
 - 
-- **Elegancia de gato.** El objetivo tiene ventaja en las pruebas de [[Destreza]]. Asimismo, no recibe daño por caer 20 pies o menos si no está [[incapacitado]].
+- **Elegancia de gato.** El objetivo tiene ventaja en las pruebas de [[Destreza]]. Asimismo, no recibe daño por caer 20 pies o menos si no está [[Incapacitado]].
 - 
 - **Esplendor de águila.** El objetivo tiene ventaja en las pruebas de [[Carisma]].
 - 
-- **Fuerza de toro.** El objetivo tiene ventaja en las pruebas de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] y su carga transportable se duplica.
+- **Fuerza de toro.** El objetivo tiene ventaja en las pruebas de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] y su carga transportable se duplica.
 - 
 - **Resistencia de oso.** El objetivo tiene ventaja en las pruebas de [[Constitución]]. También gana 2d6 puntos de golpe temporales, los cuales se pierden cuando termina el conjuro.
 - 

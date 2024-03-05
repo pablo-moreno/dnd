@@ -16,7 +16,7 @@ hit_points: 33
 ## Características
 | Característica   | Nivel | Bonificador | Lanzar dado      |
 | ---------------- | ----- | ----------- | ---------------- |
-| [[Fuerza]]       | 17    | 3           | `dice: 1d20 + 3` |
+| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]       | 17    | 3           | `dice: 1d20 + 3` |
 | [[Destreza]]     | 14    | 2           | `dice: 1d20 + 2` |
 | [[Constitución]] | 10    | 0           | `dice: 1d20`     |
 | [[Inteligencia]] | 1     | -5          | `dice: 1d20 - 5` |
@@ -24,11 +24,11 @@ hit_points: 33
 | [[Carisma]]      | 1     | -5          | `dice: 1d20 - 5` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 12
-[[Puntos de golpe]]: `=this.hit_points` (`= this.hit_dice`)
+[[Puntos de Golpe]]: `=this.hit_points` (`= this.hit_dice`)
 [[Velocidad]]: 10
 ## Inmunidad a daño
 - [[Psíquico]]
-- [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]]
+- [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]]
 ## Inmunidad a estados
 - [[Asustado]]
 - [[Cegado]]
@@ -49,6 +49,6 @@ hit_points: 33
 
 **Apariencia Falsa**. Mientras permanezca estática, la alfombra asfixiante es indistinguible de una alfombra normal y corriente.
 ## Acciones
-**Asfixiar**. Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, una criatura Mediana o más pequeña. Impacto: La criatura es agarrada (CD 13 para escapar). Hasta que el agarre finalice, el objetivo también estará apresado, cegado y corre el riesgo de asfixiarse, y la alfombra no puede envolver a otro objetivo. Además, al principio de cada uno de los turnos de la criatura, esta recibirá 10 (`dice: 2d6 + 3`) de daño [[contundente]]. 
+**Asfixiar**. Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, una criatura Mediana o más pequeña. Impacto: La criatura es agarrada (CD 13 para escapar). Hasta que el agarre finalice, el objetivo también estará apresado, cegado y corre el riesgo de asfixiarse, y la alfombra no puede envolver a otro objetivo. Además, al principio de cada uno de los turnos de la criatura, esta recibirá 10 (`dice: 2d6 + 3`) de daño [[Contundente]]. 
 ## Desafío
 2 - 450 [[PX]]

@@ -6,4 +6,4 @@ tags:
   - type/note
 aliases:
 ---
-Tienes ventaja en las tiradas de salvación en contra de ser [[asustado]].
+Tienes ventaja en las tiradas de salvación en contra de ser [[Asustado]].

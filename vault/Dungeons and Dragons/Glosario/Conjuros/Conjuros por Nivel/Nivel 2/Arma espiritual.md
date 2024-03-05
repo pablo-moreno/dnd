@@ -20,7 +20,7 @@ Concentración:
 Clases:
   - "[[Clérigo]]"
 ---
-Creas un arma espectral flotante dentro del alcance que dura mientras lo haga el conjuro o hasta que vuelvas a lanzarlo. Cuando invocas el arma, puedes hacer un ataque de conjuro cuerpo a cuerpo contra una criatura que se encuentre a 5 pies o menos del arma. Si impactas, el objetivo recibe daño por [[fuerza]] igual a 1d8 + tu modificador por característica para lanzar conjuros.
+Creas un arma espectral flotante dentro del alcance que dura mientras lo haga el conjuro o hasta que vuelvas a lanzarlo. Cuando invocas el arma, puedes hacer un ataque de conjuro cuerpo a cuerpo contra una criatura que se encuentre a 5 pies o menos del arma. Si impactas, el objetivo recibe daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] igual a 1d8 + tu modificador por característica para lanzar conjuros.
 
 Como acción adicional en tu turno, puedes mover el arma hasta 20 pies y repetir el ataque contra una criatura que se encuentre a 5 pies o menos de ella.
 

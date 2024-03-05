@@ -20,7 +20,7 @@ hit_dice: "`dice: 5d8`"
 | [[Carisma]]                                                              | 1     | -5          | `dice: 1d20 + 0` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 12
-[[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
+[[Puntos de Golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 20
 
 ## Resistencias

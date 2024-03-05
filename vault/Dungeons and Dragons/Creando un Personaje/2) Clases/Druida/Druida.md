@@ -18,7 +18,7 @@ Puntos de Golpe a niveles superiores: 1d8 (o 5) + tu modificador de [[Constituci
 druida después del primer nivel.
 
 *Competencias*
-Armadura: armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]] (los druidas no son competentes con ninguna armadura o escudo hecho de metal).
+Armadura: armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]] (los druidas no son competentes con ninguna armadura o escudo hecho de metal).
 Armas: [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]], [[cimitarra]], [[Garrote]], [[daga]], [[dardo]], [[hoz]], [[honda]], [[lanza]], [[maza]].
 Herramientas: [[Kit de Herborista]].
 Tiradas de Salvación: [[Inteligencia]], [[Sabiduría]].
@@ -27,7 +27,7 @@ Habilidades: Escoge dos entre [[Arcano]], [[Perspicacia]], [[Medicina]], [[Natur
 
 *Equipo*
 Comienzas con el siguiente equipo, además del equipo otorgado por tu trasfondo:
-• (a) un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]] de madera o (b) cualquier arma simple.
+• (a) un [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]] de madera o (b) cualquier arma simple.
 • (a) una [[cimitarra]] o (b) cualquier arma simple cuerpo a cuerpo.
 • [[Armadura de cuero]], un [[equipo de explorador]] y un foco druídico.
 

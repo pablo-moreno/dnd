@@ -8,7 +8,7 @@ aliases:
 Nivel de Clase: 3
 Mejora de Habilidad:
 ---
-Eres aún más mortal cuando te anticipas a tus enemigos. Tienes ventaja en las [[tiradas de ataque]]
+Eres aún más mortal cuando te anticipas a tus enemigos. Tienes ventaja en las [[Tiradas de Ataque]]
 realizadas contra cualquier criatura que no haya resuelto su turno aún. 
 
 Además, cualquier golpe que inflijas contra una criatura sorprendida es un golpe crítico.

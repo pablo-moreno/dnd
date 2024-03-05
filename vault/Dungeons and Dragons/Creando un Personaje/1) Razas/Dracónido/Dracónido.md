@@ -21,7 +21,7 @@ Idiomas:
 
 Tu herencia dracónica se manifiesta en una variedad de rasgos que compartes con otros dracónidos.
 
-*Incremento de Puntuación de Característica*. Tu puntuación de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] se incrementa en 2 y tu
+*Incremento de Puntuación de Característica*. Tu puntuación de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] se incrementa en 2 y tu
 puntuación de [[Carisma]] se incrementa en 1.
 
 *Edad*. Los dracónidos jóvenes crecen rápidamente. Caminan horas después de nacer y alcanzan el

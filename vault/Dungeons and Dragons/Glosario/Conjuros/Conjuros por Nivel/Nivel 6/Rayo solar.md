@@ -27,7 +27,7 @@ Clases:
 ---
 (una lente de aumento)
 
-Un rayo de luz brillante surge de tu mano en una línea de 5 pies de ancho y 60 pies de largo. Todas las criaturas que se encuentren en la línea deben hacer una [[tirada de salvación]] de [[Constitución]]. Si fallan, reciben 6d8 puntos de daño [[radiante]] y quedan cegadas hasta el siguiente turno. Si tienen éxito, reciben la mitad de ese daño y no quedan cegadas. Los no muertos y los limos tienen desventaja en la tirada de salvación.
+Un rayo de luz brillante surge de tu mano en una línea de 5 pies de ancho y 60 pies de largo. Todas las criaturas que se encuentren en la línea deben hacer una [[Tirada de Salvación]] de [[Constitución]]. Si fallan, reciben 6d8 puntos de daño [[Radiante]] y quedan cegadas hasta el siguiente turno. Si tienen éxito, reciben la mitad de ese daño y no quedan cegadas. Los no muertos y los limos tienen desventaja en la tirada de salvación.
 
 Puedes crear un nuevo rayo como acción en cualquier turno hasta que termine el conjuro.
 

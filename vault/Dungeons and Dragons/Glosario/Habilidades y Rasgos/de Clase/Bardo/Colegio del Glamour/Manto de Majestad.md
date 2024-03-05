@@ -12,7 +12,7 @@ Obtienes la habilidad de envolverte en una magia feérica que hace que otros qui
 
 Durante este tiempo, puedes lanzar “orden imperiosa” como una acción adicional en cada uno de
 tus turnos, sin gastar una ranura de conjuro.
-Cualquier criatura [[Hechizado]] por ti falla automáticamente su [[tirada de salvación]] contra la orden
+Cualquier criatura [[Hechizado]] por ti falla automáticamente su [[Tirada de Salvación]] contra la orden
 imperiosa que lanzas con este rasgo.
 Una vez que use esta función, no podrá volver a usarla hasta que termine un descanso largo.
 

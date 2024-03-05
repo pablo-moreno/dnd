@@ -17,13 +17,13 @@ brillante.
 Tu tótem animal puede ser un animal relacionado con los listados aquí, pero más apropiado para tu
 tierra natal. Por ejemplo, podrías elegir un halcón o un buitre en lugar de un águila.
 
-*Oso*. Mientras estás en [[furia]], tienes resistencia a todos los daños salvo el daño [[psíquico]]. El espíritu
+*Oso*. Mientras estás en [[furia]], tienes resistencia a todos los daños salvo el daño [[Psíquico]]. El espíritu
 del oso te hace lo suficientemente duro para resistir cualquier castigo.
 
-*Águila*. Mientras estés en [[furia]] y no estés usando armadura [[pesada]], las demás criaturas tienen
+*Águila*. Mientras estés en [[furia]] y no estés usando armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]], las demás criaturas tienen
 desventaja en los ataques de oportunidad contra ti, y puedes usar la acción de [[Carrera]] como acción adicional en tu turno. El espíritu del águila te convierte en un depredador que puede moverse en combate con facilidad.
 
-*Lobo*. Mientras estés en [[furia]], tus aliados tienen ventaja en las [[tirada de ataque]] cuerpo a cuerpo
+*Lobo*. Mientras estés en [[furia]], tus aliados tienen ventaja en las [[Tirada de Ataque]] cuerpo a cuerpo
 contra cualquier criatura a 5 pies (1,5 metros) de ti que sea hostil hacia ti. El espíritu del lobo te
 convierte en un líder entre los cazadores.
 

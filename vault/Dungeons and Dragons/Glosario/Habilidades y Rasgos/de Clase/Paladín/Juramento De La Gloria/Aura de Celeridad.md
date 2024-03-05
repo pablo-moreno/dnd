@@ -12,7 +12,7 @@ Emanas un aura que os confiere a ti y a tus compañeros una velocidad sobrenatur
 permite atravesar velozmente el campo de batalla en formación. Tu velocidad caminando aumenta
 en 10 pies. 
 
-Además, si no estás [[incapacitado]], la velocidad caminando de cualquier aliado que
+Además, si no estás [[Incapacitado]], la velocidad caminando de cualquier aliado que
 empiece su turno a 5 pies o menos de ti aumentará en 10 pies hasta el final de ese turno.
 
 Cuando alcanzas el nivel 18 en esta clase, el alcance del aura aumenta a 10 pies.

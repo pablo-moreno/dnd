@@ -27,7 +27,7 @@ Obtienes las siguientes dos opciones de [[Canalizar Divinidad]].
 *Emisario de la Paz*. Puedes usar tu [[Canalizar Divinidad]] para aumentar tu presencia con poder divino. Como acción adicional, te otorgas una bonificación de + 5 a las pruebas de [[Carisma]] (Persuasión) durante los próximos 10 minutos.
 
 *Reprender a los Violentos*. Puedes usar tu [[Canalizar Divinidad]] para reprender a aquellos que usan la violencia. Inmediatamente después de que un atacante a 30 pies de ti haga daño con un ataque a una criatura que no seas tú, puedes usar tu reacción para forzar al atacante a hacer una tirada de salvación de [[Sabiduría]]. 
-En una salvación fallida, el atacante recibe daño [[radiante]] igual al daño que acaba de infligir. En una salvación exitosa, toma la mitad de daño.
+En una salvación fallida, el atacante recibe daño [[Radiante]] igual al daño que acaba de infligir. En una salvación exitosa, toma la mitad de daño.
 
 
 *Rasgos*

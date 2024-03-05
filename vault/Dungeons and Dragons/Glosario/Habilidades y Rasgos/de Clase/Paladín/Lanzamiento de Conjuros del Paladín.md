@@ -12,7 +12,7 @@ Has aprendido a canalizar magia divina a través de la meditación y las plegari
 lanzar conjuros como si fueras un clérigo.
 
 *Preparando y Lanzando Conjuros*
-La tabla Paladín muestra cuántos [[espacios de conjuros]] tienes disponibles para lanzar tus conjuros.
+La tabla Paladín muestra cuántos [[Espacios de Conjuros]] tienes disponibles para lanzar tus conjuros.
 Para lanzar uno de tus conjuros de paladín de nivel 1 o superior debes gastar uno de los espacios de nivel de conjuro o superior. 
 Recuperas todos los espacios gastados cuando finalizas un descanso prolongado.
 

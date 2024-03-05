@@ -8,7 +8,7 @@ aliases:
 Nivel de Clase: 7
 Mejora de Habilidad:
 ---
-Aprendes a dirigir una flecha errante hacia un nuevo objetivo. Cuando haces una [[tirada de ataque]]
+Aprendes a dirigir una flecha errante hacia un nuevo objetivo. Cuando haces una [[Tirada de Ataque]]
 con una flecha mágica y fallas, puedes usar una acción adicional para repetir la tirada de ataque
 contra un objetivo diferente hasta 60 pies del objetivo original.
 

@@ -12,7 +12,7 @@ Ganas uno de los siguientes rasgos de tu elección.
 
 *Torrente*. Puedes utilizar tu acción para hacer un ataque a distancia contra cualquier número de
 criaturas en torno a 10 pies (3 metros) de un punto que puedas ver (siempre dentro del alcance de
-tu arma). Debes tener munición para cada objetivo, como siempre, y realizar una [[tirada de ataque]]
+tu arma). Debes tener munición para cada objetivo, como siempre, y realizar una [[Tirada de Ataque]]
 por separado para cada uno de ellos.
 
 *Ataque de Torbellino*. Puedes utilizar tu acción para realizar un ataque cuerpo a cuerpo contra

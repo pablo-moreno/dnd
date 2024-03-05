@@ -17,5 +17,5 @@ La velocidad de la criatura encantada se reduce a 0 y la criatura está incapaci
 En turnos subsiguientes, puedes usar tus acciones para mantener este efecto hasta el final de tu
 siguiente turno. Aun así, el efecto finaliza si te mueves a más de 5 pies (1,5 metros) de distancia de la criatura, si la criatura no puede verte ni oírte o si la criatura recibe daño.
 
-Una vez que el efecto termina, o si la criatura tiene éxito en su [[tirada de salvación]] inicial, no puedes usar este efecto nuevamente en esa criatura hasta que finalices un descanso prolongado.
+Una vez que el efecto termina, o si la criatura tiene éxito en su [[Tirada de Salvación]] inicial, no puedes usar este efecto nuevamente en esa criatura hasta que finalices un descanso prolongado.
 

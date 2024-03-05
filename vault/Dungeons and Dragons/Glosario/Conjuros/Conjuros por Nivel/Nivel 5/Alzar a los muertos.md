@@ -33,4 +33,4 @@ Este conjuro también neutraliza cualquier veneno y cura las enfermedades no má
 
 Este conjuro cierra todas las heridas mortales, pero no restaura las partes del cuerpo que falten. Si a la criatura le faltan partes del cuerpo u órganos fundamentales para su supervivencia (como la cabeza, por ejemplo), el conjuro falla automáticamente.
 
-Volver de entre los muertos es una experiencia dura. El objetivo recibe un penalizador de –4 a todas las [[tiradas de ataque]], [[tiradas de salvación]] y pruebas de característica. Cada vez que el objetivo termine un descanso prolongado, el penalizador se reduce en 1 hasta que desaparezca.
+Volver de entre los muertos es una experiencia dura. El objetivo recibe un penalizador de –4 a todas las [[Tiradas de Ataque]], [[Tiradas de Salvación]] y pruebas de característica. Cada vez que el objetivo termine un descanso prolongado, el penalizador se reduce en 1 hasta que desaparezca.

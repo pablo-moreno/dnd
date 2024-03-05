@@ -29,4 +29,4 @@ Conjuras un perro guardián espectral en un espacio sin ocupar que puedas ver de
 
 El mastín es invisible para todas las criaturas excepto para ti y no puede recibir daño. Cuando una criatura de tamaño Pequeño o más grande se acerque a 30 pies o menos de él sin decir primero la contraseña que especifiques cuando lances el conjuro, el mastín empieza a ladrar fuerte. El mastín ve criaturas invisibles, puede ver en el Plano Etéreo e ignora las ilusiones.
 
-Al principio de cada uno de tus turnos, el mastín intenta morder a una criatura que se encuentre a 5 pies o menos de él y que sea hostil hacia ti. El bonificador por ataque del mastín es igual a tu modificador por característica para lanzar conjuros + tu bonificador por competencia. Si impacta, inflige 4d8 puntos de daño [[perforante]].
+Al principio de cada uno de tus turnos, el mastín intenta morder a una criatura que se encuentre a 5 pies o menos de él y que sea hostil hacia ti. El bonificador por ataque del mastín es igual a tu modificador por característica para lanzar conjuros + tu bonificador por competencia. Si impacta, inflige 4d8 puntos de daño [[Perforante]].

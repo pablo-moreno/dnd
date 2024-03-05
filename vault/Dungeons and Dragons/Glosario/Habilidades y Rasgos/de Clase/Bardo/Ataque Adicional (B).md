@@ -8,4 +8,4 @@ aliases:
 Nivel de Clase: 6
 Mejora de Habilidad:
 ---
-Puedes [[atacar]] dos veces en lugar de una cuando realizas la acción de ataque en tu turno.
+Puedes [[Atacar]] dos veces en lugar de una cuando realizas la acción de ataque en tu turno.

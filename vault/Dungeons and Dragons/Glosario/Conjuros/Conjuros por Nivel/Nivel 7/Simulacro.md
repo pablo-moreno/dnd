@@ -27,6 +27,6 @@ Le das forma a un duplicado ilusorio de una bestia o de un humanoide que está d
 
 El simulacro es amistoso hacia ti y las criaturas que indiques. Obedece las órdenes que le des, se mueve y actúa de acuerdo a tus deseos y actúa en tu turno de combate. Al simulacro le falta la capacidad de aprender y volverse más poderoso, así que no sube de nivel ni aumenta otras características, ni tampoco recupera los espacios de conjuro gastados.
 
-Si el simulacro recibe daño, puedes repararlo en un laboratorio alquímico usando hierbas y minerales raros de 10.000 po de valor por cada punto de golpe a recuperar. El simulacro dura hasta que sus [[puntos de golpe]] se reduzcan a 0, momento en el que se convierte en nieve y se derrite inmediatamente.
+Si el simulacro recibe daño, puedes repararlo en un laboratorio alquímico usando hierbas y minerales raros de 10.000 po de valor por cada punto de golpe a recuperar. El simulacro dura hasta que sus [[Puntos de Golpe]] se reduzcan a 0, momento en el que se convierte en nieve y se derrite inmediatamente.
 
 Si lanzas este conjuro de nuevo, cualquier duplicado activo que hayas creado con él se destruye de manera inmediata.

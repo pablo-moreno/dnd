@@ -29,9 +29,9 @@ Clases:
 ---
 (polvo de diamante de al menos 10.000 po de valor, el cual consume el conjuro)
 
-Imbuyes a una criatura que tocas con energía positiva para que se deshaga de un efecto que la debilita. Puedes reducir un nivel de [[agotamiento]] del objetivo o terminar con uno de los siguientes efectos:
+Imbuyes a una criatura que tocas con energía positiva para que se deshaga de un efecto que la debilita. Puedes reducir un nivel de [[Agotamiento]] del objetivo o terminar con uno de los siguientes efectos:
 
-- Un efecto que tenga [[hechizado]] o [[petrificado]] al objetivo.
+- Un efecto que tenga [[Hechizado]] o [[Petrificado]] al objetivo.
 - Una maldición, incluyendo la sintonía del objetivo con un objeto maldecido con magia.
 - Cualquier reducción en las características del objetivo.
-- Un efecto que reduzca el máximo de [[puntos de golpe]] del objetivo.
+- Un efecto que reduzca el máximo de [[Puntos de Golpe]] del objetivo.

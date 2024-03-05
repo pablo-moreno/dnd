@@ -17,7 +17,7 @@ Puntos de Golpe en primer nivel: 8 + tu modificador de [[Constitución]].
 Puntos de Golpe a niveles superiores: 1d8 (o 5) + tu modificador de [[Constitución]] por nivel de bardo después del primer nivel.
 
 *Competencias*
-Armadura: armadura [[ligera]].
+Armadura: armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]].
 Armas: armas simples, [[ballesta de mano]], [[espada larga]], [[estoque]], [[espada corta]].
 Herramientas: tres instrumentos musicales de tu elección.
 Tiradas de Salvación: [[Destreza]], [[Carisma]].

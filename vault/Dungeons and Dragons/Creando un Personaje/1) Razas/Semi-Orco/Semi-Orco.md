@@ -21,7 +21,7 @@ Idiomas:
 
 Tu personaje semiorco tiene ciertos rasgos derivados de tus antepasados orcos.
 
-*Incremento de Puntuación de Características*. Tu puntuación de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] se incrementa en 2 y tu
+*Incremento de Puntuación de Características*. Tu puntuación de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] se incrementa en 2 y tu
 puntuación de [[Constitución]] se incrementa en 1.
 
 *Edad*. Los semiorcos maduran un poco más rápido que los humanos, alcanzando la adultez alrededor de los 14. Envejecen notablemente más rápido y raramente viven más de 75 años.

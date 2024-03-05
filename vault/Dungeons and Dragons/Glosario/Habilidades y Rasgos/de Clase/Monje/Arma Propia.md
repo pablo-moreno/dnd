@@ -18,5 +18,5 @@ El arma elegida debe cumplir estos criterios:
 
 • Tienes que ser competente con ella.
 
-• No puede tener las propiedades "[[pesada]]" ni "[[especial]]".
+• No puede tener las propiedades "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]]" ni "[[Especial]]".
 

@@ -9,5 +9,5 @@ Nivel de Clase: 1
 Mejora de Habilidad:
 ---
 Mientras no lleves ninguna armadura, tu Clase de Armadura será de 10 + Modificador de [[Destreza]] + Modificador de [[Constitución]]. 
-Puedes usar un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]] y aun así beneficiarte de este rasgo. 
+Puedes usar un [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]] y aun así beneficiarte de este rasgo. 
 

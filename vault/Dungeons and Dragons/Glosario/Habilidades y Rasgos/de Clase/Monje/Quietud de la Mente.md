@@ -8,5 +8,5 @@ aliases:
 Nivel de Clase: 7
 Mejora de Habilidad:
 ---
-Puedes usar tu acción para que termine un efecto en ti causante del estado [[asustado]] o [[Hechizado]].
+Puedes usar tu acción para que termine un efecto en ti causante del estado [[Asustado]] o [[Hechizado]].
 

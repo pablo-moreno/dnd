@@ -30,6 +30,6 @@ Clases:
   - "[[Druida]]"
   - "[[Artífice]]"
 ---
-Una criatura que tocas recupera un número de [[puntos de golpe]] igual a 1d8 + tu modificador por característica para lanzar conjuros. Este conjuro no tiene efecto ni en no muertos ni en constructos.
+Una criatura que tocas recupera un número de [[Puntos de Golpe]] igual a 1d8 + tu modificador por característica para lanzar conjuros. Este conjuro no tiene efecto ni en no muertos ni en constructos.
 
 **En niveles superiores.** Cuando lanzas este conjuro usando un espacio de conjuro de nivel 2 o superior, la curación aumentan 1d8 por cada nivel por encima del nivel 1.

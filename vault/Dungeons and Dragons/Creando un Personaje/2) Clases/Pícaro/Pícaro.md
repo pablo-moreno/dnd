@@ -11,18 +11,18 @@ Habilidades:
 *Rasgos de Clase*
 Como pícaro, ganas los siguientes rasgos de clase.
 
-[[Puntos de golpe]]: Dado de Golpe: 1d8 por nivel de pícaro.
+[[Puntos de Golpe]]: Dado de Golpe: 1d8 por nivel de pícaro.
 Puntos de Golpe en primer nivel: 8 + tu modificador de [[Constitución]].
 Puntos de Golpe a niveles superiores: 1d8 (o 5) + tu modificador de [[Constitución]] por cada nivel de
 pícaro después del primer nivel.
 
 *Competencias*
-Armadura: armadura [[ligera]].
+Armadura: armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]].
 Armas: armas simples, [[ballesta de mano]], [[espada larga]], [[estoque]], [[espada corta]].
 Herramientas: [[herramientas de ladrón]].
 Tiradas de Salvación: [[Destreza]], [[Inteligencia]].
 Habilidades: escoge cuatro entre [[Acrobacias]], [[Atletismo]], [[Persuasión]], [[Percepción]], [[Engaño|Engaño]],
-[[Interpretación]], [[Intimidación]], [[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]], [[Juego de Manos]], [[Percepción]] y [[Sigilo]].
+[[Interpretación]], [[Intimidación]], [[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]], [[Juego de Manos]], [[Percepción]] y [[Sigilo]].
 
 *Equipo*
 Comienzas con el siguiente equipo, además del equipo otorgado por tu trasfondo:

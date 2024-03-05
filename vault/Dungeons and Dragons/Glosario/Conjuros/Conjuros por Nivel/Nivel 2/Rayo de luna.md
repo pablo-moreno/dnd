@@ -25,7 +25,7 @@ Clases:
 
 Un rayo plateado de luz pálida brilla en un cilindro de 5 pies de radio y 40 pies de alto, cuyo centro se encuentra en un punto que elijas dentro del alcance. Hasta que el conjuro termine, una luz tenue llena el cilindro.
 
-Cuando una criatura entra en el área del conjuro por primera vez en un turno o empieza un turno ahí, unas fantasmales llamas la envuelven causándole un dolor agudo. Debe hacer una [[tirada de salvación]] de [[Constitución]]: si falla, recibe 2d10 puntos de daño [[radiante]] y, si tiene éxito, la mitad.
+Cuando una criatura entra en el área del conjuro por primera vez en un turno o empieza un turno ahí, unas fantasmales llamas la envuelven causándole un dolor agudo. Debe hacer una [[Tirada de Salvación]] de [[Constitución]]: si falla, recibe 2d10 puntos de daño [[Radiante]] y, si tiene éxito, la mitad.
 
 Un cambiaformas hace la tirada de salvación con desventaja. Si falla, también vuelve a su forma original inmediatamente y no puede asumir una forma diferente hasta que deje la luz del conjuro.
 

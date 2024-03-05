@@ -17,7 +17,7 @@ Puntos de Golpe a niveles superiores: 1d10 (o 6) + tu modificador de [[Constituc
 paladín después del primer nivel.
 
 *Competencias*
-Armadura: todas las armaduras y [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]].
+Armadura: todas las armaduras y [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]].
 Armas: armas simples, armas marciales.
 Herramientas: ninguna.
 Tiradas de Salvación: [[Sabiduría]], [[Carisma]].
@@ -27,7 +27,7 @@ Habilidades: escoge dos entre [[Atletismo]], [[Perspicacia]], [[Intimidación]],
 *Equipo*
 Comienzas con el siguiente equipo, además del equipo otorgado por tu trasfondo:
 
-• Un arma marcial y un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]] o (b) dos armas marciales.
+• Un arma marcial y un [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]] o (b) dos armas marciales.
 • (a) Cinco [[jabalina]] o (b) cualquier arma cuerpo a cuerpo simple.
 • Un [[equipo de sacerdote]] o (b) un [[equipo de explorador]].
 • [[Cota de Malla]] y un símbolo sagrado.

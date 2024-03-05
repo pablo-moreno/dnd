@@ -14,4 +14,4 @@ Eres rápido observando los detalles de tu entorno, ganas los siguientes benefic
 puedes interpretar lo que dice leyendo sus labios.
 
 • Tienes un +5 de bonificador a tus puntuaciones de Sabiduría pasiva ([[Percepción]]) e Inteligencia
-pasiva ([[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]])
+pasiva ([[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]])

@@ -11,8 +11,8 @@ La resolución de un Samurái es casi inquebrantable, y los enemigos en el camin
 tienen dos opciones: ceder o morir luchando.
 
 *Competencia Adicional*
-Adquieres competencia en una de las siguientes habilidades de tu elección: [[Historia]], [[perspicacia]],
-[[Atletismo]] o [[persuasión]].
+Adquieres competencia en una de las siguientes habilidades de tu elección: [[Historia]], [[Perspicacia]],
+[[Atletismo]] o [[Persuasión]].
 Alternativamente, aprendes un idioma de tu elección.
 
 

@@ -13,7 +13,7 @@ Te conviertes en un avatar de la paz, lo que te brinda dos beneficios:
 • Tienes resistencia a todo el daño infligido por otras criaturas (sus ataques, conjuros y otros
 efectos).
 
-• Cada vez que una criatura te golpea con un ataque, recibe un daño [[radiante]] igual a la mitad del
+• Cada vez que una criatura te golpea con un ataque, recibe un daño [[Radiante]] igual a la mitad del
 daño que recibes del ataque.
 
 Si atacas a una criatura, le lanzas un conjuro o le haces daño por cualquier medio que no sea este

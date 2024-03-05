@@ -9,7 +9,7 @@ Nivel de Clase: 6
 Mejora de Habilidad: "18"
 ---
 Siempre que tú o una criatura amistosa situada hasta a 10 pies (3 metros) de ti tenga que realizar
-una [[tirada de salvación]], la criatura gana una bonificación a la tirada de salvación igual a tu
+una [[Tirada de Salvación]], la criatura gana una bonificación a la tirada de salvación igual a tu
 modificador de [[Carisma]] (con una bonificación mínima de +1). Debes estar consciente para otorgar
 esta bonificación.
 

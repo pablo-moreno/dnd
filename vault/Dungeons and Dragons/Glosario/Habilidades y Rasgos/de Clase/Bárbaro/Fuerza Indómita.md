@@ -8,5 +8,5 @@ aliases:
 Nivel de Clase: 18
 Mejora de Habilidad:
 ---
-Si tu puntuación total para una prueba de [[Fuerza]] es menor a tu puntuación de Fuerza, puedes usarla en lugar de la puntuación total de la tirada.
+Si tu puntuación total para una prueba de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] es menor a tu puntuación de Fuerza, puedes usarla en lugar de la puntuación total de la tirada.
 

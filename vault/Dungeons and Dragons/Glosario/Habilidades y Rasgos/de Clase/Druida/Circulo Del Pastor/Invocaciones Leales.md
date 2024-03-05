@@ -8,7 +8,7 @@ aliases:
 Nivel de Clase: 14
 Mejora de Habilidad:
 ---
-Los espíritus de la naturaleza con quienes te comunicas te protegen cuando estás más indefenso. Si te reducen a 0 [[puntos de golpe]] o estás [[incapacitado]] contra tu voluntad, puedes obtener
+Los espíritus de la naturaleza con quienes te comunicas te protegen cuando estás más indefenso. Si te reducen a 0 [[Puntos de Golpe]] o estás [[Incapacitado]] contra tu voluntad, puedes obtener
 inmediatamente los beneficios de conjurar animales como si fueran lanzados usando una ranura de conjuro de 9º nivel.
 
 Convoca a cuatro bestias de tu elección que tienen una calificación de desafío de 2 o inferior. Las

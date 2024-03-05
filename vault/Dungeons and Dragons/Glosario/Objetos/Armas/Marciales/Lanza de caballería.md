@@ -8,7 +8,7 @@ aliases:
 Dado_de_Daño: 1d12
 Tipo_de_Daño: "[[Perforante]]"
 Propiedades:
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Alcance]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Alcance]]"
   - "[[Especial]]"
 Rango: 
 Peso: 6 lb

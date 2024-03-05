@@ -34,7 +34,7 @@ alineamiento original.
 
 *Mayoría de edad*. Tocas a un humanoide que es un adulto joven. Durante las siguientes 24 horas, cada vez que el objetivo realiza una prueba de habilidad, puede tirar un d4 y agregar el número tirado a la prueba de habilidad. Una criatura puede beneficiarse de este rito solo una vez.
 
-*Dedicación*. Tocas a un humanoide que desea dedicarse al servicio de tu dios. Durante las siguientes 24 horas, cada vez que el objetivo realiza una [[tirada de salvación]], puede tirar un d4 y agregar el número tirado al resultado. Una criatura puede beneficiarse de este rito solo una vez.
+*Dedicación*. Tocas a un humanoide que desea dedicarse al servicio de tu dios. Durante las siguientes 24 horas, cada vez que el objetivo realiza una [[Tirada de Salvación]], puede tirar un d4 y agregar el número tirado al resultado. Una criatura puede beneficiarse de este rito solo una vez.
 
 *Rito funerario*. Tocas un cadáver, y durante los próximos 7 días, el objetivo no puede volverse en muerto viviente por ningún medio a menos que se use un conjuro deseo.
 

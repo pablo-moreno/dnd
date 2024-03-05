@@ -8,4 +8,4 @@ aliases:
 Nivel de Clase: 17
 Mejora de Habilidad:
 ---
-Ganas resistencia al daño [[contundente]], [[perforante]] y [[cortante]] de armas no mágicas.
+Ganas resistencia al daño [[Contundente]], [[Perforante]] y [[Cortante]] de armas no mágicas.

@@ -11,7 +11,7 @@ Mejora de Habilidad:
 Cuando seleccionas esta escuela, visiones del futuro comienzan a introducirse en tu consciencia.
 
 Cuando finalizas un descanso prolongado, tira dos d20 y anota los resultados. Puedes reemplazar
-cualquier [[tirada de ataque]], [[tirada de salvación]] o habilidad hecha por ti o una criatura que puedas ver por una de estas tiradas adivinatorias. 
+cualquier [[Tirada de Ataque]], [[Tirada de Salvación]] o habilidad hecha por ti o una criatura que puedas ver por una de estas tiradas adivinatorias. 
 
 Debes declararlo antes de la tirada y puedes reemplazar una tirada de esta manera únicamente una vez por turno. Cada tirada adivinatoria puede usarse solamente una vez.
 

@@ -24,4 +24,4 @@ Clases:
 ---
 Creas un plano de fuerza con forma de espada que planea dentro del alcance. Dura mientras lo haga el conjuro.
 
-Cuando aparece la espada, haces un ataque de conjuro cuerpo a cuerpo contra un objetivo de tu elección que se encuentre a 5 pies o menos de la espada. Si impactas, el objetivo recibe 3d10 puntos de daño por [[fuerza]]. Hasta que el conjuro termine, puedes usar una acción adicional en cada uno de tus turnos para mover la espada hasta 20 pies a un lugar donde puedas verla y repetir este ataque contra el mismo objetivo o contra otro diferente
+Cuando aparece la espada, haces un ataque de conjuro cuerpo a cuerpo contra un objetivo de tu elección que se encuentre a 5 pies o menos de la espada. Si impactas, el objetivo recibe 3d10 puntos de daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]. Hasta que el conjuro termine, puedes usar una acción adicional en cada uno de tus turnos para mover la espada hasta 20 pies a un lugar donde puedas verla y repetir este ataque contra el mismo objetivo o contra otro diferente

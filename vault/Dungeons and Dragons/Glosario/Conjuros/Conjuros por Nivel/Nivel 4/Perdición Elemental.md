@@ -26,7 +26,7 @@ Clases:
   - "[[Mago]]"
   - "[[Artífice]]"
 ---
-Elige una criatura que puedas ver dentro del alcance y elige uno de los siguientes tipos de daño: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[frío]], [[fuego]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Relámpago|Relámpago]] o [[trueno]]. El objetivo debe tener éxito en una [[tirada de salvación]] de [[Constitución]] o ser afectado por el conjuro por su duración. 
+Elige una criatura que puedas ver dentro del alcance y elige uno de los siguientes tipos de daño: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[Frío]], [[Fuego]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago|Relámpago]] o [[Trueno]]. El objetivo debe tener éxito en una [[Tirada de Salvación]] de [[Constitución]] o ser afectado por el conjuro por su duración. 
 
 La primera vez en cada turno, el objetivo afectado recibe un daño del tipo elegido, el objetivo recibe un daño adicional de 2d6 de ese tipo. Además, el objetivo pierde cualquier resistencia a ese tipo de daño hasta que termina el conjuro.
 

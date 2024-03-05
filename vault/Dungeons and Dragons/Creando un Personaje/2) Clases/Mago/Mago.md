@@ -21,7 +21,7 @@ Armadura: ninguna.
 Armas: [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]], [[ballesta ligera]], [[daga]], [[dardo]], [[honda]].
 Herramientas: ninguna.
 Tiradas de Salvación: [[Inteligencia]], [[Sabiduría]].
-Habilidades: elige dos entre [[Arcano]], [[Perspicacia]], [[Historia]], [[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]], [[Medicina]] y
+Habilidades: elige dos entre [[Arcano]], [[Perspicacia]], [[Historia]], [[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]], [[Medicina]] y
 [[Religión]].
 
 *Equipo*

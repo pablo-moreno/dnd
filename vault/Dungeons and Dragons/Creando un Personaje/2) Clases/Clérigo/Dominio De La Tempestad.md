@@ -18,7 +18,7 @@ Nivel del clérigo          Conjuros
        9                        [[Onda destructiva]], [[Plaga de insectos]]
 
 *Competencias Adicionales*
-Ganas competencia con las armas marciales y armadura [[pesada]].
+Ganas competencia con las armas marciales y armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]].
 
 
 

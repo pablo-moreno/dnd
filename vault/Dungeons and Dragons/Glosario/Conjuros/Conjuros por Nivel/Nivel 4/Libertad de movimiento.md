@@ -31,6 +31,6 @@ Clases:
 ---
 (una correa de cuero atada alrededor del brazo o una extremidad similar)
 
-Tocas a una criatura voluntaria. Mientras dure el conjuro, el movimiento del objetivo no se ve afectado por el terreno difícil, y los conjuros y otros efectos mágicos no pueden ni reducir la velocidad del objetivo ni hacer que este quede [[paralizado]] o [[apresado]].
+Tocas a una criatura voluntaria. Mientras dure el conjuro, el movimiento del objetivo no se ve afectado por el terreno difícil, y los conjuros y otros efectos mágicos no pueden ni reducir la velocidad del objetivo ni hacer que este quede [[Paralizado]] o [[Apresado]].
 
 El objetivo también puede gastar 5 pies para escapar automáticamente de limitaciones como grilletes o una criatura que le hace una presa. Finalmente, estar bajo el agua no le impone penalizadores ni al movimiento ni a los ataques.

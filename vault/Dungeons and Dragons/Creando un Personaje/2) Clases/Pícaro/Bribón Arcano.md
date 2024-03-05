@@ -17,7 +17,7 @@ Ganas la habilidad de lanzar conjuros de mago.
 Aprendes tres trucos: [[Mano de mago]] y otros dos trucos a tu elección de la lista de conjuros del mago. Aprendes otro truco de mago a tu elección al nivel 10.
 
 *Espacios de Conjuro*
-La tabla Lanzamiento de Conjuros del Bribón Arcano muestra cuántos [[espacios de conjuros]] tienes para lanzar tus conjuros de nivel 1 y superiores.  Para lanzar uno de estos conjuros debes gastar un espacio de conjuro, del mismo nivel del conjuro o superior. 
+La tabla Lanzamiento de Conjuros del Bribón Arcano muestra cuántos [[Espacios de Conjuros]] tienes para lanzar tus conjuros de nivel 1 y superiores.  Para lanzar uno de estos conjuros debes gastar un espacio de conjuro, del mismo nivel del conjuro o superior. 
 
 Recuperarás todos los espacios usados cuando termines un descanso prolongado. Por ejemplo, si conoces el conjuro de nivel 1 hechizar persona y tienes un espacio de conjuro de nivel 1 y uno de nivel 2, puedes lanzar hechizar persona usando cualquiera de los dos.
 

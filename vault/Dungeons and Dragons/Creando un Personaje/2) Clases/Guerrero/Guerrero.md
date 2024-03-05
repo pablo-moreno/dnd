@@ -16,17 +16,17 @@ Puntos de Golpe en primer nivel: 10 + tu modificador de [[Constitución]].
 Puntos de Golpe a niveles superiores: 1d10 (o 6) + tu modificador de [[Constitución]] por cada nivel de guerrero después del primer nivel.
 
 *Competencias*
-Armadura: todas las armaduras, [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]].
+Armadura: todas las armaduras, [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]].
 Armas: armas simples, armas marciales.
 Herramientas: ninguna.
-Tiradas de Salvación: [[Fuerza]], [[Constitución]].
+Tiradas de Salvación: [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]], [[Constitución]].
 Habilidades: escoge dos entre [[Acrobacias]], [[Atletismo]], [[Perspicacia]], [[Historia]], [[Intimidación]],
-[[Trato con animales]], [[Percepción]] y [[Supervivencia]].
+[[Trato con Animales]], [[Percepción]] y [[Supervivencia]].
 
 *Equipo*
 Comienzas con el siguiente equipo, además del otorgado por tu trasfondo:
 • (a) una [[Cota de Malla]] o (b) [[armadura de cuero]], [[arco largo]] y carcaj con 20 [[flecha básica]].
-• (a) un arma marcial y un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]] o (b) dos armas marciales.
+• (a) un arma marcial y un [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]] o (b) dos armas marciales.
 • (a) una [[ballesta ligera]] y 20 [[virote básico]] o (b) dos [[hacha de mano]].
 • (a) un [[Equipo de Explorador de Mazmorras]] o (b) un [[equipo de explorador]].
 

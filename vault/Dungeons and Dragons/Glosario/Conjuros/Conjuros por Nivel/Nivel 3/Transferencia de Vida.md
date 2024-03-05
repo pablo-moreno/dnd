@@ -22,6 +22,6 @@ Clases:
   - "[[Mago]]"
   - "[[Clérigo]]"
 ---
-Sacrificas algo de tu salud para reparar las heridas de otra criatura. Recibes 4d8 de daño [[necrótico]], y una criatura de tu elección que puedes ver dentro del alcance recupera una cantidad de [[puntos de golpe]] igual al doble del daño necrótico que recibes.
+Sacrificas algo de tu salud para reparar las heridas de otra criatura. Recibes 4d8 de daño [[Necrótico]], y una criatura de tu elección que puedes ver dentro del alcance recupera una cantidad de [[Puntos de Golpe]] igual al doble del daño necrótico que recibes.
 
 *A niveles superiores*. Cuando lances este conjuro usando una ranura del conjuro de 4° nivel o superior, el daño aumenta en 1d8 por cada nivel de ranura por encima de 3°.

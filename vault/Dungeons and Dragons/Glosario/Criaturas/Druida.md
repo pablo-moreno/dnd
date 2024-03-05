@@ -10,7 +10,7 @@ size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
+| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 12 | 1 | `dice: 1d20 + 1` |
 | [[Constitución]] | 13 | 1 | `dice: 1d20 + 1` |
 | [[Inteligencia]] | 12 | 1 | `dice: 1d20 + 1` |

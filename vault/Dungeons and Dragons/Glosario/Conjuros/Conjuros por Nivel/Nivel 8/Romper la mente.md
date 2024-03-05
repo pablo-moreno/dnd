@@ -29,7 +29,7 @@ Clases:
 ---
 (un puñado de esferas de arcilla, vidrio, cristal o mineral)
 
-Haces estallar la mente de una criatura que puedas ver dentro del alcance para destrozar su intelecto y su personalidad. El objetivo recibe 4d6 puntos de daño [[psíquico]] y debe hacer una [[tirada de salvación]] de [[Inteligencia]]. Si falla, sus puntuaciones de Inteligencia y [[Carisma]] se reducen a 0 y no puede lanzar conjuros, activar objetos mágicos, entender idiomas o comunicarse de un modo inteligible. Sin embargo, puede identificar a sus amigos, seguirlos y protegerlos.
+Haces estallar la mente de una criatura que puedas ver dentro del alcance para destrozar su intelecto y su personalidad. El objetivo recibe 4d6 puntos de daño [[Psíquico]] y debe hacer una [[Tirada de Salvación]] de [[Inteligencia]]. Si falla, sus puntuaciones de Inteligencia y [[Carisma]] se reducen a 0 y no puede lanzar conjuros, activar objetos mágicos, entender idiomas o comunicarse de un modo inteligible. Sin embargo, puede identificar a sus amigos, seguirlos y protegerlos.
 
 Cada 30 días, la criatura puede repetir la tirada de salvación. Si tiene éxito, el conjuro termina.
 

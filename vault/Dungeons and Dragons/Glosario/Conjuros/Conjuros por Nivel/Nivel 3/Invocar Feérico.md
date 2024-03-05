@@ -31,7 +31,7 @@ Clases:
 
 Invocas un [[Espíritu feérico]] que se manifiesta en un espacio sin ocupar que puedas ver dentro del
 alcance. Esta forma corpórea usa el perfil del espíritu feérico.
-Cuando lances el conjuro, elige un estado de ánimo: furioso, alegre o burlón. La criatura se parecerá a un ser feérico de tu elección con ese estado de ánimo, lo que determinará uno de los atributos de su perfil. La criatura desaparecerá si sus [[puntos de golpe]] se reducen a 0 o si el conjuro termina.
+Cuando lances el conjuro, elige un estado de ánimo: furioso, alegre o burlón. La criatura se parecerá a un ser feérico de tu elección con ese estado de ánimo, lo que determinará uno de los atributos de su perfil. La criatura desaparecerá si sus [[Puntos de Golpe]] se reducen a 0 o si el conjuro termina.
 
 La criatura se considera un aliado para ti y para tus compañeros. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo. Obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, hace la acción de [[Esquivar]] y usa su movimiento para evitar el peligro.
 

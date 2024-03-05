@@ -29,7 +29,7 @@ Clases:
 Invocas a espíritus de criaturas muertas, que revolotean a tu alrededor hasta que el conjuro termine. Los espíritus son intangibles e invulnerables.
 
 Hasta que el conjuro termine, cualquier ataque que hagas causarás 1d8 de daño adicional cuando
-impactes a una criatura que esté a 10 pies o menos de ti. Este daño es [[radiante]], [[necrótico]] o de [[frío]] (a tu elección cuando lances el conjuro). Cualquier criatura que reciba este daño no podrá recuperar [[puntos de golpe]] hasta el principio de tu siguiente turno.
+impactes a una criatura que esté a 10 pies o menos de ti. Este daño es [[Radiante]], [[Necrótico]] o de [[Frío]] (a tu elección cuando lances el conjuro). Cualquier criatura que reciba este daño no podrá recuperar [[Puntos de Golpe]] hasta el principio de tu siguiente turno.
 
 Además, cualquier criatura de tu elección que puedas ver y que empiece su turno a 10 pies o menos de ti verá su velocidad reducida en 10 pies hasta el principio de tu siguiente turno.
 

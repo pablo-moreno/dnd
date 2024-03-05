@@ -27,6 +27,6 @@ Clases:
 
 (una gota de agua o un trozo de hielo)
 
-Creas un fragmento de hielo y lo arrojas a una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. En un golpe, el objetivo recibe 1d10 de daño [[perforante]]. Aunque falle o acierte, el fragmento luego explota. El objetivo y cada criatura dentro de los 5 pies de distancia deben tener éxito en una [[tirada de salvación]] de [[Destreza]] o recibir 2d6 de daño por [[frío]].
+Creas un fragmento de hielo y lo arrojas a una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. En un golpe, el objetivo recibe 1d10 de daño [[Perforante]]. Aunque falle o acierte, el fragmento luego explota. El objetivo y cada criatura dentro de los 5 pies de distancia deben tener éxito en una [[Tirada de Salvación]] de [[Destreza]] o recibir 2d6 de daño por [[Frío]].
 
 A niveles superiores. Cuando lances este conjuro usando una ranura del conjuro de 2° nivel o superior, el daño aumenta en 1d6 por cada nivel de ranura por encima de 1°.

@@ -21,7 +21,7 @@ Por ejemplo, si conoces el conjuro de nivel 1 amistad animal y tienes un espacio
 Conoces dos conjuros de nivel 1 de tu elección de la [[lista de conjuros de explorador]].
 La columna Conjuros Conocidos de la tabla Explorador muestra cuándo puedes aprender más
 conjuros de explorador a tu elección. 
-Cada conjuro debe ser de un nivel para el que tengas [[espacios de conjuros]]. Por ejemplo, cuando se alcanza el nivel 5 en esta clase, puede aprender un nuevo conjuro de nivel 1 o 2.
+Cada conjuro debe ser de un nivel para el que tengas [[Espacios de Conjuros]]. Por ejemplo, cuando se alcanza el nivel 5 en esta clase, puede aprender un nuevo conjuro de nivel 1 o 2.
 Además, cuando ganas un nivel en esta clase, puedes elegir reemplazar uno de tus conjuros que
 conozcas por uno de los de la lista de conjuros, que debe ser de un nivel para el que tengas espacios de conjuros.
 
@@ -53,7 +53,7 @@ conozcas por uno de los de la lista de conjuros, que debe ser de un nivel para e
 
 
 *Característica de Lanzamiento de Conjuros*
-La [[sabiduría]] es tu característica de lanzamiento de conjuros para tus hechizos de explorador, debido a que tu magia viene de tu sintonía con la naturaleza. Usas tu Sabiduría siempre que un conjuro se refiera a tu habilidad de lanzamiento de conjuros. Además, usas tu modificador de Sabiduría para determinar la CD de la tirada de salvación de un conjuro de explorador que lances y cuando realices una tirada de ataque con uno.
+La [[Sabiduría]] es tu característica de lanzamiento de conjuros para tus hechizos de explorador, debido a que tu magia viene de tu sintonía con la naturaleza. Usas tu Sabiduría siempre que un conjuro se refiera a tu habilidad de lanzamiento de conjuros. Además, usas tu modificador de Sabiduría para determinar la CD de la tirada de salvación de un conjuro de explorador que lances y cuando realices una tirada de ataque con uno.
 
 CD de la Salvación de un Conjuro = 8 + tu bonificador de competencia + tu modificador de [[Sabiduría]]
 Modificador de Ataque de un Conjuro = tu bonificador de competencia + tu modificador de [[Sabiduría]]

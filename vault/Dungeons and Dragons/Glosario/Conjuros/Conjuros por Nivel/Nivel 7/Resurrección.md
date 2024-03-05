@@ -31,6 +31,6 @@ Este conjuro neutraliza cualquier veneno y cura las enfermedades normales que af
 
 Este conjuro cierra todas las heridas mortales y restablece todas las partes del cuerpo que falten.
 
-Volver de entre los muertos es una experiencia dura. El objetivo recibe un penalizador de –4 a todas las [[tiradas de ataque]], [[tiradas de salvación]] y pruebas de característica. Cada vez que el objetivo termine un descanso prolongado, el penalizador se reduce en 1 hasta que desaparece.
+Volver de entre los muertos es una experiencia dura. El objetivo recibe un penalizador de –4 a todas las [[Tiradas de Ataque]], [[Tiradas de Salvación]] y pruebas de característica. Cada vez que el objetivo termine un descanso prolongado, el penalizador se reduce en 1 hasta que desaparece.
 
 Lanzar este conjuro para restablecer la vida de una criatura que ha estado muerta durante un año o más cuesta mucho. Hasta que no termines un descanso prolongado, no puedes volver a lanzar conjuros y tienes desventaja en todas las tiradas de ataque, pruebas de característica y tiradas de salvación.

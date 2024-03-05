@@ -21,7 +21,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Atacas con un látigo psíquico a una criatura que puedas ver dentro del alcance. El objetivo tiene que hacer una [[tirada de salvación]] de [[Inteligencia]]. Si la falla, recibirá 3d6 de daño [[psíquico]] y no podrá llevar a cabo ninguna reacción hasta el final de su siguiente turno.
+Atacas con un látigo psíquico a una criatura que puedas ver dentro del alcance. El objetivo tiene que hacer una [[Tirada de Salvación]] de [[Inteligencia]]. Si la falla, recibirá 3d6 de daño [[Psíquico]] y no podrá llevar a cabo ninguna reacción hasta el final de su siguiente turno.
 
 Además, en su siguiente turno, deberá elegir entre un movimiento, una acción o una acción
 adicional; solo podrá hacer una de las tres. Si supera la tirada, el objetivo recibirá la mitad de daño y no sufrirá el resto de efectos del conjuro.

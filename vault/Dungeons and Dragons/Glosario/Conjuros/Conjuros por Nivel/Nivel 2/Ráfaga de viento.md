@@ -27,7 +27,7 @@ Clases:
 ---
 (la semilla de una legumbre)
 
-Una línea de viento fuerte de 60 pies de largo y 10 pies de ancho surge de ti en la dirección que elijas y dura mientras lo hace el conjuro. Todas las criaturas que empiezan su turno en la línea deben superar una [[tirada de salvación]] de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] para no ser empujadas a 15 pies de ti siguiendo la dirección de la línea.
+Una línea de viento fuerte de 60 pies de largo y 10 pies de ancho surge de ti en la dirección que elijas y dura mientras lo hace el conjuro. Todas las criaturas que empiezan su turno en la línea deben superar una [[Tirada de Salvación]] de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] para no ser empujadas a 15 pies de ti siguiendo la dirección de la línea.
 
 Cualquier criatura que se encuentre en la línea debe gastar 2 pies de movimiento por cada pie que se mueva para acercarse a ti.
 

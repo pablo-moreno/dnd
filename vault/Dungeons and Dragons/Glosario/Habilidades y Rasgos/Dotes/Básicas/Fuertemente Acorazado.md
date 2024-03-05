@@ -6,10 +6,10 @@ tags:
   - type/note
 aliases:
 ---
-Requisito: Competente con armadura [[media]].
+Requisito: Competente con armadura [[Media]].
 
-Has entrenado para dominar el uso de armadura [[pesada]], ganando los siguientes beneficios:
+Has entrenado para dominar el uso de armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]], ganando los siguientes beneficios:
 
-• Incrementa tu puntuación de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] en 1, hasta un máximo de 20.
+• Incrementa tu puntuación de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] en 1, hasta un máximo de 20.
 
-• Ganas la competencia con armadura [[pesada]]
+• Ganas la competencia con armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]]

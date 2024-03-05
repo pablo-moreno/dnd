@@ -9,7 +9,7 @@ Nivel de Clase: 14
 Mejora de Habilidad:
 ---
 Obtienes la habilidad de tejer magia oscura en tus palabras y aprovechar los miedos más profundos de una criatura.
-Como acción, mágicamente susurras una frase que solo una criatura de tu elección dentro de los 30 pies de distancia puede escuchar. El objetivo debe hacer una [[tirada de salvación]] de [[Sabiduría]] contra tu CD de salvación de conjuro.
+Como acción, mágicamente susurras una frase que solo una criatura de tu elección dentro de los 30 pies de distancia puede escuchar. El objetivo debe hacer una [[Tirada de Salvación]] de [[Sabiduría]] contra tu CD de salvación de conjuro.
 
 Tiene éxito automáticamente si no comparte un idioma contigo o si no puede escucharte. En una
 tirada de salvación exitosa, tu susurro suena como un murmullo ininteligible y no tiene ningún

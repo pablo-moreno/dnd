@@ -27,7 +27,7 @@ Clases:
 
 Eliges un espacio desocupado de 5 pies cuadrados en el suelo que puedes ver dentro del alcance. Una mano Mediana hecha de tierra compactada se eleva allí y alcanza una criatura que puedes ver a 5 pies de ella. El objetivo debe hacer una tirada de salvación de Fuerza. En una salvación fallida, el objetivo recibe 2d6 de daño contundente y queda apresado por la duración del conjuro.
 
-Como acción, puedes hacer que la mano aplaste al objetivo apresado, que debe hacer una [[tirada de salvación]] de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]]. El objetivo recibe 2d6 de daño de golpe en una salvación fallida, o la mitad de daño en una exitosa.
+Como acción, puedes hacer que la mano aplaste al objetivo apresado, que debe hacer una [[Tirada de Salvación]] de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]]. El objetivo recibe 2d6 de daño de golpe en una salvación fallida, o la mitad de daño en una exitosa.
 
 Para liberarse, el objetivo apresado puede usar su acción para hacer una prueba de Fuerza contra tu CD de salvación de conjuro. En un éxito, el objetivo se escapa y ya no está apresado por la mano.
 

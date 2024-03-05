@@ -26,7 +26,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Llegas a la mente de una criatura que puedes ver y la obligas a hacer una [[tirada de salvación]] de [[Inteligencia]]. Una criatura tiene éxito automáticamente si es inmune a estar asustada. En una salvación fallida, el objetivo pierde la habilidad de distinguir a un amigo del enemigo, considerando a todas las criaturas que puede ver como enemigos hasta que el conjuro termine. 
+Llegas a la mente de una criatura que puedes ver y la obligas a hacer una [[Tirada de Salvación]] de [[Inteligencia]]. Una criatura tiene éxito automáticamente si es inmune a estar asustada. En una salvación fallida, el objetivo pierde la habilidad de distinguir a un amigo del enemigo, considerando a todas las criaturas que puede ver como enemigos hasta que el conjuro termine. 
 
 Cada vez que el objetivo recibe daño, puede repetir la tirada de salvación, terminando el efecto
 sobre sí mismo en un éxito.

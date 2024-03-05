@@ -16,5 +16,5 @@ Puedes almacenar un número máximo de sobrecargas de energía igual a tu modifi
 Siempre que termines con éxito un conjuro con [[Disipar magia]] o [[Contrahechizo]], ganas una sobrecarga de poder mientras robas la magia del conjuro que frustraste. Si finaliza un descanso corto sin sobrecargas de poder, ganarás una sobrecarga de poder.
 
 Una vez por turno, cuando infliges daño a una criatura u objeto con un conjuro de mago, puedes
-gastar una sobrecarga de poder para infligir un daño de [[fuerza]] adicional a ese objetivo. El daño extra es igual a la mitad de tu nivel de mago.
+gastar una sobrecarga de poder para infligir un daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] adicional a ese objetivo. El daño extra es igual a la mitad de tu nivel de mago.
 

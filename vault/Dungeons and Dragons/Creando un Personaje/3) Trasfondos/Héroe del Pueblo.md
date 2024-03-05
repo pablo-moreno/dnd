@@ -11,7 +11,7 @@ Rasgo: "[[Hospitalidad Rústica]]"
 
 Vienes de una clase social humilde, pero estás destinado para mucho más. Ya la gente de tu pueblo natal te considera como su campeón, y tú destino te llama a estar en contra de los tiranos y los monstruos que amenazan a la gente común en todas partes.
 
-*Competencia con habilidades*: [[Trato con animales]], [[Supervivencia]].
+*Competencia con habilidades*: [[Trato con Animales]], [[Supervivencia]].
 
 *Competencia con herramientas*: un tipo de herramientas de artesanos, vehículos (terrestres).
 

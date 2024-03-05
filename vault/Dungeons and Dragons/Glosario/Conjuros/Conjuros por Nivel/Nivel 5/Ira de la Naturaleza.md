@@ -26,8 +26,8 @@ Llamas a los espíritus de la naturaleza para alentarlos contra tus enemigos. El
 
 *Pastos y maleza*. Cualquier área de tierra en el cubo que está cubierta por hierba o maleza es un terreno difícil para tus enemigos.
 
-*Arboles*. Al comienzo de cada uno de tus turnos, cada uno de tus enemigos a 10 pies de cualquier árbol en el cubo debe tener éxito en una [[tirada de salvación]] de [[Destreza]] o recibir 4d6 de daño [[cortante]] por azotes de ramas.
+*Arboles*. Al comienzo de cada uno de tus turnos, cada uno de tus enemigos a 10 pies de cualquier árbol en el cubo debe tener éxito en una [[Tirada de Salvación]] de [[Destreza]] o recibir 4d6 de daño [[Cortante]] por azotes de ramas.
 
-*Raíces y Vides*. Al final de cada uno de tus turnos, una criatura de tu elección que esté en el suelo en el cubo debe tener éxito en una tirada de salvación de [[Fuerza]] o quedar apresada hasta que el conjuro termine. Una criatura apresada puede usar una acción para hacer una prueba de Fuerza (Atletismo) contra tu CD de salvación conjuro, terminando el efecto sobre sí misma en un éxito.
+*Raíces y Vides*. Al final de cada uno de tus turnos, una criatura de tu elección que esté en el suelo en el cubo debe tener éxito en una tirada de salvación de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] o quedar apresada hasta que el conjuro termine. Una criatura apresada puede usar una acción para hacer una prueba de Fuerza (Atletismo) contra tu CD de salvación conjuro, terminando el efecto sobre sí misma en un éxito.
 
-*Rocas*. Como acción adicional en tu turno, puedes hacer que una roca suelta en el cubo se lance contra una criatura que puedas ver en el cubo. Haz un ataque de conjuro a distancia contra el objetivo. En un impacto, el objetivo recibe 3d8 de daño [[contundente]] no mágico, y debe tener éxito en una tirada de salvación de Fuerza o caer derribado.
+*Rocas*. Como acción adicional en tu turno, puedes hacer que una roca suelta en el cubo se lance contra una criatura que puedas ver en el cubo. Haz un ataque de conjuro a distancia contra el objetivo. En un impacto, el objetivo recibe 3d8 de daño [[Contundente]] no mágico, y debe tener éxito en una tirada de salvación de Fuerza o caer derribado.

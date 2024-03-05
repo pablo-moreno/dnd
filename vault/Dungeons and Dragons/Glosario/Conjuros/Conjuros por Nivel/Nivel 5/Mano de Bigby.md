@@ -27,13 +27,13 @@ Clases:
 
 Creas una mano Grande de una fuerza reluciente y traslúcida en un espacio libre que puedas ver dentro del alcance. La mano dura mientras lo haga el conjuro y se mueve a tus órdenes, imitando los movimientos de tu propia mano.
 
-La mano es un objeto que tiene CA 20 y tantos [[puntos de golpe]] como tu máximo de puntos de golpe. Si sus puntos de golpe se reducen a 0, el conjuro termina. Tiene [[Fuerza]] 26 (+8) y [[Destreza]] 10 (+0). La mano no llena su espacio.
+La mano es un objeto que tiene CA 20 y tantos [[Puntos de Golpe]] como tu máximo de puntos de golpe. Si sus puntos de golpe se reducen a 0, el conjuro termina. Tiene [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] 26 (+8) y [[Destreza]] 10 (+0). La mano no llena su espacio.
 
 Cuando lanzas el conjuro, y como acción adicional en los siguientes turnos, puedes mover la mano hasta 60 pies y provocar uno de los siguientes efectos.
 
 - **Puño cerrado.** La mano golpea a una criatura u objeto que se encuentre a 5 pies o menos de ella. Realiza un ataque de conjuro cuerpo a cuerpo usando tus estadísticas del juego. Si impactas, el objetivo recibe 4d8 de daño por fuerza.
 - 
-- **Mano apresadora.** La mano intenta hacerle una presa a una criatura Enorme o de menor tamaño que esté a 5 pies o menos de ella. Usas la Fuerza de la mano para resolver la presa. Si el objetivo es Mediano o más pequeño, tienes ventaja en la prueba. Mientras que la mano le está haciendo una presa al objetivo, puedes usar una acción adicional para que la mano lo aplaste. Cuando lo hagas, el objetivo recibe daño [[contundente]] igual a 2d6 + tu modificador por característica para lanzar conjuros.
+- **Mano apresadora.** La mano intenta hacerle una presa a una criatura Enorme o de menor tamaño que esté a 5 pies o menos de ella. Usas la Fuerza de la mano para resolver la presa. Si el objetivo es Mediano o más pequeño, tienes ventaja en la prueba. Mientras que la mano le está haciendo una presa al objetivo, puedes usar una acción adicional para que la mano lo aplaste. Cuando lo hagas, el objetivo recibe daño [[Contundente]] igual a 2d6 + tu modificador por característica para lanzar conjuros.
 - 
 - **Mano interpuesta.** La mano se interpone entre la criatura que elijas y tú hasta que le des otra orden. La mano se mueve para permanecer entre tú y el objetivo, ofreciéndote cobertura media contra este. El objetivo no puede moverse por el espacio que ocupa la mano si su Fuerza es menor o igual que la de la mano. Si su Fuerza es mayor, el objetivo puede moverse hacia ti a través del espacio de la mano, pero para él se considera terreno difícil.
 - 

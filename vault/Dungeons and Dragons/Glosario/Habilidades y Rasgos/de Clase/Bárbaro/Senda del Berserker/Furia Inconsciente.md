@@ -8,5 +8,5 @@ aliases:
 Nivel de Clase: 6
 Mejora de Habilidad:
 ---
-No puedes ser [[Hechizado]] o [[asustado]] mientras estés en [[furia]]. Si estás encantado o asustado cuando entras en furia, el efecto es suspendido durante la duración de esta.
+No puedes ser [[Hechizado]] o [[Asustado]] mientras estés en [[furia]]. Si estás encantado o asustado cuando entras en furia, el efecto es suspendido durante la duración de esta.
 

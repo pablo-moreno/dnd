@@ -10,7 +10,7 @@ Mejora de Habilidad:
 ---
 Si te dedicas a observar o interactuar con otra criatura fuera de combate durante al menos 1 minuto, aprendes cierta información acerca de sus capacidades comparadas con las tuyas propias. El DM te dirá si dos de las siguientes características del adversario son iguales, inferiores o superiores con respecto a las tuyas:
 
--Puntuación de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]].
+-Puntuación de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]].
 -Puntuación de [[Destreza]].
 -Puntuación de [[Constitución]].
 -[[Dungeons and Dragons/Reglas/Clase de Armadura]].

@@ -25,6 +25,6 @@ Clases:
 ---
 (una gota de sangre)
 
-Hasta tres criaturas de tu elección que puedas ver y que estén dentro del alcance del conjuro deben hacer una [[tirada de salvación]] de [[Carisma]]. Cuando un objetivo que haya fallado la salvación haga una [[tirada de ataque]] o de salvación antes de que termine el conjuro, debe tirar 1d4 y restar el resultado a la tirada de ataque o de salvación.
+Hasta tres criaturas de tu elección que puedas ver y que estén dentro del alcance del conjuro deben hacer una [[Tirada de Salvación]] de [[Carisma]]. Cuando un objetivo que haya fallado la salvación haga una [[Tirada de Ataque]] o de salvación antes de que termine el conjuro, debe tirar 1d4 y restar el resultado a la tirada de ataque o de salvación.
 
 **En niveles superiores.** Cuando lanzas este conjuro usando un espacio de nivel 2 o superior, puedes elegir como objetivo a una criatura más por cada nivel por encima de 1.

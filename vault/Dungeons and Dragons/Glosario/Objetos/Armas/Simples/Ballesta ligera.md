@@ -9,8 +9,8 @@ Dado_de_Daño: 1d8
 Tipo_de_Daño: "[[Perforante]]"
 Propiedades:
   - "[[A Dos Manos]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Munición]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Cargar]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Munición]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Cargar]]"
 Rango: (80/320)
 Peso: 5 lb
 Precio: "2.500"

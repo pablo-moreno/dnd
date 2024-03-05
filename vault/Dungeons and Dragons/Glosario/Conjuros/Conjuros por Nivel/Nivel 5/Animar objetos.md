@@ -26,7 +26,7 @@ Clases:
   - "[[Mago]]"
   - "[[Artífice]]"
 ---
-Los objetos pueden cobrar vida bajo tus órdenes. Elige hasta diez objetos no mágicos dentro del alcance que nadie lleve puestos ni transporte. Un objeto Mediano cuenta como dos objetos, uno Grande cuenta como cuatro y uno Enorme cuenta como ocho. No puedes animar objetos de un tamaño superior a Enorme. Cada objetivo cobra vida y se convierte en una criatura que controlas hasta que el conjuro se acabe o hasta que sus [[puntos de golpe]] se reduzcan a 0.
+Los objetos pueden cobrar vida bajo tus órdenes. Elige hasta diez objetos no mágicos dentro del alcance que nadie lleve puestos ni transporte. Un objeto Mediano cuenta como dos objetos, uno Grande cuenta como cuatro y uno Enorme cuenta como ocho. No puedes animar objetos de un tamaño superior a Enorme. Cada objetivo cobra vida y se convierte en una criatura que controlas hasta que el conjuro se acabe o hasta que sus [[Puntos de Golpe]] se reduzcan a 0.
 
 Como acción adicional, puedes darle órdenes mentalmente a cualquier criatura que hayas creado con este conjuro y que se encuentre a 500 pies de ti o menos (si controlas varias criaturas, puedes dar órdenes a cualquiera o a todas ellas al mismo tiempo, emitiendo la misma orden para todas). Tú decides qué acción hará la criatura y adónde se moverá durante su siguiente turno. 
 

@@ -24,5 +24,5 @@ Clases:
 ---
 (un arma cuerpo a cuerpo con valor de al menos 10 po)
 
-Blandes el arma utilizada en el lanzamiento y luego desapareces para golpear como el viento. Elige hasta cinco criaturas que puedas ver dentro del alcance. Realiza un ataque de conjuro cuerpo a cuerpo contra el objetivo. En un golpe, un objetivo recibe 6d10 de daño de [[fuerza]].
+Blandes el arma utilizada en el lanzamiento y luego desapareces para golpear como el viento. Elige hasta cinco criaturas que puedas ver dentro del alcance. Realiza un ataque de conjuro cuerpo a cuerpo contra el objetivo. En un golpe, un objetivo recibe 6d10 de daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]].
 Luego, puedes teletransportarte a un espacio desocupado que puedes ver a menos de 5 pies de uno de los objetivos que alcanzaste o no.

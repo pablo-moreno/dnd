@@ -26,7 +26,7 @@ Conjuros Conocidos de la tabla Bardo te muestra cuándo aprendes nuevos conjuros
 Cada uno de estos hechizos debe ser de un nivel para el cual tengas espacios de conjuro, tal como se ve en la tabla. Por ejemplo, cuando alcanzas el nivel 3, puedes aprender un conjuro de nivel 1 o 2.
 Adicionalmente, cuando ganas un nivel en esta clase, puedes elegir uno de los conjuros de bardo
 que conoces y reemplazarlo por otro de la lista de conjuros del bardo, que también debe ser de un
-nivel para el que tengas [[espacios de conjuros]].
+nivel para el que tengas [[Espacios de Conjuros]].
 
 
 *Espacios de Conjuro por Nivel de Conjuro*
@@ -57,7 +57,7 @@ nivel para el que tengas [[espacios de conjuros]].
 
 *Característica Para el Lanzamiento de Conjuros*
 [[Carisma]] es tu característica de lanzamiento para tus conjuros de bardo. 
-Tu magia viene del corazón y el alma que pones en la interpretación de tu música u oración. Usas tu Carisma siempre que un conjuro se refiera a tu habilidad de lanzamiento de conjuros. Además, usas tu modificador de Carisma para determinar la CD de la salvación de un conjuro de bardo que lances y cuando haces una [[tirada de ataque]] con uno de tus conjuros de bardo.
+Tu magia viene del corazón y el alma que pones en la interpretación de tu música u oración. Usas tu Carisma siempre que un conjuro se refiera a tu habilidad de lanzamiento de conjuros. Además, usas tu modificador de Carisma para determinar la CD de la salvación de un conjuro de bardo que lances y cuando haces una [[Tirada de Ataque]] con uno de tus conjuros de bardo.
 
 CD de la Salvación de un Conjuro = 8 + tu bonificador de competencia + tu modificador de Carisma 
 Modificador de Ataque de un Conjuro = tu bonificador de competencia + tu modificador de Carisma

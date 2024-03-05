@@ -9,7 +9,7 @@ Nivel de Clase: 14
 Mejora de Habilidad:
 ---
 Mientras estés en tu [[Forma Estelar]], te vuelves parcialmente incorpóreo, lo que te da resistencia al
-daño [[contundente]], [[perforante]] y [[cortante]].
+daño [[Contundente]], [[Perforante]] y [[Cortante]].
 
 
 

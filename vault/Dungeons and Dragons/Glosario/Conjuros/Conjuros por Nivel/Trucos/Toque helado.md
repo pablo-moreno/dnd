@@ -24,8 +24,8 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Creas una mano esquelética y fantasmal en el espacio de una criatura que esté dentro del alcance. Haz un ataque de conjuro a distancia contra la criatura para atacarla con el frío de la tumba. Si impactas, el objetivo recibe 1d8 puntos de daño [[necrótico]] y no puede recuperar [[puntos de golpe]] hasta que no empiece tu siguiente turno. Hasta entonces, la mano se aferra al objetivo.
+Creas una mano esquelética y fantasmal en el espacio de una criatura que esté dentro del alcance. Haz un ataque de conjuro a distancia contra la criatura para atacarla con el frío de la tumba. Si impactas, el objetivo recibe 1d8 puntos de daño [[Necrótico]] y no puede recuperar [[Puntos de Golpe]] hasta que no empiece tu siguiente turno. Hasta entonces, la mano se aferra al objetivo.
 
-Si impactas a un objetivo no muerto, este también tiene desventaja en las [[tiradas de ataque]] que haga contra ti hasta que termine tu siguiente turno.
+Si impactas a un objetivo no muerto, este también tiene desventaja en las [[Tiradas de Ataque]] que haga contra ti hasta que termine tu siguiente turno.
 
 El daño de este conjuro aumenta en 1d8 cuando llegas al nivel 5 (2d8), al nivel 11 (3d8) y al nivel 17 (4d8).

@@ -27,7 +27,7 @@ Clases:
 
 Invocas un [[Espíritu Celestial]] que se manifiesta con una forma angelical en un espacio sin ocupar que puedas ver dentro del alcance. Esta forma corpórea usa el perfil del espíritu celestial. Cuando lances el conjuro, elige vengador o defensor. Tu elección determinará cómo es el ataque de la criatura (consulta su perfil).
 
-La criatura desaparecerá si sus [[puntos de golpe]] se reducen a 0 o si el conjuro termina. La criatura se considera un aliado para ti y para tus compañeros. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo.
+La criatura desaparecerá si sus [[Puntos de Golpe]] se reducen a 0 o si el conjuro termina. La criatura se considera un aliado para ti y para tus compañeros. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo.
 
 Obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, hace la acción de [[Esquivar]] y usa su movimiento para evitar el peligro.
 

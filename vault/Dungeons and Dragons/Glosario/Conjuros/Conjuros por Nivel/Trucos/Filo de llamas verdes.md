@@ -32,7 +32,7 @@ Blandes el arma utilizada para lanzar el conjuro y haces con ella un ataque cuer
 una criatura que esté a 5 pies o menos de ti. Si impacta, el objetivo sufre los efectos normales del
 ataque con arma y puedes hacer que salte fuego verde de ese objetivo a otra criatura de tu elección que puedas ver a 5 pies o menos de él.
 
-La segunda criatura recibirá daño de [[fuego]] igual a tu modificador por aptitud mágica.
+La segunda criatura recibirá daño de [[Fuego]] igual a tu modificador por aptitud mágica.
 El daño de este conjuro aumenta cuando alcanzas ciertos niveles. En el nivel 5, el ataque cuerpo a
 cuerpo inflige ld8 de daño de fuego adicional al objetivo si impacta, y el daño de fuego a la segunda criatura aumenta a 1d8 + tu modificador por aptitud mágica. 
 

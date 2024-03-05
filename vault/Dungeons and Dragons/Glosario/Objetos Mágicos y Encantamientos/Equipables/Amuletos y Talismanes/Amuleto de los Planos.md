@@ -8,7 +8,7 @@ aliases:
 Rareza: muy raro
 Sintonía: true
 ---
-Mientras utilices este amuleto, puedes usar una acción para nombrar un lugar que te sea familiar en otro plano de existencia. Se debe realizar un chequeo de [[inteligencia]] DC 15.
+Mientras utilices este amuleto, puedes usar una acción para nombrar un lugar que te sea familiar en otro plano de existencia. Se debe realizar un chequeo de [[Inteligencia]] DC 15.
 Si el chequeo tiene éxito, el usuario puede usar el conjuro Desplazamiento de plano. Si el chequeo falla, tu y cada criatura u objeto a 15 pies de ti seréis transportados a un destino
 aleatorio.
 

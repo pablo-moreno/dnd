@@ -8,9 +8,9 @@ aliases:
 Dado_de_Daño: 1d6
 Tipo_de_Daño: "[[Perforante]]"
 Propiedades:
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Ligera]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Munición]]"
-  - "[[Dungeons and Dragons/Reglas/Daño/Propiedades de las Armas/Cargar]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Ligera]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Munición]]"
+  - "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Cargar]]"
 Rango: (30/120)
 Peso: 3 lb
 Precio: "7.500"

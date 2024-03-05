@@ -14,4 +14,4 @@ int_precio: 1000
 
 La cuerda es muy útil para la escalada, pero también la puedes usar para montar trampas, columpiarte en un desfiladero o esposar prisioneros.
 
-Tiene con 2 Puntos de Golpe y se puede romper con una prueba de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza]] CD 17.
+Tiene con 2 Puntos de Golpe y se puede romper con una prueba de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] CD 17.

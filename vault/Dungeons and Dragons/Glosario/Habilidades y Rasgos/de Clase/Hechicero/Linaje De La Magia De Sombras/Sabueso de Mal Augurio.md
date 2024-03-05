@@ -16,7 +16,7 @@ bestia.
 
 • Aparece con un número de puntos de golpe temporales igual a la mitad de tu nivel de brujo.
 
-• Puede moverse a través de otras criaturas y objetos como si fueran terrenos difíciles. El perro sufre 5 de daño de [[fuerza]] si termina su turno dentro de un objeto.
+• Puede moverse a través de otras criaturas y objetos como si fueran terrenos difíciles. El perro sufre 5 de daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] si termina su turno dentro de un objeto.
 
 • Al comienzo de su turno, el perro conoce automáticamente la ubicación de su objetivo. Si el
 objetivo estaba oculto, ya no está oculto para el perro.

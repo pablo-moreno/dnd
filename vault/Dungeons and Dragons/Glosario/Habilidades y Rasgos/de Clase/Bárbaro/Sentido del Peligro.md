@@ -11,4 +11,4 @@ Mejora de Habilidad:
 Obtienes un asombroso sentido para percibir los elementos de tu entorno que presentan una
 amenaza, dándote ventaja cuando trates de apartarte del peligro. 
 Tienes ventaja en las tiradas de salvación de [[Destreza]] contra los efectos que puedas ver, como trampas y hechizos.
-Para beneficiarte de este rasgo no puedes estar [[cegado]], [[Ensordecido]] o [[incapacitado]].
+Para beneficiarte de este rasgo no puedes estar [[Cegado]], [[Ensordecido]] o [[Incapacitado]].

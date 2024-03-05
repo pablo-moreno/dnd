@@ -22,6 +22,6 @@ Clases:
   - "[[Paladín]]"
   - "[[Clérigo]]"
 ---
-Tocas a una criatura y le concedes una forma de protegerse contra la muerte. La primera vez que los [[puntos de golpe]] del objetivo se reducirían a 0 como resultado de recibir daño, este se queda con 1 punto de golpe y el conjuro termina.
+Tocas a una criatura y le concedes una forma de protegerse contra la muerte. La primera vez que los [[Puntos de Golpe]] del objetivo se reducirían a 0 como resultado de recibir daño, este se queda con 1 punto de golpe y el conjuro termina.
 
 Si el conjuro sigue teniendo efecto cuando el objetivo está sujeto a un efecto que lo mataría instantáneamente sin infligir daño, dicho efecto queda anulado y el conjuro termina.

@@ -23,4 +23,4 @@ Clases:
   - "[[Mago]]"
   - "[[Artífice]]"
 ---
-Tu cuerpo se vuelve borroso, cambiante y parpadea para todos lo que pueden verte. Mientras dura el conjuro, cualquier criatura tiene desventaja en las [[tiradas de ataque]] que haga contra ti. Un atacante es inmune a este efecto si no se basa en la vista, como si tiene vista ciega, o puede ver a través de ilusiones, como si tiene vista verdadera.
+Tu cuerpo se vuelve borroso, cambiante y parpadea para todos lo que pueden verte. Mientras dura el conjuro, cualquier criatura tiene desventaja en las [[Tiradas de Ataque]] que haga contra ti. Un atacante es inmune a este efecto si no se basa en la vista, como si tiene vista ciega, o puede ver a través de ilusiones, como si tiene vista verdadera.

@@ -28,6 +28,6 @@ Clases:
   - "[[Mago]]"
   - "[[Artífice]]"
 ---
-Tocas un carcaj que contiene flechas o virotes. Cuando un objetivo es alcanzado por un ataque de arma a distancia con una pieza de munición extraída del carcaj, el objetivo recibe 1d6 de daño de [[fuego]] adicional. La magia del conjuro termina en una munición cuando golpea o falla, y el conjuro termina cuando se han extraído doce municiones del carcaj.
+Tocas un carcaj que contiene flechas o virotes. Cuando un objetivo es alcanzado por un ataque de arma a distancia con una pieza de munición extraída del carcaj, el objetivo recibe 1d6 de daño de [[Fuego]] adicional. La magia del conjuro termina en una munición cuando golpea o falla, y el conjuro termina cuando se han extraído doce municiones del carcaj.
 
 *A niveles superiores*. Cuando lanzas este conjuro con una ranura de conjuro de nivel 4° o superior, el número de piezas de munición que puedes afectar con este conjuro aumenta en dos por cada nivel de ranura por encima del 3°.

@@ -30,7 +30,7 @@ Clases:
 
 Blandes el arma utilizada para lanzar el conjuro y haces con ella un ataque cuerpo a cuerpo contra
 una criatura que esté a 5 pies o menos de ti. Si impacta, el objetivo sufre los efectos normales del
-ataque con arma y luego queda envuelto en una energía explosiva hasta el principio de tu siguiente turno. Si el objetivo se mueve voluntariamente 5 pies o más antes de ese momento, recibe 1d8 de daño de [[trueno]] y el conjuro termina.
+ataque con arma y luego queda envuelto en una energía explosiva hasta el principio de tu siguiente turno. Si el objetivo se mueve voluntariamente 5 pies o más antes de ese momento, recibe 1d8 de daño de [[Trueno]] y el conjuro termina.
 
 El daño de este conjuro aumenta cuando alcanzas ciertos niveles. En el nivel 5, el ataque cuerpo a
 cuerpo causa 1d8 de daño de trueno adicional al objetivo si impacta, y el daño que este recibe por

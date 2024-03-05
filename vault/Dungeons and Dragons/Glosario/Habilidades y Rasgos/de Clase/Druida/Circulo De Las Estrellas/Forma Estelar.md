@@ -16,10 +16,10 @@ Tus articulaciones resplandecen como estrellas y están conectadas por lineas br
 Siempre que adoptes tu forma estelar, elige cuál de las siguientes constelaciones brillará en tu
 cuerpo; en función de tu elección, gozarás de ciertos beneficios mientras dure la forma:
 
-*Arquero*. En tu cuerpo aparece una constelación con forma de arquero. Cuando activas esta forma, y como acción adicional en tus turnos siguientes mientras dure, puedes realizar un ataque de conjuro a distancia con el que lanzas una flecha luminosa a una criatura a 60 pies o menos de ti. Si impacta, el ataque causará una cantidad de daño [[radiante]] igual a ld8 +tu modificador por [[Sabiduría]]. 
+*Arquero*. En tu cuerpo aparece una constelación con forma de arquero. Cuando activas esta forma, y como acción adicional en tus turnos siguientes mientras dure, puedes realizar un ataque de conjuro a distancia con el que lanzas una flecha luminosa a una criatura a 60 pies o menos de ti. Si impacta, el ataque causará una cantidad de daño [[Radiante]] igual a ld8 +tu modificador por [[Sabiduría]]. 
 
-*Cáliz*. En tu cuerpo aparece una constelación con forma de cáliz de vida. Siempre que gastes un espacio de conjuro para lanzar un conjuro que haga recuperar puntos de golpe a una criatura, tú u otra criatura a 30 pies o menos de ti podréis recuperar una cantidad de [[puntos de golpe]] igual a 1d8 +tu modificador por [[Sabiduría]].
+*Cáliz*. En tu cuerpo aparece una constelación con forma de cáliz de vida. Siempre que gastes un espacio de conjuro para lanzar un conjuro que haga recuperar puntos de golpe a una criatura, tú u otra criatura a 30 pies o menos de ti podréis recuperar una cantidad de [[Puntos de Golpe]] igual a 1d8 +tu modificador por [[Sabiduría]].
 
 *Dragón*. En tu cuerpo aparece una constelación con forma de dragón sabio. Cuando hagas una
-prueba de [[Inteligencia]] o [[Sabiduría]] o una [[tirada de salvación]] de [[Constitución]] para mantener la
+prueba de [[Inteligencia]] o [[Sabiduría]] o una [[Tirada de Salvación]] de [[Constitución]] para mantener la
 concentración en un conjuro, podrás sustituir un resultado de 9 o menos en el d20 por un 10.

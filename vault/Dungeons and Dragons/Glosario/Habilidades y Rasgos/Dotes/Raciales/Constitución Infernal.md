@@ -11,5 +11,5 @@ Requisito: "[[Tiflin]]"
 La sangre diabólica corre fuerte en ti, desbloqueando una resistencia similar a la que poseen algunos demonios.
 Obtienes los siguientes beneficios:
 Aumenta tu puntaje de Constitución en 1, hasta un máximo de 20.
-Tienes resistencia al daño por [[frío]] y daño de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]].
-Tienes ventaja en tiradas de salvación contra ser [[envenenado]].
+Tienes resistencia al daño por [[Frío]] y daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]].
+Tienes ventaja en tiradas de salvación contra ser [[Envenenado]].

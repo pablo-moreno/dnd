@@ -8,7 +8,7 @@ aliases:
 Nivel de Clase: 8
 Mejora de Habilidad: "14"
 ---
-Obtienes la capacidad de insuflar energía divina a los golpes de tu arma. Una vez en cada uno de tus turnos, cuando impactes a una criatura con un ataque con arma, podrás hacer que el ataque inflija 1d8 de daño [[radiante]] adicional. Cuando alcanzas el nivel 14, el daño adicional aumenta a 2d8.
+Obtienes la capacidad de insuflar energía divina a los golpes de tu arma. Una vez en cada uno de tus turnos, cuando impactes a una criatura con un ataque con arma, podrás hacer que el ataque inflija 1d8 de daño [[Radiante]] adicional. Cuando alcanzas el nivel 14, el daño adicional aumenta a 2d8.
 
 
 

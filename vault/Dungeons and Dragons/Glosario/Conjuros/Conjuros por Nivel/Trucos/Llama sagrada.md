@@ -20,6 +20,6 @@ Concentración:
 Clases:
   - "[[Clérigo]]"
 ---
-Un resplandor similar al de una llama desciende sobre una criatura que puedes ver dentro del alcance. El objetivo debe superar una [[tirada de salvación]] de [[Destreza]] para no recibir 1d8 puntos de daño [[radiante]]. El objetivo no obtiene ningún beneficio por cubrirse para esta tirada de salvación.
+Un resplandor similar al de una llama desciende sobre una criatura que puedes ver dentro del alcance. El objetivo debe superar una [[Tirada de Salvación]] de [[Destreza]] para no recibir 1d8 puntos de daño [[Radiante]]. El objetivo no obtiene ningún beneficio por cubrirse para esta tirada de salvación.
 
 El daño del conjuro aumenta en 1d8 cuando subes al nivel 5 (2d8), al nivel 11 (3d8) y al nivel 17 (4d8)

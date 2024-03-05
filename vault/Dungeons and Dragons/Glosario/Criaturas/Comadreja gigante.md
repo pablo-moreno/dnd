@@ -21,7 +21,7 @@ ca: "13"
 | [[Carisma]]                                                              | 5     | -3          | `dice: 1d20 + 0` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: `=this.ca`
-[[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
+[[Puntos de Golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 40
 ## Habilidades
 | Habilidad      | Bonificador |
@@ -36,7 +36,7 @@ ca: "13"
 
 **Oído y Olfato Agudos**. La comadreja tiene ventaja en las pruebas de [[Sabiduría]] ([[Percepción]]) que dependan del oído o del olfato. 
 ## Acciones
-**Mordisco**. Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, un objetivo. Impacto: 5 (`dice: 1d4 + 3`) de daño [[perforante]].
+**Mordisco**. Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, un objetivo. Impacto: 5 (`dice: 1d4 + 3`) de daño [[Perforante]].
 
 ## Desafío
 1/8 - 25 [[PX]]

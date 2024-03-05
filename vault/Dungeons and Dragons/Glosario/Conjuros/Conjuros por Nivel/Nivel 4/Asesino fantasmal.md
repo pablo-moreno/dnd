@@ -20,8 +20,8 @@ Concentración: true
 Clases:
   - "[[Mago]]"
 ---
-Accedes a las pesadillas de una criatura que puedas ver dentro del alcance y creas una manifestación ilusoria de sus miedos más profundos, que solo puede ver esa criatura. El objetivo debe hacer una [[tirada de salvación]] de [[Sabiduría]]. Si falla, queda [[asustado]] mientras dura el conjuro. 
+Accedes a las pesadillas de una criatura que puedas ver dentro del alcance y creas una manifestación ilusoria de sus miedos más profundos, que solo puede ver esa criatura. El objetivo debe hacer una [[Tirada de Salvación]] de [[Sabiduría]]. Si falla, queda [[Asustado]] mientras dura el conjuro. 
 
-Al final de cada uno de sus turnos antes de que termine el conjuro, el objetivo debe superar una tirada de salvación de Sabiduría para no recibir 4d10 puntos de daño [[psíquico]]. Si supera la tirada, el conjuro termina.
+Al final de cada uno de sus turnos antes de que termine el conjuro, el objetivo debe superar una tirada de salvación de Sabiduría para no recibir 4d10 puntos de daño [[Psíquico]]. Si supera la tirada, el conjuro termina.
 
 *En niveles superiores*. Cuando lanzas este conjuro usando un espacio de conjuro de nivel 5 o superior, el daño aumenta en 1d10 por cada nivel por encima de 5.

@@ -29,7 +29,7 @@ Invocas el [[Espíritu Autómata]] que se manifiesta en un espacio sin ocupar qu
 dentro del alcance. Esta forma corpórea usa el perfil del autómata. Cuando lances el conjuro, elige
 un material: arcilla, metal o piedra. La criatura se parecerá a un gólem o a un modron (a tu elección) del material en cuestión, lo que determinará ciertos atributos de su perfil.
 
-La criatura desaparecerá si sus [[puntos de golpe]] se reducen a 0 o si el conjuro termina. La criatura se considera un aliado para ti y para tus compañeros. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo.
+La criatura desaparecerá si sus [[Puntos de Golpe]] se reducen a 0 o si el conjuro termina. La criatura se considera un aliado para ti y para tus compañeros. En combate, la criatura comparte tu orden de iniciativa, pero su turno va justo después del tuyo.
 Obedece tus órdenes verbales (no requiere acción) y, si no le das ninguna, hace la acción de [[Esquivar]] y usa su movimiento para evitar el peligro.
 
 *A niveles superiores*. Cuando lances este conjuro mediante un espacio de conjuro de nivel 4 o

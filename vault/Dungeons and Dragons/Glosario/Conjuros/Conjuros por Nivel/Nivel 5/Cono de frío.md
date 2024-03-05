@@ -25,7 +25,7 @@ Clases:
 ---
 (un cristal pequeño o un cono de cristal)
 
-Una explosión de aire frío brota de tus manos. Cada criatura que se encuentre en un cono de 60 pies debe hacer una [[tirada de salvación]] de [[Constitución]]. Si falla, recibe 8d8 puntos de daño por [[frío]] y, si tiene éxito, la mitad.
+Una explosión de aire frío brota de tus manos. Cada criatura que se encuentre en un cono de 60 pies debe hacer una [[Tirada de Salvación]] de [[Constitución]]. Si falla, recibe 8d8 puntos de daño por [[Frío]] y, si tiene éxito, la mitad.
 
 Una criatura que muera a causa de este conjuro se convierte en una estatua de hielo hasta que se derrita.
 

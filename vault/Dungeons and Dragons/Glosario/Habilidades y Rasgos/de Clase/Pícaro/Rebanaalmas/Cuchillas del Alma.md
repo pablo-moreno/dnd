@@ -10,7 +10,7 @@ Mejora de Habilidad:
 ---
 Tu Hoja Psíquica es ahora una expresión de tu alma henchida de fuerza psíquica, otorgándote estos poderes que utilizan tus dados de Energía Psiónica:
 
-*Golpes Teledirigidos*. Si realizas una [[tirada de ataque]] con tu Hoja Psíquica y fallas, podrás tirar un
+*Golpes Teledirigidos*. Si realizas una [[Tirada de Ataque]] con tu Hoja Psíquica y fallas, podrás tirar un
 dado de Energía Psiónica y sumar el número obtenido a la tirada de ataque. Si eso hace que el
 ataque impacte, gastarás el dado de Energía Psiónica.
 

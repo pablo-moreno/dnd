@@ -25,7 +25,7 @@ Clases:
 ---
 (una gota de melaza)
 
-Alteras el tiempo de hasta seis criaturas de tu elección en un cubo de 40 pies dentro del alcance. Cada objetivo debe superar una [[tirada de salvación]] de [[Sabiduría]] para no quedar afectado por este conjuro mientras dure.
+Alteras el tiempo de hasta seis criaturas de tu elección en un cubo de 40 pies dentro del alcance. Cada objetivo debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar afectado por este conjuro mientras dure.
 
 La velocidad de un objetivo afectado se divide por dos y este recibe un penalizador de –2 a la CA y a las tiradas de salvación de [[Destreza]] y no puede usar reacciones. En su turno puede usar una acción o una acción adicional, pero no las dos. Independientemente de las características u objetos mágicos de la criatura, no puede hacer más de un ataque cuerpo a cuerpo o a distancia durante su turno.
 

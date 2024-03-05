@@ -24,6 +24,6 @@ Clases:
   - "[[Mago]]"
   - "[[Artífice]]"
 ---
-Tocas un arma no mágica. Hasta que termine el conjuro, el arma se convierte en un arma mágica con un bonificador de +1 a las [[tiradas de ataque]] y de daño.
+Tocas un arma no mágica. Hasta que termine el conjuro, el arma se convierte en un arma mágica con un bonificador de +1 a las [[Tiradas de Ataque]] y de daño.
 
 En niveles superiores. Cuando lanzas este conjuro usando un espacio de conjuro de nivel 4 o superior, el bonificador aumenta a +2. Cuando usas un espacio de conjuro de nivel 6 o superior, el bonificador aumenta a +3.

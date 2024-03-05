@@ -23,6 +23,6 @@ Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
 ---
-Una criatura de tu elección que puedas ver dentro del alcance recupera [[puntos de golpe]] iguales a 1d4 + tu modificador por característica para lanzar conjuros. Este conjuro no tiene efecto ni en no muertos ni en constructos.
+Una criatura de tu elección que puedas ver dentro del alcance recupera [[Puntos de Golpe]] iguales a 1d4 + tu modificador por característica para lanzar conjuros. Este conjuro no tiene efecto ni en no muertos ni en constructos.
 
 **En niveles superiores.** Cuando lanzas este conjuro usando un espacio de conjuro de nivel 2 o superior, la cantidad de los puntos recuperados aumenta en 1d4 por cada nivel por encima de 1.

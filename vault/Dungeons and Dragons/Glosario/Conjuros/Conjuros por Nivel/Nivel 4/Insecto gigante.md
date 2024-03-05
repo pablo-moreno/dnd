@@ -24,6 +24,6 @@ Transformas hasta a diez ciempiés, tres arañas, cinco avispas o un escorpión 
 
 Todas las criaturas obedecen tus órdenes verbales y, en combate, actúan en tu turno cada ronda. El director de juego determina las estadísticas de estas criaturas y resuelve sus acciones y movimientos.
 
-Una criatura permanece en su tamaño gigante mientras dure el conjuro, hasta que sus [[puntos de golpe]] se reduzcan a 0 o hasta que uses una acción para disipar el efecto.
+Una criatura permanece en su tamaño gigante mientras dure el conjuro, hasta que sus [[Puntos de Golpe]] se reduzcan a 0 o hasta que uses una acción para disipar el efecto.
 
 El director de juego puede permitirte elegir otros objetivos diferentes. Por ejemplo, si transformas a una abeja, su versión gigante puede tener las mismas estadísticas que la avispa gigante.

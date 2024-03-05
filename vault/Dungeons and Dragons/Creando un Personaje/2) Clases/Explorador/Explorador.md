@@ -16,11 +16,11 @@ Puntos de Golpe en primer nivel: 10 + tu modificador de [[Constitución]].
 Puntos de Golpe a niveles superiores: 1d10 (o 6) + tu modificador de [[Constitución]] por cada nivel de explorador después de primer nivel.
 
 *Competencias*
-Armadura: armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]].
+Armadura: armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]].
 Armas: armas simples, armas marciales.
 Herramientas: ninguna.
-Tiradas de Salvación: [[Fuerza]], [[Destreza]].
-Habilidades: escoge tres entre [[Atletismo]], [[Perspicacia]], [[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]], [[Trato con Animales]],
+Tiradas de Salvación: [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]], [[Destreza]].
+Habilidades: escoge tres entre [[Atletismo]], [[Perspicacia]], [[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]], [[Trato con Animales]],
 [[Naturaleza]], [[Percepción]], [[Sigilo]] y [[Supervivencia]].
 
 *Equipo*

@@ -23,7 +23,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Te teletransportas a un espacio desocupado que puedes ver dentro del alcance. Inmediatamente después de que desaparezcas, suena un estruendo atronador, y cada criatura a 10 pies del espacio que dejaste debe hacer una [[tirada de salvación]] de [[Constitución]], recibiendo 3d10 de daño de [[trueno]] en una salvación fallida, o la mitad de daño en una exitosa. El trueno se puede escuchar hasta 300 pies de distancia.
+Te teletransportas a un espacio desocupado que puedes ver dentro del alcance. Inmediatamente después de que desaparezcas, suena un estruendo atronador, y cada criatura a 10 pies del espacio que dejaste debe hacer una [[Tirada de Salvación]] de [[Constitución]], recibiendo 3d10 de daño de [[Trueno]] en una salvación fallida, o la mitad de daño en una exitosa. El trueno se puede escuchar hasta 300 pies de distancia.
 
 Puedes llevar objetos, siempre y cuando su peso no exceda lo que puedes llevar. También puedes teletransportar a una criatura de tu tamaño o más pequeña que esté llevando equipo hasta su capacidad de carga. La criatura debe estar a no más de 5 pies de ti cuando lanzas este conjuro, y debe haber un espacio desocupado a 5 pies de tu espacio de destino para que aparezca la criatura; De lo contrario, la criatura se queda atrás.
 

@@ -6,9 +6,9 @@ tags:
   - type/note
 aliases:
 ---
-Cuando esta flecha golpea su objetivo, la magia de conjuración crea zarzas venenosas que se envuelven alrededor del objetivo. La criatura golpeada por la flecha recibe un daño adicional de 2d6 de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]], su velocidad se reduce en 10 pies, y recibe 2d6 de daño [[cortante]] la primera vez en cada turno que se mueva 1 pie o más sin teletransportarse. 
+Cuando esta flecha golpea su objetivo, la magia de conjuración crea zarzas venenosas que se envuelven alrededor del objetivo. La criatura golpeada por la flecha recibe un daño adicional de 2d6 de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]], su velocidad se reduce en 10 pies, y recibe 2d6 de daño [[Cortante]] la primera vez en cada turno que se mueva 1 pie o más sin teletransportarse. 
 
-El objetivo o cualquier criatura que pueda alcanzarlo puede usar su acción para eliminar las zarzas con una prueba de [[Fuerza]] ([[Atletismo]]) exitosa contra tu CD de salvación con [[Disparo Arcano]]. De lo contrario, las zarzas duran 1 minuto o hasta que vuelvas a utilizar esta opción.
+El objetivo o cualquier criatura que pueda alcanzarlo puede usar su acción para eliminar las zarzas con una prueba de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] ([[Atletismo]]) exitosa contra tu CD de salvación con [[Disparo Arcano]]. De lo contrario, las zarzas duran 1 minuto o hasta que vuelvas a utilizar esta opción.
 
 El daño por veneno y el daño cortante aumentan a 4d6 cuando alcanzas el 18° nivel en esta clase.
 

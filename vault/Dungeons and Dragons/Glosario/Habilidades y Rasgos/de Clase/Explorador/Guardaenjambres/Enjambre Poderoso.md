@@ -12,7 +12,7 @@ Tu [[Enjambre Reunido]] se vuelve más poderoso:
 
 • El daño del Enjambre Reunido aumenta a 1d8.
 
-• Si una criatura falla su [[tirada de salvación]] para evitar que el Enjambre Reunido la mueva, puedes
+• Si una criatura falla su [[Tirada de Salvación]] para evitar que el Enjambre Reunido la mueva, puedes
 hacer que además quede derribada.
 
 • Cuando el Enjambre Reunido te mueva, te concederá cobertura media hasta el principio de tu

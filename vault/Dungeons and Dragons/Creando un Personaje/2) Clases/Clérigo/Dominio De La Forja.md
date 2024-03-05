@@ -23,7 +23,7 @@ Nivel            Conjuros
 
 *Competencias Adicionales*
 Cuando eliges este dominio en el primer nivel, obtienes dominio de armadura
-[[pesada]] y de las [[herramientas de herrero]].
+[[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]] y de las [[herramientas de herrero]].
 
 
 *Rasgos*

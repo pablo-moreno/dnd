@@ -9,5 +9,5 @@ Nivel de Clase: 9
 Mejora de Habilidad:
 ---
 Si estás escondido de una criatura en el momento en que lanzas un conjuro sobre ella, la criatura
-tiene desventaja en cualquier [[tirada de salvación]] contra el conjuro este turno.
+tiene desventaja en cualquier [[Tirada de Salvación]] contra el conjuro este turno.
 

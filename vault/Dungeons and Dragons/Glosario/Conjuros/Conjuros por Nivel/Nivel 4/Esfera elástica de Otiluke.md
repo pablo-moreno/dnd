@@ -25,7 +25,7 @@ Clases:
 ---
 (un fragmento semiesférico de cristal transparente y otro de goma arábiga que encaje con el cristal)
 
-Una esfera de fuerza brillante encierra a una criatura o un objeto de un tamaño Grande o más pequeño dentro del alcance. Una criatura no voluntaria debe hacer una [[tirada de salvación]] de [[Destreza]]. Si falla, queda encerrada mientras dura el conjuro.
+Una esfera de fuerza brillante encierra a una criatura o un objeto de un tamaño Grande o más pequeño dentro del alcance. Una criatura no voluntaria debe hacer una [[Tirada de Salvación]] de [[Destreza]]. Si falla, queda encerrada mientras dura el conjuro.
 
 Nada (ni objetos físicos, energía ni otros efectos de conjuro) pueden atravesar la barrera, ni para salir ni para entrar, aunque la criatura que se encuentra dentro de la esfera puede respirar ahí. La esfera es inmune a todo tipo de daño y la criatura u objeto no puede ser dañada por ataques o efectos que se originen en el exterior, ni tampoco puede dañar nada que se encuentre en el exterior.
 

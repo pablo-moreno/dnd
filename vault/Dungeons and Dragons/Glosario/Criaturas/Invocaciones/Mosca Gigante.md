@@ -11,7 +11,7 @@ aliases:
 ## Características
 | Característica                                                              | Nivel | Bonificador | Lanzar dado      |
 | --------------------------------------------------------------------------- | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza\|Fuerza]] | 14    | +2          | `dice: 1d20 + 0` |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] | 14    | +2          | `dice: 1d20 + 0` |
 | [[Destreza]]                                                                | 13    | +1          | `dice: 1d20 + 0` |
 | [[Constitución]]                                                            | 13    | +1          | `dice: 1d20 + 0` |
 | [[Inteligencia]]                                                            | 2     | -4          | `dice: 1d20 + 0` |

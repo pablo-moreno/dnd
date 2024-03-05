@@ -26,7 +26,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-La energía nigromántica anega a una criatura de tu elección que puedas ver dentro del alcance y le drena los humores y la vitalidad. El objetivo debe hacer una [[tirada de salvación]] de [[Constitución]]: si falla, recibe 8d8 puntos de daño [[necrótico]] y, si tiene éxito, la mitad. Este conjuro no tiene efecto sobre no muertos ni constructos.
+La energía nigromántica anega a una criatura de tu elección que puedas ver dentro del alcance y le drena los humores y la vitalidad. El objetivo debe hacer una [[Tirada de Salvación]] de [[Constitución]]: si falla, recibe 8d8 puntos de daño [[Necrótico]] y, si tiene éxito, la mitad. Este conjuro no tiene efecto sobre no muertos ni constructos.
 
 Si el objetivo es una criatura planta o a una planta mágica, esta tiene desventaja en la tirada de salvación y el conjuro le inflige el máximo de daño.
 

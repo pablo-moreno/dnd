@@ -22,7 +22,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Mago]]"
 ---
-Intentas remodelar los recuerdos de otra criatura. Una criatura que puedas ver debe hacer una [[tirada de salvación]] de [[Sabiduría]]. Si estás luchando contra ella, esta tiene ventaja. Si falla la tirada, el objetivo queda [[hechizado]] por ti mientras dura el conjuro. El objetivo hechizado está [[incapacitado]] y no se da cuenta de lo que lo rodea, aunque todavía puede escucharte. Si recibe daño o es el objetivo de otro conjuro, este conjuro termina y no se modifica ninguno de sus recuerdos.
+Intentas remodelar los recuerdos de otra criatura. Una criatura que puedas ver debe hacer una [[Tirada de Salvación]] de [[Sabiduría]]. Si estás luchando contra ella, esta tiene ventaja. Si falla la tirada, el objetivo queda [[Hechizado]] por ti mientras dura el conjuro. El objetivo hechizado está [[Incapacitado]] y no se da cuenta de lo que lo rodea, aunque todavía puede escucharte. Si recibe daño o es el objetivo de otro conjuro, este conjuro termina y no se modifica ninguno de sus recuerdos.
 
 Mientras dure este encantamiento, puedes afectar el recuerdo del objetivo sobre un evento que experimentara en las últimas 24 horas y que no durara más de 10 minutos. Puedes eliminar permanente cualquier recuerdo sobre el evento, permitir que el objetivo lo recuerde claramente y en detalle, cambiar los detalles o crear un recuerdo de cualquier otro evento.
 

@@ -13,7 +13,7 @@ respiro de las lesiones. Tienes un pozo de energía feérica representada por un
 
 Como acción adicional, puedes elegir una criatura que puedas ver hasta 120 pies de ti y gastar un
 número de esos dados igual a la mitad de tu nivel de druida o menos. Tira los dados gastados y
-súmalos. El objetivo recupera un número de [[puntos de golpe]] igual al total. El objetivo también gana 1 punto de golpe temporal por cada dado gastado. 
+súmalos. El objetivo recupera un número de [[Puntos de Golpe]] igual al total. El objetivo también gana 1 punto de golpe temporal por cada dado gastado. 
 Recuperas todos los dados gastados al terminar un descanso largo.
 
 

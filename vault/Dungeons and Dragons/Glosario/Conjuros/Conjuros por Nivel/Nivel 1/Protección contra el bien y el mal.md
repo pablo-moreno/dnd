@@ -31,4 +31,4 @@ Clases:
 
 Hasta que el conjuro termine, una criatura voluntaria a la que tocas está protegida contra ciertos tipos de criaturas: aberraciones, celestiales, elementales, fatas, infernales y no muertos.
 
-La protección garantiza varios beneficios. Las criaturas de esos tipos tienen desventaja en las [[tiradas de ataque]] que hagan contra el objetivo. El objetivo tampoco puede ser [[hechizado]], [[asustado]] o poseído por ellas. Si el objetivo ya está hechizado, asustado o poseído por una criatura de ese tipo, tiene ventaja en una nueva [[tirada de salvación]] que haga contra el efecto pertinente.
+La protección garantiza varios beneficios. Las criaturas de esos tipos tienen desventaja en las [[Tiradas de Ataque]] que hagan contra el objetivo. El objetivo tampoco puede ser [[Hechizado]], [[Asustado]] o poseído por ellas. Si el objetivo ya está hechizado, asustado o poseído por una criatura de ese tipo, tiene ventaja en una nueva [[Tirada de Salvación]] que haga contra el efecto pertinente.

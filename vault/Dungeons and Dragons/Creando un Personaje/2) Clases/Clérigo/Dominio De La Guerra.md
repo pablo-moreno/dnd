@@ -20,7 +20,7 @@ Nivel del clérigo          Conjuros
        9                        [[Golpe flamígero]], [[Inmovilizar monstruo]]
 
 *Competencias Adicionales*
-Ganas competencia con armas marciales y armadura [[pesada]].
+Ganas competencia con armas marciales y armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]].
 [[Clérigo de Guerra]]
 Habilidades: [[Clérigo de Guerra]], [[Canalizar Divinidad, Impacto Guiado]], [[Canalizar Divinidad, Bendición del Dios de la Guerra]], [[Golpe Divino (G)]], [[Avatar de Batalla]].
 

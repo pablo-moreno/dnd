@@ -22,7 +22,7 @@ Los poderes especificados a continuación usan tus dados de Energía Psiónica.
 puedes usar tu reacción para gastar un dado de Energía Psiónica; tira el dado y reduce el daño
 recibido en una cantidad igual al resultado más tu modificador por [[Inteligencia]] (el daño se reduce en 1 como mínimo), ya que creas un escudo momentáneo de fuerza telequinética.
 
-*Golpe Psiónico*. Puedes impulsar tus armas con fuerza psiónica. Una vez en cada uno de tus turnos, inmediatamente después de impactar a un objetivo que esté a 30 pies o menos de ti con un ataque e infligirle daño con un arma, puedes gastar un dado de Energía Psiónica, tirarlo e infligir una cantidad de daño de [[fuerza]] al objetivo igual al resultado más tu modificador por Inteligencia.
+*Golpe Psiónico*. Puedes impulsar tus armas con fuerza psiónica. Una vez en cada uno de tus turnos, inmediatamente después de impactar a un objetivo que esté a 30 pies o menos de ti con un ataque e infligirle daño con un arma, puedes gastar un dado de Energía Psiónica, tirarlo e infligir una cantidad de daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] al objetivo igual al resultado más tu modificador por Inteligencia.
 
 *Movimiento Telequinético*. Puedes mover objetos o criaturas con la mente. Como acción, eliges
 como objetivo a un objeto suelto Grande o más pequeño o a una criatura voluntaria que no seas tú. Si puedes ver el objetivo y está a 30 pies o menos de ti, puedes moverlo hasta 30 pies a un espacio sin ocupar que puedas ver. 

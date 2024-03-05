@@ -6,4 +6,4 @@ tags:
   - type/note
 aliases:
 ---
-Tienes ventaja en tiradas de salvación contra [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]], y tienes resistencia contra daño de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]].
+Tienes ventaja en tiradas de salvación contra [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]], y tienes resistencia contra daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]].

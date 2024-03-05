@@ -31,7 +31,7 @@ Clases:
 ---
 (un foco de al menos 100.000 po de valor, como una bola de cristal, un espejo de plata o una pila de agua bendita)
 
-Puedes ver y escuchar a una criatura que elijas y que se encuentre en el mismo plano de existencia que tú. El objetivo debe hacer una [[tirada de salvación]] de [[Sabiduría]], la cual está condicionada por lo bien que conoces al objetivo y el tipo de conexión física que tienes con él. Si el objetivo sabe que estás lanzando este conjuro, puede fallar esta tirada de salvación voluntariamente si quiere ser observado.
+Puedes ver y escuchar a una criatura que elijas y que se encuentre en el mismo plano de existencia que tú. El objetivo debe hacer una [[Tirada de Salvación]] de [[Sabiduría]], la cual está condicionada por lo bien que conoces al objetivo y el tipo de conexión física que tienes con él. Si el objetivo sabe que estás lanzando este conjuro, puede fallar esta tirada de salvación voluntariamente si quiere ser observado.
 
 |**Conocimiento**|Modificador de salvación|
 |---|---|

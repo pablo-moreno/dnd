@@ -14,7 +14,7 @@ Vivirá durante 1 hora, hasta que sus puntos de golpe se reduzcan a 0 o hasta qu
 En combate, el objeto comparte tu orden de iniciativa, pero su turno va justo después del tuyo. Se
 puede mover y usar su propia reacción, pero la única acción que hace en su turno es la de [[Esquivar]], a menos que realices una acción adicional en tu turno para ordenarle que haga otra. Esa acción puede ser una de su perfil u otra.
 
-Si estás [[incapacitado]], el objeto puede hacer cualquier acción que elija, no solo la de Esquivar.
+Si estás [[Incapacitado]], el objeto puede hacer cualquier acción que elija, no solo la de Esquivar.
 Cuando uses tu rasgo [[Inspiración de Bardo]], puedes dar órdenes al objeto como parte de la misma
 acción adicional que uses para Inspiración Bárdica.
 

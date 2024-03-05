@@ -28,7 +28,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Intentas hechizar a un humanoide que puedes ver dentro del alcance. El objetivo debe hacer una [[tirada de salvación]] [[Sabiduría]], y lo hace con ventaja si tu o tus compañeros luchan contra el. Si falla la tirada de salvación, queda [[hechizado]] por ti hasta el fin del conjuro, o hasta que tu o tus
+Intentas hechizar a un humanoide que puedes ver dentro del alcance. El objetivo debe hacer una [[Tirada de Salvación]] [[Sabiduría]], y lo hace con ventaja si tu o tus compañeros luchan contra el. Si falla la tirada de salvación, queda [[Hechizado]] por ti hasta el fin del conjuro, o hasta que tu o tus
 compañeros le hagan daño. La criatura encantada es amigable contigo. Cuando el conjuro termina, la criatura sabe que fue encantada por ti.
 
 *A niveles superiores*. Cuando lances este conjuro usando una ranura del conjuro de nivel 5 o superior, puedes afectar una criatura adicional para cada nivel de ranura por encima de 4°. Las criaturas deben estar dentro de 30 pies de cada una cuando les señalas.

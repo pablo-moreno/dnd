@@ -15,14 +15,14 @@ Eliges qué tipo de dragón es tu ancestro. El tipo de daño asociado con ese dr
 Dragón                     Tipo de Daño
 Azul                          Eléctrico
 Blanco                      [[Frío]]
-Bronce                      [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Relámpago|Relámpago]]
+Bronce                      [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago|Relámpago]]
 Cobre                       [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]]
 Latón                        [[Fuego]]
 Negro                       [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]]
 Oro                           [[Fuego]]
 Rojo                          [[Fuego]]
 Plata                         [[Frío]]
-Verde                        [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]]
+Verde                        [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]]
 
 Puedes leer, escribir y hablar [[dracónico]]. Además, siempre que hagas una prueba de [[Carisma]]
 interactuando con dragones tu bonificador de competencia se duplica si es aplicable a la tirada.

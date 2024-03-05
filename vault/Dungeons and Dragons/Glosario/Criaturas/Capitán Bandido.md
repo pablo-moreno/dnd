@@ -13,7 +13,7 @@ hit_dice: "`dice: 10d8+20`"
 ## Características
 | Característica   | Nivel | Bonificador | Lanzar dado      |
 | ---------------- | ----- | ----------- | ---------------- |
-| [[Fuerza]]       | 15    | 2           | `dice: 1d20 + 2` |
+| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]       | 15    | 2           | `dice: 1d20 + 2` |
 | [[Destreza]]     | 16    | 3           | `dice: 1d20 + 3`                 |
 | [[Constitución]] | 14    | 2           | `dice: 1d20 + 2`                 |
 | [[Inteligencia]] | 14    | 2           | `dice: 1d20 + 2`                 |
@@ -21,7 +21,7 @@ hit_dice: "`dice: 10d8+20`"
 | [[Carisma]]      | 14    | 2          | `dice: 1d20 + 2`                 |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 15
-[[Puntos de golpe]]: `=this.hit_points` (`= this.hit_dice`)
+[[Puntos de Golpe]]: `=this.hit_points` (`= this.hit_dice`)
 [[Velocidad]]: 30
 ## Habilidades
 | Habilidad | Bonificador |
@@ -32,7 +32,7 @@ hit_dice: "`dice: 10d8+20`"
 
 | Característica | Bonificador |
 | ---- | ---- |
-| [[Fuerza]] | 4 |
+| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 4 |
 | [[Destreza]] | 5 |
 | [[Sabiduría]] | 2 |
 ## Sentidos

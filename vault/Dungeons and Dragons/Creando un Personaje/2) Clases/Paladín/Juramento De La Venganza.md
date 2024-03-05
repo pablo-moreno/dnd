@@ -23,7 +23,7 @@ Nivel de Paladín          Conjuros
 Ganas las siguientes dos opciones de Canalizar Divinidad.
 
 *Renunciar al Enemigo*. Como una acción, presentas tu símbolo sagrado y entonas una plegaria de
-denuncia, usando tu [[Canalizar Divinidad]]. Escoge una criatura a 60 pies (9 metros) o menos de ti que puedas ver. Esa criatura debe realizar una tirada de salvación de [[Sabiduría]], a menos que sea inmune a ser [[asustado]]. Los seres demoníacos y muertos vivientes tienen desventaja en esta tirada de salvación.
+denuncia, usando tu [[Canalizar Divinidad]]. Escoge una criatura a 60 pies (9 metros) o menos de ti que puedas ver. Esa criatura debe realizar una tirada de salvación de [[Sabiduría]], a menos que sea inmune a ser [[Asustado]]. Los seres demoníacos y muertos vivientes tienen desventaja en esta tirada de salvación.
 Si se falla la tirada, la criatura estará asustada durante 1 minuto o hasta que reciba algún daño.
 Mientras está asustada, la velocidad de la criatura es 0 y no puede beneficiarse de ninguna
 bonificación a su velocidad.

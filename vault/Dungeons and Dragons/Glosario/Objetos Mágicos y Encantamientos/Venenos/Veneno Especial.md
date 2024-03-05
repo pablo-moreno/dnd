@@ -15,7 +15,7 @@ Efecto: 2d8 de daño, Envenenado, 1 minuto
 Condición: "Salvación: Con15"
 Aplicación: "[[Herida]]"
 ---
-Puedes utilizar el veneno contenido en este vial para cubrir un arma [[cortante]] o [[perforante]] o un máximo de tres piezas de munición. 
+Puedes utilizar el veneno contenido en este vial para cubrir un arma [[Cortante]] o [[Perforante]] o un máximo de tres piezas de munición. 
 
-Aplicar el veneno toma una acción. Una criatura golpeada por el arma o la munición envenenada debe hacer una tirada de salvación de CD 15 de [[Constitución]] o recibir 2d8 de daño de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno|Veneno]] y el estado [[Envenenado]]. Una vez aplicado, el veneno conserva la potencia durante 1 minuto antes de secarse.
+Aplicar el veneno toma una acción. Una criatura golpeada por el arma o la munición envenenada debe hacer una tirada de salvación de CD 15 de [[Constitución]] o recibir 2d8 de daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno|Veneno]] y el estado [[Envenenado]]. Una vez aplicado, el veneno conserva la potencia durante 1 minuto antes de secarse.
 

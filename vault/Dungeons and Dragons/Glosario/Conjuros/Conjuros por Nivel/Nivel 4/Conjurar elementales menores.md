@@ -29,7 +29,7 @@ Convocas elementales que aparecen en un espacio sin ocupar que puedas ver dentro
 - Cuatro elementales con un valor de desafío igual a 1/2 o menos.
 - Ocho elementales con un valor de desafío igual a 1/4 o menos.
 
-Un elemental convocado mediante este conjuro desaparece cuando sus [[puntos de golpe]] se reducen a 0 o cuando finaliza el conjuro.
+Un elemental convocado mediante este conjuro desaparece cuando sus [[Puntos de Golpe]] se reducen a 0 o cuando finaliza el conjuro.
 
 Las criaturas convocadas son amistosas hacia ti y tus compañeros. Tira iniciativa por ellas como si fueran un grupo, que tiene sus propios turnos. Obedecen cualquier orden verbal que les des (no requiere que realices ninguna acción). Si no les das ninguna orden, se defienden de criaturas hostiles, pero, si no las hay, no realizan ninguna acción.
 

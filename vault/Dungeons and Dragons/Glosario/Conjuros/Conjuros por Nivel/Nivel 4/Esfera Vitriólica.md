@@ -25,7 +25,7 @@ Clases:
 ---
 (una gota de bilis de babosa gigante)
 
-Apuntas a una ubicación dentro del alcance, y una bola brillante de ácido esmeralda de 1 pie de diámetro se vierte allí y explota en una esfera de 20 pies de radio. Cada criatura en esa área debe hacer una [[tirada de salvación]] de [[Destreza]].
+Apuntas a una ubicación dentro del alcance, y una bola brillante de ácido esmeralda de 1 pie de diámetro se vierte allí y explota en una esfera de 20 pies de radio. Cada criatura en esa área debe hacer una [[Tirada de Salvación]] de [[Destreza]].
 
 En una salvación fallida, una criatura recibe 10d4 de daño [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]] y otros 5d4 de daño ácido al final de su siguiente turno.
 

@@ -15,7 +15,7 @@ minuto o hasta que estés incapacitado. Mientras dure, cada vez que una criatura
 por primera vez en un turno, el atacante debe hacer una tirada de salvación de [[Carisma]] contra tu DC de salvación con conjuros. 
 
 En una salvación fallida, no puede atacarte en este turno, y debe elegir un nuevo objetivo para su ataque o el ataque se desperdicia. 
-En una salvación exitosa, puede atacarte en este turno, pero tiene desventaja en cualquier [[tirada de salvación]] que haga contra tus conjuros en tu próximo turno.
+En una salvación exitosa, puede atacarte en este turno, pero tiene desventaja en cualquier [[Tirada de Salvación]] que haga contra tus conjuros en tu próximo turno.
 
 Una vez que asumas esta presencia majestuosa, no podrás volver a hacerlo hasta que termines un
 descanso corto o largo

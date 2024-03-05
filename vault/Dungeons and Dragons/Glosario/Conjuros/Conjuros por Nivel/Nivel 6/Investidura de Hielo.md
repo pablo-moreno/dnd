@@ -28,9 +28,9 @@ Clases:
 ---
 Hasta que el conjuro termine, el hielo rima tu cuerpo y obtendrás los siguientes beneficios:
 
-Eres inmune al daño por [[frío]] y tienes resistencia al daño por [[fuego]].
+Eres inmune al daño por [[Frío]] y tienes resistencia al daño por [[Fuego]].
 
 Puedes moverte por terrenos difíciles creados por hielo o nieve sin gastar movimiento adicional.
 El terreno en un radio de 10 pies a tu alrededor está helado y es terreno difícil para otras criaturas que no sean tú. El radio se mueve contigo.
 
-Puedes usar tu acción para crear un cono de 15 pies de viento helado que se extiende desde tu mano extendida en la dirección que elijas. Cada criatura en el cono debe hacer una [[tirada de salvación]] de [[Constitución]]. Una criatura recibe 4d6 de daño por frío en una salvación fallida, o la mitad de daño en una exitosa. Una criatura que falla su salvación contra este efecto tiene su velocidad reducida a la mitad hasta el comienzo de tu siguiente turno.
+Puedes usar tu acción para crear un cono de 15 pies de viento helado que se extiende desde tu mano extendida en la dirección que elijas. Cada criatura en el cono debe hacer una [[Tirada de Salvación]] de [[Constitución]]. Una criatura recibe 4d6 de daño por frío en una salvación fallida, o la mitad de daño en una exitosa. Una criatura que falla su salvación contra este efecto tiene su velocidad reducida a la mitad hasta el comienzo de tu siguiente turno.

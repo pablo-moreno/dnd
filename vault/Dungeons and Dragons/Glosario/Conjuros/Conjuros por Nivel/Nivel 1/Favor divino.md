@@ -20,4 +20,4 @@ Concentración: true
 Clases:
   - "[[Paladín]]"
 ---
-Tu plegaria te fortalece con un fulgor divino. Hasta que el conjuro termine, tus ataques de arma infligen 1d4 puntos de daño [[radiante]] adicionales cuando impactan.
+Tu plegaria te fortalece con un fulgor divino. Hasta que el conjuro termine, tus ataques de arma infligen 1d4 puntos de daño [[Radiante]] adicionales cuando impactan.

@@ -24,7 +24,7 @@ Clases:
 ---
 Tu toque inflige enfermedad. Haz un ataque de conjuro cuerpo a cuerpo contra una criatura dentro de tu alcance. Si impactas, el objetivo está envenenado.
 
-Al final de cada uno de los turnos del objetivo, este debe realizar una [[tirada de salvación]] de [[Constitución]]. Si supera tres salvaciones, la criatura ya no está envenenada y el conjuro termina. Si fallar tres de estas tiradas, la criatura ya no está envenenada, pero escoges una de las enfermedades a continuación. El objetivo se verá afectado por la enfermedad escogida mientras dure el conjuro.
+Al final de cada uno de los turnos del objetivo, este debe realizar una [[Tirada de Salvación]] de [[Constitución]]. Si supera tres salvaciones, la criatura ya no está envenenada y el conjuro termina. Si fallar tres de estas tiradas, la criatura ya no está envenenada, pero escoges una de las enfermedades a continuación. El objetivo se verá afectado por la enfermedad escogida mientras dure el conjuro.
 
 Dado que este conjuro induce una enfermedad natural en el objetivo, cualquier efecto que elimine la enfermedad o que mejore sus efectos funcionará.
 
@@ -34,7 +34,7 @@ Dado que este conjuro induce una enfermedad natural en el objetivo, cualquier ef
 
 **Epilepsia.** La criatura tiene temblores y desventaja en las pruebas y tiradas de salvación de [[Destreza]], así como en las tiradas de ataque que usen dicha característica.
 
-**Fiebre de la mugre.** Una fiebre aguda se extiende por el cuerpo de la criatura. Esta tiene desventaja en las pruebas y tiradas de salvación de [[Fuerza]] y en las tiradas de ataque que usen dicha característica.
+**Fiebre de la mugre.** Una fiebre aguda se extiende por el cuerpo de la criatura. Esta tiene desventaja en las pruebas y tiradas de salvación de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] y en las tiradas de ataque que usen dicha característica.
 
 **Mal de la ceguera.** El dolor afecta a la mente de la criatura y sus ojos se vuelven de un color blanco lechoso. La criatura está cegada y tiene desventaja en las pruebas y tiradas de salvación de [[Sabiduría]].
 

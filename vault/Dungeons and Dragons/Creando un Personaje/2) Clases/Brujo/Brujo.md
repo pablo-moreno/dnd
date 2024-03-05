@@ -17,11 +17,11 @@ Puntos de Golpe a niveles superiores: 1d8 (o 5) + tu modificador de [[Constituci
 brujo después del primer nivel.
 
 *Competencias*
-Armadura: armadura [[ligera]].
+Armadura: armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]].
 Armas: todas las armas simples.
 Herramientas: ninguna.
 Tiradas de Salvación: [[Sabiduría]], [[Carisma]].
-Habilidades: escoge dos entre [[Arcano]], [[Engaño]], [[Historia]], [[Intimidación]], [[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]], [[Naturaleza]] y
+Habilidades: escoge dos entre [[Arcano]], [[Engaño]], [[Historia]], [[Intimidación]], [[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]], [[Naturaleza]] y
 [[Religión]].
 
 *Equipo*

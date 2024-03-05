@@ -9,7 +9,7 @@ Nivel de Clase: 17
 Mejora de Habilidad:
 ---
 Has completado tu conexión con el yo astral, por lo que puedes desbloquear todo su potencial.
-Como acción adicional, puedes gastar 5 puntos de [[ki]] para invocar los brazos, el rostro y el cuerpo de tu yo astral y despertarlo durante 10 minutos. El despertar termina si quedas [[incapacitado]] o mueres. Mientras el yo astral esté despierto, obtendrás los siguientes beneficios:
+Como acción adicional, puedes gastar 5 puntos de [[ki]] para invocar los brazos, el rostro y el cuerpo de tu yo astral y despertarlo durante 10 minutos. El despertar termina si quedas [[Incapacitado]] o mueres. Mientras el yo astral esté despierto, obtendrás los siguientes beneficios:
 
 *Armadura del Esplritu*. Recibes un bonificador de +2 a la [[Dungeons and Dragons/Reglas/Clase de Armadura]].
 

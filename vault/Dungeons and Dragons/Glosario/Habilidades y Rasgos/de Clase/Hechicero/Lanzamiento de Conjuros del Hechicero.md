@@ -16,7 +16,7 @@ hechicero adicionales en niveles superiores, como muestra la columna de Trucos C
 tabla Hechicero.
 
 *Espacios de Conjuro*
-La tabla Hechicero muestra cuántos [[espacios de conjuros]] tienes para lanzar tus conjuros en el primer nivel y superiores.
+La tabla Hechicero muestra cuántos [[Espacios de Conjuros]] tienes para lanzar tus conjuros en el primer nivel y superiores.
 Para lanzar uno de estos conjuros de hechicero necesitas gastar un espacio de nivel del conjuro o
 superior. Recuperas todos tus espacios de conjuros gastados después de un descanso prolongado.
 Por ejemplo, si conoces el conjuro de nivel 1 [[Manos ardientes]] y tienes disponible un espacio de nivel 1 y otro de nivel 2, puedes lanzar manos ardientes usando cualquier espacio.
@@ -24,7 +24,7 @@ Por ejemplo, si conoces el conjuro de nivel 1 [[Manos ardientes]] y tienes dispo
 *Conjuros Conocidos de Nivel 1 y Superior*
 Conoces dos conjuros de nivel 1 de tu elección de la [[lista de conjuros de hechicero]].
 La columna Conjuros Conocidos de la tabla Hechicero te muestra cuándo aprendes nuevos conjuros de tu elección.
-Cada hechizo debe ser de un nivel para el cual tengas [[espacios de conjuros]], como se ve en la tabla.
+Cada hechizo debe ser de un nivel para el cual tengas [[Espacios de Conjuros]], como se ve en la tabla.
 
 Por ejemplo, cuando alcanzas el nivel 3 en esta clase, puedes aprender un conjuro de nivel 1 o 2.
 Además, cuando ganas un nivel en esta clase, puedes elegir uno de los conjuros de hechicero que

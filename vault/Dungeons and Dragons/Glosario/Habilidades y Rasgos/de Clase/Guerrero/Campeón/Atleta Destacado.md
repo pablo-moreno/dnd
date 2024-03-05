@@ -9,7 +9,7 @@ Nivel de Clase: 7
 Mejora de Habilidad:
 ---
 Puedes añadir la mitad de tu bonificador de competencia (redondeando hacia arriba) a cualquier
-prueba de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]], [[Destreza]] o [[Constitución]] que no use ya tu bonificador de competencia.
+prueba de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]], [[Destreza]] o [[Constitución]] que no use ya tu bonificador de competencia.
 
 Además, cuando hagas un salto largo en carrera, la distancia que abarcas aumenta en un número de pies igual a tu modificador de Fuerza.
 

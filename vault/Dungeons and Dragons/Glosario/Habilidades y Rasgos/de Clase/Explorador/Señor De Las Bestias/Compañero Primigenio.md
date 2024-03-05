@@ -16,10 +16,10 @@ La bestia es amistosa contigo y tus compañeros, y obedece tus órdenes. Puedes 
 En combate, la bestia actúa durante tu turno. Se puede mover y usar su propia reacción, pero la
 única acción que hace es la de [[Esquivar]], a menos que realices una acción adicional en tu turno para ordenarle que haga otra. Esa acción puede ser una de su perfil u otra.
 
-También puedes sacrificar uno de tus ataques cuando realices la acción de Atacar para ordenar a la bestia que haga la acción de Atacar. Si estás [[incapacitado]], la bestia puede hacer cualquier acción que elija, no solo la de Esquivar.
+También puedes sacrificar uno de tus ataques cuando realices la acción de Atacar para ordenar a la bestia que haga la acción de Atacar. Si estás [[Incapacitado]], la bestia puede hacer cualquier acción que elija, no solo la de Esquivar.
 
 Si la bestia ha muerto en la última hora, puedes usar tu acción para tocarla y gastar un espacio de
-conjuro de nivel 1 o superior. La bestia volverá a la vida después de 1 minuto con todos sus [[puntos de golpe]] recuperados.
+conjuro de nivel 1 o superior. La bestia volverá a la vida después de 1 minuto con todos sus [[Puntos de Golpe]] recuperados.
 
 Tras finalizar un descanso largo, puedes invocar a una bestia primigenia diferente. La nueva bestia
 aparecerá en un espacio sin ocupar a 5 pies o menos de ti y tú eliges su perfil y su aspecto. Si ya

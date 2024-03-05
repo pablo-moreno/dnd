@@ -13,8 +13,8 @@ Canción de la Creación para crear una mota de potencial Diminuta, la cual orbi
 La mota es intangible e invulnerable y dura hasta que se pierde el dado de Inspiración Bárdica. La mota tiene el aspecto de una nota musical, una estrella, una flor u otro símbolo del arte o la vida de tu elección.
 
 Cuando la criatura use el dado de Inspiración Bárdica, la mota le proporcionará un efecto adicional
-en función de si este dado beneficia a una prueba de característica, una [[tirada de ataque]] o una
-[[tirada de salvación]], tal y como se detalla a continuación:
+en función de si este dado beneficia a una prueba de característica, una [[Tirada de Ataque]] o una
+[[Tirada de Salvación]], tal y como se detalla a continuación:
 
 *Prueba de característica*. Cuando la criatura tire el dado de Inspiración Bárdica para sumarlo a una
 prueba de característica, podrá volver a tirarlo y elegir qué resultado usar, al tiempo que la mota

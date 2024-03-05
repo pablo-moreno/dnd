@@ -23,7 +23,7 @@ Nivel del clérigo           Conjuros
 
 
 *Competencias Adicionales*
-Ganas competencia con armadura [[pesada]].
+Ganas competencia con armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]].
 
 
 

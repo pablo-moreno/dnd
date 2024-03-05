@@ -19,7 +19,7 @@ Concentración:
 Clases:
   - "[[Clérigo]]"
 ---
-Pronuncias una palabra divina, imbuida con el poder que dio forma al mundo en los albores de la creación. Elige cualquier número de criaturas que puedas ver dentro del alcance. Cada criatura que pueda escucharte debe hacer una [[tirada de salvación]] de [[Carisma]]. Si falla, sufre un efecto diferente dependiendo de sus [[puntos de golpe]] actuales:
+Pronuncias una palabra divina, imbuida con el poder que dio forma al mundo en los albores de la creación. Elige cualquier número de criaturas que puedas ver dentro del alcance. Cada criatura que pueda escucharte debe hacer una [[Tirada de Salvación]] de [[Carisma]]. Si falla, sufre un efecto diferente dependiendo de sus [[Puntos de Golpe]] actuales:
 
 - 50 puntos de golpe o menos: ensordecida durante 1 minuto.
 - 40 puntos de golpe o menos: ensordecida y cegada durante 10 minutos.

@@ -8,5 +8,5 @@ aliases:
 Nivel de Clase: 10
 Mejora de Habilidad:
 ---
-La energía psiónica que fluye en ti ha reforzado tu mente. Tienes resistencia al daño [[psíquico]]. Además, si comienzas tu turno [[hechizado]] o [[asustado]], puedes gastar un dado de Energía Psiónica y poner fin a todos los efectos que te causen dichos estados.
+La energía psiónica que fluye en ti ha reforzado tu mente. Tienes resistencia al daño [[Psíquico]]. Además, si comienzas tu turno [[Hechizado]] o [[Asustado]], puedes gastar un dado de Energía Psiónica y poner fin a todos los efectos que te causen dichos estados.
 

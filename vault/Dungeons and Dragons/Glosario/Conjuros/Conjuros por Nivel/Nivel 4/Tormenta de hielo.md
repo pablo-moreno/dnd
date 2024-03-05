@@ -27,7 +27,7 @@ Clases:
 ---
 (una pizca de polvo y unas gotas de agua)
 
-Cae granizo en un cilindro de 20 pies de radio y 40 de altura cuyo centro se encuentra en un punto dentro del alcance. Todas las criaturas que se encuentren dentro del cilindro deben hacer una [[tirada de salvación]] de [[Destreza]]. Si fallan, reciben 2d8 puntos de daño [[contundente]] y 4d6 de daño por [[frío]] o, si tienen éxito, la mitad.
+Cae granizo en un cilindro de 20 pies de radio y 40 de altura cuyo centro se encuentra en un punto dentro del alcance. Todas las criaturas que se encuentren dentro del cilindro deben hacer una [[Tirada de Salvación]] de [[Destreza]]. Si fallan, reciben 2d8 puntos de daño [[Contundente]] y 4d6 de daño por [[Frío]] o, si tienen éxito, la mitad.
 
 El granizo convierte el área de efecto de la tormenta en terreno difícil hasta el final de tu siguiente turno.
 

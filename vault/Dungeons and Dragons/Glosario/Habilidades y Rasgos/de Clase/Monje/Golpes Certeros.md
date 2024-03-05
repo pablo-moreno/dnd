@@ -8,6 +8,6 @@ aliases:
 Nivel de Clase: 5
 Mejora de Habilidad:
 ---
-Si fallas una [[tirada de ataque]], puedes gastar de 1 a 3 puntos de [[ki]] para aumentar el resultado en 2
+Si fallas una [[Tirada de Ataque]], puedes gastar de 1 a 3 puntos de [[ki]] para aumentar el resultado en 2
 por cada punto de ki gastado, lo que podría convertirla en un impacto.
 

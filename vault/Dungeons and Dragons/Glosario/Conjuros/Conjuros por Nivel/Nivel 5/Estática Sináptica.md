@@ -26,6 +26,6 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Eliges un punto dentro del alcance y haces que la energía psíquica explote allí. Cada criatura en una esfera de 20 pies de radio centrada en ese punto debe hacer una [[tirada de salvación]] de Inteligencia. Una criatura con una puntuación de [[Inteligencia]] de 2 o inferior no puede ser afectada por este conjuro. Un objetivo recibe 8d6 de daño [[psíquico]] en una salvación fallida, o la mitad de daño en una exitosa.
+Eliges un punto dentro del alcance y haces que la energía psíquica explote allí. Cada criatura en una esfera de 20 pies de radio centrada en ese punto debe hacer una [[Tirada de Salvación]] de Inteligencia. Una criatura con una puntuación de [[Inteligencia]] de 2 o inferior no puede ser afectada por este conjuro. Un objetivo recibe 8d6 de daño [[Psíquico]] en una salvación fallida, o la mitad de daño en una exitosa.
 
-Después de una salvación fallida, un objetivo tiene pensamientos confusos durante 1 minuto. Durante ese tiempo, tira un d6 y resta el número obtenido de todas sus [[tiradas de ataque]] y controles de habilidad, así como sus tiradas de salvación de Constitución para mantener la concentración. El objetivo puede hacer una tirada de salvación de Inteligencia al final de cada uno de sus turnos, terminando el efecto sobre sí mismo en un éxito.
+Después de una salvación fallida, un objetivo tiene pensamientos confusos durante 1 minuto. Durante ese tiempo, tira un d6 y resta el número obtenido de todas sus [[Tiradas de Ataque]] y controles de habilidad, así como sus tiradas de salvación de Constitución para mantener la concentración. El objetivo puede hacer una tirada de salvación de Inteligencia al final de cada uno de sus turnos, terminando el efecto sobre sí mismo en un éxito.

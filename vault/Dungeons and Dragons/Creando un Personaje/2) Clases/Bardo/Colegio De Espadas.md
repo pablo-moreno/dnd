@@ -20,7 +20,7 @@ comprometiéndose en la justicia de vigilantes es una responsabilidad demasiado 
 mayoría de las compañías. Con sus habilidades de armas y su magia, estas cuchillas o trabajan como ejecutores de los gremios de ladrones o se lanzan por su cuenta como aventureros.
 
 *Competencias Adicionales*
-Ganas dominio con armadura [[media]] y la [[cimitarra]]. Si eres competente con un arma cuerpo a cuerpo simple o marcial, puedes usarla como un foco de conjuro para tus conjuros de bardo.
+Ganas dominio con armadura [[Media]] y la [[cimitarra]]. Si eres competente con un arma cuerpo a cuerpo simple o marcial, puedes usarla como un foco de conjuro para tus conjuros de bardo.
 
 *Estilo de Combate*
 Adoptas un [[Estilo de Combate (E)]] como tu especialidad. Escoja una de las siguientes opciones: No

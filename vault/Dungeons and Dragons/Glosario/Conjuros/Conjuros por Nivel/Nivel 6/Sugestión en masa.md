@@ -30,7 +30,7 @@ Clases:
 
 Sugieres mágicamente un curso de actividad (limitado a una frase o dos) hasta a 12 criaturas de tu elección que puedas ver dentro del alcance y que puedan escucharte y entenderte. Las criaturas que no pueden ser hechizadas son inmunes a este efecto. La sugerencia debe plantearse de tal modo que el curso de la acción suene razonable. Pedirle a una criatura que se apuñale a sí misma, que se arroje sobre una lanza, que se inmole o que haga algo obviamente dañino anula automáticamente el efecto del conjuro.
 
-Cada objetivo debe realizar una [[tirada de salvación]] de [[Sabiduría]]. Si falla, el objetivo sigue el curso de acción que hayas descrito lo mejor que puede. La acción sugerida puede continuar mientras dure el conjuro. Si se puede completar en poco tiempo, el conjuro acaba cuando el sujeto termina lo que se le pidió que hiciera.
+Cada objetivo debe realizar una [[Tirada de Salvación]] de [[Sabiduría]]. Si falla, el objetivo sigue el curso de acción que hayas descrito lo mejor que puede. La acción sugerida puede continuar mientras dure el conjuro. Si se puede completar en poco tiempo, el conjuro acaba cuando el sujeto termina lo que se le pidió que hiciera.
 
 También puedes especificar las condiciones que activarán una tarea especial mientras dure el conjuro. Por ejemplo, puedes sugerir que un grupo de soldados le dé todo su dinero al primer mendigo que se encuentre. Si la condición no se cumple antes de que el conjuro termine, la actividad no se lleva a cabo.
 

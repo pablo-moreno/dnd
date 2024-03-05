@@ -27,6 +27,6 @@ Clases:
 ---
 (una perla negra pulverizada de al menos 50.000 po de valor)
 
-Un cúmulo de energía negativa flota dentro de una esfera de 60 pies de radio cuyo centro es un punto que esté dentro del alcance. Todas las criaturas que se encuentren dentro de esa área deben hacer una [[tirada de salvación]] de [[Constitución]]. Si fallan, reciben 8d6 puntos de daño [[necrótico]] y, si tienen éxito, la mitad.
+Un cúmulo de energía negativa flota dentro de una esfera de 60 pies de radio cuyo centro es un punto que esté dentro del alcance. Todas las criaturas que se encuentren dentro de esa área deben hacer una [[Tirada de Salvación]] de [[Constitución]]. Si fallan, reciben 8d6 puntos de daño [[Necrótico]] y, si tienen éxito, la mitad.
 
 **En niveles superiores.** Cuando lanzas este conjuro usando un espacio de conjuro de nivel 7 o superior, el daño aumenta en 2d6 por cada nivel por encima de 6.

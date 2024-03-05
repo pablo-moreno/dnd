@@ -8,7 +8,7 @@ aliases:
 Nivel de Clase: 10
 Mejora de Habilidad:
 ---
-Puedes usar tu acción para incrementar tus poderes perceptivos. Cuando lo haces, elige uno de los siguientes beneficios, que dura hasta que estés [[incapacitado]] o comiences un descanso corto o prolongado. No puedes usar este rasgo nuevamente hasta que termines un descanso.
+Puedes usar tu acción para incrementar tus poderes perceptivos. Cuando lo haces, elige uno de los siguientes beneficios, que dura hasta que estés [[Incapacitado]] o comiences un descanso corto o prolongado. No puedes usar este rasgo nuevamente hasta que termines un descanso.
 
 *Visión en la Oscuridad*. Ganas visión en la oscuridad en un rango de 60 pies (18 metros).
 

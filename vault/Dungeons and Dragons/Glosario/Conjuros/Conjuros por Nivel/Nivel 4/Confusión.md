@@ -29,7 +29,7 @@ Clases:
 ---
 (tres cáscaras de nuez)
 
-Este conjuro distorsiona la mente de las criaturas creando ilusiones y provocando acciones incontroladas. Todas las criaturas que se encuentren en una esfera de 10 pies de radio, cuyo centro está en un lugar de tu elección dentro del alcance, deben superar una [[tirada de salvación]] de [[Sabiduría]] cuando lances este conjuro para no quedar afectadas por él.
+Este conjuro distorsiona la mente de las criaturas creando ilusiones y provocando acciones incontroladas. Todas las criaturas que se encuentren en una esfera de 10 pies de radio, cuyo centro está en un lugar de tu elección dentro del alcance, deben superar una [[Tirada de Salvación]] de [[Sabiduría]] cuando lances este conjuro para no quedar afectadas por él.
 
 Un objetivo afectado no puede reaccionar y debe tirar 1d10 al principio de cada uno de sus turnos para determinar su comportamiento.
 

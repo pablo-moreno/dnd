@@ -8,5 +8,5 @@ aliases:
 Nivel de Clase: 3
 Mejora de Habilidad:
 ---
-Puedes usar una acción adicional para hacer una prueba de [[Sabiduría]] ([[Percepción]]) para detectar una criatura u objeto oculto o para hacer una prueba de [[Inteligencia]] ([[Dungeons and Dragons/Reglas/Estadisticas/Habilidades/Investigación]]) para descubrir o descifrar pistas.
+Puedes usar una acción adicional para hacer una prueba de [[Sabiduría]] ([[Percepción]]) para detectar una criatura u objeto oculto o para hacer una prueba de [[Inteligencia]] ([[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]]) para descubrir o descifrar pistas.
 

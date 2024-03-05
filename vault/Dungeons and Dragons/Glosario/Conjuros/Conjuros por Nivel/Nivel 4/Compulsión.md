@@ -20,7 +20,7 @@ Concentración: true
 Clases:
   - "[[Bardo]]"
 ---
-Las criaturas que elijas que estén dentro del alcance y que puedan escucharte deben hacer una [[tirada de salvación]] de [[Sabiduría]], que superan automáticamente si no pueden quedar hechizadas. 
+Las criaturas que elijas que estén dentro del alcance y que puedan escucharte deben hacer una [[Tirada de Salvación]] de [[Sabiduría]], que superan automáticamente si no pueden quedar hechizadas. 
 
 Si falla, el objetivo queda afectado por este conjuro. Hasta que el conjuro termine, puedes usar una acción adicional en cada uno de tus turnos para designar una dirección horizontal que vaya a ti. 
 

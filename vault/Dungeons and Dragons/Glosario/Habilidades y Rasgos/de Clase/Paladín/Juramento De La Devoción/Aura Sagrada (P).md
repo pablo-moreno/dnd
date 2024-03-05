@@ -12,7 +12,7 @@ Como una acción puedes emanar un aura de luz solar. Durante 1 minuto una luz br
 en un radio de 30 pies (9 metros), y de luz tenue 30 pies (9 metros) más allá.
 
 Siempre que una criatura enemiga comience su turno en la luz brillante, la criatura sufre 10 puntos
-de daño [[radiante]].
+de daño [[Radiante]].
 
 Además, durante la duración, tienes ventaja en las tiradas de salvación contra conjuros lanzados por seres demoníacos o muertos vivientes.
 

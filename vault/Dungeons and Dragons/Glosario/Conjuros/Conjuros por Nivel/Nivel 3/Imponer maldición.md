@@ -24,11 +24,11 @@ Clases:
   - "[[Clérigo]]"
   - "[[Mago]]"
 ---
-Tocas a una criatura y esa criatura debe superar una [[tirada de salvación]] de [[Sabiduría]] para no quedar maldita mientras dure el conjuro. Cuando lances este conjuro, elige la naturaleza de la maldición de entre las siguientes opciones:
+Tocas a una criatura y esa criatura debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar maldita mientras dure el conjuro. Cuando lances este conjuro, elige la naturaleza de la maldición de entre las siguientes opciones:
 
 - Elige una puntuación de característica. Mientras esté maldito, el objetivo tiene desventaja en las pruebas y tiradas de salvación que haga con esa característica.
 - 
-- Mientras esté maldito, el objetivo tiene desventaja en las [[tiradas de ataque]] que haga contra ti.
+- Mientras esté maldito, el objetivo tiene desventaja en las [[Tiradas de Ataque]] que haga contra ti.
 - 
 - Mientras esté maldito, el objetivo debe hacer una tirada de salvación de Sabiduría al principio de cada uno de sus turnos. Si falla, no hace nada durante su acción.
 - 

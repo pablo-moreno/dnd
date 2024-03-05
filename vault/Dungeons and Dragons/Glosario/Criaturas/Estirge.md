@@ -25,7 +25,7 @@ hit_dice: "`dice: 1d4`"
 | [[Carisma]]                                                              | 6     | -2          | `dice: 1d20 -2`  |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 14
-[[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
+[[Puntos de Golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 10
 [[Volar]]: 40
 
@@ -35,7 +35,7 @@ hit_dice: "`dice: 1d4`"
 - [[Percepción pasiva]] 9
 
 ## Acciones
-**Chupar sangre**. Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, un objetivo. Impacto: 5 (`dice: 1d4 + 3`) de daño [[perforante]], y la estirge se engancha al objetivo. Esta no atacará mientras esté enganchada. En lugar de eso, al inicio de cada uno de los turnos de la estirge, el objetivo perderá 5 (`dice: 1d4 + 3`) puntos de golpe debido a la pérdida de sangre. La estirge puede desengancharse utilizando 5 pies de su movimiento. Lo hará tras chupar 10 puntos de golpe en forma de sangre de su objetivo o cuando este muera. Cualquier criatura, incluyendo el objetivo, puede usar una acción para desenganchar a la estirge.
+**Chupar sangre**. Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, un objetivo. Impacto: 5 (`dice: 1d4 + 3`) de daño [[Perforante]], y la estirge se engancha al objetivo. Esta no atacará mientras esté enganchada. En lugar de eso, al inicio de cada uno de los turnos de la estirge, el objetivo perderá 5 (`dice: 1d4 + 3`) puntos de golpe debido a la pérdida de sangre. La estirge puede desengancharse utilizando 5 pies de su movimiento. Lo hará tras chupar 10 puntos de golpe en forma de sangre de su objetivo o cuando este muera. Cualquier criatura, incluyendo el objetivo, puede usar una acción para desenganchar a la estirge.
 ## Desafío
 
 1/8 - 25 [[PX]]

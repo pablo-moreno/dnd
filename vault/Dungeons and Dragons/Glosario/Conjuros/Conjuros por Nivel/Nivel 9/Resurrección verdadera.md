@@ -25,7 +25,7 @@ Clases:
 ---
 (unas gotas de agua bendita y diamantes de 2.500.000 po de valor, los cuales consume el conjuro)  
 
-Tocas a una criatura que no haya estado muerta durante más de 200 años y que murió por cualquier razón menos por envejecimiento. Si el alma de la criatura es libre y voluntaria, la criatura vuelve a la vida con todos sus [[puntos de golpe]].
+Tocas a una criatura que no haya estado muerta durante más de 200 años y que murió por cualquier razón menos por envejecimiento. Si el alma de la criatura es libre y voluntaria, la criatura vuelve a la vida con todos sus [[Puntos de Golpe]].
 
 Este conjuro cierra todas las heridas, neutraliza cualquier veneno, cura todas las enfermedades y elimina cualquier maldición que afectara a la criatura cuando murió. El conjuro remplaza los órganos y los miembros dañados o perdidos.
 

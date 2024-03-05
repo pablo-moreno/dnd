@@ -21,4 +21,4 @@ Clases:
 ---
 Te mueves como el viento. Hasta que el conjuro termine, tu movimiento no provoca ataques de oportunidad.
 
-Una vez antes de que termine el conjuro, puedes darte ventaja en una [[tirada de ataque]] de arma en tu turno. Ese ataque hace un daño de [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Fuerza|Fuerza]] adicional de 1d8 en un impacto. Tanto si golpeas como si fallas, tu velocidad de movimiento aumenta 30 pies hasta el final de ese turno.
+Una vez antes de que termine el conjuro, puedes darte ventaja en una [[Tirada de Ataque]] de arma en tu turno. Ese ataque hace un daño de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza|Fuerza]] adicional de 1d8 en un impacto. Tanto si golpeas como si fallas, tu velocidad de movimiento aumenta 30 pies hasta el final de ese turno.

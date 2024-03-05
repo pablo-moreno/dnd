@@ -30,4 +30,4 @@ Clases:
   - "[[Druida]]"
   - "[[Artífice]]"
 ---
-Tocas a una criatura y puedes terminar con una enfermedad o con un estado que la aflija. El estado puede ser [[cegado]], [[ensordecido]], [[paralizado]] o [[envenenado]].
+Tocas a una criatura y puedes terminar con una enfermedad o con un estado que la aflija. El estado puede ser [[Cegado]], [[Ensordecido]], [[Paralizado]] o [[Envenenado]].

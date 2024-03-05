@@ -25,7 +25,7 @@ Clases:
 
 En una mano libre evocas un haz ardiente del tamaño y forma de una cimitarra que dura mientras lo haga el conjuro. Si lo sueltas, desaparece, pero puedes volver a evocarlo como acción adicional.
 
-Puedes usar tu acción para hacer un ataque de conjuro cuerpo a cuerpo con el haz ardiente. Si impactas, el objetivo recibe 3d6 puntos de daño por [[fuego]].
+Puedes usar tu acción para hacer un ataque de conjuro cuerpo a cuerpo con el haz ardiente. Si impactas, el objetivo recibe 3d6 puntos de daño por [[Fuego]].
 
 El filo flamígero emite luz brillante en un radio de 10 pies y luz tenue en 10 pies adicionales.
 

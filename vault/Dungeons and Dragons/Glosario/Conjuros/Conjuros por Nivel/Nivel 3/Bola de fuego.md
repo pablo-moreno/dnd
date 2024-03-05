@@ -25,7 +25,7 @@ Clases:
 ---
 (un bolita de guano de murciélago y azufre)
 
-Un rayo brillante surge de tu dedo índice hasta un punto que elijas dentro del alcance y explota con un leve estruendo en un estallido de llamas. Todas las criaturas que se encuentren en una esfera de 20 pies de radio cuyo centro sea ese punto deben hacer una [[tirada de salvación]] de [[Destreza]]: si fallan, reciben 8d6 puntos de daño por [[fuego]] y, si tienen éxito, la mitad.
+Un rayo brillante surge de tu dedo índice hasta un punto que elijas dentro del alcance y explota con un leve estruendo en un estallido de llamas. Todas las criaturas que se encuentren en una esfera de 20 pies de radio cuyo centro sea ese punto deben hacer una [[Tirada de Salvación]] de [[Destreza]]: si fallan, reciben 8d6 puntos de daño por [[Fuego]] y, si tienen éxito, la mitad.
 
 El fuego se propaga en las esquinas e incinera los objetos inflamables que se encuentren en el área y que nadie lleve puestos ni transporte.
 

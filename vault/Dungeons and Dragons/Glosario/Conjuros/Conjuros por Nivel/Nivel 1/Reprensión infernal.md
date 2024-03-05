@@ -20,6 +20,6 @@ Concentración:
 Clases:
   - "[[Brujo]]"
 ---
-Señalas con el dedo a la criatura que te ha dañado y en un momento se ve rodeada por unas llamas infernales. La criatura debe hacer una [[tirada de salvación]] de [[Destreza]]; si falla, recibe 2d10 puntos de daño de [[fuego]] y, si tiene éxito, la mitad.
+Señalas con el dedo a la criatura que te ha dañado y en un momento se ve rodeada por unas llamas infernales. La criatura debe hacer una [[Tirada de Salvación]] de [[Destreza]]; si falla, recibe 2d10 puntos de daño de [[Fuego]] y, si tiene éxito, la mitad.
 
 **En niveles superiores.** Cuando lanzas este conjuro usando un espacio de conjuro de nivel 2 o superior, el daño aumenta en 1d10 por cada nivel por encima de 1.

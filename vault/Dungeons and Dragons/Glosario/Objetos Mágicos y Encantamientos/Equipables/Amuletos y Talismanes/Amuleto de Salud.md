@@ -8,4 +8,4 @@ aliases:
 Rareza: raro
 Sintonía: true
 ---
-Tu puntuación de [[constitución]] es 19 mientras que uses este amuleto. No tiene efecto en ti si tu constitución ya es 19 o mas.
+Tu puntuación de [[Constitución]] es 19 mientras que uses este amuleto. No tiene efecto en ti si tu constitución ya es 19 o mas.

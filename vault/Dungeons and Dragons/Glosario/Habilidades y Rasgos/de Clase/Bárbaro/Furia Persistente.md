@@ -8,5 +8,5 @@ aliases:
 Nivel de Clase: 15
 Mejora de Habilidad:
 ---
-Tu [[furia]] es tan feroz que sólo termina prematuramente si caes [[inconsciente]] o decides terminarla.
+Tu [[furia]] es tan feroz que sólo termina prematuramente si caes [[Inconsciente]] o decides terminarla.
 

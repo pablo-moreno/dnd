@@ -6,4 +6,4 @@ tags:
   - type/note
 aliases:
 ---
-Posees resistencia al daño por [[fuego]].
+Posees resistencia al daño por [[Fuego]].

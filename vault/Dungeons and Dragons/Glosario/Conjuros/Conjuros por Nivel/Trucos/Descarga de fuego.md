@@ -24,6 +24,6 @@ Clases:
   - "[[Mago]]"
   - "[[Artífice]]"
 ---
-Arrojas una mota de fuego a una criatura u objeto que se encuentre dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si impactas, este recibe 1d10 puntos de daño por [[fuego]]. Este conjuro incinera a cualquier objeto inflamable al que alcance y que nadie lleve puesto ni transporte.
+Arrojas una mota de fuego a una criatura u objeto que se encuentre dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si impactas, este recibe 1d10 puntos de daño por [[Fuego]]. Este conjuro incinera a cualquier objeto inflamable al que alcance y que nadie lleve puesto ni transporte.
 
 El daño de este conjuro aumenta en 1d10 cuando subes al nivel 5, (2d10), al nivel 11 (3d10) y al nivel 17 (4d10)

@@ -11,7 +11,7 @@ Mejora de Habilidad: 6, 14
 Rasgo de explorador de nivel 1 que sustituye al rasgo [[Enemigo Predilecto]] y funciona con el rasgo
 [[Asesino de Enemigos]].
 
-Cuando impactes a una criatura con una [[tirada de ataque]], podrás recurrir a tu vínculo místico con la naturaleza para marcar al objetivo como tu enemigo predilecto durante 1 minuto o hasta que
+Cuando impactes a una criatura con una [[Tirada de Ataque]], podrás recurrir a tu vínculo místico con la naturaleza para marcar al objetivo como tu enemigo predilecto durante 1 minuto o hasta que
 pierdas la concentración (como si te estuvieras concentrando en un conjuro).
 
 La primera vez en cada uno de tus turnos que impactes al enemigo predilecto y le causes daño,

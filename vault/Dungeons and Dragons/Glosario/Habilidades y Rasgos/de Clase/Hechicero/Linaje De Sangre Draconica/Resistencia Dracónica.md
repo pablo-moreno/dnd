@@ -10,5 +10,5 @@ Mejora de Habilidad:
 ---
 La magia fluye a través de tu cuerpo y hace que los rasgos físicos de tu antecesor dragón emerjan. En nivel 1 tus [[Puntos de Golpe]] máximos se incrementan en 1 y en 1 más por cada nivel que ganes de esta clase.
 
-Además, partes de tu piel están cubiertas por un fino brillo como el de escamas de dragón. Cuando no llevas armadura, tu CA es igual a 13 + tu modificador de [[destreza]].
+Además, partes de tu piel están cubiertas por un fino brillo como el de escamas de dragón. Cuando no llevas armadura, tu CA es igual a 13 + tu modificador de [[Destreza]].
 

@@ -27,7 +27,7 @@ Clases:
 ---
 (fuego y un trozo de piedra solar)
 
-Un rayo de sol brillante de 60 pies de radio surge de un punto de tu elección dentro del alcance. Todas las criaturas que se encuentren en esa luz deben hacer una [[tirada de salvación]] de [[Constitución]]. Si falla, una criatura recibe 12d6 puntos de daño [[radiante]] y queda cegada durante 1 minuto. Si tiene éxito, recibe la mitad de ese daño y no queda cegada. Los no muertos y los limos tienen desventaja en la tirada de salvación.
+Un rayo de sol brillante de 60 pies de radio surge de un punto de tu elección dentro del alcance. Todas las criaturas que se encuentren en esa luz deben hacer una [[Tirada de Salvación]] de [[Constitución]]. Si falla, una criatura recibe 12d6 puntos de daño [[Radiante]] y queda cegada durante 1 minuto. Si tiene éxito, recibe la mitad de ese daño y no queda cegada. Los no muertos y los limos tienen desventaja en la tirada de salvación.
 
 Una criatura cegada por este conjuro debe hacer otra tirada de salvación de Constitución al final de cada uno de sus turnos. Si tiene éxito, dejar de estar cegada.
 

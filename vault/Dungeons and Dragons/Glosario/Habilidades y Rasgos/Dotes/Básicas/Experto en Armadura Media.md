@@ -6,7 +6,7 @@ tags:
   - type/note
 aliases:
 ---
-Requisito: Competencia con armadura [[media]].
+Requisito: Competencia con armadura [[Media]].
 
 Has practicado moviéndote con una armadura media para ganar los siguientes beneficios:
 

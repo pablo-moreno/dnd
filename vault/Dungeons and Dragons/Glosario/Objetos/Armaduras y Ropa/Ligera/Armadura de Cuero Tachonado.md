@@ -6,7 +6,7 @@ tags:
   - armor/lig
 aliases: 
 Clase_de_Armadura: 12 + Destreza
-Tipo_de_Armadura: "[[Ligera]]"
+Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]]"
 Req_Fuerza: 
 Sigilo: 
 Peso: 13 lb

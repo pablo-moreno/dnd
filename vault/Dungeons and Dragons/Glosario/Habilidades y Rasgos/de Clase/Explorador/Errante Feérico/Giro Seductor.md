@@ -12,5 +12,5 @@ La magia de Feywild protege tu mente. Tienes ventaja en las tiradas de salvació
 
 Además, siempre que tú o una criatura que puedas ver a 120 pies o menos de ti tengáis éxito en una tirada de salvación para evitar que os hechicen o asusten, puedes usar tu reacción para obligar a otra criatura diferente que puedas ver a 120 pies o menos de ti a hacer una tirada de salvación de [[Sabiduría]] contra tu CD de salvación de conjuros. 
 
-Si falla, el objetivo quedará [[hechizado]] o [[asustado]] por ti (a tu elección) durante 1 minuto. El objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.
+Si falla, el objetivo quedará [[Hechizado]] o [[Asustado]] por ti (a tu elección) durante 1 minuto. El objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos y, si tiene éxito, se librará del efecto.
 

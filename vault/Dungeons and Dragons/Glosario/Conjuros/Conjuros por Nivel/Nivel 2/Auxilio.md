@@ -27,6 +27,6 @@ Clases:
 ---
 (un girón diminuto de tela blanca)
 
-Tu conjuro concede a tus aliados dureza y determinación. Elige hasta tres criaturas dentro del alcance. El máximo de [[puntos de golpe]] y los puntos de golpe actuales de cada objetivo aumentan en 5 mientras dura el conjuro.
+Tu conjuro concede a tus aliados dureza y determinación. Elige hasta tres criaturas dentro del alcance. El máximo de [[Puntos de Golpe]] y los puntos de golpe actuales de cada objetivo aumentan en 5 mientras dura el conjuro.
 
 **En niveles superiores.** Cuando lanzas este conjuro usando un espacio de conjuro de nivel 3 o superior, los puntos de golpe del objetivo aumentan 5 puntos adicionales por cada nivel por encima de 2.

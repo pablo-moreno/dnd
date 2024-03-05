@@ -16,7 +16,7 @@ Aprendes dos trucos de tu elección de la [[lista de hechizos de mago]]. Aprende
 adicional de tu elección en el nivel 10.
 
 *Espacios Para Conjuros*
-La tabla Lanzamiento de Conjuros del Caballero Arcano muestra cuántos [[espacios de conjuros]] tienes disponibles para lanzar tus conjuros de nivel 1 y superiores. Para lanzar uno de esos conjuros, debes gastar uno de los espacios de nivel del conjuro o superior. 
+La tabla Lanzamiento de Conjuros del Caballero Arcano muestra cuántos [[Espacios de Conjuros]] tienes disponibles para lanzar tus conjuros de nivel 1 y superiores. Para lanzar uno de esos conjuros, debes gastar uno de los espacios de nivel del conjuro o superior. 
 Recuperas todos los espacios gastados cuando finalizas un descanso prolongado.
 
 Por ejemplo, si conoces el conjuro de nivel 1 escudo y tienes espacios disponibles tanto de nivel 1

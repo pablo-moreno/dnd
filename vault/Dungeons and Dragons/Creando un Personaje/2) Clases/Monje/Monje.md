@@ -19,7 +19,7 @@ monje después del primero.
 Armadura: ninguna.
 Armas: armas simples, [[espada corta]].
 Herramientas: elige un tipo de herramienta de artesano o un instrumento musical.
-Tiradas de Salvación: [[Fuerza]], [[Destreza]].
+Tiradas de Salvación: [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]], [[Destreza]].
 Habilidades: elige dos entre [[Acrobacias]], [[Atletismo]], [[Perspicacia]], [[Historia]], [[Religión]] y [[Sigilo]].
 
 *Equipo*

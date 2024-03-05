@@ -28,7 +28,7 @@ Clases:
 (un poco de comida podrida)
 
 De ti emana un chorro de ácido en una línea recta de 30 pies de largo y 5 pies de ancho en la
-dirección que elijas. Cada criatura que se encuentre en esta línea deberá superar una [[tirada de salvación]] de [[Destreza]] o quedará cubierta de ácido hasta que el conjuro termine o hasta que una
+dirección que elijas. Cada criatura que se encuentre en esta línea deberá superar una [[Tirada de Salvación]] de [[Destreza]] o quedará cubierta de ácido hasta que el conjuro termine o hasta que una
 criatura use su acción para quitarse el ácido a sí misma o a otra criatura. Una criatura cubierta de
 ácido sufre 2d4 de daño de [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]] al principio de cada uno de sus turnos.
 

@@ -6,7 +6,7 @@ tags:
   - type/note
 aliases:
 ---
-Requisito: [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] 13 o superior.
+Requisito: [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] 13 o superior.
 
 Has desarrollado las habilidades necesarias para defenderte en agarres en espacios reducidos. Ganas los siguientes beneficios:
 

@@ -26,11 +26,11 @@ ca: "13"
 | [[Carisma]]                                                              | 5     | -3          | `dice: 1d20 - 3` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: `=this.ca`
-[[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
+[[Puntos de Golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 30
 
 ## Inmunidad a daño
-- [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]]
+- [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]]
 
 ## Inmunidad a estados
 - [[Cansancio]]
@@ -44,7 +44,7 @@ ca: "13"
 - No puede hablar, pero entiende todos los idiomas que aprendió en vida
 
 ## Acciones
-Espada corta. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: 5 (`dice: 1d6 + 2`) de daño [[perforante]].
-Arco corto. Ataque con arma a distancia: +4 a impactar, alcance 80/320 pies, un objetivo. Impacto: 5 (`dice: 1d6 + 2`) de daño [[perforante]].
+Espada corta. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: 5 (`dice: 1d6 + 2`) de daño [[Perforante]].
+Arco corto. Ataque con arma a distancia: +4 a impactar, alcance 80/320 pies, un objetivo. Impacto: 5 (`dice: 1d6 + 2`) de daño [[Perforante]].
 ## Desafío
 1/4 - 50 [[PX]]

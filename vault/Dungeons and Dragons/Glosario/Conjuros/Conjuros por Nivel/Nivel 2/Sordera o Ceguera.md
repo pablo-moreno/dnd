@@ -25,6 +25,6 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Puedes cegar o ensordecer a un enemigo. Elige una criatura que puedas ver dentro del alcance para que haga una [[tirada de salvación]] de [[Constitución]]. Si falla, queda [[cegado]] o [[ensordecido]] (según decidas) mientras dura el conjuro. Al final de cada uno de sus turnos, puede hacer una tirada de salvación de Constitución para intentar anular el conjuro.
+Puedes cegar o ensordecer a un enemigo. Elige una criatura que puedas ver dentro del alcance para que haga una [[Tirada de Salvación]] de [[Constitución]]. Si falla, queda [[Cegado]] o [[Ensordecido]] (según decidas) mientras dura el conjuro. Al final de cada uno de sus turnos, puede hacer una tirada de salvación de Constitución para intentar anular el conjuro.
 
 **En niveles superiores.** Cuando lanzas este conjuro usando un espacio de conjuro de nivel 3 o superior, puedes apuntar a una criatura adicional por cada nivel por encima de 2.

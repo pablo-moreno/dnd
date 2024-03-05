@@ -12,7 +12,7 @@ Ganas la habilidad de robar mágicamente el conocimiento para lanzar un conjuro 
 de conjuros.
 
 Inmediatamente después de que una criatura lance un conjuro del cual seas objetivo o que te
-incluya en su área de efecto, puedes usar tu reacción para forzar a la criatura a realizar una [[tirada de salvación]] con el modificador de su característica de lanzamiento de conjuros. La CD equivale a la CD de salvación de tus conjuros. 
+incluya en su área de efecto, puedes usar tu reacción para forzar a la criatura a realizar una [[Tirada de Salvación]] con el modificador de su característica de lanzamiento de conjuros. La CD equivale a la CD de salvación de tus conjuros. 
 
 Si falla la tirada de salvación, niegas el efecto del conjuro en ti y robas el conocimiento del conjuro si es al menos de nivel 1 y de un nivel que puedas lanzar (no es preciso que sea un conjuro de mago). 
 Durante las siguientes 8 horas conoces el conjuro y puedes lanzarlo usando tus espacios de conjuro. La criatura no puede lanzar dicho conjuro hasta que las 8 horas hayan pasado.

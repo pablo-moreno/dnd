@@ -27,7 +27,7 @@ Clases:
 
 Transformas hasta diez criaturas de tu elección que puedes ver dentro del alcance. Un objetivo no dispuesto debe tener éxito en una tirada de salvación de Sabiduría para resistir la transformación. Un cambiaformas no dispuesto automáticamente tiene éxito en la tirada de salvación.
 
-Cada objetivo asume una forma de bestia de su elección, y puede elegir la misma forma o diferentes formas para cada objetivo. La nueva forma puede ser cualquier bestia que hayas visto cuya calificación de desafío sea igual o menor que la del objetivo (o la mitad del nivel del objetivo, si el objetivo no tiene una calificación de desafío). Las estadísticas del juego del objetivo, incluidas las puntuaciones de habilidad mental, se reemplazan por las estadísticas de la bestia elegida, pero el objetivo conserva sus [[puntos de golpe]], alineamiento y personalidad.
+Cada objetivo asume una forma de bestia de su elección, y puede elegir la misma forma o diferentes formas para cada objetivo. La nueva forma puede ser cualquier bestia que hayas visto cuya calificación de desafío sea igual o menor que la del objetivo (o la mitad del nivel del objetivo, si el objetivo no tiene una calificación de desafío). Las estadísticas del juego del objetivo, incluidas las puntuaciones de habilidad mental, se reemplazan por las estadísticas de la bestia elegida, pero el objetivo conserva sus [[Puntos de Golpe]], alineamiento y personalidad.
 
 Cada objetivo gana un número de puntos de golpe temporales igual a los puntos de golpe de su nueva forma. Estos puntos de golpe temporales no pueden ser reemplazados por puntos de golpe temporales de otra fuente.
 

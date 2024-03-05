@@ -11,13 +11,13 @@ Habilidades:
 *Rasgos de Clase*
 Como clérigo, ganas lo siguientes rasgos de clase.
 
-[[Puntos de golpe]]: Dado de Golpe: 1d8 por nivel de clérigo.
+[[Puntos de Golpe]]: Dado de Golpe: 1d8 por nivel de clérigo.
 Puntos de Golpe en primer nivel: 8 + tu modificador de [[Constitución]].
 Puntos de Golpe a niveles superiores: 1d8 (o 5) + tu modificador de [[Constitución]] por cada nivel de
 clérigo después del primer nivel.
 
 *Competencias*
-Armadura: armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]].
+Armadura: armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]].
 Armas: todas las armas simples.
 Herramientas: ninguna.
 Tiradas de Salvación: [[Sabiduría]], [[Carisma]].
@@ -29,7 +29,7 @@ Comienzas con el siguiente equipo, además del otorgado por tu trasfondo:
 • (a) [[cota de escamas]], (b) [[armadura de cuero]] o (c) [[Cota de Malla]] (si eres competente).
 • (a) una [[ballesta ligera]] y 20 [[virote básico]] o (b) cualquier arma simple.
 • (a) un [[equipo de sacerdote]] o (b) un [[equipo de explorador]].
-• Un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]] y un símbolo sagrado.
+• Un [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]] y un símbolo sagrado.
 
 
 *Tabla de niveles de Clérigo*

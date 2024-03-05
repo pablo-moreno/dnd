@@ -15,7 +15,7 @@ Obligados a corregir los males o ganar prestigio, muchos de estos guerreros aban
 
 *Competencia Adicional*
 Adquieres competencia en una de las siguientes habilidades de tu elección: [[Trato con Animales]],
-[[historia]], [[perspicacia]], [[Atletismo]] o [[persuasión]]. Alternativamente, aprendes un idioma de tu
+[[Historia]], [[Perspicacia]], [[Atletismo]] o [[Persuasión]]. Alternativamente, aprendes un idioma de tu
 elección.
 
 

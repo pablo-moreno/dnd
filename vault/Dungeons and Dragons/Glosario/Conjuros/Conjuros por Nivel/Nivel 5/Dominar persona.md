@@ -24,7 +24,7 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Intentas embaucar a un humanoide que puedas ver dentro del alcance. El objetivo debe superar una [[tirada de salvación]] de [[Sabiduría]] para no quedar [[hechizado]] por ti mientras dure el conjuro. Si tú o las criaturas que son amistosas hacia ti estáis luchando contra él, este tiene ventaja en la tirada de salvación.
+Intentas embaucar a un humanoide que puedas ver dentro del alcance. El objetivo debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar [[Hechizado]] por ti mientras dure el conjuro. Si tú o las criaturas que son amistosas hacia ti estáis luchando contra él, este tiene ventaja en la tirada de salvación.
 
 Mientras el objetivo está hechizado, tienes un vínculo telepático con él siempre y cuando los dos estéis en el mismo plano de existencia. Puedes usar este vínculo telepático para darle órdenes mientras estés consciente (no se requiere acción) y la bestia da lo mejor de sí para obedecerlas. Puedes especificar un curso de acción simple o general, como «ataca a esa criatura», «corre por ahí» o «atrapa ese objeto». Si la criatura cumple la orden y no recibe más por tu parte, se defiende y se protege lo mejor que puede.
 

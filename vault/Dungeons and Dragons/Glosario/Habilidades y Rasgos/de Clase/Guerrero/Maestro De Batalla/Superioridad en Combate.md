@@ -20,9 +20,9 @@ Aprendes dos maniobras adicionales de tu elección en los niveles 7, 10 y 15. Ca
 descanso corto o prolongado. Ganas un dado de superioridad en el nivel 7 y otro más en el nivel 15.
 
 *Tiradas de Salvación*. Algunas de tus maniobras requieren que tu objetivo realice una tirada de
-salvación para resistir los efectos de la maniobra. La CD de la [[tirada de salvación]] se calcula de la
+salvación para resistir los efectos de la maniobra. La CD de la [[Tirada de Salvación]] se calcula de la
 siguiente manera:
 
-CD de la Salvación de la Maniobra = 8 + bonificador de competencia + modificador de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] o
+CD de la Salvación de la Maniobra = 8 + bonificador de competencia + modificador de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] o
 [[Destreza]] (a tu elección)
 

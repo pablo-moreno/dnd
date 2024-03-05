@@ -10,6 +10,6 @@ Mejora de Habilidad:
 ---
 Tu maestría en el [[ki]] te otorga competencia en todas las tiradas de salvación.
 
-De forma adicional, cuando falles una [[tirada de salvación]], puedes gastar un punto ki para volver a
+De forma adicional, cuando falles una [[Tirada de Salvación]], puedes gastar un punto ki para volver a
 realizar esa tirada y quedarte con el segundo resultado.
 

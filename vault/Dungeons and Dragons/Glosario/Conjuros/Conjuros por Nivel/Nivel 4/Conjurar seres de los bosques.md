@@ -32,7 +32,7 @@ Convocas criaturas feéricas que aparecen en espacios sin ocupar que puedas ver 
 - Cuatro criaturas feéricas con un valor de desafío igual a 1/2 o menos.
 - Ocho criaturas feéricas con un valor de desafío igual a 1/4 o menos.
 
-Una criatura convocada desaparece cuando sus [[puntos de golpe]] se reducen a 0 o cuando el conjuro termina.
+Una criatura convocada desaparece cuando sus [[Puntos de Golpe]] se reducen a 0 o cuando el conjuro termina.
 
 Las criaturas convocadas son amistosas hacia ti y tus compañeros mientras dura el conjuro. Tira iniciativa por las criaturas como si fueran un grupo, que tiene sus propios turnos. Obedecen cualquier orden verbal que les des (no requiere que realices ninguna acción). Si no les das ninguna orden, se defienden de las criaturas hostiles, pero, si no las hay, no realizan ninguna acción.
 

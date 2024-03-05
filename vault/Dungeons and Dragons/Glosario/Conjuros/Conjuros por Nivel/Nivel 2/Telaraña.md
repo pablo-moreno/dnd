@@ -31,8 +31,8 @@ Conjuras una masa de telarañas pegajosas en un punto de tu elección dentro del
 
 Si las telarañas no están sujetas entre dos cuerpos sólidos (como paredes o árboles) o apoyadas sobre el suelo, un muro o el techo, colapsan por sí mismas y el conjuro termina al principio de tu siguiente turno. Las telarañas apoyadas sobre una superficie lisa tienen una profundidad de 5 pies.
 
-Cada criatura que empieza su turno en las telarañas o que entra en ellas durante su turno debe hacer una [[tirada de salvación]] de [[Destreza]]. Si falla, queda apresada mientras permanezcan las telarañas o hasta que se libere.
+Cada criatura que empieza su turno en las telarañas o que entra en ellas durante su turno debe hacer una [[Tirada de Salvación]] de [[Destreza]]. Si falla, queda apresada mientras permanezcan las telarañas o hasta que se libere.
 
-Una criatura apresada por las telarañas puede usar su acción para hacer una prueba de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] enfrentada a la CD de salvación de tu conjuro. Si tiene éxito, deja de estar apresada.
+Una criatura apresada por las telarañas puede usar su acción para hacer una prueba de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] enfrentada a la CD de salvación de tu conjuro. Si tiene éxito, deja de estar apresada.
 
-Las telarañas son inflamables. Cualquier cubo de telarañas de 5 pies expuesto al fuego arde en 1 ronda, infligiendo 2d4 puntos de daño por [[fuego]] a cualquier criatura que empiece su turno en el fuego.
+Las telarañas son inflamables. Cualquier cubo de telarañas de 5 pies expuesto al fuego arde en 1 ronda, infligiendo 2d4 puntos de daño por [[Fuego]] a cualquier criatura que empiece su turno en el fuego.

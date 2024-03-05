@@ -33,4 +33,4 @@ Un viento fuerte (20 millas por hora) sopla a tu alrededor en un radio de 10 pie
 
 -Cubre el vapor, el gas y la niebla que pueden ser dispersados por el viento fuerte. El área es terreno difícil para otras criaturas aparte de ti. 
 
--Las [[tiradas de ataque]] con arma a distancia tienen desventaja si los ataques entran o salen del viento.
+-Las [[Tiradas de Ataque]] con arma a distancia tienen desventaja si los ataques entran o salen del viento.

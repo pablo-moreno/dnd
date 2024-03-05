@@ -29,7 +29,7 @@ Clases:
 ---
 (un trocito de mica)
 
-Un sonido estridente y dolorosamente intenso surge de un punto que elijas dentro del alcance. Todas las criaturas que se encuentren en una esfera de 10 pies de radio, cuyo centro sea ese punto, deben hacer una [[tirada de salvación]] de [[Constitución]]. Si fallan, reciben 3d8 puntos de daño por [[trueno]] y, si tienen éxito, la mitad. Una criatura hecha de material inorgánico, como piedra, cristal o metal, tiene desventaja en esta tirada de salvación.
+Un sonido estridente y dolorosamente intenso surge de un punto que elijas dentro del alcance. Todas las criaturas que se encuentren en una esfera de 10 pies de radio, cuyo centro sea ese punto, deben hacer una [[Tirada de Salvación]] de [[Constitución]]. Si fallan, reciben 3d8 puntos de daño por [[Trueno]] y, si tienen éxito, la mitad. Una criatura hecha de material inorgánico, como piedra, cristal o metal, tiene desventaja en esta tirada de salvación.
 
 Los objetos no mágicos que nadie lleve puesto ni transporte también reciben daño si están dentro del área del conjuro.
 

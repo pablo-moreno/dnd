@@ -6,4 +6,4 @@ tags:
   - type/note
 aliases:
 ---
-Cuando obtienes un 1 en una [[tirada de ataque]], prueba de característica o [[tirada de salvación]], puedes volver a tirar el dado y debes usar la puntuación obtenida en la nueva tirada.
+Cuando obtienes un 1 en una [[Tirada de Ataque]], prueba de característica o [[Tirada de Salvación]], puedes volver a tirar el dado y debes usar la puntuación obtenida en la nueva tirada.

@@ -13,7 +13,7 @@ Has aprendido a imbuirte de la fuerza de los gigantes. Como acción adicional, o
 • Si tu tamaño es menor que Grande, te vuelves Grande, y también todo lo que lleves puesto. Si no
 tienes espacio para hacerte Grande, tu tamaño no cambia.
 
-• Tienes ventaja en las pruebas de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] y en las tiradas de salvación de Fuerza.
+• Tienes ventaja en las pruebas de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] y en las tiradas de salvación de Fuerza.
 
 • Una vez en cada uno de tus turnos, uno de tus ataques con arma o un ataque sin armas puede
 infligir 1d6 de daño adicional a un objetivo si impacta.

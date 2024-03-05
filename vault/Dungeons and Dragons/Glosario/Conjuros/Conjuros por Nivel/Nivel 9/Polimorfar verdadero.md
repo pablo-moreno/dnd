@@ -29,11 +29,11 @@ Clases:
 
 Elige a una criatura o un objeto mágico que puedas ver dentro del alcance. Transformas la criatura en una criatura diferente o en un objeto, o el objeto en una criatura (nadie debe llevar el objeto puesto ni transporte). La transformación dura mientras lo haga el conjuro, hasta que sus puntos de golpe se reduzcan a 0 o hasta que muera. Si te concentras en este conjuro toda la duración, la transformación dura hasta que se disipa.
 
-Este conjuro no tiene efecto sobre cambiaformas o criaturas con 0 [[puntos de golpe]]. Una criatura no voluntaria puede hacer una [[tirada de salvación]] de [[Sabiduría]] para intentar no quedar afectada.
+Este conjuro no tiene efecto sobre cambiaformas o criaturas con 0 [[Puntos de Golpe]]. Una criatura no voluntaria puede hacer una [[Tirada de Salvación]] de [[Sabiduría]] para intentar no quedar afectada.
 
 **Criatura en criatura.** Si conviertes a una criatura en otro tipo de criatura, la nueva forma puede ser cualquier cosa que tenga un valor de desafío igual o menor al del objetivo (o nivel si el objetivo no tiene un valor de desafío). Las estadísticas de juego de la nueva forma remplazan las del objetivo, incluyendo las puntuaciones de las características mentales, pero mantiene su alineamiento y su personalidad.
 
-El objetivo asume los puntos de golpe de la nueva forma y, cuando vuelve a su forma normal, vuelve a tener el número de puntos de golpe que tenía antes de transformarse. Si vuelve a su forma normal como resultado de que sus puntos de golpe se hayan reducido a 0, cualquier exceso de daño se aplica a su forma normal. Mientras el exceso de daño no reduzca los puntos de golpe de la forma normal a 0, la criatura no queda [[inconsciente]].
+El objetivo asume los puntos de golpe de la nueva forma y, cuando vuelve a su forma normal, vuelve a tener el número de puntos de golpe que tenía antes de transformarse. Si vuelve a su forma normal como resultado de que sus puntos de golpe se hayan reducido a 0, cualquier exceso de daño se aplica a su forma normal. Mientras el exceso de daño no reduzca los puntos de golpe de la forma normal a 0, la criatura no queda [[Inconsciente]].
 
 Las acciones que puede realizar la criatura están limitadas por la naturaleza de su nueva forma y no puede hablar, lanzar conjuros o realizar cualquier otra acción que requiera manos o hablar, a menos que la nueva forma sea capaz de realizar tales acciones.
 

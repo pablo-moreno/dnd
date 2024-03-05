@@ -25,4 +25,4 @@ Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
 ---
-Pronuncias una palabra de poder que puede obligar a una criatura que veas dentro del alcance a morir. Si la criatura que eliges tiene 100 [[puntos de golpe]] o menos, muere. Si no, el conjuro no tiene efecto.
+Pronuncias una palabra de poder que puede obligar a una criatura que veas dentro del alcance a morir. Si la criatura que eliges tiene 100 [[Puntos de Golpe]] o menos, muere. Si no, el conjuro no tiene efecto.

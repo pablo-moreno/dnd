@@ -27,15 +27,15 @@ Un espíritu de la naturaleza responde a tu llamado y te transforma en un guardi
 
 Tu velocidad de movimiento aumenta en 10 pies. Obtienes visión oscura con un alcance de 120 pies.
 
-Haces [[tiradas de ataque]] basadas en la [[Fuerza]] con ventaja.
+Haces [[Tiradas de Ataque]] basadas en la [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] con ventaja.
 
 Tus ataques de arma cuerpo a cuerpo provocan daño adicional de 1d6 de fuerza al golpear.
 
 *Gran Árbol*. Tu piel parece como de corteza, brotan hojas de tu cabello, y obtienes los siguientes beneficios:
 
-Ganas 10 [[puntos de golpe]] temporales.
+Ganas 10 [[Puntos de Golpe]] temporales.
 
-Realizas [[tiradas de salvación]] de [[Constitución]] con ventaja.
+Realizas [[Tiradas de Salvación]] de [[Constitución]] con ventaja.
 
 Haces tiradas de ataque basadas en [[Destreza]] y [[Sabiduría]] con ventaja.
 
