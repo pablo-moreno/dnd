@@ -4,9 +4,10 @@ creation date: 2024-03-05 12:28
 tags:
   - type/object
   - om/mar
-aliases:
-  - muy raro
-Rareza: tatuaje
+aliases: []
+Rareza: muy raro
+Objeto:
+  - tatuaje
 Sintonía: true
 ---
 Creado con una aguja especial, este tatuaje mágico muestra símbolos de vida y renacimiento.
