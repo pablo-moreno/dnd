@@ -17,7 +17,7 @@ size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
 | [[Sabiduría]] | 15 | 2 | `dice: 1d20 + 2` |
 | [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 11 (16 con [[Piel robliza]])
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11 (16 con [[Piel robliza]])
 [[Puntos de Golpe]]: 27 (`dice: 5d8 + 5`)
 [[Velocidad]]: 30
 ## Habilidades

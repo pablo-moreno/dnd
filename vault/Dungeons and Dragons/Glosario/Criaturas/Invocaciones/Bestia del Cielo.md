@@ -18,7 +18,7 @@ aliases:
 | [[Sabiduría]] | 14 | +2 | `dice: 1d20 + 0` |
 | [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 13 + BC (armadura natural)
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 13 + BC (armadura natural)
 [[Puntos de Golpe]]: 4 + cuatro veces tu nivel de explorador (la bestia tiene una cantidad de Dados de
 Golpe d6 igual a tu nivel de explorador) (`dice: 1d4`)
 [[Velocidad]]: 10 pies, volar 60 pies

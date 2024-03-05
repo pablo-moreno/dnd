@@ -18,7 +18,7 @@ aliases:
 | [[Sabiduría]]    | 14     | +2           | `dice: 1d20 + 0`            |
 | [[Carisma]]      | 5     | -3           | `dice: 1d20 + 0`            |
 
-[[Clase de Armadura]]: 11 + el nivel de conjuro
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11 + el nivel de conjuro
 [[Puntos de Golpe]]: 20 (solo aire) o 30 (solo tierra y agua) + 5 por cada nivel de conjuro superior al 2
 [[Velocidad]]: 30 pies, trepar 30 pies (solo tierra), volar 60 pies (solo aire), nadar 30 pies (solo agua)
 ## Habilidades

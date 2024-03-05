@@ -49,6 +49,22 @@
     {
       "folder": "Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Venenos",
       "template": "⚙️ Meta/📐 Templates/Objetos Mágicos/Veneno.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Glosario/Objetos/Monturas y Barcos/Embarcaciones/Barcos",
+      "template": "⚙️ Meta/📐 Templates/Objetos/Vehiculos/Arma de Barco.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Glosario/Objetos/Monturas y Barcos/Embarcaciones/Armas",
+      "template": "⚙️ Meta/📐 Templates/Objetos/Vehiculos/Arma de Barco.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Glosario/Objetos/Monturas y Barcos/Embarcaciones/Tripulación",
+      "template": "⚙️ Meta/📐 Templates/Objetos/Vehiculos/Tripulante.md"
+    },
+    {
+      "folder": "Dungeons and Dragons/Glosario/Objetos/Monturas y Barcos/Embarcaciones/Mejoras",
+      "template": "⚙️ Meta/📐 Templates/Objetos/Vehiculos/Mejoras.md"
     }
   ],
   "syntax_highlighting": true,

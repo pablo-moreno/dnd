@@ -17,7 +17,7 @@ size: "[[Mediano]]"
 | [[Sabiduría]] | 14 | 2 | `dice: 1d20 + 2` |
 | [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 10
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 10
 [[Puntos de golpe]]: 9 (`dice: 2d8`)
 [[Velocidad]]: 30
 ## Habilidades

@@ -18,7 +18,7 @@ aliases:
 | [[Sabiduría]]                                                               | 10    | +0          | `dice: 1d20 + 0` |
 | [[Carisma]]                                                                 | 3     | -4          | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 11
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11
 [[Puntos de Golpe]]: 19 (3d10 + 3) (`dice: 1d4`)
 [[Velocidad]]: 30 pies., volando 60 pies.
 ## Habilidades

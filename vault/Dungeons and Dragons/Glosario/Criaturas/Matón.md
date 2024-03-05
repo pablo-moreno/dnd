@@ -20,7 +20,7 @@ aliases:
 | [[Sabiduría]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 11 ([[Armadura de cuero]])
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11 ([[Armadura de cuero]])
 [[Puntos de golpe]]: 32 (`dice: 5d8+10`)
 [[Velocidad]]: 30
 ## Habilidades

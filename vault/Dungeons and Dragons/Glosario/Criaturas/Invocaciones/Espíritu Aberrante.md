@@ -18,7 +18,7 @@ aliases:
 | [[Sabiduría]]    | 10     | 0           | `dice: 1d20 + 0`            |
 | [[Carisma]]      | 6     | -2           | `dice: 1d20 + 0`            |
 
-[[Clase de Armadura]]: 11 + nivel de conjuro
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11 + nivel de conjuro
 [[Puntos de Golpe]]: 40 + 10 por cada nivel de conjuro superior al 4 (`dice: 1d4`)
 [[Velocidad]]: 30 pies, volar 30 pies (levitar) (solo contempladores)
 ## Habilidades

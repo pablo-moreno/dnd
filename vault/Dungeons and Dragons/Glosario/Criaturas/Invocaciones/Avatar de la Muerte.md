@@ -18,7 +18,7 @@ aliases:
 | [[Sabiduría]]                                            | 16    | +3          | `dice: 1d20 + 0` |
 | [[Carisma]]                                              | 16    | +3          | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 20
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 20
 [[Puntos de Golpe]]: La mitad de los puntos totales de su invocador. (`dice: 1d4`)
 [[Velocidad]]: 60 pies, volando 60 pies. (Levita)
 ## Habilidades

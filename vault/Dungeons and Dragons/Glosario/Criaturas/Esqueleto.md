@@ -25,7 +25,7 @@ ca: "13"
 | [[Sabiduría]]                                                            | 8     | -1          | `dice: 1d20 - 1` |
 | [[Carisma]]                                                              | 5     | -3          | `dice: 1d20 - 3` |
 
-[[Clase de Armadura]]: `=this.ca`
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: `=this.ca`
 [[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 30
 

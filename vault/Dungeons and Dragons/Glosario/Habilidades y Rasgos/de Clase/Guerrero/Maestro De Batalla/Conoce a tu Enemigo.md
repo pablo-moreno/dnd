@@ -13,7 +13,7 @@ Si te dedicas a observar o interactuar con otra criatura fuera de combate durant
 -Puntuación de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]].
 -Puntuación de [[Destreza]].
 -Puntuación de [[Constitución]].
--[[Clase de Armadura]].
+-[[Dungeons and Dragons/Reglas/Clase de Armadura]].
 -[[Puntos de Golpe]] actuales.
 -Niveles totales de clase (si hay alguno).
 -Niveles de clase de Guerrero (si hay alguno).

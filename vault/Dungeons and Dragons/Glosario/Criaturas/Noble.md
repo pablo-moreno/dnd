@@ -20,7 +20,7 @@ aliases:
 | [[Sabiduría]] | 14 | 2 | `dice: 1d20 + 2` |
 | [[Carisma]] | 16 | 3 | `dice: 1d20 + 3` |
 
-[[Clase de Armadura]]: 15 ([[coraza]])
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 15 ([[coraza]])
 [[Puntos de golpe]]: 9 (`dice: 2d8`)
 [[Velocidad]]: 30
 ## Habilidades

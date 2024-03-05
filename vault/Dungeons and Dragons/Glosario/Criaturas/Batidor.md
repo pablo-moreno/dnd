@@ -23,7 +23,7 @@ ca: "13"
 | [[Sabiduría]]                                                            | 13    | 1           | `dice: 1d20 + 1` |
 | [[Carisma]]                                                              | 11    | 0           | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: `=this.ca` [[Armadura de Cuero]]
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: `=this.ca` [[Armadura de Cuero]]
 [[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 30
 

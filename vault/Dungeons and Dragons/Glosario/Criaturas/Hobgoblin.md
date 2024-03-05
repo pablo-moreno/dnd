@@ -22,7 +22,7 @@ ca: "18"
 | [[Sabiduría]]                                                            | 10    | 0           | `dice: 1d20 + 0` |
 | [[Carisma]]                                                              | 9     | -1          | `dice: 1d20 - 1` |
 
-[[Clase de Armadura]]: `=this.ca` [[Cota de malla]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]]
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: `=this.ca` [[Cota de malla]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]]
 [[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 30
 

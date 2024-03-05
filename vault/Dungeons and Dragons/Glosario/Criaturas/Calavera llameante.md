@@ -15,7 +15,7 @@ size: "[[Diminuto]]"
 | [[Inteligencia]] | 16 | 3 | `dice: 1d20 + 3` |
 | [[Sabiduría]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
-[[Clase de Armadura]]: 13
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 13
 [[Puntos de golpe]]: 40 (`dice: 9d4+18`)
 [[Velocidad]]: 0 pies
 [[Volar]]: 40 pies ([[levitar]])

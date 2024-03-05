@@ -18,7 +18,7 @@ aliases:
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Sabiduría]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 10 | 0 | `dice: 1d20 + 0` |
-[[Clase de Armadura]]: 17
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 17
 [[Puntos de golpe]]: 58 (`dice: 9d8+18`)
 [[Velocidad]]: 30
 ## Habilidades

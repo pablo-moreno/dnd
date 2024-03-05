@@ -11,7 +11,7 @@ size: "[[Mediano]]"
 ---
 ## Características
 
-**[[Clase de Armadura]]**: 12
+**[[Dungeons and Dragons/Reglas/Clase de Armadura]]**: 12
 **[[Puntos de golpe]]**: 11 (2d8 + 2 = `dice: 2d8 + 2`)
 **[[Velocidad]]**: 40 pies
 

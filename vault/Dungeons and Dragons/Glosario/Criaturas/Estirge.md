@@ -24,7 +24,7 @@ hit_dice: "`dice: 1d4`"
 | [[Sabiduría]]                                                            | 8     | -1          | `dice: 1d20 - 1` |
 | [[Carisma]]                                                              | 6     | -2          | `dice: 1d20 -2`  |
 
-[[Clase de Armadura]]: 14
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 14
 [[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 10
 [[Volar]]: 40

@@ -23,7 +23,7 @@ hit_points: 33
 | [[Sabiduría]]    | 3     | -4          | `dice: 1d20 - 4` |
 | [[Carisma]]      | 1     | -5          | `dice: 1d20 - 5` |
 
-[[Clase de Armadura]]: 12
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 12
 [[Puntos de golpe]]: `=this.hit_points` (`= this.hit_dice`)
 [[Velocidad]]: 10
 ## Inmunidad a daño

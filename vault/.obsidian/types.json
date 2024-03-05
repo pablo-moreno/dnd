@@ -36,6 +36,12 @@
     "int_precio": "number",
     "Usos": "number",
     "Objeto": "multitext",
-    "Sintonía": "checkbox"
+    "Sintonía": "checkbox",
+    "CA": "number",
+    "HP": "number",
+    "Huecos_Armas": "number",
+    "Velocidad": "text",
+    "int_Vel": "number",
+    "Acciones": "multitext"
   }
 }

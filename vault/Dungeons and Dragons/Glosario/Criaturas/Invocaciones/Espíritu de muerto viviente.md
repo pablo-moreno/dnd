@@ -18,7 +18,7 @@ aliases:
 | [[Sabiduría]]    | 10     | 0           | `dice: 1d20 + 0`            |
 | [[Carisma]]      | 9     | -1           | `dice: 1d20 + 0`            |
 
-[[Clase de Armadura]]: 11 + el nivel del conjuro
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11 + el nivel del conjuro
 [[Puntos de Golpe]]: 30 (solo fantasmal o pútrido) o 20 (solo esquelético) + 10 por cada nivel de conjuro superior a 3
 [[Velocidad]]: 30 pies, volar 40 pies (levitar) (solo fantasmal)
 ## Habilidades

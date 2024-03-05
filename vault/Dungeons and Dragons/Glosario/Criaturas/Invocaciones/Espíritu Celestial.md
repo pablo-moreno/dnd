@@ -18,7 +18,7 @@ c> Descripción...
 | [[Sabiduría]]    | 14     | +2           | `dice: 1d20 + 0`            |
 | [[Carisma]]      | 16     | +3           | `dice: 1d20 + 0`            |
 
-[[Clase de Armadura]]: 11 + el nivel de conjuro
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11 + el nivel de conjuro
 [[Puntos de Golpe]]: 40 + 10 por cada nivel de conjuro superior al 5 (`dice: 1d4`)
 [[Velocidad]]: 30 píes, volar 40 pies
 ## Habilidades

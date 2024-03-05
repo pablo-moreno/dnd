@@ -21,7 +21,7 @@ hit_dice: "`dice: 1d6 + 1`"
 | [[Sabiduría]]                                                            | 7     | -2          | `dice: 1d20 - 2` |
 | [[Carisma]]                                                              | 3     | -4          | `dice: 1d20 - 4` |
 
-[[Clase de Armadura]]: 13
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 13
 [[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 30
 Trepar: 30 pies

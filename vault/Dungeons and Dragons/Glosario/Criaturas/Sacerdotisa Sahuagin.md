@@ -20,7 +20,7 @@ hit_dice: "`dice: 6d8 + 6`"
 | [[Sabiduría]] | 14 | 2 | `dice: 1d20 + 2` |
 | [[Carisma]] | 13 | 1 | `dice: 1d20 + 1` |
 
-[[Clase de Armadura]]: 12 ([[Armadura natural]])
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 12 ([[Armadura natural]])
 [[Puntos de golpe]]: `=this.hit_points` (`= this.hit_dice`)
 [[Velocidad]]: 30
 [[Nadar]]: 40

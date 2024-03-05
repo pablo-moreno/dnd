@@ -30,7 +30,7 @@ Añades tu modificador de Destreza a tu [[tirada de ataque]] y de daño cuando a
 También puedes añadir tu Modificador de Destreza a tus tiradas de ataque y daño cuando atacas con un arma cuerpo a cuerpo que tiene la propiedad [[sutil]], como una [[daga]] o un [[estoque]].
 
 *Clase de Armadura*
-Dependiendo de la armadura que llevas, puedes agregar una parte o la totalidad de tu modificador de Destreza a tu [[Clase de Armadura]].
+Dependiendo de la armadura que llevas, puedes agregar una parte o la totalidad de tu modificador de Destreza a tu [[Dungeons and Dragons/Reglas/Clase de Armadura]].
 
 *Iniciativa*
 Al comienzo de cada combate, tiras iniciativa haciendo una prueba de Destreza. La iniciativa determina el orden de los turnos de las criaturas en combate.

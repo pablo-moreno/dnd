@@ -18,7 +18,7 @@ aliases:
 | [[Sabiduría]]    | 11     | 0           | `dice: 1d20 + 0`            |
 | [[Carisma]]      | 16     | +3           | `dice: 1d20 + 0`            |
 
-[[Clase de Armadura]]:  12 + el nivel del conjuro (armadura natural)
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]:  12 + el nivel del conjuro (armadura natural)
 [[Puntos de Golpe]]: 30 + 10 por cada nivel de conjuro superior al 3
 [[Velocidad]]: 40 pies
 ## Habilidades

@@ -18,7 +18,7 @@ aliases:
 | [[Sabiduría]]    | 15     | +2           | `dice: 1d20 + 0`            |
 | [[Carisma]]      | 11     | 0           | `dice: 1d20 + 0`            |
 
-[[Clase de Armadura]]: 13 (armadura natural)
+[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 13 (armadura natural)
 [[Puntos de Golpe]]: 5 + cinco veces tu nivel de druida (`dice: 1d4`)
 [[Velocidad]]: 30 pies, volar 30 pies (levitar)
 ## Habilidades
