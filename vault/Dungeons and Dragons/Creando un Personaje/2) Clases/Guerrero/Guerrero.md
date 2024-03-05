@@ -26,7 +26,7 @@ Habilidades: escoge dos entre [[Acrobacias]], [[Atletismo]], [[Perspicacia]], [[
 
 *Equipo*
 Comienzas con el siguiente equipo, además del otorgado por tu trasfondo:
-• (a) una [[cota de mallas]] o (b) [[armadura de cuero]], [[arco largo]] y carcaj con 20 [[flecha básica]].
+• (a) una [[Cota de Malla]] o (b) [[armadura de cuero]], [[arco largo]] y carcaj con 20 [[flecha básica]].
 • (a) un arma marcial y un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]] o (b) dos armas marciales.
 • (a) una [[ballesta ligera]] y 20 [[virote básico]] o (b) dos [[hacha de mano]].
 • (a) un [[Equipo de Explorador de Mazmorras]] o (b) un [[equipo de explorador]].

@@ -15,3 +15,4 @@ int_peso: 65
 int_precio: 150000
 ---
 
+La armadura clásica de caballeros y aventureros. Este enorme traje metálico está diseñado para brindar protección de la cabeza a los pies. Necesitarás un grueso acolchado debajo para proteger la piel, y unas tiras de calidad para mantener el peso del conjunto distribuido por todo el cuerpo. Las placas son ruidosas, así que olvídate de acechar a criaturas mientras lleves esto.

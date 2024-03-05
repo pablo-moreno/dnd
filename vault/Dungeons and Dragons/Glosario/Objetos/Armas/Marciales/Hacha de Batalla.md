@@ -15,4 +15,3 @@ Precio: "1.000"
 int_peso: 4
 int_precio: 1000
 ---
-

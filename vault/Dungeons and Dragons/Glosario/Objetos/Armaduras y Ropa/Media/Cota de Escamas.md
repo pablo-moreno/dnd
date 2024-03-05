@@ -14,4 +14,4 @@ Precio: "5.000"
 int_peso: 45
 int_precio: 5000
 ---
-
+Esta armadura es una mezcla de cuero y piezas de metal que se solapan como las escamas de un pez (de ahí su nombre). Con chaquetón, perneras, guanteletes y en ocasiones sobrefalda, proporciona protección corporal completa para aventureros intrépidos.

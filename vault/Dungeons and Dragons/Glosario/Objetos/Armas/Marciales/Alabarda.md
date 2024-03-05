@@ -17,4 +17,7 @@ Precio: "2.000"
 int_peso: 6
 int_precio: 2000
 ---
+Combina el alcance de una pica con el filo de un hacha, y abre todavía más técnicas de
+ataque a un luchador experimentado.
 
+Al sujetar el palo cerca de su base, ganarás más alcance para tus tajos, mientras que, si la sujetas cerca del filo, infligirá mortíferos impactos.

@@ -14,4 +14,4 @@ Precio: "1.000"
 int_peso: 12
 int_precio: 1000
 ---
-
+Ideales para un bárbaro, ya que esa rudimentaria armadura consiste en gruesos cueros y pelajes que se envuelven en torno al cuerpo. Muchos humanoides malvados también prefieren este tipo de protección.

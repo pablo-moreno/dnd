@@ -16,4 +16,4 @@ Precio: "500"
 int_peso: 2
 int_precio: 500
 ---
-
+Las hachas de mano se pueden usar como armas cuerpo a cuerpo y también arrojadizas, ¡y algunos aventureros aprenden a llevar dos hachas de mano al mismo tiempo! 

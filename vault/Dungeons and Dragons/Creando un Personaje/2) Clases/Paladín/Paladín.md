@@ -31,7 +31,7 @@ Comienzas con el siguiente equipo, además del equipo otorgado por tu trasfondo:
 • Un arma marcial y un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]] o (b) dos armas marciales.
 • (a) Cinco [[jabalina]] o (b) cualquier arma cuerpo a cuerpo simple.
 • Un [[equipo de sacerdote]] o (b) un [[equipo de explorador]].
-• [[Cota de mallas]] y un símbolo sagrado.
+• [[Cota de Malla]] y un símbolo sagrado.
 
 
 | Nivel | Competencia | Rasgos |

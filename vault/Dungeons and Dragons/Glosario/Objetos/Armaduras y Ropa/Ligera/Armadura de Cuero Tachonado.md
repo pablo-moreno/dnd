@@ -14,4 +14,6 @@ Precio: "45.000"
 int_peso: 13
 int_precio: 45000
 ---
+Se trata de una armadura de cuero que se ha reforzado con remaches y pinchos para ayudar a desviar impactos.
 
+Pero cuidado: esta clase de armadura es mucho más cara que el cuero normal, y mucho más pesada. No querrás llevarla en un viaje largo a menos que seas muy fuerte.

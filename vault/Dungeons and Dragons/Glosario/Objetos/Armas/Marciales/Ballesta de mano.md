@@ -17,4 +17,3 @@ Precio: "7.500"
 int_peso: 3
 int_precio: 7500
 ---
-

@@ -27,7 +27,7 @@ Habilidades: escoge dos entre [[Percepción]], [[Historia]], [[Medicina]], [[Per
 *Equipo*
 Comienzas con el siguiente equipo, además del otorgado por tu trasfondo:
 • (a) una [[maza]] o (b) un [[martillo de guerra]] (si eres competente).
-• (a) [[cota de escamas]], (b) [[armadura de cuero]] o (c) [[Cota de Mallas]] (si eres competente).
+• (a) [[cota de escamas]], (b) [[armadura de cuero]] o (c) [[Cota de Malla]] (si eres competente).
 • (a) una [[ballesta ligera]] y 20 [[virote básico]] o (b) cualquier arma simple.
 • (a) un [[equipo de sacerdote]] o (b) un [[equipo de explorador]].
 • Un [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo|Escudo]] y un símbolo sagrado.

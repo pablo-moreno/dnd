@@ -14,4 +14,6 @@ Precio: "500"
 int_peso: 8
 int_precio: 500
 ---
+Esta protección, hecha de capas de ropa y tela guateada, resulta ligera y es económica, aunque no demasiado resistente.
 
+Cuidado: esta sencilla armadura es voluminosa, así que tu personaje será menos sigiloso cuando la lleve puesta. No es lo ideal si quieres pasar desapercibido.

@@ -14,4 +14,8 @@ Precio: "20.000"
 int_peso: 60
 int_precio: 20000
 ---
+Esta dura y resistente armadura se confecciona mediante estrechas tiras metálicas remachadas sobre cuero. Incorpora cota de malla en las articulaciones para mayor protección en los puntos flexibles, y un grueso tejido acolchado debajo para evitar rozaduras en la piel.
+
+
+
 

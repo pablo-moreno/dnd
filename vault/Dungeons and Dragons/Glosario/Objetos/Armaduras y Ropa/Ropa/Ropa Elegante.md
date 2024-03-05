@@ -13,4 +13,7 @@ Precio: "1.500"
 int_peso: 6
 int_precio: 1500
 ---
+Atuendos adornados creados con materiales caros, que incluso pueden exhibir decoraciones de hilos de seda y piedras preciosas.
+Llévalas cuando necesites impresionar a nobles, actuar con diplomacia o intimidar a los pobres.
 
+No las lleves cuando salgas de aventuras: los tejidos caros son demasiado delicados para los peligros de una mazmorra, ¡y los brillos pueden atraer a criaturas desagradables!

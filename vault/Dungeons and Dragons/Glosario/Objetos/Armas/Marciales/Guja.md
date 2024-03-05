@@ -17,4 +17,4 @@ Precio: "2.000"
 int_peso: 6
 int_precio: 2000
 ---
-
+El gancho curvado de una guja le permite provocar daños adicionales. ¡Incluso puedes usarlo para atraer a los oponentes y dejarlos más cereal El borde afilado del filo se puede emplear para apuñalar o dar tajos a los enemigos para tener más opciones de ataque.

@@ -16,4 +16,6 @@ Precio: "200"
 int_peso: 3
 int_precio: 200
 ---
+Tradicionalmente empleados para el manejo del ganado, se pueden usar como armas en manos de un experto muy entrenado. ¡Algunos látigos se extienden hasta los seis metros, ofreciendo mayor alcance que la mayoría de armas cuerpo a cuerpo!
 
+Otros estilos de látigo ofrecen menos alcance, pero diferentes ventajas. Los flagelos son látigos con múltiples colas cortas que se pueden utilizar para desarmar a un rival. Una fusta se puede esconder discretamente y ofrece un impacto punzante en lugar de daño permanente. Los látigos de cadenas, hechos de varas metálicas unidas por cadenas, son menos flexibles que otros látigos, pero golpean muy duro.
