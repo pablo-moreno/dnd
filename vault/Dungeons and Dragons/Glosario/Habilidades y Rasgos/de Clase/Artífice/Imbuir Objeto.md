@@ -24,3 +24,20 @@ Puedes imbuir más de un objeto no mágico tras un descanso largo. E l número m
 Tienes que tocar cada uno de los objetos y las infusiones solo pueden estar en un objeto cada vez. Además, ningún objeto admite más de una infusión a la vez. Si intentas  superar tu máxima cantidad de infusiones, la más antigua se acaba y luego se aplica la nueva.
 
 Si una infusión acaba en un objeto que contenga otras cosas, como una bolsa de contención, su contenido aparecerá en su espacio y alrededor de este sin sufrir daños.
+
+INFUSIONES DE ARTÍFICE
+Las infusiones de artífice son procesos extraordinarios que convierten rápidamente un objeto no mágico en un objeto mágico. La descripción de cada una de las siguientes infusiones indica el tipo de objeto que puede recibirla, además de si el objeto mágico resultante requiere sintonización.
+
+Para algunas infusiones, es necesario un nivel de artífice mínimo. No podrás aprender a preparar dichas infusiones hasta que no hayas alcanzado ese nivel.
+A menos que su descripción indique lo contrario, solo puedes aprender cada infusión una vez
+
+
+*Lista de Infusiones*
+
+```dataview
+
+table Nivel as "Nivel Requerido", Objeto as "Objeto Necesario"
+from #art/inf 
+sort Nivel
+
+```
