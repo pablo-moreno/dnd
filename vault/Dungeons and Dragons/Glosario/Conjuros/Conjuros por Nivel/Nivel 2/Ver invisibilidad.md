@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 4/Adivinación|Adivinación]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una pizca de talco y un poco de polvo de plata para espolvorear)
 

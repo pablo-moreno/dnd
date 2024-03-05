@@ -7,6 +7,7 @@ tags:
   - conj/lv2
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Abjuración]]"
@@ -22,6 +23,7 @@ Concentración: true
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una pequeña correa de cuero o un fragmento de alambre de oro doblado en forma de copa con un largo astil en el extremo)
 

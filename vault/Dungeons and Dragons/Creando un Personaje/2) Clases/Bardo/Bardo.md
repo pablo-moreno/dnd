@@ -6,8 +6,7 @@ tags:
   - type/note
 aliases: 
 Nivel de Clase: 
-Habilidades: 
-Lanzador de Conjuros: true
+Habilidades:
 ---
 
 *Rasgos de Clase*

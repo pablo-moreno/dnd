@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv3
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Transmutación]]"
@@ -19,6 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Tocas un objeto diminuto, no mágico, que no está unido a otro objeto o una superficie y que no está siendo cargado por otra criatura. El objetivo se anima y le brotan pequeños brazos y piernas, convirtiéndose en una criatura bajo tu control hasta que el conjuro termina o la criatura cae a 0 [[puntos de golpe]]. Ver [[Dungeons and Dragons/Glosario/Criaturas/Invocaciones/Servidor Minúsculo|Servidor Minúsculo]].
 

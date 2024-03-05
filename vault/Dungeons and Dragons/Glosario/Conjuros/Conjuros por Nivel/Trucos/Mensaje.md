@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Transmutación]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (pequeño fragmento de hilo de cobre)
 

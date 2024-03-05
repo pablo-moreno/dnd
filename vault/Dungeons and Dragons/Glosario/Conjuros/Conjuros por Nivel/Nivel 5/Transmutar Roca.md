@@ -7,6 +7,7 @@ tags:
   - conj/lv5
   - c/dru
   - c/mag
+  - c/art
 aliases: 
 Nivel: 5
 Escuela: "[[Transmutación]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Druida]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (arcilla y agua)
 

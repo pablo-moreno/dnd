@@ -7,8 +7,9 @@ tags:
   - conj/lv2
   - c/pal
   - c/cle
+  - c/art
 aliases: 
-Nivel: 
+Nivel: 2
 Escuela: "[[Abjuración]]"
 Tiempo_de_Lanzamiento: 1 accion
 Alcance: "30"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Paladín]]"
   - "[[Clérigo]]"
+  - "[[Artífice]]"
 ---
 (un girón diminuto de tela blanca)
 

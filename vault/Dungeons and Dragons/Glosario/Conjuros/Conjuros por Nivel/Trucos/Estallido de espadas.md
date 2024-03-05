@@ -8,6 +8,7 @@ tags:
   - c/bru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Conjuración]]"
@@ -22,6 +23,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Creas un círculo momentáneo de espadas espectrales que hacen un barrido a tu alrededor. Todas las demás criaturas que estén a 5 pies o menos de ti deberán superar una [[tirada de salvación]] de
 [[Destreza]] o recibirán 1d6 de daño de [[fuerza]].

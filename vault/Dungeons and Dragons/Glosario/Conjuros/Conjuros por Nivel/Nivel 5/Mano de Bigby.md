@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv5
   - c/mag
+  - c/art
 aliases: 
 Nivel: 5
 Escuela: "[[Evocación]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un cascarón de huevo y un guante de piel de serpiente)
 

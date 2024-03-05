@@ -8,6 +8,7 @@ tags:
   - c/bru
   - c/dru
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Transmutación]]"
@@ -23,6 +24,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Elige una criatura que puedas ver dentro del alcance y elige uno de los siguientes tipos de daño: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[frío]], [[fuego]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Relámpago|Relámpago]] o [[trueno]]. El objetivo debe tener éxito en una [[tirada de salvación]] de [[Constitución]] o ser afectado por el conjuro por su duración. 
 

@@ -9,6 +9,7 @@ tags:
   - c/bar
   - c/cle
   - c/dru
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Abjuración]]"
@@ -26,6 +27,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Clérigo]]"
   - "[[Druida]]"
+  - "[[Artífice]]"
 ---
 (una correa de cuero atada alrededor del brazo o una extremidad similar)
 

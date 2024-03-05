@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 5
 Escuela: "[[Transmutación]]"
@@ -23,6 +24,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Los objetos pueden cobrar vida bajo tus órdenes. Elige hasta diez objetos no mágicos dentro del alcance que nadie lleve puestos ni transporte. Un objeto Mediano cuenta como dos objetos, uno Grande cuenta como cuatro y uno Enorme cuenta como ocho. No puedes animar objetos de un tamaño superior a Enorme. Cada objetivo cobra vida y se convierte en una criatura que controlas hasta que el conjuro se acabe o hasta que sus [[puntos de golpe]] se reduzcan a 0.
 

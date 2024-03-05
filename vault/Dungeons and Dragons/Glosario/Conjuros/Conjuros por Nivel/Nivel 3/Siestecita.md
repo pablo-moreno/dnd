@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Dungeons and Dragons/Glosario/Conjuros/Escuelas de Conjuros/Encantamiento]]"
@@ -23,6 +24,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una pizca de arena)
 

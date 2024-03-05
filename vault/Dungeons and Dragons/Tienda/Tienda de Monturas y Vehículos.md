@@ -36,6 +36,8 @@ table Precio as "Precio (po)", Tiempo, Debuff
 from #bar/mej 
 ```
 
+
+
 ## Arreos, Guarniciones y Vehículos de Tiro
 
 ```dataview

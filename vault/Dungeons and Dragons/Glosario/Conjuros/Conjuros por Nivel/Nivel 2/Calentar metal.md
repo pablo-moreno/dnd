@@ -7,6 +7,7 @@ tags:
   - conj/lv2
   - c/bar
   - c/dru
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Transmutación]]"
@@ -22,6 +23,7 @@ Concentración: true
 Clases:
   - "[[Bardo]]"
   - "[[Druida]]"
+  - "[[Artífice]]"
 ---
 (un trozo de hierro y una llama)
 

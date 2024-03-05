@@ -7,6 +7,7 @@ tags:
   - conj/trick
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Conjuración]]"
@@ -21,6 +22,7 @@ Concentración:
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Lanzas un orbe de ácido. Elige una criatura o dos criaturas dentro del alcance que se encuentren a 5 pies o menos entre sí y que puedas ver. El objetivo debe superar una [[tirada de salvación]] de [[Destreza]] para no recibir 1d6 puntos de daño por [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]].
 

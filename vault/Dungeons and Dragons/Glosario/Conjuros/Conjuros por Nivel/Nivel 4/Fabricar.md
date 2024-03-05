@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv4
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Transmutación]]"
@@ -19,6 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Conviertes materia prima en productos del mismo material. Por ejemplo, puedes fabricar un puente de madera con unos cuantos árboles, una cuerda con un trozo de cáñamo y ropas con lino o lana. Elige materias primas que puedas ver dentro del alcance. Puedes fabricar un objeto de tamaño Grande o más pequeño (que entre en un cubo de 10 pies o en 8 cubos de 5 pies conectados) si tienes la cantidad de materia prima suficiente. Si trabajas con metal, piedra u otra sustancia mineral, sin embargo, el objeto fabricado no puede ser de un tamaño superior a Mediano (contenido en un único cubo de 5 pies). La calidad de los objetos que elabora el conjuro es proporcional a la calidad de las materias primas.
 

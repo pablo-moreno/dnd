@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/cle
   - c/dru
+  - c/art
 aliases: 
 Nivel: 5
 Escuela: "[[Abjuración]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Clérigo]]"
   - "[[Druida]]"
+  - "[[Artífice]]"
 ---
 (polvo de diamante de al menos 10.000 po de valor, el cual consume el conjuro)
 

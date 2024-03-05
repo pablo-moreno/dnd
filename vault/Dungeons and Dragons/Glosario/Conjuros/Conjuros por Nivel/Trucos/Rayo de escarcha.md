@@ -7,6 +7,7 @@ tags:
   - conj/trick
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Evocación]]"
@@ -21,6 +22,7 @@ Concentración:
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Un rayo helador de luz de color azul blanquecino alcanza a una criatura dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si aciertas, el objetivo recibe 1d8 puntos de daño por [[frío]] y su velocidad se reduce en 10 pies hasta el principio de tu siguiente turno.
 

@@ -9,6 +9,7 @@ tags:
   - c/bru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Abjuración]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Hasta que acabe el conjuro, tú o una criatura voluntaria que puedas ver dentro del alcance obtiene resistencia al daño [[psíquico]] y ventaja en las [[tirada de salvación]] de [[Inteligencia]], [[Sabiduría]] y [[Carisma]].
 

@@ -9,6 +9,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Transmutación]]"
@@ -25,6 +26,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Tocas un carcaj que contiene flechas o virotes. Cuando un objetivo es alcanzado por un ataque de arma a distancia con una pieza de munición extraída del carcaj, el objetivo recibe 1d6 de daño de [[fuego]] adicional. La magia del conjuro termina en una munición cuando golpea o falla, y el conjuro termina cuando se han extraído doce municiones del carcaj.
 

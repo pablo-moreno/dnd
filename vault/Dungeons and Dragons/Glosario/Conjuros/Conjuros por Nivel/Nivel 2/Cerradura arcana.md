@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv2
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Abjuración]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (oro en polvo de al menos 2.500 po de valor, el cual consume el conjuro)
 

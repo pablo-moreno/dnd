@@ -7,6 +7,7 @@ tags:
   - conj/trick
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Evocación]]"
@@ -21,6 +22,7 @@ Concentración:
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Arrojas una mota de fuego a una criatura u objeto que se encuentre dentro del alcance. Haz un ataque de conjuro a distancia contra el objetivo. Si impactas, este recibe 1d10 puntos de daño por [[fuego]]. Este conjuro incinera a cualquier objeto inflamable al que alcance y que nadie lleve puesto ni transporte.
 

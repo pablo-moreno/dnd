@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Evocación]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un poco de fósforo o de corteza de avellano de bruja, o una luciérnaga)
 

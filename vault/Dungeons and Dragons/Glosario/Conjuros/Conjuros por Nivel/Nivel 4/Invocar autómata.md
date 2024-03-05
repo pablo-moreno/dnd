@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv4
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Conjuración]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una piedra adornada y una caja de seguridad de metal que valga al menos 40.000 po)
 

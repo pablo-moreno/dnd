@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/cle
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Abjuración]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Clérigo]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (incienso y diamante pulverizado de al menos 20.000 po de valor, los cuales consume el conjuro)
 

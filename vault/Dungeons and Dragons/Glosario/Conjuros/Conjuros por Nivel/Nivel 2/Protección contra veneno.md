@@ -9,6 +9,7 @@ tags:
   - c/pal
   - c/cle
   - c/dru
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Abjuración]]"
@@ -25,6 +26,7 @@ Clases:
   - "[[Paladín]]"
   - "[[Clérigo]]"
   - "[[Druida]]"
+  - "[[Artífice]]"
 ---
 Tocas a una criatura. Si está envenenada, neutralizas el veneno. Si más de un veneno aflige al objetivo, neutralizas un veneno que sabes que está presente o uno al azar.
 

@@ -7,6 +7,7 @@ tags:
   - conj/lv3
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Transmutación]]"
@@ -21,6 +22,7 @@ Concentración:
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Tiras 1d20 al final de cada uno de tus turnos mientras dure el conjuro. Si sacas 11 o más, te desvaneces del plano de existencia en el que estés y apareces en el Plano Etéreo (el conjuro falla y el lanzamiento se desperdicia si ya estás en ese plano). 
 

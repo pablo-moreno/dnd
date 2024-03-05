@@ -9,6 +9,7 @@ tags:
   - c/bru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Ilusionismo]]"
@@ -26,6 +27,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una pestaña recubierta con un poco de goma arábiga)
 

@@ -9,6 +9,7 @@ tags:
   - c/cle
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Evocación]]"
@@ -25,6 +26,7 @@ Clases:
   - "[[Clérigo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una luciérnaga o musgo fosforescente)
 

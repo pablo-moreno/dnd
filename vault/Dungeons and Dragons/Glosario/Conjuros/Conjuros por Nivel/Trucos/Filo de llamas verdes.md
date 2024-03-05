@@ -8,6 +8,7 @@ tags:
   - c/bru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Evocación]]"
@@ -23,6 +24,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un arma cuerpo a cuerpo que valga al menos 800 po)
 

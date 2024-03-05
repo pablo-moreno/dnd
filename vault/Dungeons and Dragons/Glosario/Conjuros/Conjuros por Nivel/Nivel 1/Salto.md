@@ -9,6 +9,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Transmutación]]"
@@ -26,6 +27,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (la pata trasera de un saltamontes)
 

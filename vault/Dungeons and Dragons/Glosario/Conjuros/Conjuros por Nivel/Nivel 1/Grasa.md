@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv1
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Conjuración]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un poco de corteza o manteca de cerdo)
 

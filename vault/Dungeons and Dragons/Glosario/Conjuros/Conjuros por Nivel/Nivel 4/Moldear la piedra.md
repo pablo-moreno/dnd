@@ -8,6 +8,7 @@ tags:
   - c/cle
   - c/dru
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Transmutación]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (arcilla blanda, que debes modelar para convertirla más o menos en la forma que deseas del objeto de piedra)
 

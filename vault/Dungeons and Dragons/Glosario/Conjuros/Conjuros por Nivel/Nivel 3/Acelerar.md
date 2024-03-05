@@ -7,6 +7,7 @@ tags:
   - conj/lv3
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Transmutación]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una viruta de raíz de regaliz)
 

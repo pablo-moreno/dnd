@@ -7,6 +7,7 @@ tags:
   - conj/lv2
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Conjuración]]"
@@ -22,6 +23,7 @@ Concentración: true
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (unas pocas telarañas)
 

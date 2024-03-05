@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/trick
   - c/cle
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Nigromancia]]"
@@ -19,5 +20,6 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
+  - "[[Artífice]]"
 ---
 Tocas a una criatura viva que tenga 0 [[puntos de golpe]]. La criatura se estabiliza. Este conjuro no tiene efecto sobre no muertos ni constructos.

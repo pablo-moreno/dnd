@@ -7,6 +7,7 @@ tags:
   - conj/lv1
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Evocación]]"
@@ -22,6 +23,7 @@ Concentración: true
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un poco de comida podrida)
 

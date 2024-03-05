@@ -7,6 +7,7 @@ tags:
   - conj/lv1
   - c/bar
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 4/Adivinación|Adivinación]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Bardo]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una perla que valga al menos 10.000 po y una pluma de búho)
 

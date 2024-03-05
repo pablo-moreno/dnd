@@ -9,6 +9,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Conjuración]]"
@@ -25,6 +26,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Creas una hoguera en el suelo que puedes ver dentro del alcance. Hasta que termina el conjuro, la hoguera mágica llena un cubo de 5 pies. Cualquier criatura en el espacio de la hoguera cuando lances el conjuro debe tener éxito en una [[tirada de salvación]] de [[Destreza]] o recibir 1d8 de daño de
 [[fuego]]. Una criatura también debe hacer la tirada de salvación cuando se mueve al espacio de la hoguera por primera vez en un turno o termina su turno allí.

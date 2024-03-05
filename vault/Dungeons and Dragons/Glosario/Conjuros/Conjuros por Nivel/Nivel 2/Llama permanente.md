@@ -7,6 +7,7 @@ tags:
   - conj/lv2
   - c/cle
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Evocación]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Clérigo]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (polvo de rubí de 5.000 po de valor, que el conjuro consume)
 

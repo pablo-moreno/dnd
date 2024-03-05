@@ -9,6 +9,7 @@ tags:
   - c/bru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Transmutación]]"
@@ -25,6 +26,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Este conjuro es un truco de magia menor que los lanzadores principiantes usan para practicar. Produces uno de los siguientes efectos mágicos dentro del alcance:
 

@@ -33,6 +33,7 @@ Clase                     Puntuación mínima de habilidad
 [[Monje]]                     Destreza 13 y Sabiduría 13
 [[Paladín]]                   Fuerza 13 y Carisma 13
 [[Pícaro]]                     Destreza 13
+[[Artífice]]                   Inteligencia 13
 
 
 *Puntos de Experiencia*
@@ -52,24 +53,28 @@ Tu bono de competencia siempre se basa en tu nivel total de personaje, como se m
 Cuando ganas un nivel en una clase que no sea tu primera clase, obtienes sólo algunas de las competencias de inicio de esa clase, como se muestra en la tabla Competencias de Multiclase.
 
 *Competencias de Multiclase*
-Clase                           Competencias Adquiridas
-[[Barbaro]]                        [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.
-[[Bardo]]                           Armadura [[ligera]], una habilidad de tu elección, un instrumento musical de tu                                       elección.
-[[Brujo]]                            Armadura [[ligera]], armas simples.
-[[Clérigo]]                         Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]].
-[[Druida]]                          Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]] (los druidas no llevarán                                                      armaduras o escudos hechos de metal).
-[[Explorador]]                   Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], armas simples, armas                                                       marciales, una habilidad a elegir de la lista de habilidades de clase.
-[[Guerrero]]                      Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.
-[[Hechicero]]                    —
-[[Mago]]                            —
-[[Monje]]                          Armas simples, [[espada corta]].
-[[Paladín]]                        Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.
-[[Pícaro]]                          Armadura [[ligera]], una habilidad a elegir de la lista de habilidades de clase,                                           [[herramientas de ladrón]].
+
+| Clase          | Competencias Adquiridas                                                                                                                                                                                                                                  |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[Barbaro]]    | [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.                                                                                                                                                            |
+| [[Bardo]]      | Armadura [[ligera]], una habilidad de tu elección, un instrumento musical de tu                                       elección.                                                                                                                          |
+| [[Brujo]]      | Armadura [[ligera]], armas simples.                                                                                                                                                                                                                      |
+| [[Clérigo]]    | Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]].                                                                                                                                                   |
+| [[Druida]]     | Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]] (los druidas no llevarán                                                      armaduras o escudos hechos de metal).                                |
+| [[Explorador]] | Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], armas simples, armas                                                       marciales, una habilidad a elegir de la lista de habilidades de clase. |
+| [[Guerrero]]   | Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.                                                                                                                   |
+| [[Hechicero]]  | —                                                                                                                                                                                                                                                        |
+| [[Mago]]       | —                                                                                                                                                                                                                                                        |
+| [[Monje]]      | Armas simples, [[espada corta]].                                                                                                                                                                                                                         |
+| [[Paladín]]    | Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.                                                                                                                   |
+| [[Pícaro]]     | Armadura [[ligera]], una habilidad a elegir de la lista de habilidades de clase,                                           [[herramientas de ladrón]].                                                                                                   |
+| [[Artífice]]   | Armadura [[ligera]], armadura [[media]], [[Dungeons and Dragons/Reglas/Daño/Tipo de Armadura/Escudo\|Escudo]], [[Herramientas de Ladrón]], [[Herramientas de Hojalatero]]                                                                                |
 
 
 *Características de Clase*
 Cuando ganas un nuevo nivel en una clase, tú consigues las características de ese nivel. Unas pocas características, en cambio, tiene reglas adicionales cuando eres multiclase: 
 Canalizar Divinidad, Ataque Extra, Defensa sin Armadura y Lanzamiento de Conjuros.
+
 
 *Canalizar Divinidad*
 Si ya tienes la característica [[Canalizar Divinidad]] y ganas un nivel en una clase que también permite esta característica, ganas los efectos de Canalizar Divinidad garantizados por esa
@@ -77,23 +82,28 @@ clase, pero consiguiendo esta característica otra vez no te permite un uso adic
 Por ejemplo, si eres [[clérigo]] 6/[[paladín]] 4, Puedes usar dos veces [[Canalizar Divinidad]] entre descanso y descanso porque eres de un nivel lo suficientemente alto en la clase clérigo para tener más usos. 
 Cuando uses esta característica, puedes elegir cualquiera de los efectos de Canalizar Divinidad disponibles en tus dos clases.
 
+
 *Ataque Extra*
 Si ganas la característica de clase [[Ataque Extra]] de más de una clase, las características no se suman. No puedes hacer más de dos ataques con esta característica a menos que se diga que puedes (como ocurre con la versión del [[guerrero]] de Ataque Extra). 
 Similarmente, las [[Invocaciones Sobrenaturales]] del [[brujo]] como [[Espada Sedienta]] tampoco te dan ataques adicionales si tienes Ataque Extra.
 
+
 *Defensa sin Armadura*
 Si ya tienes la característica Defensa sin Armadura, ej: [[Defensa sin Armadura (B)]], no puedes ganarla otra vez de otra clase.
+
 
 *Lanzamiento de Conjuros*
 Tu capacidad para lanzar conjuros depende parcialmente de tus niveles combinados de todas tus clases que lanzan conjuros y parcialmente en tus niveles individuales en esas clases.
 Una vez que tienes la característica Lanzamiento de Conjuros de más de una clase, usa las reglas descritas más abajo. 
 Si eres multiclase pero tienes la característica Lanzamiento de Conjuros de solo una clase, sigue las reglas descritas para esa clase.
 
+
 *Conjuros Conocidos y Preparados*. Determina qué conjuros conoces y puedes preparar por cada clase individualmente, como si fueras un personaje perteneciente exclusivamente a esa clase. 
 Si tú eres un [[explorador]] 4/[[mago]] 3, por ejemplo, tú conoces tres hechizos de explorador de nivel 1
 basados en tus niveles de explorador. Como mago de nivel 3, conoces tres trucos de mago, y tu libro de conjuros contiene diez conjuros de mago, dos de los cuales (los dos que ganaste cuando alcanzaste el nivel 3 como mago) pueden ser de nivel 2. Si tu Inteligencia es 16 puedes preparar seis conjuros de tu libro de conjuros.
 
 Cada conjuro que conoces y preparas está asociado con una de tus clases, y si tu usas la habilidad de Lanzamiento de Conjuros de esa clase cuando tú lanzas el conjuro. Similarmente, un foco de Lanzamiento de Hechizos como el Símbolo Sagrado, puede ser usado sólo para la clase asociada con ese foco.
+
 
 *Espacios de Conjuro*. Determina tus espacios de conjuro añadiendo todos tus niveles de las clases [[bardo]], [[clérigo]], [[druida]], [[hechicero]], y [[mago]], la mitad de tus niveles (redondeando hacia abajo) en las clases [[paladín]] y [[explorador]], y un tercio (redondeando hacia abajo) en las clases [[guerrero]] y [[pícaro]] si tienes la característica [[Caballero Arcano]] o [[Bribón Arcano]]. 
 Usa este total para determinar tus espacios para conjuros consultando la tabla Lanzador de Conjuros Multiclase.

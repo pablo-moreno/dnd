@@ -7,6 +7,7 @@ tags:
   - conj/lv2
   - c/bar
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Ilusionismo]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Bardo]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un pequeño fragmento de panal y polvo de jade de al menos 1.000 po de valor, los cuales consume el conjuro)
 

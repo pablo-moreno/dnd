@@ -7,6 +7,7 @@ tags:
   - conj/lv3
   - c/pal
   - c/cle
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Conjuración]]"
@@ -21,5 +22,6 @@ Concentración:
 Clases:
   - "[[Paladín]]"
   - "[[Clérigo]]"
+  - "[[Artífice]]"
 ---
 Creas 45 libras de comida y 30 galones de agua en el suelo o en un recipiente dentro del alcance, suficientes para sustentar hasta 15 humanoides o 5 monturas durante 24 horas. La comida es insípida, pero tiene nutrientes, y se estropea si no se come antes de 24 horas. El agua está limpia y no se pudre.

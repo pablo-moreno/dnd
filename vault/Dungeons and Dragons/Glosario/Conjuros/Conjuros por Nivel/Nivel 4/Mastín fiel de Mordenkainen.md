@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv4
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Conjuración]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un silbato de plata pequeño, un hueso y un hilo)
 

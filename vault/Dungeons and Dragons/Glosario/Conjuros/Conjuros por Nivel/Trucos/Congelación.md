@@ -9,6 +9,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Evocación]]"
@@ -25,6 +26,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Haces que se forme escarcha entumecedora en una criatura que puedes ver dentro del alcance. El objetivo debe hacer una [[tirada de salvación]] de [[Constitución]]. En una salvación fallida, el objetivo recibe 1d6 de daño por [[frío]], y tiene desventaja en la siguiente [[tirada de ataque]] con arma que realice antes del final de su siguiente turno.
 

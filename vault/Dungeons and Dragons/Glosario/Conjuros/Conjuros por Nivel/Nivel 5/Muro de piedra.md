@@ -8,6 +8,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 5
 Escuela: "[[Evocación]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un pedrusco de granito)
 

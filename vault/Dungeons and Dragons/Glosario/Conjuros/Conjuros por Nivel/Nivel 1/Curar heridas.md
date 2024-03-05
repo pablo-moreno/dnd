@@ -10,6 +10,7 @@ tags:
   - c/bar
   - c/cle
   - c/dru
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Evocación]]"
@@ -27,6 +28,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Clérigo]]"
   - "[[Druida]]"
+  - "[[Artífice]]"
 ---
 Una criatura que tocas recupera un número de [[puntos de golpe]] igual a 1d8 + tu modificador por característica para lanzar conjuros. Este conjuro no tiene efecto ni en no muertos ni en constructos.
 

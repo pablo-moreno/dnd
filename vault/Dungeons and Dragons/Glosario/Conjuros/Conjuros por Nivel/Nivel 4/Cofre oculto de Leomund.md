@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv4
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Conjuración]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un cofre exquisito, de 3×2×2 pies, construido con materiales raros de al menos 5000 po de valor, y una réplica Diminuta hecha con los mismos materiales de al menos 50 po de valor)
 

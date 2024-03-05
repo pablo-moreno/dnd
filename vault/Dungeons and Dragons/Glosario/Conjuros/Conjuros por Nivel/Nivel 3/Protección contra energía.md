@@ -10,6 +10,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Abjuración]]"
@@ -27,5 +28,6 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Mientras dura el conjuro, una criatura voluntaria a la que tocas tiene resistencia al tipo de daño que elijas: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[frío]], [[fuego]], [[relámpago]] o [[trueno]].

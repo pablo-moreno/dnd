@@ -7,6 +7,7 @@ tags:
   - conj/lv1
   - c/exp
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Abjuración]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Explorador]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una campanilla y un alambre de plata fina)
 

@@ -7,6 +7,7 @@ tags:
   - conj/lv2
   - c/pal
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Transmutación]]"
@@ -21,6 +22,7 @@ Concentración: true
 Clases:
   - "[[Paladín]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Tocas un arma no mágica. Hasta que termine el conjuro, el arma se convierte en un arma mágica con un bonificador de +1 a las [[tiradas de ataque]] y de daño.
 

@@ -8,6 +8,7 @@ tags:
   - c/bru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Transmutación]]"
@@ -23,5 +24,6 @@ Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Este conjuro te permite moverte a un ritmo increíble. Cuando lo lanzas, y después como acción adicional en cada uno de tus turnos hasta que el conjuro termine, puedes realizar la acción de [[Carrera]].

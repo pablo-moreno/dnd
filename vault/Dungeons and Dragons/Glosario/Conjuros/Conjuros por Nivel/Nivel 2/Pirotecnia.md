@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Transmutación]]"
@@ -23,6 +24,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Elige un área de llamas no mágicas que puedas ver y de un tamaño de hasta 5 pies dentro del alcance. Puedes apagar el fuego en esa área, y creas fuegos artificiales o humo cuando lo hagas.
 

@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv4
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Evocación]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un fragmento semiesférico de cristal transparente y otro de goma arábiga que encaje con el cristal)
 

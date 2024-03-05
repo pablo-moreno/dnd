@@ -7,6 +7,7 @@ tags:
   - conj/lv1
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Nigromancia]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una pequeña cantidad de alcohol o licor destilado)
 

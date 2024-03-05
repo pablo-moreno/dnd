@@ -9,6 +9,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Abjuración]]"
@@ -26,6 +27,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (polvo de diamante de 10.000 po de valor, el cual consume el conjuro)
 

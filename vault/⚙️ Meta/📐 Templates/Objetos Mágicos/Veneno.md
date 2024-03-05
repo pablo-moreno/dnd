@@ -4,7 +4,6 @@ creation date: <% tp.file.creation_date() %>
 tags:
   - state/seedling
   - type/note
-  - om/ven
 aliases: 
 Peso: 1 lb
 Precio: 

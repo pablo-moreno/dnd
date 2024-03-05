@@ -7,6 +7,7 @@ tags:
   - conj/lv5
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 5
 Escuela: "[[Ilusionismo]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un trozo diminuto de materia del mismo objeto que planeas crear)
 

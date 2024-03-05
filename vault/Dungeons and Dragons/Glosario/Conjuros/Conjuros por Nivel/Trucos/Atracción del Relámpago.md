@@ -8,6 +8,7 @@ tags:
   - c/bru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Evocación]]"
@@ -22,6 +23,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 
 Creas un látigo de energía de relámpago que golpea a una criatura de tu elección que puedas ver a 15 pies o menos de ti. El objetivo deberá superar una [[tirada de salvación]] de [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza|Fuerza]] o será arrastrado hasta 10 pies en línea recta hacia ti y luego recibirá 1d8 de daño de [[relámpago]] si está a 5 pies o menos de ti.

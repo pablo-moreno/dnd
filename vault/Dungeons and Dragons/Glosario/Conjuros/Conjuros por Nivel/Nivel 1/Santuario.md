@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv1
   - c/cle
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Abjuración]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
+  - "[[Artífice]]"
 ---
 (un espejito de plata)
 

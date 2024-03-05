@@ -7,6 +7,7 @@ tags:
   - conj/trick
   - c/hec
   - c/mag
+  - "#c/art"
 aliases: 
 Nivel: 0
 Escuela: "[[Evocación]]"
@@ -19,6 +20,7 @@ Concentración:
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Un rayo surge de tu mano para golpear a una criatura que estás intentando tocar. Haz un ataque de conjuro cuerpo a cuerpo contra el objetivo. Tienes ventaja en la [[tirada de ataque]] si el objetivo lleva una armadura de metal. Si impactas, el objetivo recibe 1d8 puntos de daño por [[relámpago]] y no puede realizar reacciones hasta el inicio de su siguiente turno.
 

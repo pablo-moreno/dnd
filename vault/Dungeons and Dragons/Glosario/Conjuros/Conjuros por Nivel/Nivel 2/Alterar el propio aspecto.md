@@ -7,6 +7,7 @@ tags:
   - conj/lv2
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Transmutación]]"
@@ -21,6 +22,7 @@ Concentración: true
 Clases:
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Asumes una forma diferente. Cuando lances el conjuro, elige una de las siguientes opciones, cuyos efectos duran mientras lo haga el conjuro. Mientras dure el conjuro, puedes terminar una opción como si fuera una acción para obtener los beneficios de otra.
 

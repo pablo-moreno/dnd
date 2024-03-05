@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv4
   - c/mag
+  - c/art
 aliases: 
 Nivel: 4
 Escuela: "[[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 4/Adivinación|Adivinación]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (un poco de pelo de murciélago)
 

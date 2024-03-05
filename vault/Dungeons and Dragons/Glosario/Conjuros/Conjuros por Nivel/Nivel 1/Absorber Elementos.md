@@ -9,6 +9,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Abjuración]]"
@@ -24,6 +25,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 El conjuro captura parte de la energía entrante, disminuyendo su efecto en ti y almacenándola
 para tu próximo ataque cuerpo a cuerpo. Tienes resistencia al tipo de daño desencadenante hasta el comienzo de tu siguiente turno. 

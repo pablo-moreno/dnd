@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/dru
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Transmutación]]"
@@ -23,5 +24,6 @@ Clases:
   - "[[Bardo]]"
   - "[[Druida]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Puedes hacer que se formen hasta diez palabras en una parte del cielo que puedes ver. Las palabras parecen estar hechas de nube y permanecen en su lugar hasta el final de la duración del conjuro. Las palabras se disipan cuando el conjuro termina. Un viento fuerte puede dispersar las nubes y terminar el conjuro antes.

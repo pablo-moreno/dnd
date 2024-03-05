@@ -9,6 +9,7 @@ tags:
   - c/cle
   - c/dru
   - c/hec
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Transmutación]]"
@@ -26,6 +27,7 @@ Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
+  - "[[Artífice]]"
 ---
 (un trozo de corcho)
 

@@ -7,6 +7,7 @@ tags:
   - conj/trick
   - c/cle
   - c/dru
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Abjuración]]"
@@ -22,6 +23,7 @@ Concentración: true
 Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
+  - "[[Artífice]]"
 ---
 
 (una capa en miniatura)

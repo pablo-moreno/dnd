@@ -9,6 +9,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 0
 Escuela: "[[Conjuración]]"
@@ -25,6 +26,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Extiendes la mano hacia una criatura que puedas ver dentro del alcance y proyectas una nube de gas nocivo desde tu palma. La criatura debe superar una [[tirada de salvación]] de [[Constitución]] para no recibir 1d12 puntos de daño por [[Dungeons and Dragons/Reglas/Daño/Tipo de Daño/Veneno]].
 

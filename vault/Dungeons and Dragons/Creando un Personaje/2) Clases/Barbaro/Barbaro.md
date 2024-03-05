@@ -6,8 +6,7 @@ tags:
   - type/note
 aliases: 
 Nivel de Clase: 
-Habilidades: 
-Lanzador de Conjuros:
+Habilidades:
 ---
 *Rasgos de Clase*
 [[Puntos de Golpe]]: Dado de Golpe: 1d12 por nivel de bárbaro.

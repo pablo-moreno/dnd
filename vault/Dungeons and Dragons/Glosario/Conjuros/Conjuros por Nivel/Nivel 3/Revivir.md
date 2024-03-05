@@ -7,6 +7,7 @@ tags:
   - conj/lv3
   - c/pal
   - c/cle
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Nigromancia]]"
@@ -22,6 +23,7 @@ Concentración:
 Clases:
   - "[[Paladín]]"
   - "[[Clérigo]]"
+  - "[[Artífice]]"
 ---
 (diamantes de 30.000 po de valor, los cuales consume el conjuro)
 

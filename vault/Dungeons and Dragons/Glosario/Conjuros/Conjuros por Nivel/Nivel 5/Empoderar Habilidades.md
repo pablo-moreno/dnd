@@ -8,6 +8,7 @@ tags:
   - c/bar
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 5
 Escuela: "[[Transmutación]]"
@@ -23,6 +24,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Tu magia profundiza la comprensión de una criatura de su propio talento. Tocas una criatura dispuesta y le das experiencia en una habilidad de tu elección; hasta que el conjuro termine, la criatura duplica su bonificador de competencia para las pruebas de habilidad que haga con la
 habilidad elegida.

@@ -10,6 +10,7 @@ tags:
   - c/bar
   - c/cle
   - c/dru
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Abjuración]]"
@@ -27,5 +28,6 @@ Clases:
   - "[[Bardo]]"
   - "[[Clérigo]]"
   - "[[Druida]]"
+  - "[[Artífice]]"
 ---
 Tocas a una criatura y puedes terminar con una enfermedad o con un estado que la aflija. El estado puede ser [[cegado]], [[ensordecido]], [[paralizado]] o [[envenenado]].

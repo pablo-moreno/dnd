@@ -12,6 +12,7 @@ tags:
   - c/dru
   - c/hec
   - c/mag
+  - c/art
 aliases: 
 Nivel: 3
 Escuela: "[[Abjuración]]"
@@ -31,6 +32,7 @@ Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 Elige una criatura, objeto o efecto mágico dentro del alcance. Cualquier conjuro de nivel 3 o inferior que se haya lanzado sobre el objetivo termina. Por cada conjuro de nivel 4 o superior que haya sobre él, haz una prueba de característica usando tu característica para lanzar conjuros. La CD es 10 + el nivel del conjuro. Si superas la prueba, el conjuro termina.
 

@@ -9,6 +9,7 @@ tags:
   - c/bar
   - c/dru
   - c/mag
+  - c/art
 aliases: 
 Nivel: 1
 Escuela: "[[Transmutación]]"
@@ -26,6 +27,7 @@ Clases:
   - "[[Bardo]]"
   - "[[Druida]]"
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (una pizca de tierra)
 

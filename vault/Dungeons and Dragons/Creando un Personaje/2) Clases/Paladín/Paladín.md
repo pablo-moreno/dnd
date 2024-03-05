@@ -6,8 +6,7 @@ tags:
   - type/note
 aliases: 
 Nivel de Clase: 
-Habilidades: 
-Lanzador de Conjuros:
+Habilidades:
 ---
 *Rasgos de Clase*
 Como paladín, obtienes las siguientes características de clase.

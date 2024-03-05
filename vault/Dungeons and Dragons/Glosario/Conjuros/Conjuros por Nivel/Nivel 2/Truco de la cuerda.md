@@ -6,6 +6,7 @@ tags:
   - type/note
   - conj/lv2
   - c/mag
+  - c/art
 aliases: 
 Nivel: 2
 Escuela: "[[Transmutación]]"
@@ -20,6 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Mago]]"
+  - "[[Artífice]]"
 ---
 (extracto de trigo en polvo y un lazo de pergamino retorcido)
 
