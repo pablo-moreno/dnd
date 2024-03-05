@@ -14,14 +14,6 @@ table Efecto, Rareza, Precio as "Precio (po)"
 from #om/poc 
 ```
 
-## Pergaminos
-
-```dataview
-table Peso, Precio as "Precio (po)"
-from x
-```
-
-
 ## Focos de Conjuro
 
 ### Elemento Mágico

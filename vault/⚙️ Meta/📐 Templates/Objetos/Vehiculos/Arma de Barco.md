@@ -3,7 +3,6 @@ title: <% tp.file.title %>
 creation date: <% tp.file.creation_date() %>
 tags:
   - type/object
-  - bar/arm
 aliases: 
 Precio: 
 int_precio: 

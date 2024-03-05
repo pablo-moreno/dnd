@@ -31,3 +31,12 @@ C.A. Esta es la clase de armadura del barco, que funciona en de la misma manera 
 CV. Estos son los puntos de vida del barco, que funcionan de la misma manera que los puntos de vida de un personaje. 
 
 Umbral de daño. Un barco tiene inmunidad a todos. daño a menos que reciba una cantidad de daño igual a o mayor que su umbral de daño, en cuyo caso recibe daño como de costumbre. Cualquier daño que no alcanza o supera el umbral de daños se considera superficial y no reduce la puntos de vida del barco. Ranuras para armas. Esto le indica el número de Armas con las que se puede equipar el barco. Ver el Sección “Armamento”.
+
+
+| Tamaño de Barco | Espacio |
+| --------------- | ------- |
+| Pequeño         | 4       |
+| Mediano         | 6       |
+| Grande          | 8       |
+| Enorme          | 12      |
+| Gigante         | 16      |
