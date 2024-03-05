@@ -16,3 +16,4 @@ Condición: "Salvación: Con11"
 Aplicación: "[[Ingestión]]"
 ---
 
+Una criatura sujeta a este veneno debe superar una tirada de salvación de Constitución de CD 15 o quedar envenenada por 4d6 horas. La criatura envenenada queda incapacitada.

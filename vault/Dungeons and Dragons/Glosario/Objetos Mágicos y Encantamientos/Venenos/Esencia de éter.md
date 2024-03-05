@@ -16,3 +16,5 @@ Condición: "Salvación: Con15"
 Aplicación: "[[Inhalación]]"
 ---
 
+Una criatura sujeta a este veneno debe superar una tirada de salvación de Constitución de
+CD 15 o quedar envenenada por 8 horas. La criatura envenenada cae inconsciente. La criatura despierta si recibe daño o si otra criatura usa una acción para despertarla.

@@ -16,4 +16,4 @@ Condición: "Salvación: Con11"
 Aplicación: "[[Herida]]"
 ---
 
-
+Este veneno debe ser extraído de una serpiente venenosa gigante muerta o incapacitada. Una criatura sujeta a este veneno debe superar una tirada de salvación de Constitución de CD 11, recibiendo 10 (3d6) puntos de daño por veneno en una salvación fallida, o la mitad en una salvación exitosa.

@@ -11,5 +11,7 @@ Peso: 1 lb
 Precio: "2.500"
 int_peso: 1
 int_precio: 2500
+Rareza: común
+Efecto: Ventaja Sv. veneno
 ---
 Una criatura que beba el líquido de este vial gana ventaja en los tiros de salvación contra veneno durante 1 hora. No otorga beneficios a los muertos vivientes o constructos.

@@ -11,7 +11,7 @@ Precio: "10.000"
 int_peso: 1
 int_precio: 10000
 Rareza: " poco común"
-Efecto:
+Efecto: 3d6 de daño veneno
 ---
 Esta mezcla se ve, huele, y sabe como una poción de curación u otra poción beneficiosa. Sin embargo, es en realidad un veneno enmascarado por magia ilusoria. Un conjuro de identificar revela su verdadera naturaleza.
 

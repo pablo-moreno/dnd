@@ -17,3 +17,4 @@ Aplicación: "[[Inhalación]]"
 ---
 
 
+Una criatura sujeta a este veneno debe superar una tirada de salvación de Constitución de CD 15 o quedar envenenada por 1 hora. La criatura envenenada queda cegada.

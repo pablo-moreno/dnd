@@ -15,4 +15,4 @@ Efecto: Inconsciente 24 horas
 Condición: "Salvación: Con13"
 Aplicación: "[[Contacto]]"
 ---
-
+Una criatura sujeta a este veneno debe superar una tirada de salvación de Constitución de CD 13 o quedar envenenada por 24 horas. La criatura envenenada cae inconsciente. La criatura despierta si recibe daño.

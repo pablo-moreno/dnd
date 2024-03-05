@@ -16,3 +16,4 @@ Condición: "Salvación: Con17"
 Aplicación: "[[Ingestión]]"
 ---
 
+Una criatura que ingiera este veneno no experimenta su efecto hasta la media noche. Si el veneno no ha sido neutralizado antes, la criatura debe superar una tirada de salvación de Constitución de CD 17, recibiendo 31 (9d6) puntos de daño por veneno en una salvación fallida o la mitad en una salvación exitosa.

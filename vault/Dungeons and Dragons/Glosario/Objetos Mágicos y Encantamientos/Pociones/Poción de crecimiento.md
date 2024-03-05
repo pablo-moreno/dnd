@@ -10,7 +10,7 @@ Peso: 1 lb
 Precio: "10.000"
 int_peso: 1
 int_precio: 10000
-Rareza: 
+Rareza: poco común
 Efecto: " Agrandar 1d4h"
 ---
 

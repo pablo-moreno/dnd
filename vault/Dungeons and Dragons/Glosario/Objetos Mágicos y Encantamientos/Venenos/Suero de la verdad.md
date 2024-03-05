@@ -17,3 +17,4 @@ Aplicación: "[[Ingestión]]"
 ---
 
 
+Una criatura sujeta a este veneno debe superar una tirada de salvación de Constitución de CD 11 o quedar envenenada por 1 hora. La criatura envenenada no puede voluntariamente decir una mentira, como si estuviera bajo el efecto del conjuro zona de verdad.
