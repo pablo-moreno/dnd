@@ -25,7 +25,7 @@ Clases:
 ---
 (un pimiento picante)
 
-Tocas una criatura dispuesta y la imbuyes con el poder de expulsar energía mágica de su boca, siempre que tenga una. Elige [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[Frío]], [[Fuego]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago|Relámpago]] o [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]]. Hasta que el conjuro termine, la criatura puede usar una acción para exhalar energía del tipo elegido en un cono de 15 pies. 
+Tocas una criatura dispuesta y la imbuyes con el poder de expulsar energía mágica de su boca, siempre que tenga una. Elige [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]], [[Frío]], [[Fuego]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago|Relámpago]] o [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]]. Hasta que el conjuro termine, la criatura puede usar una acción para exhalar energía del tipo elegido en un cono de 15 pies. 
 
 Cada criatura en esa área debe hacer una [[Tirada de Salvación]] de [[Destreza]], recibiendo 3d6 de daño del tipo elegido en una salvación fallida, o la mitad de daño en una exitosa.
 

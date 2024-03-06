@@ -16,9 +16,9 @@ Dragón                     Tipo de Daño
 Azul                          Eléctrico
 Blanco                      [[Frío]]
 Bronce                      [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago|Relámpago]]
-Cobre                       [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]]
+Cobre                       [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]]
 Latón                        [[Fuego]]
-Negro                       [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]]
+Negro                       [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]]
 Oro                           [[Fuego]]
 Rojo                          [[Fuego]]
 Plata                         [[Frío]]

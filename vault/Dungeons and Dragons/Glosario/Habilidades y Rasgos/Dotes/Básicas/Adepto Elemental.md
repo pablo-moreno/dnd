@@ -8,7 +8,7 @@ aliases:
 ---
 Requisito: La habilidad de lanzar al menos un conjuro.
 
-Cuando ganas esta dote, eliges uno de los siguientes tipos de daño: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]], [[Frío]],[[Fuego]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago]] o [[Trueno]].
+Cuando ganas esta dote, eliges uno de los siguientes tipos de daño: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]], [[Frío]],[[Fuego]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago]] o [[Trueno]].
 
 Los hechizos que lances ignoran la resistencia al daño del tipo elegido. Además, cuando realices
 tirada de daño por un conjuro que lances que haga daño de este tipo, puedes tratar cada 1 que salga en el dado como un 2.

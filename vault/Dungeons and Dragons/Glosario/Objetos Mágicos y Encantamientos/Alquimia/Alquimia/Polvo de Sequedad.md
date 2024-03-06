@@ -5,8 +5,12 @@ tags:
   - type/object
   - om/mar
 aliases: 
-Rareza: Poco común
-Sintonía:
+Rareza: poco común
+Peso: 1 lb
+Precio: "10.000"
+int_peso: 1
+int_precio: 10000
+Efecto: "10d6 de daño necrótico/ Fallo: 5d6"
 ---
 Este pequeño paquete contiene 1d6 + 4 pellizcos de polvo. Puedes usar una acción para rociar un pellizco sobre agua. El polvo transforma un cubo de agua de 15 pies de lado en un gránulo del tamaño de una canica. El peso del granulo es despreciable.
 

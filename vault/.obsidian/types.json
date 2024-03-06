@@ -42,6 +42,7 @@
     "Huecos_Armas": "number",
     "Velocidad": "text",
     "int_Vel": "number",
-    "Acciones": "multitext"
+    "Acciones": "multitext",
+    "Salvación": "multitext"
   }
 }

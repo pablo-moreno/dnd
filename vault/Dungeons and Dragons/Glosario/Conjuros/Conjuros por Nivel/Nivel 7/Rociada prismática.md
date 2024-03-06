@@ -25,7 +25,7 @@ Clases:
 Ocho rayos de luz multicolor surgen de tu mano. Cada rayo es de un color diferente y tiene un poder y un propósito diferentes. Todas las criaturas que se encuentren en un cono de 60 pies deben hacer una [[Tirada de Salvación]] de [[Destreza]]. Por cada objetivo, tira 1d8 para determinar qué rayo de color lo afecta.
 
 1. Rojo. El objetivo recibe 10d6 puntos de daño por [[Fuego]] si falla la salvación o la mitad si tiene éxito.
-2. Naranja. El objetivo recibe 10d6 puntos de daño por [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Pociones/Ácido]] si falla la salvación o la mitad si tiene éxito.
+2. Naranja. El objetivo recibe 10d6 puntos de daño por [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]] si falla la salvación o la mitad si tiene éxito.
 3. Amarillo. El objetivo recibe 10d6 puntos de daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago]] si falla la salvación o la mitad si tiene éxito.
 4. Verde. El objetivo recibe 10d6 puntos de daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]] si falla la salvación o la mitad si tiene éxito.
 5. Azul. El objetivo recibe 10d6 puntos de daño por [[Frío]] si falla la salvación o la mitad si tiene éxito.

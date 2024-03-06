@@ -6,7 +6,11 @@ tags:
   - om/mar
 aliases: 
 Rareza: legendario
-Sintonía:
+Peso: 1 lb
+Precio: 5.000.000
+int_peso: 1
+int_precio: 5000000
+Efecto: Unión Irrompible
 ---
 Esta sustancia viscosa de color blanco lechoso, uniendo prácticamente cualesquiera dos sustancias de forma permanente. Debe ser almacenado en un frasco o matraz que haya sido recubierto en su interior con aceite de deslizamiento. 
 

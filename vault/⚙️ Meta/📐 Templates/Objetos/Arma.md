@@ -8,7 +8,6 @@ Dado_de_Daño:
 Tipo_de_Daño: 
 Propiedades: 
 Rango: 
-Tipo: 
 Peso: 
 Precio: 
 int_peso: 

@@ -5,8 +5,12 @@ tags:
   - type/object
   - om/mar
 aliases: 
-Rareza: Poco común
-Sintonía:
+Rareza: poco común
+Peso: 1 lb
+Precio: "10.000"
+int_peso: 1
+int_precio: 10000
+Efecto: incapacitar
 ---
 Hallado en un pequeño contenedor, este polvo se asemeja a arena muy fina. Parece ser Polvo de Desaparición, y un conjuro de identificación lo revela como tal. Hay suficiente para un uso.
 
