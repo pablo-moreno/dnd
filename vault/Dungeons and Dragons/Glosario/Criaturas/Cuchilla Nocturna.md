@@ -11,13 +11,13 @@ size: "[[Mediano]]"
 ---
 ## Características
 
-**[[Dungeons and Dragons/Reglas/Clase de Armadura]]**: 12
-**[[Puntos de Golpe]]**: 11 (2d8 + 2 = `dice: 2d8 + 2`)
+**[[Clase de Armadura]]**: 12
+**[[Puntos de golpe]]**: 11 (2d8 + 2 = `dice: 2d8 + 2`)
 **[[Velocidad]]**: 40 pies
 
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
+| [[Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 15 | +2 | `dice: 1d20 + 2` |
 | [[Constitución]] | 12 | +1 | `dice: 1d20 + 1` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |

@@ -13,15 +13,15 @@ size: "[[Mediano]]"
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
+| [[Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Constitución]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Sabiduría]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 10 | 0 | `dice: 1d20 + 0` |
 
-[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 10
-[[Puntos de Golpe]]: 4 (`dice: 1d8`)
+[[Clase de Armadura]]: 10
+[[Puntos de golpe]]: 4 (`dice: 1d8`)
 [[Velocidad]]: 30
 ## Idiomas
 - [[Idioma común]]

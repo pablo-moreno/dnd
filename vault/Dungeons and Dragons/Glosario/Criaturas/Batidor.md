@@ -23,10 +23,9 @@ ca: "13"
 | [[Sabiduría]]                                                            | 13    | 1           | `dice: 1d20 + 1` |
 | [[Carisma]]                                                              | 11    | 0           | `dice: 1d20 + 0` |
 
-[[Dungeons and Dragons/Reglas/Clase de Armadura]]: `=this.ca` [[Armadura de Cuero]]
-[[Puntos de Golpe]]: `= this.hit_points` (`=this.hit_dice`)
+[[Clase de Armadura]]: `=this.ca` Armadura de cuero
+[[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
 [[Velocidad]]: 30
-
 ## Habilidades
 | Habilidad         | Bonificador |
 | ----------------- | ----------- |
@@ -46,8 +45,8 @@ ca: "13"
 
 **Ataque múltiple**. El batidor realiza dos ataques cuerpo a cuerpo o dos ataques a distancia.
 
-**Espada corta**. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: 5 (`dice: 1d6 + 2`) de daño [[Perforante]].
+**Espada corta**. Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo. Impacto: 5 (`dice: 1d6 + 2`) de daño [[perforante]].
 
-**Arco largo**. Ataque con arma a distancia: +4 a impactar, alcance 150/600 pies, un objetivo. Impacto: 6 (`dice: 1d8 + 2`) de daño [[Perforante]].
+**Arco largo**. Ataque con arma a distancia: +4 a impactar, alcance 150/600 pies, un objetivo. Impacto: 6 (`dice: 1d8 + 2`) de daño [[perforante]].
 ## Desafío
 1/2 - 50 [[PX]]

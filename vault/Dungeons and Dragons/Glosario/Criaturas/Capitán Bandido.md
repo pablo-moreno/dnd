@@ -13,15 +13,15 @@ hit_dice: "`dice: 10d8+20`"
 ## Características
 | Característica   | Nivel | Bonificador | Lanzar dado      |
 | ---------------- | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]       | 15    | 2           | `dice: 1d20 + 2` |
+| [[Fuerza]]       | 15    | 2           | `dice: 1d20 + 2` |
 | [[Destreza]]     | 16    | 3           | `dice: 1d20 + 3`                 |
 | [[Constitución]] | 14    | 2           | `dice: 1d20 + 2`                 |
 | [[Inteligencia]] | 14    | 2           | `dice: 1d20 + 2`                 |
 | [[Sabiduría]]    | 11    | 0           | `dice: 1d20 + 0`                 |
 | [[Carisma]]      | 14    | 2          | `dice: 1d20 + 2`                 |
 
-[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 15
-[[Puntos de Golpe]]: `=this.hit_points` (`= this.hit_dice`)
+[[Clase de Armadura]]: 15
+[[Puntos de golpe]]: `=this.hit_points` (`= this.hit_dice`)
 [[Velocidad]]: 30
 ## Habilidades
 | Habilidad | Bonificador |
@@ -32,7 +32,7 @@ hit_dice: "`dice: 10d8+20`"
 
 | Característica | Bonificador |
 | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 4 |
+| [[Fuerza]] | 4 |
 | [[Destreza]] | 5 |
 | [[Sabiduría]] | 2 |
 ## Sentidos
@@ -48,7 +48,7 @@ Dos cualquiera
 
 ## Reacciones
 
-**Parada**. El capitán añade 2 a su [[Dungeons and Dragons/Reglas/Clase de Armadura]] contra un ataque cuerpo a cuerpo que le fuera a impactar. Para poder hacer esto debe ver a su atacante y estar empuñando un arma cuerpo a cuerpo. Para mantener a un grupo de bandidos a raya se necesita tanto una personalidad firme como un pico de oro, y los capitanes bandidos poseen ambas en abundancia.
+**Parada**. El capitán añade 2 a su [[Clase de Armadura]] contra un ataque cuerpo a cuerpo que le fuera a impactar. Para poder hacer esto debe ver a su atacante y estar empuñando un arma cuerpo a cuerpo. Para mantener a un grupo de bandidos a raya se necesita tanto una personalidad firme como un pico de oro, y los capitanes bandidos poseen ambas en abundancia.
 
 Los capitanes piratas (una variante del capitán bandido) tienen, además de todo esto, un barco que proteger y gobernar.
 

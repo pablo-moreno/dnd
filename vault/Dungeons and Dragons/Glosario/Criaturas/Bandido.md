@@ -17,15 +17,15 @@ aliases:
 ## Características
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
+| [[Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
 | [[Destreza]] | 12 | 1 | `dice: 1d20 + 1` |
 | [[Constitución]] | 12 | 1 | `dice: 1d20 + 1` |
 | [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Sabiduría]] | 10 | 0 | `dice: 1d20 + 0` |
 | [[Carisma]] | 10 | 0 | `dice: 1d20 + 0` |
 
-[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 12 ([[Armadura de cuero]])
-[[Puntos de Golpe]]: 11 (`dice: 2d8 + 2`)
+[[Clase de Armadura]]: 12 ([[Armadura de cuero]])
+[[Puntos de golpe]]: 11 (`dice: 2d8 + 2`)
 [[Velocidad]]: 30
 ## Sentidos
 - [[Percepción pasiva]] 10
@@ -38,3 +38,45 @@ aliases:
 - **Ballesta ligera**. Ataque con arma a distancia: +3 a impactar, alcance 80/320 pies, un objetivo. Impacto: 5 (`dice: 1d8 + 1`) de [[daño perforante]].
 ## Desafío
 1/8 - 25 [[PX]]
+
+
+```statblock
+name: Bandido
+size: Mediano
+type: Humanoide
+subtype: Cualquier raza
+alignment: Cualquiera no legal
+ac: 12
+hp: 11
+hit_dice: 2d8 + 2
+speed: 30 ft.
+stats:
+  - 11
+  - 12
+  - 12
+  - 10
+  - 10
+  - 10
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: ""
+condition_immunities: ""
+senses: passive Perception 10
+languages: any one language (usually Common)
+cr: 1/8
+bestiary: true
+dice: true
+actions:
+  - name: Cimitarra
+    desc: "Ataque con arma cuerpo a cuerpo: +3 al impactar, alcance 5 pies, objetivo. Impacto: 4 (1d6 + 1) de daño cortante."
+    attack_bonus: 3
+    damage_dice: 1d6
+    damage_bonus: 1
+  - name: Ballesta ligera
+    desc: "Ataque con arma a distancia: +3 a impactar, rango de 80  a 320 pies, un objetivo. Impacto: 5 (1d8 + 1) de daño perforante."
+    attack_bonus: 3
+    damage_dice: 1d8
+    damage_bonus: 1
+
+```
+
