@@ -8,14 +8,14 @@ size: "[[Mediano]]"
 ---
 > Los acólitos son los miembros de menor rango del clero, que suelen responder ante un sacerdote. Llevan a cabo una gran variedad de funciones en los templos y reciben unos pocos conjuros de sus deidades
 ## Características
-| Característica | Nivel | Bonificador | Lanzar dado |
-| ---- | ---- | ---- | ---- |
-| [[Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
-| [[Destreza]] | 10 | 0 | `dice: 1d20 + 0` |
-| [[Constitución]] | 10 | 0 | `dice: 1d20 + 0` |
-| [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
-| [[Sabiduría]] | 14 | 2 | `dice: 1d20 + 2` |
-| [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
+| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 10    | 0           | `dice: 1d20 + 0` |
+| [[Destreza]]                                                             | 10    | 0           | `dice: 1d20 + 0` |
+| [[Constitución]]                                                         | 10    | 0           | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                         | 10    | 0           | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                            | 14    | 2           | `dice: 1d20 + 2` |
+| [[Carisma]]                                                              | 11    | 0           | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 10
 [[Puntos de golpe]]: 9 (`dice: 2d8`)

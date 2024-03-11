@@ -49,9 +49,3 @@ from #Foco/SS
 table Efecto, Aplicación, Condición, Precio as "Precio (po)"
 from #om/ven 
 ```
-
-
-
-
-
-

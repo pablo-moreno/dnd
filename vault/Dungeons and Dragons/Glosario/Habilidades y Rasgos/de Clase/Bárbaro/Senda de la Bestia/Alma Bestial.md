@@ -18,4 +18,4 @@ siguiente descanso corto o largo:
 • Obtienes una velocidad trepando igual a tu velocidad caminando y puedes trepar por superficies
 difíciles e incluso recorrer techos boca abajo sin tener que realizar pruebas de característica.
 
-• Cuando saltas, puedes realizar una prueba de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] ([[Atletismo]]) y ampliar tu salto una cantidad de pies igual al resultado de la prueba. Solo puedes usar esta prueba especial una vez por turno.
+• Cuando saltas, puedes realizar una prueba de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza|Fuerza]] ([[Atletismo]]) y ampliar tu salto una cantidad de pies igual al resultado de la prueba. Solo puedes usar esta prueba especial una vez por turno.

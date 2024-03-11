@@ -1,6 +1,6 @@
 ---
 title: Broquel de Muñeca
-creation date: <% tp.file.creation_date() %>
+creation date: 2024-03-11 16:55
 tags:
   - type/armor
 aliases: 

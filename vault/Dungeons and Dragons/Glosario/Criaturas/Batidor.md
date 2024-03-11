@@ -14,14 +14,14 @@ ca: "13"
 ---
 > Los batidores son cazadores y rastreadores avezados que ofrecen sus servicios a quien esté dispuesto a pagarlos. La mayoría cazan animales salvajes, pero unos pocos trabajan como cazarrecompensas, guías o desempeñando labores de reconocimiento para ejércitos.
 ## Características
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 11    | 0           | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 14    | 2           | `dice: 1d20 + 2` |
-| [[Constitución]]                                                         | 12    | 1           | `dice: 1d20 + 1` |
-| [[Inteligencia]]                                                         | 11    | 0           | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 13    | 1           | `dice: 1d20 + 1` |
-| [[Carisma]]                                                              | 11    | 0           | `dice: 1d20 + 0` |
+| Característica                                                              | Nivel | Bonificador | Lanzar dado      |
+| --------------------------------------------------------------------------- | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Características/Fuerza\|Fuerza]] | 11    | 0           | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                | 14    | 2           | `dice: 1d20 + 2` |
+| [[Constitución]]                                                            | 12    | 1           | `dice: 1d20 + 1` |
+| [[Inteligencia]]                                                            | 11    | 0           | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                               | 13    | 1           | `dice: 1d20 + 1` |
+| [[Carisma]]                                                                 | 11    | 0           | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: `=this.ca` Armadura de cuero
 [[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
