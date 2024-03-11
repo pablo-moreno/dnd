@@ -3,7 +3,7 @@
   "search": "-path: Meta -path: assets",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": true,
   "colorGroups": [],
@@ -12,11 +12,11 @@
   "textFadeMultiplier": -1.9,
   "nodeSizeMultiplier": 0.989736842105263,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 13.4210526315789,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3213363860503711,
-  "close": true
+  "scale": 0.05932617187500251,
+  "close": false
 }

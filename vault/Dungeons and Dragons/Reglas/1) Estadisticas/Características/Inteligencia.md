@@ -9,8 +9,7 @@ aliases:
 Mide la agudeza mental, la exactitud de los recuerdos y la capacidad de razonar.
 
 *Prueba de Inteligencia*
-Una prueba de Inteligencia entra en juego cuando se necesita recurrir a la lógica, la educación intelectual, la memoria o el razonamiento deductivo. Las habilidades de [[Arcano]], [[Historia]],
-[[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación]], [[Naturaleza]] y [[Religión]] reflejan la aptitud en algunos tipos de pruebas de Inteligencia.
+Una prueba de Inteligencia entra en juego cuando se necesita recurrir a la lógica, la educación intelectual, la memoria o el razonamiento deductivo. Las habilidades de [[Arcano]], [[Historia]], [[Dungeons and Dragons/Reglas/1) Estadisticas/Habilidades/Investigación|Investigación]], [[Naturaleza]] y [[Religión]] reflejan la aptitud en algunos tipos de pruebas de Inteligencia.
 
 *Pruebas de Inteligencia* 
 El DM puede pedir una prueba de Inteligencia cuando se intenta llevar a cabo tareas

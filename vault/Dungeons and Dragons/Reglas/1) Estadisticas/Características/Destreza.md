@@ -11,7 +11,6 @@ Mide la agilidad, los reflejos y el equilibrio.
 *Pruebas de Destreza*
 Una prueba de Destreza puede representar cualquier intento de moverte con agilidad, rapidez, o en silencio, o para evitar que caigas al moverte por terreno inestable. Las habilidades de [[Acrobacias]], [[Juego de Manos]] y [[Sigilo]] reflejan la aptitud en algunos tipos de pruebas de Destreza.
 
-
 *Pruebas de Destreza*
 El DM puede pedir una prueba de Destreza cuando intentas realizar tareas como las
 siguientes:

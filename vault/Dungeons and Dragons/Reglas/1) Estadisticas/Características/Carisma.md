@@ -11,7 +11,6 @@ Mide tu capacidad para interactuar de forma efectiva con otros. Incluye factores
 *Prueba de Carisma*
 Una prueba de Carisma podría ser necesaria cuando intentas influenciar o entretener a otros, cuando intentas crear una impresión o decir una mentira convincente, o cuando te ves inmerso en una situación social difícil. Las Habilidades de [[Engaño]], [[Intimidación]], [[Interpretación]] y [[Persuasión]] reflejan aptitud en algunos tipos de pruebas de Carisma.
 
-
 El DM puede pedir una prueba de Carisma cuando intentes realizar tareas como las
 siguientes:
 
