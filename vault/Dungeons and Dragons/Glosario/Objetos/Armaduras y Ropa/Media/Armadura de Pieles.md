@@ -5,7 +5,7 @@ tags:
   - type/armor
   - armor/med
 aliases: 
-Clase_de_ArmaduraClase_de_Armadura: 12 + Destreza (max. +2)
+Clase_de_Armadura: 12 + Destreza (max. +2)
 Tipo_de_Armadura: "[[Media]]"
 Req_Fuerza: 
 Sigilo: 

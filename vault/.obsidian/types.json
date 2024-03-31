@@ -43,6 +43,7 @@
     "Velocidad": "text",
     "int_Vel": "number",
     "Acciones": "multitext",
-    "Salvación": "multitext"
+    "Salvación": "multitext",
+    "Xp": "number"
   }
 }

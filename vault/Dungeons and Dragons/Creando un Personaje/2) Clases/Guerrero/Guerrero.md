@@ -33,25 +33,25 @@ Comienzas con el siguiente equipo, además del otorgado por tu trasfondo:
 
 *Tabla de Niveles del Guerrero*
 
-| Nivel | Competencia | Rasgos |
-| ---- | ---- | ---- |
-| 1 | +2 | [[Estilo de Combate (G)]], [[Nuevas Energías]] |
-| 2 | +2 | [[Oleada de Acción]] |
-| 3 | +2 | [[Arquetipo Marcial]] |
-| 4 | +2 |  [[Mejora de Característica (G)]], [[Versatilidad Marcial]] |
-| 5 | +3 | [[Ataque Extra (G)]] |
-| 6 | +3 |  [[Mejora de Característica (G)]] |
-| 7 | +3 | [[Arquetipo Marcial]] |
-| 8 | +3 |  [[Mejora de Característica (G)]] |
-| 9 | +4 | [[Indomable]] |
-| 10 | +4 | [[Arquetipo Marcial]] |
-| 11 | +4 | [[Ataque Extra (G)]] |
-| 12 | +4 |  [[Mejora de Característica (G)]] |
-| 13 | +4 | [[Indomable]] |
-| 14 | +5 |  [[Mejora de Característica (G)]] |
-| 15 | +5 | [[Arquetipo Marcial]] |
-| 16 | +5 |  [[Mejora de Característica (G)]] |
-| 17 | +6 | [[Nuevas Energías]], [[Indomable]]  |
-| 18 | +6 | [[Arquetipo Marcial]] |
-| 19 | +6 |  [[Mejora de Característica (G)]] |
-| 20 | +6 | [[Ataque Extra (G)]] |
+| Nivel | Competencia | Rasgos                                                     |
+| ----- | ----------- | ---------------------------------------------------------- |
+| 1     | +2          | [[Estilo de Combate (G)]], [[Nuevas Energías]]             |
+| 2     | +2          | [[Oleada de Acción]]                                       |
+| 3     | +2          | [[Arquetipo Marcial]]                                      |
+| 4     | +2          | [[Mejora de Característica (G)]], [[Versatilidad Marcial]] |
+| 5     | +3          | [[Ataque Extra (G)]]                                       |
+| 6     | +3          | [[Mejora de Característica (G)]]                           |
+| 7     | +3          | [[Arquetipo Marcial]]                                      |
+| 8     | +3          | [[Mejora de Característica (G)]]                           |
+| 9     | +4          | [[Indomable]]                                              |
+| 10    | +4          | [[Arquetipo Marcial]]                                      |
+| 11    | +4          | [[Ataque Extra (G)]]                                       |
+| 12    | +4          | [[Mejora de Característica (G)]]                           |
+| 13    | +4          | [[Indomable]]                                              |
+| 14    | +5          | [[Mejora de Característica (G)]]                           |
+| 15    | +5          | [[Arquetipo Marcial]]                                      |
+| 16    | +5          | [[Mejora de Característica (G)]]                           |
+| 17    | +6          | [[Nuevas Energías]], [[Indomable]]                         |
+| 18    | +6          | [[Arquetipo Marcial]]                                      |
+| 19    | +6          | [[Mejora de Característica (G)]]                           |
+| 20    | +6          | [[Ataque Extra (G)]]                                       |

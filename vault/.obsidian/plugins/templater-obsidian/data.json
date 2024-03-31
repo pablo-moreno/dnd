@@ -65,6 +65,10 @@
     {
       "folder": "Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Equipo",
       "template": "⚙️ Meta/📐 Templates/Objetos Mágicos/Encantamiento (OM).md"
+    },
+    {
+      "folder": "Personajes",
+      "template": "⚙️ Meta/📐 Templates/Chuletilla Personajes.md"
     }
   ],
   "syntax_highlighting": true,

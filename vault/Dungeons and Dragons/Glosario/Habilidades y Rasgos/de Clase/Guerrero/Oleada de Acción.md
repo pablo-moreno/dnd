@@ -8,11 +8,8 @@ aliases:
 Nivel de Clase: 2
 Mejora de Habilidad: "17"
 ---
-Puedes presionarte más allá de los límites normales durante un corto periodo de tiempo. En tu
-turno, puedes usar una acción añadida además de tu acción normal y tu posible acción adicional.
-Una vez que hayas usado esta habilidad, debes hacer un descanso corto o prolongado antes de
-poder volver a usarla.
+Puedes presionarte más allá de los límites normales durante un corto periodo de tiempo. En tu turno, puedes usar una acción añadida además de tu acción normal y tu posible acción adicional.
+Una vez que hayas usado esta habilidad, debes hacer un descanso corto o prolongado antes de poder volver a usarla.
 
-A partir del nivel 17 puedes usarla dos veces antes de descansar pero solo una vez en el mismo
-turno.
+A partir del nivel 17 puedes usarla dos veces antes de descansar pero solo una vez en el mismo turno.
 
