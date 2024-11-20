@@ -20,7 +20,7 @@ Duración: Hasta Disipado
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Mago]]"
 ---
 (un poco de vellón y polvo de jade de al menos 2.500 po de valor)

@@ -20,7 +20,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
 ---
 (un diamante de al menos 100.000 po de valor, el cual consume el conjuro)

@@ -27,7 +27,7 @@ Concentración: true
 Clases:
   - "[[Explorador]]"
   - "[[Paladín]]"
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"

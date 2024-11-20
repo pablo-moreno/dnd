@@ -22,7 +22,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Explorador]]"
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Druida]]"
 ---
 (un trozo de comida)

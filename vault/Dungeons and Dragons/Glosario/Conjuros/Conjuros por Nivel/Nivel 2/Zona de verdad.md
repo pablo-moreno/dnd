@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Paladín]]"
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
 ---
 Creas una zona mágica que te protege del engaño en una esfera de 15 pies de radio cuyo centro es un punto de tu elección dentro del alcance. Hasta que el conjuro termine, toda criatura que entre en el área del conjuro por primera vez en un turno o que empiece su turno ahí debe hacer una [[Tirada de Salvación]] de [[Carisma]]. Si falla, no puede decir una mentira deliberadamente mientras se encuentre dentro del radio. Tú sabes si falla o tiene éxito en la tirada de salvación.

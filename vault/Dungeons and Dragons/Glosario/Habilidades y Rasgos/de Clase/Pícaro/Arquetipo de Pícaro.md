@@ -15,7 +15,7 @@ Los Arquetipos a elegir son:
 
 [[Asesino]]
 [[Bribón Arcano]]
-[[Espadachín]]
+[[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Espadachín]]
 [[Fantasma]]
 [[Inquisitivo]]
 [[Ladrón]]

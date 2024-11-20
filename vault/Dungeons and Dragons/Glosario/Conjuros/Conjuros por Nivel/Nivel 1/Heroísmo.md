@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Paladín]]"
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
 ---
 Infundes coraje a una criatura voluntaria que tocas. Hasta que el conjuro termine, la criatura es inmune a quedar asustada y, al principio de cada uno de sus turnos, gana puntos de golpe temporales igual a tu modificador por característica para lanzar conjuros. 
 Cuando el conjuro termina, el objetivo pierde los puntos de golpe temporales que le queden debido a este conjuro.

@@ -20,7 +20,7 @@ Duración: 1 día
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Mago]]"
 ---
 (una pequeña réplica de ti hecha con materiales de al menos 500 po de valor)

@@ -20,7 +20,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Mago]]"
 ---
 (tartas diminutas y una pluma que se ondea en el aire

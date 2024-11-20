@@ -17,7 +17,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
 ---
 Susurras una melodía discrepante que sólo una criatura de tu elección dentro del alcance puede oír, asolándola con un terrible dolor. El objetivo debe realizar una [[Tirada de Salvación]] de [[Sabiduría]]. 
 

@@ -18,7 +18,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Mago]]"
 ---
 Te vuelves invisible al mismo tiempo que un doble ilusorio tuyo aparece donde estabas. El doble permanece ahí mientras dura el conjuro, pero la invisibilidad termina si atacas o lanzas un conjuro.

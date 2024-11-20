@@ -18,7 +18,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
 ---
 Las criaturas que elijas que estén dentro del alcance y que puedan escucharte deben hacer una [[Tirada de Salvación]] de [[Sabiduría]], que superan automáticamente si no pueden quedar hechizadas. 
 

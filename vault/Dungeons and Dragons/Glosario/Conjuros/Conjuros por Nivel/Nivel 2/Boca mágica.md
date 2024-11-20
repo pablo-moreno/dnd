@@ -21,7 +21,7 @@ Duración: Hasta Disipado
 Ritual: true
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Mago]]"
   - "[[Artífice]]"
 ---

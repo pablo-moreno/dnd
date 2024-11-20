@@ -19,7 +19,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Mago]]"
 ---
 Creas un plano de fuerza con forma de espada que planea dentro del alcance. Dura mientras lo haga el conjuro.

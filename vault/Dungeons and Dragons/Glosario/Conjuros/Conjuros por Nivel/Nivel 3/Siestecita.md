@@ -21,7 +21,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
   - "[[Artífice]]"

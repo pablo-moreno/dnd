@@ -19,7 +19,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
 ---
 Intentas reprimir emociones fuertes en un grupo de personas. Todos los humanoides que se encuentren dentro de una esfera de 20 pies de radio, cuyo centro es un punto que tú decides, deben realizar una [[Tirada de Salvación]] de [[Carisma]]. Si lo desean, pueden decidir fallarla automáticamente. Si una criatura falla la salvación, elige uno de los siguientes dos efectos:

@@ -20,7 +20,7 @@ Duración: 8 horas
 Ritual: true
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Mago]]"
 ---
 (un abalorio de cristal pequeño)

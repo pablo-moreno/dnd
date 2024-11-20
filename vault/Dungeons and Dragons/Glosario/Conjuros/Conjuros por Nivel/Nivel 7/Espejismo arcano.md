@@ -18,7 +18,7 @@ Duración: 10 días
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Druida]]"
   - "[[Mago]]"
 ---

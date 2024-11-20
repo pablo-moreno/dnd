@@ -16,7 +16,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
 ---
 Sueltas una sarta de insultos enlazados con sutiles encantamientos a una criatura que puedas ver dentro del alcance. Si el objetivo puede oírte (aunque no es necesario que te entienda), debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no recibir 1d4 puntos de daño [[Psíquico]] y tener desventaja en la siguiente tirada de ataque que haga antes del final de su siguiente turno.
 

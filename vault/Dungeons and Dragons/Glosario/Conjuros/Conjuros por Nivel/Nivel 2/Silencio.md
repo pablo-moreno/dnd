@@ -21,7 +21,7 @@ Ritual: true
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
 ---
 Mientras dura el conjuro, no se puede crear ningún sonido en una esfera de 20 pies de radio cuyo centro es un punto que elijas dentro del alcance, y ningún sonido puede atravesarla. Cualquier criatura u objeto que esté completamente dentro de la esfera es inmune al daño por [[Trueno]] y las criaturas quedan ensordecidas mientras permanezcan dentro. Es imposible lanzar un conjuro que incluya un componente verbal.

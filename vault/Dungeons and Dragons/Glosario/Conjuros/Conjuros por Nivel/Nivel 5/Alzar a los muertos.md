@@ -22,7 +22,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Paladín]]"
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
 ---
 (un diamante de al menos 50.000 po de valor, que es consumido como parte del conjuro)

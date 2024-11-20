@@ -22,7 +22,7 @@ Duración: 1 asalto
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
   - "[[Mago]]"
   - "[[Artífice]]"

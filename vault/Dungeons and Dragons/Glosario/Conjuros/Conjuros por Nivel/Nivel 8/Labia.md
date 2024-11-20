@@ -18,7 +18,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
 ---
 Hasta que el conjuro termine, cuando hagas una prueba de [[Carisma]], puedes remplazar el resultado que saques por 15. Además, no importa lo que digas, la magia que determinaría si estás diciendo la verdad indica que estás siendo veraz.

@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Explorador]]"
-  - "[[Bardo]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Druida]]"
 ---
 Este conjuro canaliza la vitalidad de las plantas en un área específica. Hay dos usos posibles para este conjuro, ya sea consiguiendo beneficios inmediatos o a largo plazo.
