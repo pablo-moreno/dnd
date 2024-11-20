@@ -123,7 +123,8 @@ El dragón se transforma mágicamente en un humanoide o bestia con un valor de d
 
 Mientras asuma su nueva forma, el dragón mantendrá su alineamiento, puntos de golpe, Dados de Golpe, capacidad para hablar, competencias, Resistencia Legendaria, acciones en guarida y puntuaciones de Inteligencia, Sabiduría y Carisma, así como esta acción. El resto de su perfil y capacidades son reemplazadas por las de la nueva forma, aunque no obtiene ni los rasgos de clase ni las acciones legendarias de esta.
 
-**Acciones Legendarias**
+## Acciones Legendarias
+
 El dragón puede llevar a cabo 3 acciones legendarias, a elegir de entre las opciones presentadas a continuación. Solo es capaz de utilizar una acción legendaria a la vez, y debe hacerlo al final del turno de otra criatura. El dragón recupera las acciones legendarias gastadas al comienzo de su turno.
 
 **Detectar**. El dragón realiza una prueba de Sabiduría (Percepción).
@@ -131,8 +132,6 @@ El dragón puede llevar a cabo 3 acciones legendarias, a elegir de entre las opc
 **Coletazo**. El dragón realiza un ataque con la cola. 
 
 **Atacar con las alas** (cuesta 2 acciones). El dragón bate sus alas. Todas las criaturas que se encuentren a 15 pies o menos del dragón deberán superar una tirada de salvación de Destreza CD 22 o recibirán 15 (2d6 + 8) de daño contundente y serán derribadas. Tras agitar sus alas, el dragón puede volar hasta la mitad de su velocidad volando.
-
-## Reacciones
 
 ## Desafío
 
