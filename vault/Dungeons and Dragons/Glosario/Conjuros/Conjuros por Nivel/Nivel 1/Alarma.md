@@ -22,7 +22,7 @@ Ritual: true
 Concentración: 
 Clases:
   - "[[Explorador]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (una campanilla y un alambre de plata fina)

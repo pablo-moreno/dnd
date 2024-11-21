@@ -23,6 +23,6 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Extiendes tu mano y señalas con el dedo a un objetivo dentro del alcance. Tu magia te revela sus defensas. Durante tu siguiente turno, tienes ventaja en la primera [[Tirada de Ataque]] que realices contra el objetivo, siempre y cuando no haya terminado el conjuro.

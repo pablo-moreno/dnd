@@ -22,7 +22,7 @@ Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Tocas a una criatura y esa criatura debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar maldita mientras dure el conjuro. Cuando lances este conjuro, elige la naturaleza de la maldición de entre las siguientes opciones:
 

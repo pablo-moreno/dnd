@@ -20,7 +20,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (un poco de pelo de murciélago)

@@ -18,7 +18,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Un plano de brillante luz multicolor se forma en una pared opaca y vertical (de hasta 90 pies de largo, 30 de alto y 1 pulgada de ancho), cuyo centro es un punto que puedas ver dentro del alcance. También puedes convertir el muro en una esfera de hasta 30 pies de diámetro cuyo centro es un punto que elijas dentro del alcance. El muro permanece en ese lugar mientras dure el conjuro. Si lo colocas para que atraviese un lugar que ya ocupa una criatura, el conjuro falla y tu acción y tu espacio de conjuro se desperdician.
 

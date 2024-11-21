@@ -19,7 +19,7 @@ Duración: Hasta Disipado
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una gema, un vidrio, un relicario o algún otro recipiente ornamental de al menos 50.000 po de valor)
 

@@ -19,7 +19,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un diamante con un valor de al menos 50.000 po, que es consumido por el conjuro)
 

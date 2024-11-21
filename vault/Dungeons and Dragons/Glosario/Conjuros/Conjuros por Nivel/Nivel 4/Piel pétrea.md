@@ -26,7 +26,7 @@ Clases:
   - "[[Explorador]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (polvo de diamante de 10.000 po de valor, el cual consume el conjuro)

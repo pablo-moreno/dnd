@@ -25,7 +25,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Creas una hoguera en el suelo que puedes ver dentro del alcance. Hasta que termina el conjuro, la hoguera mágica llena un cubo de 5 pies. Cualquier criatura en el espacio de la hoguera cuando lances el conjuro debe tener éxito en una [[Tirada de Salvación]] de [[Destreza]] o recibir 1d8 de daño de

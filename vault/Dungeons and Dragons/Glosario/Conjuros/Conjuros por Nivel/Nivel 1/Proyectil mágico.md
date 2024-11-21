@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Creas tres dardos brillantes de fuerza mágica. Cada dardo alcanza a una criatura de tu elección que puedas ver dentro del alcance. Cada dardo inflige 1d4 + 1 puntos de daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza|Fuerza]]. Todos los dardos se impactan al mismo tiempo y puedes dirigirlos a una criatura o a varias.
 

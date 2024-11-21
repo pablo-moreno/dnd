@@ -25,7 +25,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una piedra, una ramita y un fragmento de una planta de color verde)
 

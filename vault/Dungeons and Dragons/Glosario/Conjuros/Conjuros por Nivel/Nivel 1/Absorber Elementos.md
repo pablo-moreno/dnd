@@ -24,7 +24,7 @@ Clases:
   - "[[Explorador]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 El conjuro captura parte de la energía entrante, disminuyendo su efecto en ti y almacenándola

@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Paladín]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Tocas un arma no mágica. Hasta que termine el conjuro, el arma se convierte en un arma mágica con un bonificador de +1 a las [[Tiradas de Ataque]] y de daño.

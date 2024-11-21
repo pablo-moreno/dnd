@@ -24,7 +24,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Intentas embaucar a una criatura que puedas ver dentro del alcance. La criatura debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar hechizada por ti mientras dure el conjuro. Si tú o las criaturas que son amistosas hacia ti estáis luchando contra dicho monstruo, este tiene ventaja en la tirada de salvación.
 

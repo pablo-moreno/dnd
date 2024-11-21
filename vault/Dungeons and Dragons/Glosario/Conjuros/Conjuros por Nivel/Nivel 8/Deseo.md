@@ -19,7 +19,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Deseo es el conjuro más poderoso que puede lanzar una criatura mortal. Simplemente hablando en voz alta, puedes alterar las propias bases de la realidad de acuerdo a tus deseos. El uso básico de este conjuro es duplicar cualquier otro conjuro de hasta nivel 8. No necesitas reunir ninguno de los requisitos de ese conjuro, ni siquiera los componentes caros. El conjuro simplemente surte efecto.
 

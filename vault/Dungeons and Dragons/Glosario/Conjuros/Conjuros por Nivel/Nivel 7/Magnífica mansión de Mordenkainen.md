@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una miniatura de marfil con forma de puerta, un pequeño fragmento de mármol pulido y una cucharilla de plata, cada objeto de al menos 500 po de valor)
 

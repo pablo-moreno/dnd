@@ -21,6 +21,6 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Rodeado brevemente por una bruma plateada, te teleportas hasta 30 pies a un lugar sin ocupar que puedas ver.

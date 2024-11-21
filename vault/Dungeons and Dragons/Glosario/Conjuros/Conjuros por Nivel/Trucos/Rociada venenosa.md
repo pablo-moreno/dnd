@@ -25,7 +25,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Extiendes la mano hacia una criatura que puedas ver dentro del alcance y proyectas una nube de gas nocivo desde tu palma. La criatura debe superar una [[Tirada de Salvación]] de [[Constitución]] para no recibir 1d12 puntos de daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]].

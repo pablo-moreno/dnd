@@ -19,7 +19,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (arcilla, ceniza y raíz de mandrágora, los cuales el conjuro consume por completo, y una daga con joyas incrustadas por valor de al menos 100.000 po)
 

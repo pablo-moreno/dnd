@@ -24,7 +24,7 @@ Clases:
   - "[[Paladín]]"
   - "[[Clérigo]]"
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Invocas a espíritus de criaturas muertas, que revolotean a tu alrededor hasta que el conjuro termine. Los espíritus son intangibles e invulnerables.
 

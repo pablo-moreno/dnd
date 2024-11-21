@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Hilos de poder oscuro saltan de tus dedos para perforar hasta cinco cadáveres pequeños o medianos que puedes ver dentro del alcance. Cada cadáver se levanta de inmediato y se convierte en muerto viviente. Tú decides si es un zombi o un esqueleto (las estadísticas de zombies y esqueletos están en el Manual de Monstruos), y gana una bonificación a sus
 tiradas de ataque y daño igual a tu modificador de habilidad de lanzamiento de conjuros.

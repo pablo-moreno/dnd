@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Tiras 1d20 al final de cada uno de tus turnos mientras dure el conjuro. Si sacas 11 o más, te desvaneces del plano de existencia en el que estés y apareces en el Plano Etéreo (el conjuro falla y el lanzamiento se desperdicia si ya estás en ese plano). 

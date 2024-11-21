@@ -22,6 +22,6 @@ Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Tú o una criatura que tocas se vuelve invisible hasta que el conjuro termina. Cualquier cosa que el objetivo lleve puesta o transporte es invisible siempre y cuando esté en el cuerpo del objetivo.

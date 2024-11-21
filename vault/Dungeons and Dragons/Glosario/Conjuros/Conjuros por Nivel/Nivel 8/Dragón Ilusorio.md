@@ -17,7 +17,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Al reunir hilos de material de sombras del Shadowfell, creas un Enorme dragón sombrío en un espacio desocupado que puedes ver dentro del alcance. La ilusión permanece la duración del conjuro y ocupa su espacio, como si fuera una criatura.
 

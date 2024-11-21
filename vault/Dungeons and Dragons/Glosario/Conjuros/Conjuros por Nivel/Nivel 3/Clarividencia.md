@@ -25,7 +25,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un foco de al menos 10.000 po de valor, ya sea un cuerno con joyas engarzadas para oír o un ojo de cristal para ver)
 

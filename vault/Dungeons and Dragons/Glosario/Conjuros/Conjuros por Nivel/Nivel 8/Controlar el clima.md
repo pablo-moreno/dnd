@@ -23,7 +23,7 @@ Concentración: true
 Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (incienso que se ha de quemar y trozos de tierra y madera empapados en agua)
 

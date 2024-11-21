@@ -19,7 +19,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Despiertas el sentido de mortalidad en una criatura que puedes ver dentro del alcance. Un constructo o un no-muerto es inmune a este efecto.
 

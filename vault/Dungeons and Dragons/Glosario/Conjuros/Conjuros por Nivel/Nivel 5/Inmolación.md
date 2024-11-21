@@ -19,7 +19,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Las llamas envuelven a una criatura que puedes ver dentro del alcance. El objetivo debe hacer una [[Tirada de Salvación]] de [[Destreza]]. Sufre 8d6 de daño de [[Fuego]] en una salvación fallida, o la mitad de daño en una exitosa. En una salvación fallida, el objetivo también se quema por la duración del conjuro. 
 

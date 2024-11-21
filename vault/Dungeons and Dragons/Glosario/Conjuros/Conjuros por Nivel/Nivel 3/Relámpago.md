@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un poco de pelaje de animal y una varilla de ámbar, vidrio o cristal)
 

@@ -20,7 +20,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Haces que un terreno que se encuentra dentro de una milla cuadrada se parezca, se escuche, se huela o incluso se sienta como otro tipo de terreno. Sin embargo, la forma general del terreno sigue siendo la misma. Un campo abierto o una carretera pueden parecer un pantano, una colina, una grieta o cualquier otro terreno difícil o intransitable. Se puede hacer que un estanque parezca un prado cubierto de hierba, que un precipicio parezca una pendiente suave o que un barranco cubierto de rocas parezca un camino ancho y allanado.
 

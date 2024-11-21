@@ -20,7 +20,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (un cofre exquisito, de 3×2×2 pies, construido con materiales raros de al menos 5000 po de valor, y una réplica Diminuta hecha con los mismos materiales de al menos 50 po de valor)

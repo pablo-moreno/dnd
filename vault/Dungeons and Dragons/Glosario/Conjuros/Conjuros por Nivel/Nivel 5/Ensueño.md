@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un puñado de arena, unas gotitas de tinta y una pluma de escribir que se haya arrancado a un pájaro dormido)
 

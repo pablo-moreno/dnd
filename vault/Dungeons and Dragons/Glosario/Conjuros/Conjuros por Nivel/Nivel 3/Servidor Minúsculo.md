@@ -19,7 +19,7 @@ Duración: 8 horas
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Tocas un objeto diminuto, no mágico, que no está unido a otro objeto o una superficie y que no está siendo cargado por otra criatura. El objetivo se anima y le brotan pequeños brazos y piernas, convirtiéndose en una criatura bajo tu control hasta que el conjuro termina o la criatura cae a 0 [[Puntos de Golpe]]. Ver [[Dungeons and Dragons/Glosario/Criaturas/Invocaciones/Servidor Minúsculo|Servidor Minúsculo]].

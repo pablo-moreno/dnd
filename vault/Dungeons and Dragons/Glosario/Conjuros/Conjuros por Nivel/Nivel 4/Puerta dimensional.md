@@ -23,7 +23,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Te teleportas desde tu localización actual a cualquier otro lugar que desees dentro del alcance. Puede ser un lugar que puedas ver, visualizar o describir indicando la distancia y la dirección, como «200 pies todo recto hacia abajo» o «subiendo 300 pies hacia el noroeste en un ángulo de 45 grados».
 

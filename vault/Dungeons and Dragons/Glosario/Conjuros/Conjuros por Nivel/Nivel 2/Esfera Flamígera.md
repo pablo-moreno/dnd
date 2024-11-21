@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un poco de sebo, una pizca de azufre y un poco de hierro pulverizado)
 

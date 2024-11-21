@@ -19,7 +19,7 @@ Duración: 24 horas
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un pequeño recuadro de seda)
 

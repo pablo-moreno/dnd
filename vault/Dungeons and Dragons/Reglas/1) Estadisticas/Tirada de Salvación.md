@@ -14,7 +14,7 @@ Para hacer una tirada de salvación, tira un d20 y añade el modificador de la c
 
 Una tirada de salvación puede ser modificada por una bonificación o penalización situacional y puede verse afectada por ventaja y desventaja, según lo determine el DM.
 
-Cada clase da competencia en al menos dos salvaciones. El [[mago]], por ejemplo, es competente en las salvaciones de [[Inteligencia]]. Al igual que con competencias de habilidades, la competencia en una tirada de salvación le permite a un personaje añadir su bono de competencia a las tiradas de salvación usando una puntuación de característica en particular.
+Cada clase da competencia en al menos dos salvaciones. El [[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]], por ejemplo, es competente en las salvaciones de [[Inteligencia]]. Al igual que con competencias de habilidades, la competencia en una tirada de salvación le permite a un personaje añadir su bono de competencia a las tiradas de salvación usando una puntuación de característica en particular.
 
 Algunos monstruos también tienen bono de competencia en las tiradas de salvación. Se determina la Clase de Dificultad para una tirada de salvación según el efecto que la causa.
 Por ejemplo, la CD para una tirada de salvación permitida por un conjuro está determinada por la característica de lanzamiento de conjuros del lanzador y el bono de competencia.

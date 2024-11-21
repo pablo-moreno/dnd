@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Haces que tu apariencia (así como la de tu ropa, armadura, armas y otras pertenencias que lleves) sea diferente hasta que termine el conjuro o hasta que uses tu acción para disiparlo. Puedes parecer 1 pie más alto o más bajo y delgado, gordo o normal. No puedes cambiar tu tipo de cuerpo, así que debes adoptar una forma que tenga la misma disposición básica de miembros. Si no, el alcance de la ilusión depende de ti.

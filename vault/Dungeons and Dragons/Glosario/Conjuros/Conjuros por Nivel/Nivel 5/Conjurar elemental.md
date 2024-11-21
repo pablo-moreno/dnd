@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (incienso que se ha de quemar para el aire, arcilla blanda para la tierra, azufre y fósforo para el fuego o agua y tierra para el agua)
 

@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una representación en vitela o una estatuilla que se parezca al objetivo y un componente especial que varía de acuerdo a la versión del conjuro que elijas, de al menos 50.000 po de valor por dado de golpe del objetivo)
 

@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Creas un plano de fuerza con forma de espada que planea dentro del alcance. Dura mientras lo haga el conjuro.
 

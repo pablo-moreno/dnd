@@ -23,7 +23,7 @@ Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Los objetos pueden cobrar vida bajo tus órdenes. Elige hasta diez objetos no mágicos dentro del alcance que nadie lleve puestos ni transporte. Un objeto Mediano cuenta como dos objetos, uno Grande cuenta como cuatro y uno Enorme cuenta como ocho. No puedes animar objetos de un tamaño superior a Enorme. Cada objetivo cobra vida y se convierte en una criatura que controlas hasta que el conjuro se acabe o hasta que sus [[Puntos de Golpe]] se reduzcan a 0.

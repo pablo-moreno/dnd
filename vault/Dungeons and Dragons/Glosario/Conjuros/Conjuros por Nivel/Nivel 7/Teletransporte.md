@@ -21,7 +21,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Este conjuro te transporta instantáneamente a un destino que selecciones a ti y a otras 8 criaturas voluntarias de tu elección que puedas ver dentro del alcance, o a un único objeto que puedas ver dentro del alcance. Si el objetivo es un objeto, debe caber en un cubo de 10 pies y no puede llevarlo ninguna criatura involuntaria.
 

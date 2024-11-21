@@ -19,7 +19,7 @@ Duración: Hasta Disipado
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (nieve o hielo suficiente para hacer una copia de tamaño natural de la criatura duplicada; algo de pelo, uñas u otra parte del cuerpo de la criatura colocada dentro de la nieve o el hielo; y rubí pulverizado de 150.000 po de valor que se espolvoriza encima del duplicado y que el conjuro consume)
 

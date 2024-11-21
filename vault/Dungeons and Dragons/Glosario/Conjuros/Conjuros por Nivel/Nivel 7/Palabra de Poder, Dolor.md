@@ -21,7 +21,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Dices una palabra de poder que hace que oleadas de intenso dolor asalten a una criatura que puedes ver dentro del alcance. Si el objetivo tiene 100 puntos de golpe o menos, está sujeto a un dolor paralizante. De lo contrario, el conjuro no tiene efecto sobre él. Un objetivo tampoco se ve afectado si es inmune a ser [[Hechizado]].
 

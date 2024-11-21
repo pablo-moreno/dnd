@@ -9,14 +9,14 @@ aliases:
 ---
 > Descripción...
 ## Características
-| Característica   | Nivel | Bonificador | Lanzar dado |
-| ---------------- | ----- | ----------- | ----------- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]       | 18     | +4           | `dice: 1d20 + 0` |
-| [[Destreza]]     | 11     | 0           | `dice: 1d20 + 0`            |
-| [[Constitución]] | 16     | +3           | `dice: 1d20 + 0`            |
-| [[Inteligencia]] | 4     | -3           | `dice: 1d20 + 0`            |
-| [[Sabiduría]]    | 14     | +2           | `dice: 1d20 + 0`            |
-| [[Carisma]]      | 5     | -3           | `dice: 1d20 + 0`            |
+| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 18    | +4          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                             | 11    | 0           | `dice: 1d20 + 0` |
+| [[Constitución]]                                                         | 16    | +3          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                         | 4     | -3          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                            | 14    | +2          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                              | 5     | -3          | `dice: 1d20 + 0` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11 + el nivel de conjuro
 [[Puntos de Golpe]]: 20 (solo aire) o 30 (solo tierra y agua) + 5 por cada nivel de conjuro superior al 2

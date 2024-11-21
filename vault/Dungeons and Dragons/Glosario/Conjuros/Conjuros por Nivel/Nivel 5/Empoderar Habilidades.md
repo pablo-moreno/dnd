@@ -23,7 +23,7 @@ Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Tu magia profundiza la comprensión de una criatura de su propio talento. Tocas una criatura dispuesta y le das experiencia en una habilidad de tu elección; hasta que el conjuro termine, la criatura duplica su bonificador de competencia para las pruebas de habilidad que haga con la

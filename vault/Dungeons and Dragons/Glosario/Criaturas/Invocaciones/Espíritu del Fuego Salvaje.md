@@ -9,14 +9,14 @@ aliases:
 ---
 > Descripción...
 ## Características
-| Característica   | Nivel | Bonificador | Lanzar dado |
-| ---------------- | ----- | ----------- | ----------- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]       | 10     | 0           | `dice: 1d20 + 0` |
-| [[Destreza]]     | 14     | +2           | `dice: 1d20 + 0`            |
-| [[Constitución]] | 14     | +2           | `dice: 1d20 + 0`            |
-| [[Inteligencia]] | 13     | +1           | `dice: 1d20 + 0`            |
-| [[Sabiduría]]    | 15     | +2           | `dice: 1d20 + 0`            |
-| [[Carisma]]      | 11     | 0           | `dice: 1d20 + 0`            |
+| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 10    | 0           | `dice: 1d20 + 0` |
+| [[Destreza]]                                                             | 14    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                         | 14    | +2          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                         | 13    | +1          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                            | 15    | +2          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                              | 11    | 0           | `dice: 1d20 + 0` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 13 (armadura natural)
 [[Puntos de Golpe]]: 5 + cinco veces tu nivel de druida (`dice: 1d4`)

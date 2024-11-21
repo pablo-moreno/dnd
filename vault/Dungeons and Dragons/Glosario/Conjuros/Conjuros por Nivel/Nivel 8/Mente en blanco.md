@@ -20,6 +20,6 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Hasta que el conjuro termina, una criatura voluntaria que tocas es inmune al daño psíquico, a cualquier efecto que sentiría sus emociones o sus verdaderos pensamientos, a conjuros de adivinación y al estado hechizado. El conjuro ignora incluso el conjuro _Deseo_ y los conjuros o efectos de poder similar que se usan para afectar la mente del objetivo o para conseguir información sobre él.

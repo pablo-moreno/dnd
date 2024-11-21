@@ -21,7 +21,7 @@ Concentración: true
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Penetras en la mente de una criatura que puedes ver dentro del alcance. El objetivo debe hacer una [[Tirada de Salvación]] de [[Sabiduría]], recibiendo 3d8 de daño [[Psíquico]] en una salvación fallida, o la mitad de daño en una exitosa. En una salvación fallida, también conoces siempre la ubicación del objetivo hasta que finalice el conjuro, pero solo mientras los dos estén en el mismo plano de existencia. 
 

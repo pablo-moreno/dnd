@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Lanzas un orbe de ácido. Elige una criatura o dos criaturas dentro del alcance que se encuentren a 5 pies o menos entre sí y que puedas ver. El objetivo debe superar una [[Tirada de Salvación]] de [[Destreza]] para no recibir 1d6 puntos de daño por [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]].

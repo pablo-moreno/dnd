@@ -26,7 +26,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Intentas hechizar a un humanoide que puedes ver dentro del alcance. El objetivo debe hacer una [[Tirada de Salvación]] [[Sabiduría]], y lo hace con ventaja si tu o tus compañeros luchan contra el. Si falla la tirada de salvación, queda [[Hechizado]] por ti hasta el fin del conjuro, o hasta que tu o tus
 compañeros le hagan daño. La criatura encantada es amigable contigo. Cuando el conjuro termina, la criatura sabe que fue encantada por ti.

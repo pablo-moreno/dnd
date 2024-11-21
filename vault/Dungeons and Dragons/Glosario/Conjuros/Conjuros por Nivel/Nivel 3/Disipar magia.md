@@ -31,7 +31,7 @@ Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Elige una criatura, objeto o efecto mágico dentro del alcance. Cualquier conjuro de nivel 3 o inferior que se haya lanzado sobre el objetivo termina. Por cada conjuro de nivel 4 o superior que haya sobre él, haz una prueba de característica usando tu característica para lanzar conjuros. La CD es 10 + el nivel del conjuro. Si superas la prueba, el conjuro termina.

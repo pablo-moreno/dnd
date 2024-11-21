@@ -10,7 +10,7 @@ Ser multiclase te permite ganar niveles en múltiples clases. Hacerlo te permite
 de uno basado en las opciones normales de clase. 
 Con esta regla, tú tienes la opción de ganar un nivel en una nueva clase cada vez que avanzas un nivel, en vez de ganar un nivel en tu clase actual. Los niveles de todas tus clases se suman para
 calcular el nivel de tu personaje. 
-Por ejemplo, si tienes tres niveles de [[mago]] y dos de [[guerrero]], tienes un personaje de 5to nivel.
+Por ejemplo, si tienes tres niveles de [[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]] y dos de [[guerrero]], tienes un personaje de 5to nivel.
 
 Mientras avanzas en niveles te mantendrás principalmente como un miembro de tu clase principal con sólo unos pocos niveles en otra clase, o puedes cambiar por completo el desarrollo de tu personaje sin mirar atrás la clase que dejaste rezagada. Incluso puedes empezar a desarrollar una tercera o cuarta clase, sacrificando enfoque a cambio de versatilidad.
 
@@ -29,7 +29,7 @@ Clase                     Puntuación mínima de habilidad
 [[Explorador]]             Destreza 13 y Sabiduría 13
 [[Guerrero]]                Fuerza 13 o Destreza 13
 [[Hechicero]]              Carisma 13
-[[Mago]]                      Inteligencia 13
+[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]                      Inteligencia 13
 [[Monje]]                     Destreza 13 y Sabiduría 13
 [[Paladín]]                   Fuerza 13 y Carisma 13
 [[Pícaro]]                     Destreza 13
@@ -64,7 +64,7 @@ Cuando ganas un nivel en una clase que no sea tu primera clase, obtienes sólo a
 | [[Explorador]] | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]], armas simples, armas                                                       marciales, una habilidad a elegir de la lista de habilidades de clase. |
 | [[Guerrero]]   | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.                                                                                                                   |
 | [[Hechicero]]  | —                                                                                                                                                                                                                                                        |
-| [[Mago]]       | —                                                                                                                                                                                                                                                        |
+| [[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]       | —                                                                                                                                                                                                                                                        |
 | [[Monje]]      | Armas simples, [[espada corta]].                                                                                                                                                                                                                         |
 | [[Paladín]]    | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.                                                                                                                   |
 | [[Pícaro]]     | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], una habilidad a elegir de la lista de habilidades de clase,                                           [[herramientas de ladrón]].                                                                                                   |
@@ -99,17 +99,17 @@ Si eres multiclase pero tienes la característica Lanzamiento de Conjuros de sol
 
 
 *Conjuros Conocidos y Preparados*. Determina qué conjuros conoces y puedes preparar por cada clase individualmente, como si fueras un personaje perteneciente exclusivamente a esa clase. 
-Si tú eres un [[explorador]] 4/[[mago]] 3, por ejemplo, tú conoces tres hechizos de explorador de nivel 1
+Si tú eres un [[explorador]] 4/[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]] 3, por ejemplo, tú conoces tres hechizos de explorador de nivel 1
 basados en tus niveles de explorador. Como mago de nivel 3, conoces tres trucos de mago, y tu libro de conjuros contiene diez conjuros de mago, dos de los cuales (los dos que ganaste cuando alcanzaste el nivel 3 como mago) pueden ser de nivel 2. Si tu Inteligencia es 16 puedes preparar seis conjuros de tu libro de conjuros.
 
 Cada conjuro que conoces y preparas está asociado con una de tus clases, y si tu usas la habilidad de Lanzamiento de Conjuros de esa clase cuando tú lanzas el conjuro. Similarmente, un foco de Lanzamiento de Hechizos como el Símbolo Sagrado, puede ser usado sólo para la clase asociada con ese foco.
 
 
-*Espacios de Conjuro*. Determina tus espacios de conjuro añadiendo todos tus niveles de las clases [[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]], [[clérigo]], [[druida]], [[hechicero]], y [[mago]], la mitad de tus niveles (redondeando hacia abajo) en las clases [[paladín]] y [[explorador]], y un tercio (redondeando hacia abajo) en las clases [[guerrero]] y [[pícaro]] si tienes la característica [[Caballero Arcano]] o [[Bribón Arcano]]. 
+*Espacios de Conjuro*. Determina tus espacios de conjuro añadiendo todos tus niveles de las clases [[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]], [[clérigo]], [[druida]], [[hechicero]], y [[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]], la mitad de tus niveles (redondeando hacia abajo) en las clases [[paladín]] y [[explorador]], y un tercio (redondeando hacia abajo) en las clases [[guerrero]] y [[pícaro]] si tienes la característica [[Caballero Arcano]] o [[Bribón Arcano]]. 
 Usa este total para determinar tus espacios para conjuros consultando la tabla Lanzador de Conjuros Multiclase.
 Si tienes más de una clase lanzadora de conjuros, esta tabla te dará espacios de conjuros de un nivel más alto que los hechizos que conoces o puedes preparar. Puedes usar esos espacios, pero sólo para lanzar tus conjuros de nivel más bajo. Si lanzas un conjuro de nivel bajo como [[Manos ardientes]], este tiene un efecto mejorado cuando se usa un espacio de hechizo superior, incluso cuando no tienes ningún hechizo de ese nivel superior.
 
-Por ejemplo. Si tú eres el anteriormente mencionado [[explorador]] 4/[[mago]] 3, tu cuentas como un personaje de nivel 5 cuando determinas tus espacios de conjuros. Tienes cuatro espacios para conjuros nivel 1, tres conjuros de nivel 2, y dos de nivel 3. De todas formas, no conoces ningún conjuro de nivel 3, ni conoces ningún conjuro de explorador de nivel 2.
+Por ejemplo. Si tú eres el anteriormente mencionado [[explorador]] 4/[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]] 3, tu cuentas como un personaje de nivel 5 cuando determinas tus espacios de conjuros. Tienes cuatro espacios para conjuros nivel 1, tres conjuros de nivel 2, y dos de nivel 3. De todas formas, no conoces ningún conjuro de nivel 3, ni conoces ningún conjuro de explorador de nivel 2.
 Puedes usar estos espacios de conjuro para lanzar conjuros que conoces y para aumentar potencialmente sus efectos.
 
 *Magia de Pacto*. Si tienes tanto la característica Lanzamiento de Conjuros y la característica de clase [[Don del Pacto]] propia de los brujos, puedes usar los espacios de conjuros que ganas de esta característica para lanzar conjuros que sabes o has preparado de clases con la característica de

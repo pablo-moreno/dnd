@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un objeto que tenga grabado un símbolo de los Planos Exteriores y que valga al menos 50.000 po)
 

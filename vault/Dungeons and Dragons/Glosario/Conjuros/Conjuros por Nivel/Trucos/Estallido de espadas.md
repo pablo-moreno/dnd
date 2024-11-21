@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Creas un círculo momentáneo de espadas espectrales que hacen un barrido a tu alrededor. Todas las demás criaturas que estén a 5 pies o menos de ti deberán superar una [[Tirada de Salvación]] de

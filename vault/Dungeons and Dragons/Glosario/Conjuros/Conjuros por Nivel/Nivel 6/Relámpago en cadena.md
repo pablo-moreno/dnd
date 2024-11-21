@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un poco de piel de animal, tres alfileres de plata y un fragmento de ámbar, vidrio o un cetro de cristal)
 

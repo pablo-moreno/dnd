@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Creas tres rayos de fuego y los lanzas hacia objetivos que se encuentren dentro del alcance. Puedes lanzárselo a un objetivo o a varios. Haz un ataque de conjuro a distancia por cada rayo. Si impactas, el objetivo recibe 2d6 puntos de daño por [[Fuego]].
 

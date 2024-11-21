@@ -24,7 +24,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Llegas a la mente de una criatura que puedes ver y la obligas a hacer una [[Tirada de Salvación]] de [[Inteligencia]]. Una criatura tiene éxito automáticamente si es inmune a estar asustada. En una salvación fallida, el objetivo pierde la habilidad de distinguir a un amigo del enemigo, considerando a todas las criaturas que puede ver como enemigos hasta que el conjuro termine. 
 

@@ -22,7 +22,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (polvo de rubí de 5.000 po de valor, que el conjuro consume)

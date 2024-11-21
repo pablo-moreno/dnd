@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (mercurio, fósforo y polvo de diamante y ópalo de al menos 100.000 po de valor total, los cuales consume el conjuro)
 

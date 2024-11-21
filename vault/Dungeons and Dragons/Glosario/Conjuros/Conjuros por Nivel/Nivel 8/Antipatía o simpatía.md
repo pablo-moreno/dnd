@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un trozo de alumbre empapado en vinagre para el efecto de antipatía y una gota de miel para el efecto de simpatía)
 

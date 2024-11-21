@@ -20,7 +20,7 @@ Duración: 24 horas
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (una lámina de plomo, un trozo de cristal opaco, un fajo de algodón o de tela y crisolita en polvo)

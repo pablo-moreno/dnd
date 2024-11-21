@@ -6,7 +6,7 @@ tags:
   - type/note
 aliases:
 ---
-  Los lanzadores de conjuros como el [[mago]] o el [[clérigo]], así como muchos monstruos, tienen acceso a conjuros y pueden usarlos con máxima eficacia en combate. 
+  Los lanzadores de conjuros como el [[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]] o el [[clérigo]], así como muchos monstruos, tienen acceso a conjuros y pueden usarlos con máxima eficacia en combate. 
   
   Cada conjuro tiene un tiempo de lanzamiento, que especifica si el lanzador debe usar una acción, una reacción, minutos o incluso horas para lanzar el conjuro.
   

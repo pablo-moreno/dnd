@@ -27,7 +27,7 @@ Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Mientras dura el conjuro, una criatura voluntaria a la que tocas tiene resistencia al tipo de daño que elijas: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]], [[Frío]], [[Fuego]], [[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 3/Relámpago]] o [[Trueno]].

@@ -21,7 +21,7 @@ Concentración: false
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Introduces una púa desorientadora de energía psíquica en la mente de una criatura que puedas ver dentro del alcance. El objetivo deberá superar una [[Tirada de Salvación]] de [[Inteligencia]] o recibirá 1d6 de daño [[Psíquico]] y restará 1d4 en la siguiente tirada de salvación que haga antes del final de tu siguiente turno.
 

@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una perla negra pulverizada de al menos 50.000 po de valor)
 

@@ -22,7 +22,7 @@ Concentración: true
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Tejes hilos de sombra para crear una espada de oscuridad solidificada en tu mano. Esta espada mágica dura hasta que el conjuro termina. Cuenta como un arma cuerpo a cuerpo simple con la que eres competente. Inflige 2d8 de daño [[Psíquico]] en un golpe y tiene las propiedades de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Propiedades de las Armas/Ligera|Ligera]], [[Sutil]] y [[Arrojadiza]] (alcance 20/60). Además, cuando usas la espada para atacar a un objetivo que está en luz tenue u oscuridad, haces la tirada de ataque con ventaja.
 

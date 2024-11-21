@@ -27,7 +27,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Clérigo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un ungüento para los ojos de 2.500 po de valor, hecho con polvo de setas, azafrán y grasa y que consume el conjuro)
 

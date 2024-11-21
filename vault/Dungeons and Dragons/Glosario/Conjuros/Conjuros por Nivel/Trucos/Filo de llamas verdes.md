@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (un arma cuerpo a cuerpo que valga al menos 800 po)

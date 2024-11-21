@@ -19,7 +19,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Te vuelves invisible al mismo tiempo que un doble ilusorio tuyo aparece donde estabas. El doble permanece ahí mientras dura el conjuro, pero la invisibilidad termina si atacas o lanzas un conjuro.
 

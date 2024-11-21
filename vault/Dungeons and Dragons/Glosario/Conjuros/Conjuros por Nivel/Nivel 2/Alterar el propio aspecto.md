@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Asumes una forma diferente. Cuando lances el conjuro, elige una de las siguientes opciones, cuyos efectos duran mientras lo haga el conjuro. Mientras dure el conjuro, puedes terminar una opción como si fuera una acción para obtener los beneficios de otra.

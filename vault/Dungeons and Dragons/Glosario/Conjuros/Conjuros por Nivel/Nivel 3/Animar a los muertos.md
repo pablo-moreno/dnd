@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una gota de sangre, un trozo de carne y una pizca de polvo de huesos)
 

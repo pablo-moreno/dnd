@@ -23,7 +23,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Un viento fuerte (20 millas por hora) sopla a tu alrededor en un radio de 10 pies y se mueve contigo, permaneciendo centrado en ti. El viento dura hasta el final de la duración del conjuro. El viento tiene los siguientes efectos:
 

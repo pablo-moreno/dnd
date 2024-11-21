@@ -21,7 +21,7 @@ Concentración:
 Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Eliges una llama no mágica que puedes ver dentro del alcance y que cabe dentro de un cubo de 5 pies. Le afectas de una de las siguientes maneras:
 

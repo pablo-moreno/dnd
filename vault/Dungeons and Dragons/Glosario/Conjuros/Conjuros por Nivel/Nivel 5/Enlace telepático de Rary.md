@@ -19,7 +19,7 @@ Duración: 1 hora
 Ritual: true
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (dos trozos de cáscara de huevo de dos tipos de criatura distintos)
 

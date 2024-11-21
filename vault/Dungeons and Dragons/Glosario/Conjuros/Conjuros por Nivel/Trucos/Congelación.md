@@ -25,7 +25,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Haces que se forme escarcha entumecedora en una criatura que puedes ver dentro del alcance. El objetivo debe hacer una [[Tirada de Salvación]] de [[Constitución]]. En una salvación fallida, el objetivo recibe 1d6 de daño por [[Frío]], y tiene desventaja en la siguiente [[Tirada de Ataque]] con arma que realice antes del final de su siguiente turno.

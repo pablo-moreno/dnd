@@ -19,7 +19,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Un rayo surge de tu mano para golpear a una criatura que estás intentando tocar. Haz un ataque de conjuro cuerpo a cuerpo contra el objetivo. Tienes ventaja en la [[Tirada de Ataque]] si el objetivo lleva una armadura de metal. Si impactas, el objetivo recibe 1d8 puntos de daño por [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago]] y no puede realizar reacciones hasta el inicio de su siguiente turno.

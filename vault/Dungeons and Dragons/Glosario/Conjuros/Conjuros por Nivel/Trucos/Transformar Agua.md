@@ -21,7 +21,7 @@ Concentración:
 Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Eliges un área de agua que puedes ver dentro del alcance y que quepa en un cubo de 5 pies. Lo manipulas de una de las siguientes maneras:
 

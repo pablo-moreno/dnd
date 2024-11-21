@@ -22,7 +22,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (una pequeña correa de cuero o un fragmento de alambre de oro doblado en forma de copa con un largo astil en el extremo)

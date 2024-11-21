@@ -19,7 +19,7 @@ Duración: Hasta Disipado
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (unos polvos compuestos de diamante, esmeralda, rubí y zafiro de al menos 500.000 po de valor, los cuales consume el conjuro)
 

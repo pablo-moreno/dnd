@@ -22,7 +22,7 @@ Concentración: true
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Luz tenue y verdosa se extiende dentro de una esfera de 30 pies de radio centrada en un punto que elijas dentro del alcance. La luz se extiende alrededor de las esquinas, y dura hasta que el conjuro termina.
 

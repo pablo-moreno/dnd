@@ -21,7 +21,7 @@ Ritual: true
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una pizca de sal y dos monedas de cobre que colocar en sendos ojos del cadáver, las cuales deben permanecer ahí mientras dure el conjuro)
 

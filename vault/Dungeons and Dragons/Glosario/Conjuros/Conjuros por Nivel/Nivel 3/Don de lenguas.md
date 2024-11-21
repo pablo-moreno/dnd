@@ -26,7 +26,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Clérigo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una pequeña maqueta de un zigurat hecha de arcilla)
 

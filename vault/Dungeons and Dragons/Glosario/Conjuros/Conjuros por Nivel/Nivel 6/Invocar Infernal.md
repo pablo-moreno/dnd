@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (sangre de humanoide dentro de un vial de rubí que valga al menos 60.000 po)
 

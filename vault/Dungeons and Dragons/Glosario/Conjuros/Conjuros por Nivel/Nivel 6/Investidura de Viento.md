@@ -24,7 +24,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Hasta que el conjuro termine, el viento se arremolina a tu alrededor y obtienes los siguientes beneficios:
 

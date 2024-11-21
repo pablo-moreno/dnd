@@ -21,7 +21,7 @@ Si realizas una acción que incluya más de un ataque con arma, puedes separar t
 
 *Usando Diferentes Velocidades*  
 Si tienes más de un tipo de velocidad, como tu velocidad al caminar y velocidad de vuelo, puedes alternar entre tus velocidades durante tu movimiento. Siempre que alternes, resta la distancia que ya hayas movido de tu nueva velocidad. El resultado determina cuánto puedes mover. Si el resultado es 0 o menos, no puedes usar la nueva velocidad durante el movimiento actual.  
-Por ejemplo, si tienes una velocidad de 30 y una velocidad de vuelo de 60 a causa de que un [[mago]] te ha lanzado un conjuro de [[Levitar]] sobre ti, podrías volar 20 pies, caminar 10 pies,  
+Por ejemplo, si tienes una velocidad de 30 y una velocidad de vuelo de 60 a causa de que un [[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]] te ha lanzado un conjuro de [[Levitar]] sobre ti, podrías volar 20 pies, caminar 10 pies,  
 y entonces elevarte en el aire para volar 30 pies más.  
 
 *Terreno Difícil*  

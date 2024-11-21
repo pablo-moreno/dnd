@@ -24,7 +24,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Clérigo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Entras en las regiones limítrofes del Plano Etéreo, en la zona en la que se solapa con tu plano actual, y permaneces en la frontera etérea mientras dura el conjuro o hasta que uses una acción para disiparlo. Durante ese tiempo, puedes moverte en cualquier dirección. Si te mueves hacia arriba o hacia abajo, cada pie de movimiento te cuesta un pie adicional. Puedes ver y escuchar el plano del que provienes, pero todo lo que hay ahí parece gris y no puedes ver nada más allá de 60 pies.
 

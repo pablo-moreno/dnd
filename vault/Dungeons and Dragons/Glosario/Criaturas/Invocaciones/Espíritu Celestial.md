@@ -9,14 +9,14 @@ aliases:
 ---
 c> Descripción...
 ## Características
-| Característica   | Nivel | Bonificador | Lanzar dado |
-| ---------------- | ----- | ----------- | ----------- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]       | 16     | +3           | `dice: 1d20 + 0` |
-| [[Destreza]]     | 14     | +2           | `dice: 1d20 + 0`            |
-| [[Constitución]] | 16     | +3           | `dice: 1d20 + 0`            |
-| [[Inteligencia]] | 10     | 0           | `dice: 1d20 + 0`            |
-| [[Sabiduría]]    | 14     | +2           | `dice: 1d20 + 0`            |
-| [[Carisma]]      | 16     | +3           | `dice: 1d20 + 0`            |
+| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 16    | +3          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                             | 14    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                         | 16    | +3          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                         | 10    | 0           | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                            | 14    | +2          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                              | 16    | +3          | `dice: 1d20 + 0` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 11 + el nivel de conjuro
 [[Puntos de Golpe]]: 40 + 10 por cada nivel de conjuro superior al 5 (`dice: 1d4`)

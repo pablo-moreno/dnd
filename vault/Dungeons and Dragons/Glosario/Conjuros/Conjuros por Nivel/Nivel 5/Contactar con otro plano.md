@@ -19,7 +19,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Contactas mentalmente con un semidiós, el espíritu de un sabio que murió hace mucho u otra entidad misteriosa de otro plano. Contactar con esta inteligencia extraplanar puede forzar e incluso romper tu mente. Cuando lances este conjuro, haz una [[Tirada de Salvación]] de [[Inteligencia]] CD 15. Si fallas, recibes 6d6 puntos de daño [[Psíquico]] y quedas enloquecido hasta que terminas un descanso prolongado. Mientras estás enloquecido, no puedes entender lo que dicen otras criaturas, no puedes leer y solo dices galimatías. Si te lanzan el conjuro [[Restablecimiento mayor]], este efecto termina.
 

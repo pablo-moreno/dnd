@@ -24,7 +24,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Causas un temblor en el suelo dentro del alcance. Cada otra criatura que no seas tu en esa área debe hacer una [[Tirada de Salvación]] de [[Destreza]]. 
 

@@ -9,14 +9,14 @@ aliases:
 ---
 > Descripción...
 ## Características
-| Característica   | Nivel | Bonificador | Lanzar dado |
-| ---------------- | ----- | ----------- | ----------- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]]       | 18     | +4           | `dice: 1d20 + 0` |
-| [[Destreza]]     | 14     | +2           | `dice: 1d20 + 0`            |
-| [[Constitución]] | 16     | +3           | `dice: 1d20 + 0`            |
-| [[Inteligencia]] | 4     | -3           | `dice: 1d20 + 0`            |
-| [[Sabiduría]]    | 10     | 0           | `dice: 1d20 + 0`            |
-| [[Carisma]]      | 6     | -2           | `dice: 1d20 + 0`            |
+| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 18    | +4          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                             | 14    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                         | 16    | +3          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                         | 4     | -3          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                            | 10    | 0           | `dice: 1d20 + 0` |
+| [[Carisma]]                                                              | 6     | -2          | `dice: 1d20 + 0` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 16 (Armadura Natural)
 [[Puntos de Golpe]]: 10 + cinco veces tu nivel de bardo (`dice: 1d4`)

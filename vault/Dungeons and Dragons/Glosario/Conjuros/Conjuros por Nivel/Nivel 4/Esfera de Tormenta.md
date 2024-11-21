@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Una esfera de 20 pies de radio de aire giratorio nace, centrada en un punto que elijas dentro del alcance. La esfera permanece hasta el final de la duración del conjuro. Cada criatura en la esfera cuando aparece o que termina su turno allí debe tener éxito en una [[Tirada de Salvación]] de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] o recibir 2d6 de daño [[Contundente]]. El espacio dentro de la esfera es considerado terreno difícil.
 

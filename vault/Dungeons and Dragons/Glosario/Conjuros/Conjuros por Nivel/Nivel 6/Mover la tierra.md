@@ -23,7 +23,7 @@ Concentración: true
 Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una hoja de hierro y una bolsita con una mezcla de tierras: arcilla, marga y arena)
 

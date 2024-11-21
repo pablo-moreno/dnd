@@ -24,7 +24,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Las llamas corren a través de su cuerpo, arrojando luz brillante en un radio de 30 pies y luz tenue a 30 pies adicionales por la duración del conjuro. Las llamas no te hacen daño. Hasta que el conjuro termine, ganas los siguientes beneficios:
 

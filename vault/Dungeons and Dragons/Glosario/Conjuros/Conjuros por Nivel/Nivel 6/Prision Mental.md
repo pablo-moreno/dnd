@@ -21,7 +21,7 @@ Concentración: true
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Intentas atar a una criatura dentro de una celda ilusoria que solo ella percibe. Una criatura que puedas ver dentro del alcance debe hacer una [[Tirada de Salvación]] de [[Inteligencia]]. El objetivo tiene éxito automáticamente si es inmune a ser [[Hechizado]]. En una salvación exitosa, el objetivo recibe 5d10 de daño [[Psíquico]], y el conjuro termina. En una salvación fallida, el objetivo recibe 5d10 de daño psíquico y haces que el área inmediatamente alrededor del espacio del objetivo le parezca peligrosa de alguna manera. 
 

@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una vasija de barro llena con tierra de cementerio, otra llena de salobre y un ónice negro por cada cadáver)
 

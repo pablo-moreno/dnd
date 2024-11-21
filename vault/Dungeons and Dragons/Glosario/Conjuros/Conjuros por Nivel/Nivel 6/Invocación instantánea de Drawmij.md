@@ -19,7 +19,7 @@ Duración: Hasta Disipado
 Ritual: true
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un zafiro de 100.000 po de valor)
 

@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Una turbulenta nube de humo atravesada por ardientes brasas blancas aparece en una esfera de un radio de 20 pies cuyo centro se encuentra en un punto dentro del alcance. La nube se extiende en las esquinas y su área está muy resguardada. Dura mientras lo haga el conjuro o hasta que un viento de velocidad moderada o superior (al menos 10 millas por hora) la disipe.
 

@@ -23,7 +23,7 @@ Concentración: true
 Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Elige una criatura que puedas ver dentro del alcance y elige uno de los siguientes tipos de daño: [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]], [[Frío]], [[Fuego]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago|Relámpago]] o [[Trueno]]. El objetivo debe tener éxito en una [[Tirada de Salvación]] de [[Constitución]] o ser afectado por el conjuro por su duración. 

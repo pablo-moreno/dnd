@@ -24,7 +24,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Eliges un punto dentro del alcance y haces que la energía psíquica explote allí. Cada criatura en una esfera de 20 pies de radio centrada en ese punto debe hacer una [[Tirada de Salvación]] de Inteligencia. Una criatura con una puntuación de [[Inteligencia]] de 2 o inferior no puede ser afectada por este conjuro. Un objetivo recibe 8d6 de daño [[Psíquico]] en una salvación fallida, o la mitad de daño en una exitosa.
 

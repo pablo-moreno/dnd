@@ -19,7 +19,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Detienes brevemente el flujo del tiempo para todo el mundo menos para ti. El tiempo no pasa para otras criaturas, mientras tú haces 1d4+1 turnos seguidos, durante los cuales puedes usar acciones y moverte con normalidad.
 

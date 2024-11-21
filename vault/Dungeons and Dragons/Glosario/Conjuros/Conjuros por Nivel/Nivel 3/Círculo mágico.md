@@ -25,7 +25,7 @@ Clases:
   - "[[Paladín]]"
   - "[[Brujo]]"
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (agua bendita o plata y hierro pulverizados de al menos 10.000 po de valor, los cuales consume el conjuro)
 

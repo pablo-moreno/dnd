@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Convocas elementales que aparecen en un espacio sin ocupar que puedas ver dentro del alcance. Eliges una de las siguientes opciones:
 

@@ -20,7 +20,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (un poco de corteza o manteca de cerdo)

@@ -19,7 +19,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Creas una puerta de sombras en una superficie lisa y sólida que puedas ver dentro del alcance. La puerta es lo suficientemente grande como para permitir que criaturas Medianas la crucen sin problemas. Cuando se abre, la puerta conduce a un semiplano que parece ser una habitación vacía de 30 pies en cada dimensión, y está hecha de madera o piedra. Cuando el conjuro termina, la puerta desaparece y cualquier criatura u objeto que se encuentre dentro del semiplano queda atrapado ahí, ya que la puerta también desaparece en el otro lado.
 

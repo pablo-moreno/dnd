@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (fuego y un trozo de piedra solar)
 

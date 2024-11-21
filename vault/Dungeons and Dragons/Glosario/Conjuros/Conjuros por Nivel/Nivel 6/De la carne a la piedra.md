@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una pizca de lima, agua y tierra)
 

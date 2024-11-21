@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Tres duplicados ilusorios de ti mismo aparecen en tu espacio. Hasta que el conjuro termine, los duplicados se mueven a la vez que tú, imitan tus acciones y se cambian de posición, lo que hace que sea imposible seguir cuál es la imagen real. Puedes usar tu acción para disiparlos.
 

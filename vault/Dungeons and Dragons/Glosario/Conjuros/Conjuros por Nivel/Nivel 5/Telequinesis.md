@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Consigues la capacidad de mover o manipular criaturas u objetos mediante el pensamiento. Cuando lanzas este conjuro, y como acción durante cada ronda mientras dure, puedes ejercer tu voluntad sobre una criatura o un objeto que puedas ver dentro del alcance, provocando uno de los siguientes efectos según corresponda. Puedes afectar al mismo objetivo ronda tras ronda o elegir uno nuevo cada vez. Si cambias de objetivo, el anterior ya no estará afectado por el conjuro.
 

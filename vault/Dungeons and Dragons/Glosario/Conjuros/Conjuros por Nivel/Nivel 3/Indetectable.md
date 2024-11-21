@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Explorador]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una pizca de polvo de diamante de 2.500 po de valor que se esparce sobre el objetivo y se consume en el conjuro)
 

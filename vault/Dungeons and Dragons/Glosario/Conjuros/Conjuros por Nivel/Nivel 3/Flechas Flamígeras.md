@@ -25,7 +25,7 @@ Clases:
   - "[[Explorador]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Tocas un carcaj que contiene flechas o virotes. Cuando un objetivo es alcanzado por un ataque de arma a distancia con una pieza de munición extraída del carcaj, el objetivo recibe 1d6 de daño de [[Fuego]] adicional. La magia del conjuro termina en una munición cuando golpea o falla, y el conjuro termina cuando se han extraído doce municiones del carcaj.

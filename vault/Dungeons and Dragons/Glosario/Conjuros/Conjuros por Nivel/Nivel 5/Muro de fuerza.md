@@ -19,7 +19,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una pizca de gema diáfana pulverizada)
 

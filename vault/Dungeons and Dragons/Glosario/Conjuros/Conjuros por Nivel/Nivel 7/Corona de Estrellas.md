@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Siete motas de luz con forma de estrella aparecen y orbitan tu cabeza hasta que termine el conjuro. Puedes usar una acción adicional para enviar una de las motas hacia una criatura u objeto a 120 pies de ti. Cuando lo hagas, haz un ataque de conjuro a distancia. En un golpe, el objetivo recibe 4d12 de daño [[Radiante]]. Si golpeas o no, el mote se gasta. El conjuro termina antes si gastas el último mote.
 

@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un tentáculo en salmuera y un globo ocular en un vial con incrustaciones de platino que valga al menos 40.000 po)
 

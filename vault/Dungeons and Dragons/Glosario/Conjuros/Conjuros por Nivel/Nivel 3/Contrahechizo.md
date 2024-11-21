@@ -21,7 +21,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Intentas interrumpir el lanzamiento de conjuro de una criatura. Si el conjuro es de nivel 3 o inferior, el lanzamiento falla y no tiene efecto. Si es de nivel 4 o superior, haz una prueba de característica usando tu característica para lanzar conjuros; la CD es 10 + el nivel de conjuro. Si tienes éxito, el lanzamiento falla y su conjuro no tiene efecto.
 

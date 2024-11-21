@@ -22,7 +22,7 @@ Concentración: true
 Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Tomas el control del aire en un cubo de 100 pies que puedes ver dentro del alcance. Elige uno de los siguientes efectos cuando lances el conjuro. El efecto dura la duración del conjuro, a menos que uses tu acción en un turno posterior para cambiar a un efecto diferente. También puedes usar tu acción para detener temporalmente el efecto o para reiniciar uno que hayas detenido.
 

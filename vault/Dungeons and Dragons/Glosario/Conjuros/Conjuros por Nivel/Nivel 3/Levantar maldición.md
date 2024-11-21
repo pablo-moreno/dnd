@@ -24,6 +24,6 @@ Clases:
   - "[[Paladín]]"
   - "[[Brujo]]"
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Con tu toque, todas las maldiciones que afectan a una criatura o a un objeto terminan. Si el objeto es un objeto mágico maldito, la maldición permanece, pero el conjuro rompe el vínculo de su dueño con el objeto para que se pueda eliminar o descartar.

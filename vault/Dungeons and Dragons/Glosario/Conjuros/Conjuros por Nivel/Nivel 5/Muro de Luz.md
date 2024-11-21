@@ -23,7 +23,7 @@ Concentración: true
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Aparece un muro resplandeciente de luz brillante en un punto que elijas dentro del alcance. El muro aparece en la orientación que elijas: horizontal, vertical o diagonal. Puede flotar libremente o puede apoyarse en una superficie sólida.
 

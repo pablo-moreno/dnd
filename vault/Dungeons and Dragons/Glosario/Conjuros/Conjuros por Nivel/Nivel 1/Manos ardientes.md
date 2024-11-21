@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Juntas las manos con los dedos extendidos y una lámina de fuego se dispara desde las puntas de tus dedos. Todas las criaturas que se encuentren en un cono de 15 pies deben hacer una [[Tirada de Salvación]] de [[Destreza]]. Si fallan, reciben 3d6 puntos de daño por [[Fuego]] y, si tienen éxito, la mitad.
 

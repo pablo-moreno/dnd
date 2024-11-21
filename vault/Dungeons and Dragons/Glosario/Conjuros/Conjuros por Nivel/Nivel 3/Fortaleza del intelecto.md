@@ -24,7 +24,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Hasta que acabe el conjuro, tú o una criatura voluntaria que puedas ver dentro del alcance obtiene resistencia al daño [[Psíquico]] y ventaja en las [[Tirada de Salvación]] de [[Inteligencia]], [[Sabiduría]] y [[Carisma]].

@@ -22,7 +22,7 @@ Ritual: true
 Concentración: 
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (un pequeño fragmento de panal y polvo de jade de al menos 1.000 po de valor, los cuales consume el conjuro)

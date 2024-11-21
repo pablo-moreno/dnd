@@ -19,7 +19,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Clérigo]]"
 ---
 Sacrificas algo de tu salud para reparar las heridas de otra criatura. Recibes 4d8 de daño [[Necrótico]], y una criatura de tu elección que puedes ver dentro del alcance recupera una cantidad de [[Puntos de Golpe]] igual al doble del daño necrótico que recibes.

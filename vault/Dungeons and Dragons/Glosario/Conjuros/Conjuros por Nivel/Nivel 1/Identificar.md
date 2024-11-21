@@ -22,7 +22,7 @@ Ritual: true
 Concentración: 
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (una perla que valga al menos 10.000 po y una pluma de búho)

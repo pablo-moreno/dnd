@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (por cada criatura a la que afectas con este conjuro debes aportar un circón de al menos 100.000 po de valor y un lingote de plata tallado de al menos 10.000 po, los cuales consume el conjuro)
 

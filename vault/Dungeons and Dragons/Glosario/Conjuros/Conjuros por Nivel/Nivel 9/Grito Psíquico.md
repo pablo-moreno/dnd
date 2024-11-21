@@ -23,7 +23,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Desatas el poder de tu mente para destruir el intelecto de hasta diez criaturas de tu elección que puedes ver dentro del alcance. Las criaturas que tienen una puntuación de [[Inteligencia]] de 2 o inferior no se ven afectadas.
 

@@ -23,7 +23,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Pronuncias una palabra de poder que puede aturdir la mente de una criatura que puedas ver dentro del alcance, lo que la deja pasmada. Si el objetivo tiene 150 [[Puntos de Golpe]] o menos, queda [[Aturdido]]. Si no, el conjuro no tiene efecto.
 

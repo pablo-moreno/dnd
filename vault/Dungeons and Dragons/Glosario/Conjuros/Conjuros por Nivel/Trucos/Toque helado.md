@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Creas una mano esquelética y fantasmal en el espacio de una criatura que esté dentro del alcance. Haz un ataque de conjuro a distancia contra la criatura para atacarla con el frío de la tumba. Si impactas, el objetivo recibe 1d8 puntos de daño [[Necrótico]] y no puede recuperar [[Puntos de Golpe]] hasta que no empiece tu siguiente turno. Hasta entonces, la mano se aferra al objetivo.
 

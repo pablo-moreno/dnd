@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Tomas el aire y lo obligas a crear uno de los siguientes efectos en un punto que puedes ver dentro del alcance:
 

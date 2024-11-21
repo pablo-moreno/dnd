@@ -24,7 +24,7 @@ Clases:
   - "[[Explorador]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Creas una bruma que cubre un área esférica de 20 pies de radio alrededor de un punto de tu elección. La niebla se extiende más allá en las esquinas y el área se considera muy oscura. Dura mientras lo haga el conjuro o hasta que un viento moderado o de una velocidad mayor (al menos 10 millas por hora) lo disipe.
 

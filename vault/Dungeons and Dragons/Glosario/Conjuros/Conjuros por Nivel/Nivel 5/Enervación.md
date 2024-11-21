@@ -22,7 +22,7 @@ Concentración: true
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Un tendón de oscuridad se extiende desde ti, tocando una criatura que puedes ver dentro del alcance para drenar su vida. El objetivo debe hacer una [[Tirada de Salvación]] de [[Destreza]]. 
 

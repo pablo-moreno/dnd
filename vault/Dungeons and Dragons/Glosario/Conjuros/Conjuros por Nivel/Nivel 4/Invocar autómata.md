@@ -20,7 +20,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (una piedra adornada y una caja de seguridad de metal que valga al menos 40.000 po)

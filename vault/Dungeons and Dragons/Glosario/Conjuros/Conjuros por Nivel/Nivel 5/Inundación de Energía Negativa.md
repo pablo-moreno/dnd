@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un hueso roto y un cuadrado de seda negra)
 

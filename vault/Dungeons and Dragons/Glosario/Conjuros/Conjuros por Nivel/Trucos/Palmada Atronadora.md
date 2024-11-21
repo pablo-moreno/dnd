@@ -23,7 +23,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Creas un estallido de sonido atronador que puede escucharse hasta a 100 pies de distancia. Cada criatura dentro del alcance, que no seas tu, debe tener éxito en una [[Tirada de Salvación]] de [[Constitución]] o recibir 1d6 de daño de [[Trueno]].
 

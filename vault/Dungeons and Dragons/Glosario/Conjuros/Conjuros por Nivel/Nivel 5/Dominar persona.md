@@ -22,7 +22,7 @@ Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Intentas embaucar a un humanoide que puedas ver dentro del alcance. El objetivo debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar [[Hechizado]] por ti mientras dure el conjuro. Si tú o las criaturas que son amistosas hacia ti estáis luchando contra él, este tiene ventaja en la tirada de salvación.
 

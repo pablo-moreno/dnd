@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 El toque de tu mano cubierta de sombras puede extraer la fuerza vital de otros para curar tus heridas. Haz un ataque de conjuro cuerpo a cuerpo contra una criatura dentro de tu alcance. Si impactas, el objetivo recibe 3d6 puntos de daño [[Necrótico]] y tú recuperas tantos [[Puntos de Golpe]] como la mitad del daño infligido. Hasta que el conjuro termine, puedes volver a hacer el ataque en cada uno de tus turnos como acción.
 

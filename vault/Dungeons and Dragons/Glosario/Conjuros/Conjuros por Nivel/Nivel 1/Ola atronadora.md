@@ -24,7 +24,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Una ola de una fuerza atronadora surge de ti. Cada criatura que se encuentre en un cubo de 15 pies adyacente a ti debe hacer una [[Tirada de Salvación]] de [[Constitución]]. Si falla, recibe 2d8 puntos de daño por [[Trueno]] y es empujada lejos de ti a 10 pies. Si tiene éxito, recibe la mitad del daño y no es empujada.
 

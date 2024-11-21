@@ -24,7 +24,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Hasta que el conjuro termine, el hielo rima tu cuerpo y obtendrás los siguientes beneficios:
 

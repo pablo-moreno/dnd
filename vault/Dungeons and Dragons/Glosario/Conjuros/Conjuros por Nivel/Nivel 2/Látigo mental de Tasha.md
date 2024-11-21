@@ -19,7 +19,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Atacas con un látigo psíquico a una criatura que puedas ver dentro del alcance. El objetivo tiene que hacer una [[Tirada de Salvación]] de [[Inteligencia]]. Si la falla, recibirá 3d6 de daño [[Psíquico]] y no podrá llevar a cabo ninguna reacción hasta el final de su siguiente turno.
 

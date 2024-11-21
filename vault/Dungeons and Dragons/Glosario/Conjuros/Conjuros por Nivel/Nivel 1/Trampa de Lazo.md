@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Druida]]"
   - "[[Explorador]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 
 (25 pies de cuerda, que son consumidos por el conjuro)

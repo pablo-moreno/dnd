@@ -21,7 +21,7 @@ Concentración: true
 Clases:
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Eliges una porción de tierra o piedra que puedes ver dentro del alcance y que se ajusta dentro de un cubo de 5 pies. La manipulas de una de las siguientes maneras:
 

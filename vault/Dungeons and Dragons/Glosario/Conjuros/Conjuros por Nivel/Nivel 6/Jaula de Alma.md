@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Este conjuro arrebata el alma de un humanoide cuando muere y lo atrapa dentro de la pequeña jaula que usas para el componente material. Un alma robada permanece dentro de la jaula hasta que el conjuro termina o hasta que destruyes la jaula, lo que termina el conjuro. Mientras tengas un alma dentro de la jaula, puedes explotarla de cualquiera de las formas que se describen a continuación. Puedes usar un alma atrapada hasta seis veces. Una vez que explotas un alma por sexta vez, se libera y el conjuro termina. Mientras un alma está atrapada, el humanoide muerto del que proviene no puede ser revivido.
 

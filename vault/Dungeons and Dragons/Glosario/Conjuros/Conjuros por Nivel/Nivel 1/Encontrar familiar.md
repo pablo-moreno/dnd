@@ -19,7 +19,7 @@ Duración: Instantáneo
 Ritual: true
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (carbón vegetal, incienso y hierbas de 1.000 po de valor que debe consumir el fuego en un brasero de latón)
 

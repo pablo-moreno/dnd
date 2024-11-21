@@ -19,7 +19,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una pizca de fósforo o una luciérnaga)
 

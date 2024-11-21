@@ -27,7 +27,7 @@ Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una horquilla metálica de dos púas de al menos 25.000 po de valor, sintonizada con un plano de existencia en particular)
 

@@ -20,7 +20,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (extracto de trigo en polvo y un lazo de pergamino retorcido)

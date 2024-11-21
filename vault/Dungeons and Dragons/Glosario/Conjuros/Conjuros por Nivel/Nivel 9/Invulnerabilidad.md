@@ -19,7 +19,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una pequeña pieza de adamantina que vale por lo menos 50.000 po, que es consumida por el conjuro)
 

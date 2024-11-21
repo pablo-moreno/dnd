@@ -9,14 +9,14 @@ aliases:
 ---
 > Descripción...
 ## Características
-| Característica | Nivel | Bonificador | Lanzar dado |
-| ---- | ---- | ---- | ---- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 6 | -2 | `dice: 1d20 + 0` |
-| [[Destreza]] | 16 | +3 | `dice: 1d20 + 0` |
-| [[Constitución]] | 13 | +1 | `dice: 1d20 + 0` |
-| [[Inteligencia]] | 8 | -1 | `dice: 1d20 + 0` |
-| [[Sabiduría]] | 14 | +2 | `dice: 1d20 + 0` |
-| [[Carisma]] | 11 | 0 | `dice: 1d20 + 0` |
+| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 6     | -2          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                             | 16    | +3          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                         | 13    | +1          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                         | 8     | -1          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                            | 14    | +2          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                              | 11    | 0           | `dice: 1d20 + 0` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 13 + BC (armadura natural)
 [[Puntos de Golpe]]: 4 + cuatro veces tu nivel de explorador (la bestia tiene una cantidad de Dados de

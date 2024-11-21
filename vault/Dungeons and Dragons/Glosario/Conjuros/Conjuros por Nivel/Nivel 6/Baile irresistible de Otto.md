@@ -19,7 +19,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Elige una criatura que puedas ver dentro del alcance. El objetivo se pone a bailar de manera cómica, moviendo manos y pies, mientras dura el conjuro. Las criaturas que no pueden ser hechizadas son inmunes a este conjuro.
 

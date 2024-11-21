@@ -24,7 +24,7 @@ Clases:
   - "[[Brujo]]"
   - "[[Druida]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 La energía nigromántica anega a una criatura de tu elección que puedas ver dentro del alcance y le drena los humores y la vitalidad. El objetivo debe hacer una [[Tirada de Salvación]] de [[Constitución]]: si falla, recibe 8d8 puntos de daño [[Necrótico]] y, si tiene éxito, la mitad. Este conjuro no tiene efecto sobre no muertos ni constructos.
 

@@ -9,14 +9,14 @@ aliases:
 ---
 > Descripción...
 ## Características
-| Característica                                           | Nivel | Bonificador | Lanzar dado      |
-| -------------------------------------------------------- | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 4     | -3          | `dice: 1d20 + 0` |
-| [[Destreza]]                                             | 15    | +2          | `dice: 1d20 + 0` |
-| [[Constitución]]                                         | 12    | +1          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                         | 10    | +0          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                            | 10    | +0          | `dice: 1d20 + 0` |
-| [[Carisma]]                                              | 7     | -2          | `dice: 1d20 + 0` |
+| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 4     | -3          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                             | 15    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                         | 12    | +1          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                         | 10    | +0          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                            | 10    | +0          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                              | 7     | -2          | `dice: 1d20 + 0` |
 
 [[Dungeons and Dragons/Reglas/Clase de Armadura]]: 13 (armadura natural)
 [[Puntos de Golpe]]: 1 +tu modificador por Inteligencia+ tu nivel de artífice (el homúnculo tiene una cantidad de Dados de Golpe (d4) igual a tu nivel de artífice)

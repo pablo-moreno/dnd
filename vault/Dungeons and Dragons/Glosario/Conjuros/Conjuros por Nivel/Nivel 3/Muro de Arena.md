@@ -19,7 +19,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Creas un muro de arena arremolinada en el suelo en un punto que puedes ver dentro del alcance. Puedes hacer que la pared mida hasta 30 pies de largo, 10 pies de alto y 10 pies de espesor, y se desvanece cuando termina el conjuro.
 

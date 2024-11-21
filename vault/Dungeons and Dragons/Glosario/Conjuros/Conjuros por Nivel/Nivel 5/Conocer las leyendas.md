@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (incienso de 25.000 po de valor, el cual el conjuro consume, y cuatro trozos de marfil, cada uno de los cuales debe tener un valor de al menos 50 po)
 

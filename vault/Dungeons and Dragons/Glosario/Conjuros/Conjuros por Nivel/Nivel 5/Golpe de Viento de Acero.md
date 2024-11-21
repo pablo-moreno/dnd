@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Explorador]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un arma cuerpo a cuerpo con valor de al menos 10 po)
 

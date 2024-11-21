@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Extraes la humedad de cada criatura en un cubo de 30 pies centrado en un punto que elijas dentro del rango. Cada criatura en esa área debe hacer una [[Tirada de Salvación]] de [[Constitución]]. 
 

@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un poco de vellón y polvo de jade de al menos 2.500 po de valor)
 

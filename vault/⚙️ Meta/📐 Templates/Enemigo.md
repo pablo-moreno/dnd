@@ -20,7 +20,7 @@ aliases:
 | [[Sabiduría]]                                                            | 0     | 0           | `dice: 1d20 + 0` |
 | [[Carisma]]                                                              | 0     | 0           | `dice: 1d20 + 0` |
 
-[[Dungeons and Dragons/Reglas/Clase de Armadura]]: 0
+[[Clase de Armadura]]: 0
 [[Puntos de Golpe]]: 0 (`dice: 1d4`)
 [[Velocidad]]: 30
 [[Tirada de Salvación]]:

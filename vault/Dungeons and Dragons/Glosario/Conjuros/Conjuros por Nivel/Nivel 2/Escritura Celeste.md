@@ -23,7 +23,7 @@ Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Puedes hacer que se formen hasta diez palabras en una parte del cielo que puedes ver. Las palabras parecen estar hechas de nube y permanecen en su lugar hasta el final de la duración del conjuro. Las palabras se disipan cuando el conjuro termina. Un viento fuerte puede dispersar las nubes y terminar el conjuro antes.

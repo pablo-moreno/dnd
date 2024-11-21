@@ -19,7 +19,7 @@ Duración: 10 días
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una estatuilla de ti mismo tallada en marfil y decorada con gemas de al menos 150.000 po de valor)
 

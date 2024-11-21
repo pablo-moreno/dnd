@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Envías energía negativa a una criatura que puedas ver dentro del alcance, lo que le provoca un dolor agudo. El objetivo debe realizar una [[Tirada de Salvación]] de [[Constitución]]. Si falla, recibe 7d8+30 puntos de daño [[Necrótico]] y, si tiene éxito, la mitad.
 

@@ -22,7 +22,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (arcilla y agua)

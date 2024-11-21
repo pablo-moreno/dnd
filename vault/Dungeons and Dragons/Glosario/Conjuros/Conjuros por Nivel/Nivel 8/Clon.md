@@ -19,7 +19,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (un diamante de al menos 100.000 po de valor y al menos una pulgada cúbica de carne de la criatura que se va a clonar, los cuales consume el conjuro, y un recipiente de al menos 200.000 po de valor que se pueda cerrar y que sea lo suficientemente grande para contener una criatura Mediana, como una urna enorme, un cofre, una cavidad en el suelo llena de barro o un contenedor de cristal lleno de agua salada)
 

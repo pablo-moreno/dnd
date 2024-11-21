@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Este conjuro te permite cambiar la apariencia de cualquier número de criaturas que puedas ver dentro del alcance. A cada objetivo que elijas le das una nueva apariencia ilusoria. Un objetivo que no sea voluntario puede hacer una tirada de salvación de Carisma para intentar evitar que el conjuro la afecte.
 

@@ -18,7 +18,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Accedes a las pesadillas de una criatura que puedas ver dentro del alcance y creas una manifestación ilusoria de sus miedos más profundos, que solo puede ver esa criatura. El objetivo debe hacer una [[Tirada de Salvación]] de [[Sabiduría]]. Si falla, queda [[Asustado]] mientras dura el conjuro. 
 

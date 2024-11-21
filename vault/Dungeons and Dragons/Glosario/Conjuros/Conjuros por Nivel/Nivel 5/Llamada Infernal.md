@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Con un conjuro oscuro, convocas a un diablo de los Nueve Infiernos. Eliges el tipo del diablo, que debe ser uno de nivel de desafío 6 o inferior, como un diablo punzante o un diablo barbado. El diablo aparece en un espacio desocupado que puedes ver dentro del alcance. El diablo desaparece cuando cae a 0 [[Puntos de Golpe]] o cuando termina el conjuro.
 

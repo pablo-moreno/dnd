@@ -18,7 +18,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Destierras a una criatura que puedas ver dentro del alcance a un semiplano laberíntico. El objetivo permanece ahí mientras dure el conjuro o hasta que escape del laberinto.
 

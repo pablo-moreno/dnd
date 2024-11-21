@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Elige un objeto que pese entre 1 y 5 libras dentro del rango que no se está usando o cargando. El objeto vuela en una línea recta de hasta 90 pies en la dirección que elijas antes de caer al suelo, deteniéndose antes si impacta contra una superficie sólida. 

@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Ocho rayos de luz multicolor surgen de tu mano. Cada rayo es de un color diferente y tiene un poder y un propósito diferentes. Todas las criaturas que se encuentren en un cono de 60 pies deben hacer una [[Tirada de Salvación]] de [[Destreza]]. Por cada objetivo, tira 1d8 para determinar qué rayo de color lo afecta.
 

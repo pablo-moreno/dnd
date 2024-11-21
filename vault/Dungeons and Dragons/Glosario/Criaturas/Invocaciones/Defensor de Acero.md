@@ -9,14 +9,14 @@ aliases:
 ---
 > Descripción...
 ## Características
-| Característica                                           | Nivel | Bonificador | Lanzar dado      |
-| -------------------------------------------------------- | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] | 14    | +2          | `dice: 1d20 + 0` |
-| [[Destreza]]                                             | 12    | +1          | `dice: 1d20 + 0` |
-| [[Constitución]]                                         | 14    | +2          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                         | 4     | -3          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                            | 10    | +0          | `dice: 1d20 + 0` |
-| [[Carisma]]                                              | 6     | -2          | `dice: 1d20 + 0` |
+| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 14    | +2          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                             | 12    | +1          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                         | 14    | +2          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                         | 4     | -3          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                            | 10    | +0          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                              | 6     | -2          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 15 (armadura natural)
 [[Puntos de Golpe]]: 2 + tu modificador por Inteligencia + cinco veces tu nivel de artífice (el defensor tiene una cantidad de Dados de Golpe [d8] igual a tu nivel de artífice)

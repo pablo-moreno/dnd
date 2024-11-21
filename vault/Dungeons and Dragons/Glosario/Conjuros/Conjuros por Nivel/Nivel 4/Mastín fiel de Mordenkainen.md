@@ -20,7 +20,7 @@ Duración: 8 horas
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (un silbato de plata pequeño, un hueso y un hilo)

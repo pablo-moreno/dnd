@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (incienso que se ha de quemar, un poco de azufre y aceite, un cordel anudado, un poco de sangre de mole sombría y un pequeño cetro de plata de al menos 1.000 po de valor)
 

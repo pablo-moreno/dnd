@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 Elige un área de llamas no mágicas que puedas ver y de un tamaño de hasta 5 pies dentro del alcance. Puedes apagar el fuego en esa área, y creas fuegos artificiales o humo cuando lo hagas.

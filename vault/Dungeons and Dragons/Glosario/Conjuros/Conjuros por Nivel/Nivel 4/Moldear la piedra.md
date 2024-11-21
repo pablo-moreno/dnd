@@ -24,7 +24,7 @@ Concentración:
 Clases:
   - "[[Clérigo]]"
   - "[[Druida]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
 (arcilla blanda, que debes modelar para convertirla más o menos en la forma que deseas del objeto de piedra)

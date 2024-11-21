@@ -21,7 +21,7 @@ Concentración:
 Clases:
   - "[[Brujo]]"
   - "[[Hechicero]]"
-  - "[[Mago]]"
+  - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Te teletransportas a un espacio desocupado que puedes ver dentro del alcance. Inmediatamente después de que desaparezcas, suena un estruendo atronador, y cada criatura a 10 pies del espacio que dejaste debe hacer una [[Tirada de Salvación]] de [[Constitución]], recibiendo 3d10 de daño de [[Trueno]] en una salvación fallida, o la mitad de daño en una exitosa. El trueno se puede escuchar hasta 300 pies de distancia.
 
