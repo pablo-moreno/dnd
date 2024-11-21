@@ -13,7 +13,7 @@ de arquetipo te ofrecerá rasgos a nivel 3 y de nuevo en los niveles 9, 13 y 17.
 
 Los Arquetipos a elegir son:
 
-[[Asesino]]
+[[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Asesino]]
 [[Bribón Arcano]]
 [[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Espadachín]]
 [[Fantasma]]

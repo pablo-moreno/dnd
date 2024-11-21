@@ -10,7 +10,9 @@ race: "[[Humano]]"
 size: "[[Mediano]]"
 ---
 > Campesinos, sirvientes, esclavos, siervos, peregrinos, mercaderes, artesanos y ermitaños son todos ellos ejemplos de plebeyos.
+
 ## Características
+
 | Característica | Nivel | Bonificador | Lanzar dado |
 | ---- | ---- | ---- | ---- |
 | [[Fuerza]] | 10 | 0 | `dice: 1d20 + 0` |
@@ -23,10 +25,20 @@ size: "[[Mediano]]"
 [[Clase de Armadura]]: 10
 [[Puntos de golpe]]: 4 (`dice: 1d8`)
 [[Velocidad]]: 30
+
+
+## Sentidos
+
+Percepción pasiva 10
+
 ## Idiomas
+
 - [[Idioma común]]
+- 
 ## Acciones
+
 - **Garrote**. Ataque con arma cuerpo a cuerpo: +2 a impactar, alcance 5 pies, un objetivo. Impacto: 2 (1d4) de daño contundente. 
 
 ## Desafío
+
 0 - 10 [[PX]]
