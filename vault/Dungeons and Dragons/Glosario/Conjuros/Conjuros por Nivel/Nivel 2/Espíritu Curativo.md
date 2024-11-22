@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 Llamas a un espíritu de la naturaleza para calmar a los heridos. El espíritu intangible aparece en un espacio que es un cubo de 5 pies que puedes ver dentro del alcance. El espíritu se ve como una bestia o feérico transparente (tu elección).
 

@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 (un abanico diminuto y una pluma exótica)
 

@@ -18,6 +18,6 @@ Duración: 1 asalto
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 Este conjuro crea un vínculo mágico entre una planta inanimada de tamaño Grande o mayor dentro del alcance y otra planta que esté en el mismo plano de existencia. Debes haber visto o tocado antes la planta de destino al menos una vez. Mientras dure el conjuro, cualquier criatura puede caminar sobre la planta objetivo y salir en la planta de destino usando 5 pies de movimiento.

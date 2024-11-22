@@ -19,7 +19,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 (varias semillas de flor luna y un trozo de feldespato opalescente)
 

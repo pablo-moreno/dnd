@@ -19,7 +19,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Convocas elementales que aparecen en un espacio sin ocupar que puedas ver dentro del alcance. Eliges una de las siguientes opciones:

@@ -18,7 +18,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 Haces que hasta seis pilares de piedra estallen desde lugares en el suelo que puedes ver dentro del alcance. Cada pilar es un cilindro que tiene un diámetro de 5 pies y una altura de hasta 30 pies. El suelo donde aparece un pilar debe ser lo suficientemente ancho para su diámetro, y puedes apuntar al suelo debajo de una criatura si esa criatura es de tamaño Mediano o más pequeña. 
 

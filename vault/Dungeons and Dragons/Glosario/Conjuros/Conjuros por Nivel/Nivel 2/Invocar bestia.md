@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 (una pluma, un poco de pelaje y cola de pez dentro de una bellota dorada que valga al menos 20.000 po)
 

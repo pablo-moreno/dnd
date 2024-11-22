@@ -16,7 +16,7 @@ Mientras avanzas en niveles te mantendrás principalmente como un miembro de tu 
 
 *Requisitos*
 Para poder acogerse a una nueva clase, debes cumplir los requisitos de puntos de habilidad de tu clase actual y tu nueva clase, como se muestra en la tabla Requisitos de Multiclase.
-Por ejemplo, un [[barbaro]] que decide adoptar como multiclase a la clase de [[druida]] debe tener puntos de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] y [[Sabiduría]] de 13 o mayores. Sin el entrenamiento completo que recibe
+Por ejemplo, un [[barbaro]] que decide adoptar como multiclase a la clase de [[Dungeons and Dragons/Creando un Personaje/2) Clases/Druida/Druida]] debe tener puntos de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]] y [[Sabiduría]] de 13 o mayores. Sin el entrenamiento completo que recibe
 un personaje principiante, debes aprender rápido sobre tu nueva clase, teniendo una aptitud natural que se refleja en tus puntos de habilidad por encima de la media.
 
 *Requisitos de Multiclase*
@@ -25,7 +25,7 @@ Clase                     Puntuación mínima de habilidad
 [[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]                     Carisma 13
 [[Brujo]]                      Carisma 13
 [[Clérigo]]                   Sabiduría 13
-[[Druida]]                    Sabiduría 13
+[[Dungeons and Dragons/Creando un Personaje/2) Clases/Druida/Druida]]                    Sabiduría 13
 [[Explorador]]             Destreza 13 y Sabiduría 13
 [[Guerrero]]                Fuerza 13 o Destreza 13
 [[Hechicero]]              Carisma 13
@@ -60,7 +60,7 @@ Cuando ganas un nivel en una clase que no sea tu primera clase, obtienes sólo a
 | [[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]      | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], una habilidad de tu elección, un instrumento musical de tu                                       elección.                                                                                                                          |
 | [[Brujo]]      | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armas simples.                                                                                                                                                                                                                      |
 | [[Clérigo]]    | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]].                                                                                                                                                   |
-| [[Druida]]     | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]] (los druidas no llevarán                                                      armaduras o escudos hechos de metal).                                |
+| [[Dungeons and Dragons/Creando un Personaje/2) Clases/Druida/Druida]]     | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]] (los druidas no llevarán                                                      armaduras o escudos hechos de metal).                                |
 | [[Explorador]] | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]], armas simples, armas                                                       marciales, una habilidad a elegir de la lista de habilidades de clase. |
 | [[Guerrero]]   | Armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]], armadura [[Media]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo]], armas simples, armas marciales.                                                                                                                   |
 | [[Hechicero]]  | —                                                                                                                                                                                                                                                        |
@@ -105,7 +105,7 @@ basados en tus niveles de explorador. Como mago de nivel 3, conoces tres trucos 
 Cada conjuro que conoces y preparas está asociado con una de tus clases, y si tu usas la habilidad de Lanzamiento de Conjuros de esa clase cuando tú lanzas el conjuro. Similarmente, un foco de Lanzamiento de Hechizos como el Símbolo Sagrado, puede ser usado sólo para la clase asociada con ese foco.
 
 
-*Espacios de Conjuro*. Determina tus espacios de conjuro añadiendo todos tus niveles de las clases [[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]], [[clérigo]], [[druida]], [[hechicero]], y [[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]], la mitad de tus niveles (redondeando hacia abajo) en las clases [[paladín]] y [[explorador]], y un tercio (redondeando hacia abajo) en las clases [[guerrero]] y [[pícaro]] si tienes la característica [[Caballero Arcano]] o [[Bribón Arcano]]. 
+*Espacios de Conjuro*. Determina tus espacios de conjuro añadiendo todos tus niveles de las clases [[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]], [[clérigo]], [[Dungeons and Dragons/Creando un Personaje/2) Clases/Druida/Druida]], [[hechicero]], y [[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]], la mitad de tus niveles (redondeando hacia abajo) en las clases [[paladín]] y [[explorador]], y un tercio (redondeando hacia abajo) en las clases [[guerrero]] y [[pícaro]] si tienes la característica [[Caballero Arcano]] o [[Bribón Arcano]]. 
 Usa este total para determinar tus espacios para conjuros consultando la tabla Lanzador de Conjuros Multiclase.
 Si tienes más de una clase lanzadora de conjuros, esta tabla te dará espacios de conjuros de un nivel más alto que los hechizos que conoces o puedes preparar. Puedes usar esos espacios, pero sólo para lanzar tus conjuros de nivel más bajo. Si lanzas un conjuro de nivel bajo como [[Manos ardientes]], este tiene un efecto mejorado cuando se usa un espacio de hechizo superior, incluso cuando no tienes ningún hechizo de ese nivel superior.
 

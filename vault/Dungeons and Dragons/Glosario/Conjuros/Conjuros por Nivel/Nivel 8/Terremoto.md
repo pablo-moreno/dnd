@@ -22,7 +22,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Clérigo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
   - "[[Hechicero]]"
 ---
 (una pizca de polvo, un fragmento de roca y un puñado de arcilla)

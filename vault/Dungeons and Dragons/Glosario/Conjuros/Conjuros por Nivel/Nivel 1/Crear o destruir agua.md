@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 
 (una gota de agua si creas agua o unos cuantos granos de arena si la destruyes)

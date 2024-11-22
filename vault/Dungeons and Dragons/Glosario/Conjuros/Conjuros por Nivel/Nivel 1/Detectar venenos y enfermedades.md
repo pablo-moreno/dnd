@@ -25,7 +25,7 @@ Clases:
   - "[[Explorador]]"
   - "[[Paladín]]"
   - "[[Clérigo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 (una hoja de tejo)
 

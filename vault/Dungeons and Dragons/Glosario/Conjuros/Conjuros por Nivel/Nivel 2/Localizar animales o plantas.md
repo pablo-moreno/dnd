@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Explorador]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 (un poco de pelaje de sabueso)
 

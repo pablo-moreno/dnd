@@ -18,7 +18,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 Transformas hasta a diez ciempiés, tres arañas, cinco avispas o un escorpión dentro del alcance en una versión gigante de su forma natural mientras dure el conjuro. Un ciempiés se transforma en un ciempiés gigante, una araña se convierte en una araña gigante, una avispa se convierte en una avispa gigante y un escorpión se convierte en un escorpión gigante.
 

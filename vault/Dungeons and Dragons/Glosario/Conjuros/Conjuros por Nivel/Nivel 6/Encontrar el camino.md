@@ -23,7 +23,7 @@ Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 (un set de herramientas de adivinación, como huesos, palillos de marfil, cartas, dientes o runas talladas, de 10.000 po de valor y un objeto del lugar que deseas encontrar)
 

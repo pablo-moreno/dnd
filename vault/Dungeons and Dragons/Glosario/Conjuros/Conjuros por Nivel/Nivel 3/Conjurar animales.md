@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 Convocas espíritus feéricos en forma de bestia que aparecen en lugares libres que puedas ver dentro del alcance. Elige una de las siguientes opciones:
 

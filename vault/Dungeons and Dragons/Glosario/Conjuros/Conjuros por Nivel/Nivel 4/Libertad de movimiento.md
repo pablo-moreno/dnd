@@ -26,7 +26,7 @@ Clases:
   - "[[Explorador]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
   - "[[Artífice]]"
 ---
 (una correa de cuero atada alrededor del brazo o una extremidad similar)

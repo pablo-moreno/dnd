@@ -24,7 +24,7 @@ Concentración: true
 Clases:
   - "[[Explorador]]"
   - "[[Brujo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una flor bañada en oro que valga al menos 30.000 po)

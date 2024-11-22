@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Explorador]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 (un ramito de muérdago)
 

@@ -20,7 +20,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (una diadema de jade de al menos 150.000 po de valor, la cual te debes colocar en la cabeza antes de lanzar el conjuro)

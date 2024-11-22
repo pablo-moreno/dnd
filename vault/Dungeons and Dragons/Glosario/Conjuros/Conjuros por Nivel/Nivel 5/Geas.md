@@ -24,7 +24,7 @@ Clases:
   - "[[Paladín]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 Das una orden mágica a una criatura que puedas ver dentro del alcance, lo que la obliga a llevar a cabo algún servicio, a abstenerse de hacer una acción o a seguir una actividad, según decidas. Si la criatura puede entenderte, debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar hechizada por ti mientras dure el conjuro. Mientras que la criatura está hechizada por ti, recibe 5d10 puntos de daño [[Psíquico]] cada vez que actúe directamente contra tus instrucciones, pero no más de una vez cada día. El conjuro no puede afectar a una criatura que no te pueda entender.

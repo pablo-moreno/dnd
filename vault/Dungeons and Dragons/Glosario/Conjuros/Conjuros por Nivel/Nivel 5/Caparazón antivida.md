@@ -18,7 +18,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 Una barrera reluciente se extiende desde ti en un radio de 10 pies, moviéndose al mismo tiempo que tú, y repele a todas las criaturas salvo a los no muertos y a los constructos. La barrera dura mientras lo haga el conjuro. La barrera impide que las criaturas a las que afecta la traspasen, aunque pueden lanzar conjuros y hacer ataques con armas a distancia y de alcance a través de ella.
 

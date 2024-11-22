@@ -19,7 +19,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 Un espíritu de la naturaleza responde a tu llamado y te transforma en un guardián poderoso. La transformación dura hasta que el conjuro termina. Eliges una de las siguientes formas para asumir: Bestia Primigenia o Gran Árbol.
 

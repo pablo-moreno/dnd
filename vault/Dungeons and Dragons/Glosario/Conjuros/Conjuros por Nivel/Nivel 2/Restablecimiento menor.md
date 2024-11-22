@@ -27,7 +27,7 @@ Clases:
   - "[[Paladín]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
   - "[[Artífice]]"
 ---
 Tocas a una criatura y puedes terminar con una enfermedad o con un estado que la aflija. El estado puede ser [[Cegado]], [[Ensordecido]], [[Paralizado]] o [[Envenenado]].

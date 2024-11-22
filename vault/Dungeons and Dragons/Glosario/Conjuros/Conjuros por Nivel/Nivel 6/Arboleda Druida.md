@@ -19,7 +19,7 @@ Duración: 24 horas
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 (muérdago, que es consumido por el conjuro, que fue cosechado con una hoz de oro bajo la luz de una luna llena)
 

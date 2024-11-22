@@ -22,6 +22,6 @@ Concentración:
 Clases:
   - "[[Explorador]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
 ---
 Consigues la capacidad de comprender y comunicarte verbalmente con las bestias mientras dura el conjuro. El saber y el conocimiento de muchas bestias están limitados por su inteligencia, pero al menos te pueden dar información sobre lugares cercanos y monstruos, incluyendo cualquier cosa que puedan percibir o que hayan percibido durante el último día. Puedes persuadir a una bestia para que te haga un pequeño favor, a discreción del director de juego.

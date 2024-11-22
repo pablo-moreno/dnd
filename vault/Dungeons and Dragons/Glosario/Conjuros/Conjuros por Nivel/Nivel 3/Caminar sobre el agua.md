@@ -25,7 +25,7 @@ Concentración:
 Clases:
   - "[[Explorador]]"
   - "[[Clérigo]]"
-  - "[[Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
   - "[[Hechicero]]"
   - "[[Artífice]]"
 ---
