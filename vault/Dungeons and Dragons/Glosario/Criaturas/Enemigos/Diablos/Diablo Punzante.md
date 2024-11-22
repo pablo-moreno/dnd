@@ -7,23 +7,22 @@ race: "[[Infernal]]"
 size: Mediano
 aliases:
 ---
-> Descripción...
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 16    | +3          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 17    | +3          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 18    | +4          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 12    | +1          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 14    | +2          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 14    | +2          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 16    | +3          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 17    | +3          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 18    | +4          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 12    | +1          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 14    | +2          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 14    | +2          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 15 (Armadura Natural)
 [[Puntos de Golpe]]: 110 (`dice: 13d8`+52)
 [[Velocidad]]: 30 pies
-[[Tirada de Salvación]]: [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza|Fuerza]] +6, [[Constitución]] +7, [[Sabiduría]] +5, [[Carisma]] +5
+[[Tirada de Salvación]]: [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] +6, [[Constitución]] +7, [[Sabiduría]] +5, [[Carisma]] +5
 
 ## Habilidades
 
@@ -81,6 +80,8 @@ Impacto: 10 (3d6) de daño de fuego. Si el objetivo es un objeto inflamable que 
 ## Desafío
 
 5 - 1.800 Xp
+
+## Descripción
 
 ## Galería
 

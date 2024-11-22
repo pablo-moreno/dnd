@@ -25,14 +25,14 @@ Su talento para la imitación también les permite copiar la caligrafía de otro
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 10    | +0          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 16    | +3          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 10    | +0          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 11    | +0          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 10    | +0          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 10    | +0          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 10    | +0          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 16    | +3          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 10    | +0          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 11    | +0          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 10    | +0          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 10    | +0          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 13
 [[Puntos de Golpe]]: 13 (`dice: 3d8`)

@@ -10,14 +10,14 @@ aliases:
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 11    | +0          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 12    | +1          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 12    | +1          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 19    | +4          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 17    | +3          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 17    | +3          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 11    | +0          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 12    | +1          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 12    | +1          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 19    | +4          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 17    | +3          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 17    | +3          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 15 ([[Coraza]])
 [[Puntos de Golpe]]: 71 (`dice: 13d8`+13)
@@ -35,10 +35,6 @@ aliases:
 | [[Persuasión]]  | +6          |
 | [[Sigilo]]      | +4          |
 
-## Resistencias
-
-
-
 ## Sentidos
 
 [[Dungeons and Dragons/Glosario/Habilidades y Rasgos/de Raza/Visión en la Oscuridad|Visión en la Oscuridad]] 120 pies, 
@@ -46,8 +42,7 @@ Percepción pasiva 16
 
 ## Idiomas
 
-habla de las profundidades, infracomún, telepatía
-120 pies
+habla de las profundidades, infracomún, telepatía 120 pies
 
 ## Pasivas
 

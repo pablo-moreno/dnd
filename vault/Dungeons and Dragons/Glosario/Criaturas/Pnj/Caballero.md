@@ -7,32 +7,22 @@ race: humanoide cualquiera
 size: "[[Mediano]]"
 aliases:
 ---
-Los caballeros son guerreros que se ponen al servicio de gobernantes, órdenes religiosas y causas nobles. El alineamiento del caballero determina hasta qué punto honra su compromiso. Tanto si parten para cumplir una misión o se encuentran patrullando el reino, los caballeros suelen viajar con un séquito del que forman parte escuderos y asalariados, a los que puedes representar usando el perfil del plebeyo.
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 16    | +3          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 11    | +0          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 14    | +2          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 11    | +0          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 11    | +0          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 15    | +2          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 16    | +3          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 11    | +0          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 14    | +2          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 11    | +0          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 11    | +0          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 15    | +2          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 18 (Armadura de Placas)
 [[Puntos de Golpe]]: 52 (`dice: 8d8`+16)
 [[Velocidad]]: 30 pies
 [[Tirada de Salvación]]: [[Constitución]] +4, [[Sabiduría]] +2
-
-## Habilidades
-
-| Habilidad | Bonificador |
-| --------- | ----------- |
-|           |             |
-|           |             |
-
-## Resistencias
 
 ## Sentidos
 
@@ -70,11 +60,13 @@ Durante 1 minuto, el caballero puede pronunciar una orden o advertencia especial
 **Parada**
 El caballero añade 2 a su CA contra un ataque cuerpo a cuerpo que le fuera a impactar. Para poder hacer esto debe ver a su atacante y estar empuñando un arma cuerpo a cuerpo.
 
-## Acciones Legendarias
-
 ## Desafío
 
 3 - 700 Xp
+
+## Descripción
+
+Los caballeros son guerreros que se ponen al servicio de gobernantes, órdenes religiosas y causas nobles. El alineamiento del caballero determina hasta qué punto honra su compromiso. Tanto si parten para cumplir una misión o se encuentran patrullando el reino, los caballeros suelen viajar con un séquito del que forman parte escuderos y asalariados, a los que puedes representar usando el perfil del plebeyo.
 
 ## Galería
 

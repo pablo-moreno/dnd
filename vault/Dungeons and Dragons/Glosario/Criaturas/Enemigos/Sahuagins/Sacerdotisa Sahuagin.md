@@ -11,14 +11,14 @@ hit_dice: "`dice: 6d8 + 6`"
 ---
 > Descripción...
 ## Características
-| Característica | Nivel | Bonificador | Lanzar dado |
-| ---- | ---- | ---- | ---- |
-| [[Fuerza]] | 13 | 1 | `dice: 1d20 + 1` |
-| [[Destreza]] | 11 | 0 | `dice: 1d20` |
-| [[Constitución]] | 12 | 1 | `dice: 1d20 + 1` |
-| [[Inteligencia]] | 12 | 1 | `dice: 1d20 + 1` |
-| [[Sabiduría]] | 14 | 2 | `dice: 1d20 + 2` |
-| [[Carisma]] | 13 | 1 | `dice: 1d20 + 1` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 13    | 1           | `dice: 1d20 + 1` |
+| [[Destreza]]                                                                   | 11    | 0           | `dice: 1d20`     |
+| [[Constitución]]                                                               | 12    | 1           | `dice: 1d20 + 1` |
+| [[Inteligencia]]                                                               | 12    | 1           | `dice: 1d20 + 1` |
+| [[Sabiduría]]                                                                  | 14    | 2           | `dice: 1d20 + 2` |
+| [[Carisma]]                                                                    | 13    | 1           | `dice: 1d20 + 1` |
 
 [[Clase de Armadura]]: 12 ([[Armadura natural]])
 [[Puntos de golpe]]: `=this.hit_points` (`= this.hit_dice`)

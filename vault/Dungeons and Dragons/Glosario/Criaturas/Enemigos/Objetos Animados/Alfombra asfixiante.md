@@ -14,14 +14,14 @@ hit_points: 33
 > 
 > En ocasiones, una alfombra asfixiante parece una alfombra voladora o algún objeto mágico beneficioso. Sin embargo, cualquier personaje que se detenga o se siente en la alfombra, o que intente pronunciar una palabra de mando, quedará atrapado por la alfombra, que se enrollará firmemente alrededor de la víctima.
 ## Características
-| Característica   | Nivel | Bonificador | Lanzar dado      |
-| ---------------- | ----- | ----------- | ---------------- |
-| [[Fuerza]]       | 17    | 3           | `dice: 1d20 + 3` |
-| [[Destreza]]     | 14    | 2           | `dice: 1d20 + 2` |
-| [[Constitución]] | 10    | 0           | `dice: 1d20`     |
-| [[Inteligencia]] | 1     | -5          | `dice: 1d20 - 5` |
-| [[Sabiduría]]    | 3     | -4          | `dice: 1d20 - 4` |
-| [[Carisma]]      | 1     | -5          | `dice: 1d20 - 5` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 17    | 3           | `dice: 1d20 + 3` |
+| [[Destreza]]                                                                   | 14    | 2           | `dice: 1d20 + 2` |
+| [[Constitución]]                                                               | 10    | 0           | `dice: 1d20`     |
+| [[Inteligencia]]                                                               | 1     | -5          | `dice: 1d20 - 5` |
+| [[Sabiduría]]                                                                  | 3     | -4          | `dice: 1d20 - 4` |
+| [[Carisma]]                                                                    | 1     | -5          | `dice: 1d20 - 5` |
 
 [[Clase de Armadura]]: 12
 [[Puntos de golpe]]: `=this.hit_points` (`= this.hit_dice`)

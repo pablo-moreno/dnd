@@ -7,18 +7,17 @@ race:
 size: 
 aliases:
 ---
-> Descripción...
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 0     | 0           | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 0     | 0           | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 0     | 0           | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 0     | 0           | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 0     | 0           | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 0     | 0           | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 0     | 0           | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 0     | 0           | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 0     | 0           | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 0     | 0           | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 0     | 0           | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 0     | 0           | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 0
 [[Puntos de Golpe]]: 0 (`dice: 1d4`)
@@ -35,13 +34,10 @@ aliases:
 ## Resistencias
 
 
-
 ## Sentidos
 
 
-
 ## Idiomas
-
 
 
 ## Pasivas
@@ -60,17 +56,16 @@ Nivel 6 ( espacios):
 ## Acciones
 
 
-
 ## Reacciones
-
 
 
 ## Acciones Legendarias
 
 
-
 ## Desafío
 
+
+## Descripción
 
 
 ## Galería

@@ -10,14 +10,14 @@ aliases:
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 15    | +2          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 14    | +2          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 16    | +3          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 10    | +0          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 13    | +1          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 15    | +2          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 15    | +2          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 14    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 16    | +3          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 10    | +0          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 13    | +1          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 15    | +2          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 14 ([[Armadura de Cuero Tachonado]])
 [[Puntos de Golpe]]: 45 (`dice: 6d8`+18)

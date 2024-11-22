@@ -17,14 +17,14 @@ Estas criaturas prefieren atacar a criaturas solas o perdidas. Para ello, se col
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 15    | +2          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 14    | +2          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 13    | +1          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 12    | +1          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 11    | +0          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 9     | -1          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 15    | +2          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 14    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 13    | +1          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 12    | +1          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 11    | +0          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 9     | -1          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 12
 [[Puntos de Golpe]]: 55 (`dice: 10d8`+10)

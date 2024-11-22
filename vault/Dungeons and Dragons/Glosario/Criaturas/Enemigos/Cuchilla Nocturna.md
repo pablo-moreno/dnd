@@ -15,14 +15,14 @@ size: "[[Mediano]]"
 **[[Puntos de golpe]]**: 11 (2d8 + 2 = `dice: 2d8 + 2`)
 **[[Velocidad]]**: 40 pies
 
-| Característica | Nivel | Bonificador | Lanzar dado |
-| ---- | ---- | ---- | ---- |
-| [[Fuerza]] | 11 | 0 | `dice: 1d20 + 0` |
-| [[Destreza]] | 15 | +2 | `dice: 1d20 + 2` |
-| [[Constitución]] | 12 | +1 | `dice: 1d20 + 1` |
-| [[Inteligencia]] | 10 | 0 | `dice: 1d20 + 0` |
-| [[Sabiduría]] | 11 | 0 | `dice: 1d20 + 0` |
-| [[Carisma]] | 14 | +2 | `dice: 1d20 + 2` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 11    | 0           | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 15    | +2          | `dice: 1d20 + 2` |
+| [[Constitución]]                                                               | 12    | +1          | `dice: 1d20 + 1` |
+| [[Inteligencia]]                                                               | 10    | 0           | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 11    | 0           | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 14    | +2          | `dice: 1d20 + 2` |
 
 ## Habilidades
 

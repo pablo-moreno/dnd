@@ -10,14 +10,14 @@ aliases:
 
 
 ## Características
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 30    | +10         | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 14    | +2          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 29    | +9          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 18    | +4          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 17    | +3          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 28    | +9          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 30    | +10         | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 14    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 29    | +9          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 18    | +4          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 17    | +3          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 28    | +9          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 22 (Armadura Natural)
 [[Puntos de Golpe]]: 546 (`dice: 28d20`+252)

@@ -7,18 +7,17 @@ race: humanoide cualquiera
 size: Mediano
 aliases:
 ---
-Expertos en el uso de venenos, los asesinos son sicarios despiadados que trabajan para nobles, maestros gremiales, soberanos o cualquiera que pueda permitirse sus servicios
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 11    | +0          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 16    | +3          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 14    | +2          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 13    | +1          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 11    | +0          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 10    | +0          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 11    | +0          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 16    | +3          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 14    | +2          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 13    | +1          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 11    | +0          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 10    | +0          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 15 ([[Armadura de Cuero Tachonado]])
 [[Puntos de Golpe]]: 78 (`dice: 12d8`+24)
@@ -68,13 +67,13 @@ Ataque con arma cuerpo a cuerpo: +6 a impactar, alcance 5 pies, un objetivo. Imp
 **Ballesta ligera** 
 Ataque con arma a distancia: +6 a impactar, alcance 80/320 pies, un objetivo. Impacto: 7 (1d8 + 3) de daño perforante, y el objetivo deberá hacer una tirada de salvación de Constitución CD 15, sufriendo 24 (7d6) de daño de veneno si la falla, o la mitad del daño si la supera.
 
-## Reacciones
-
-## Acciones Legendarias
-
 ## Desafío
 
 8 - 3.900 Xp
+
+## Descripción
+
+Expertos en el uso de venenos, los asesinos son sicarios despiadados que trabajan para nobles, maestros gremiales, soberanos o cualquiera que pueda permitirse sus servicios
 
 ## Galería
 

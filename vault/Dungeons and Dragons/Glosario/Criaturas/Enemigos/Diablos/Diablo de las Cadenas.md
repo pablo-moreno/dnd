@@ -10,26 +10,19 @@ aliases:
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 18    | +4          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 15    | +2          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 18    | +4          | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 11    | +0          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 12    | +1          | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 14    | +2          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 18    | +4          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 15    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 18    | +4          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 11    | +0          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 12    | +1          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 14    | +2          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 16 (Armadura Natural)
 [[Puntos de Golpe]]: 85 (`dice: 10d8`+40)
 [[Velocidad]]: 30 pies
 [[Tirada de Salvación]]: [[Constitución]] +7, [[Sabiduría]] +4, [[Carisma]] +5
-
-## Habilidades
-
-| Habilidad | Bonificador |
-| --------- | ----------- |
-|           |             |
-|           |             |
 
 ## Resistencias
 
@@ -77,6 +70,8 @@ Cuando una criatura a la que el diablo pueda ver empiece su turno a 30 pies o me
 ## Desafío
 
 8 - 3.900 Xp
+
+## Descripión
 
 ## Galería
 
