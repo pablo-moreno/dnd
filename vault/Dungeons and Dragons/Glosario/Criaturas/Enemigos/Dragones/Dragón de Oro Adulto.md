@@ -8,40 +8,6 @@ size: Enorme
 aliases:
 ---
 
-Los dragones de oro son los más poderosos y majestuosos de los dragones metálicos, y consagran su vida a acabar con el mal.
-Los dragones de oro tienen un semblante sagaz, adornado con púas flexibles que parecen bigotes. Sus cuernos nasales y frontales se extienden hacia atrás, de la misma manera que las crestas gemelas que adornan su cuello. Sus alas, similares a una vela, nacen en sus hombros y van hasta la punta de su cola, lo que les permite volar de una manera muy característica, como si nadaran por el aire. Las crías de dragón de oro poseen escamas de color amarillo oscuro con brillos metálicos. Esos brillos aumentan de tamaño a medida que el dragón crece. Cuando envejecen, las pupilas de estos dragones desaparecen hasta parecer estanques de oro líquido.
-
-**Devoradores de riquezas**. 
-Los dragones de oro pueden alimentarse de cualquier cosa, pero su comida preferida son las perlas y las gemas. Por suerte, no necesitan devorar grandes cantidades de estos objetos para satisfacer su apetito. Mientras no sea un soborno, estos dragones aceptan con gusto estos tesoros comestibles.
-
-**Cambiaformas reservados**. 
-Estos dragones son muy respetados por el resto de dragones metálicos por su sabiduría y justicia, pero también son los más distantes y serios de los dragones bondadosos. Valoran su privacidad hasta el punto de apenas fraternizar con otros dragones, salvo sus propias parejas y crías.
-Los dragones más ancianos pueden asumir formas animales y humanoides. Pocas veces un dragón disfrazado revelará su verdadera forma. Así, podría acercarse a un pueblo disfrazado de vendedor ambulante para enterarse de los últimos acontecimientos o ser cliente habitual de negocios honestos y echar una mano de manera sutil. En forma animal, podría hacerse amigo de bardos errantes, niños perdidos oincluso de algún tabernero, sirviéndole de compañero durante días o semanas.
-
-**Maestros acumuladores**. 
-Un dragón de oro mantiene su tesoro escondido en una cámara en las profundidades de su guarida. Las defensas mágicas que coloca hacen casi imposible quitarle algún tesoro sin que se dé cuenta.
-
-**La Guarida del Dragón de Oro**
-
-Los dragones de oro establecen sus hogares en lugares recónditos, en los que pueden hacer lo que les plazca sin levantar sospechas o infundir miedo. La mayoría moran cerca de lagos o ríos idílicos, en islas envueltas de niebla, en cuevas escondidas tras cascadas resplandecientes o en ruinas ancestrales.
-
-**Acciones en la Guarida**
-En la posición 20 del orden de iniciativa (perdiendo empates), el dragón es capaz de realizar una acción en guarida para causar uno de los efectos siguientes, pero no podrá utilizar el mismo efecto durante dos asaltos seguidos.
-El dragón contempla el futuro, lo que le proporciona ventaja en las tiradas de ataque, pruebas de característica y tiradas de salvación hasta la posición 20 en el orden de iniciativa del asalto siguiente.
-
-Una criatura que se encuentre a 120 pies o menos del dragón y este pueda ver deberá superar una tirada de salvación de Carisma CD 15 o será desterrada a un plano onírico; un plano de existencia diferente al actual, producto de la imaginación del dragón. Para intentar escapar, la criatura deberá utilizar su acción para hacer una tirada enfrentada de Carisma contra el dragón. Si la criatura gana, logrará salir del plano onírico. De lo contrario, el efecto terminará en la posición 20 del orden de iniciativa del asalto siguiente. Cuando este efecto acabe, el objetivo reaparecerá en el espacio que ocupaba antes o en el más cercano disponible si ese ya está ocupado.
-
-**Efectos Regionales**
-La región que contiene la guarida de un dragón de oro legendario se ve distorsionada por la magia de la criatura, que crea uno o varios de los efectos siguientes:
-
-Siempre que una criatura que pueda entender algún idioma se duerma o entre en un estado de trance o ensueño a 6 millas o menos de la guarida, el dragón podrá establecer contacto telepático con ella y conversar con la criatura desde el interior de sus sueños. El objetivo recordará la conversación mantenida con el dragón cuando despierte.
-
-Bancos de una hermosa niebla opalescente se manifiestan en la región que se encuentra a 6 millas o menos dela guarida del dragón. Esta niebla no crea oscuridad, pero toma la forma de figuras fantasmales cuando hay criaturas malvadas cerca del dragón o de otras criaturas no malvadas en la niebla, para así avisarles del peligro que se cierne sobre ellas.
-
-Las piedras preciosas y perlas situadas a 1 milla o menos de la guarida del dragón brillan y resplandecen, emitiendo luz tenue en un radio de 5 pies.
-
-Si el dragón muere, todos estos efectos terminan inmediatamente.
-
 
 ## Características
 | Característica                                                           | Nivel | Bonificador | Lanzar dado      |
@@ -136,6 +102,43 @@ El dragón puede llevar a cabo 3 acciones legendarias, a elegir de entre las opc
 ## Desafío
 
 17 - 18.000XP
+
+## Descripción
+
+Los dragones de oro son los más poderosos y majestuosos de los dragones metálicos, y consagran su vida a acabar con el mal.
+Los dragones de oro tienen un semblante sagaz, adornado con púas flexibles que parecen bigotes. Sus cuernos nasales y frontales se extienden hacia atrás, de la misma manera que las crestas gemelas que adornan su cuello. Sus alas, similares a una vela, nacen en sus hombros y van hasta la punta de su cola, lo que les permite volar de una manera muy característica, como si nadaran por el aire. Las crías de dragón de oro poseen escamas de color amarillo oscuro con brillos metálicos. Esos brillos aumentan de tamaño a medida que el dragón crece. Cuando envejecen, las pupilas de estos dragones desaparecen hasta parecer estanques de oro líquido.
+
+**Devoradores de riquezas**. 
+Los dragones de oro pueden alimentarse de cualquier cosa, pero su comida preferida son las perlas y las gemas. Por suerte, no necesitan devorar grandes cantidades de estos objetos para satisfacer su apetito. Mientras no sea un soborno, estos dragones aceptan con gusto estos tesoros comestibles.
+
+**Cambiaformas reservados**. 
+Estos dragones son muy respetados por el resto de dragones metálicos por su sabiduría y justicia, pero también son los más distantes y serios de los dragones bondadosos. Valoran su privacidad hasta el punto de apenas fraternizar con otros dragones, salvo sus propias parejas y crías.
+Los dragones más ancianos pueden asumir formas animales y humanoides. Pocas veces un dragón disfrazado revelará su verdadera forma. Así, podría acercarse a un pueblo disfrazado de vendedor ambulante para enterarse de los últimos acontecimientos o ser cliente habitual de negocios honestos y echar una mano de manera sutil. En forma animal, podría hacerse amigo de bardos errantes, niños perdidos oincluso de algún tabernero, sirviéndole de compañero durante días o semanas.
+
+**Maestros acumuladores**. 
+Un dragón de oro mantiene su tesoro escondido en una cámara en las profundidades de su guarida. Las defensas mágicas que coloca hacen casi imposible quitarle algún tesoro sin que se dé cuenta.
+
+**La Guarida del Dragón de Oro**
+
+Los dragones de oro establecen sus hogares en lugares recónditos, en los que pueden hacer lo que les plazca sin levantar sospechas o infundir miedo. La mayoría moran cerca de lagos o ríos idílicos, en islas envueltas de niebla, en cuevas escondidas tras cascadas resplandecientes o en ruinas ancestrales.
+
+**Acciones en la Guarida**
+En la posición 20 del orden de iniciativa (perdiendo empates), el dragón es capaz de realizar una acción en guarida para causar uno de los efectos siguientes, pero no podrá utilizar el mismo efecto durante dos asaltos seguidos.
+El dragón contempla el futuro, lo que le proporciona ventaja en las tiradas de ataque, pruebas de característica y tiradas de salvación hasta la posición 20 en el orden de iniciativa del asalto siguiente.
+
+Una criatura que se encuentre a 120 pies o menos del dragón y este pueda ver deberá superar una tirada de salvación de Carisma CD 15 o será desterrada a un plano onírico; un plano de existencia diferente al actual, producto de la imaginación del dragón. Para intentar escapar, la criatura deberá utilizar su acción para hacer una tirada enfrentada de Carisma contra el dragón. Si la criatura gana, logrará salir del plano onírico. De lo contrario, el efecto terminará en la posición 20 del orden de iniciativa del asalto siguiente. Cuando este efecto acabe, el objetivo reaparecerá en el espacio que ocupaba antes o en el más cercano disponible si ese ya está ocupado.
+
+**Efectos Regionales**
+La región que contiene la guarida de un dragón de oro legendario se ve distorsionada por la magia de la criatura, que crea uno o varios de los efectos siguientes:
+
+Siempre que una criatura que pueda entender algún idioma se duerma o entre en un estado de trance o ensueño a 6 millas o menos de la guarida, el dragón podrá establecer contacto telepático con ella y conversar con la criatura desde el interior de sus sueños. El objetivo recordará la conversación mantenida con el dragón cuando despierte.
+
+Bancos de una hermosa niebla opalescente se manifiestan en la región que se encuentra a 6 millas o menos dela guarida del dragón. Esta niebla no crea oscuridad, pero toma la forma de figuras fantasmales cuando hay criaturas malvadas cerca del dragón o de otras criaturas no malvadas en la niebla, para así avisarles del peligro que se cierne sobre ellas.
+
+Las piedras preciosas y perlas situadas a 1 milla o menos de la guarida del dragón brillan y resplandecen, emitiendo luz tenue en un radio de 5 pies.
+
+Si el dragón muere, todos estos efectos terminan inmediatamente.
+
 
 ## Galería
 

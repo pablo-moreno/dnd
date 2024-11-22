@@ -74,10 +74,6 @@ Las cadenas vuelven a su estado inanimado si sus puntos de golpe se reducen a 0 
 **Máscara perturbadora**
 Cuando una criatura a la que el diablo pueda ver empiece su turno a 30 pies o menos del diablo, este podrá tomar de forma ilusoria la apariencia de un ser querido difunto o un enemigo acérrimo de la criatura. Además, si la criatura puede ver al diablo, deberá superar una tirada de salvación de Sabiduría CD 14 o estará asustado hasta el final de su turno
 
-## Acciones Legendarias
-
-
-
 ## Desafío
 
 8 - 3.900 Xp

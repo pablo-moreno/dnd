@@ -7,7 +7,6 @@ race: Bestia
 size: "[[Diminuto]]"
 aliases:
 ---
-Los mordedores son peces carnívoros con una dentadura muy afilada. Pueden vivir en cualquier entorno acuático, incluso lagos subterráneos. Suelen cazar en grupo; utiliza el perfil del enjambre de mordedores para estos casos.
 
 ## Características
 
@@ -32,14 +31,10 @@ Los mordedores son peces carnívoros con una dentadura muy afilada. Pueden vivir
 |           |             |
 |           |             |
 
-## Resistencias
-
 ## Sentidos
 
 [[visión en la oscuridad]] 60 pies
 Percepción pasiva 8
-
-## Idiomas
 
 ## Pasivas
 
@@ -55,14 +50,11 @@ El mordedor solo puede respirar bajo el agua
 Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, un objetivo. 
 Impacto: 1 de daño perforante.
 
-## Reacciones
-
-## Acciones Legendarias
-
 ## Desafío
 
 0 - 25 Xp
 
-## Galería
+## Descripción
 
+Los mordedores son peces carnívoros con una dentadura muy afilada. Pueden vivir en cualquier entorno acuático, incluso lagos subterráneos. Suelen cazar en grupo; utiliza el perfil del enjambre de mordedores para estos casos.
 

@@ -7,25 +7,6 @@ race: Aberración
 size: Mediano
 aliases:
 ---
-Los azotamentes o ilícidos son una plaga para las criaturas inteligentes de incontables mundos. Se trata de viajeros interdimensionales, esclavistas, tiranos psiónicos y genios
-insidiosos que cosechan razas enteras para sus propios fines retorcidos. De su cabeza de pulpo surgen cuatro tentáculos que se retuercen de hambre cuando una criatura inteligente se acerca.
-
-Hace eones, los ilícidos controlaban imperios que abarcaban varios mundos. Sometían para después transformar a razas enteras de esclavos humanoides, incluyendo a los githyankis, a los githzerais, a los grimlocks y a los kuo-toas. Unidos por una consciencia colectiva, los ilícidos traman los planes más malvados y ambiciosos que sus insondables mentes pueden concebir. Desde la caída de su imperio, algunos grupos de ilícidos del plano material han residido en el Underdark. 
-
-**Comandantes psiónicos**
-Los azotamentes poseen poderes psiónicos que les permiten controlar la mente de criaturas como trogloditas, grimlocks, quaggoths y ogros. Prefieren comunicarse telepáticamente y usar esta telepatía para enviar órdenes a sus esclavos.
-Cuando se enfrentan a una dura oposición, evitan el combate ordenando a sus esclavos que ataquen. Como extensiones físicas de sus pensamientos, estos esclavos se interponen entre el azotamentes y sus enemigos, sacrificando sus vidas para que sus amos escapen.
-
-**Mente colmena**
-Los azotamentes solitarios suelen ser parias o renegados. La mayoría pertenecen a una colonia unida por lazos familiares dedicada a un cerebro anciano, un ente con forma de cerebro gigante que vive en una piscina salobre cerca del corazón de sus comunidades. Desde esta piscina, un cerebro anciano dicta sus deseos telepáticamente a cada azotamentes en un rango de 5 millas (8 km), ya que es capaz de mantener múltiples conversaciones mentales a la vez.
-
-**Hambre de mente**
-Los Ilícidos subsisten consumiendo cerebros humanoides. Estos cerebros les ofrecen las enzimas, hormonas y energías psíquicas necesarias para su supervivencia. Aquellos ilícidos sanos por llevar una dieta rica en cerebros segregan una delgada capa de moco que envuelve su piel malva.
-Estas criaturas se sienten eufóricas mientras devoran un cerebro humanoide, que incluye los recuerdos, personalidad y temores más profundos de la criatura. En ocasiones cosechan estos cerebros en vez de devorarlos para luego usarlos en extraños experimentos o transformarlos en devoradores de intelectos.
-
-**Qualith**
-En las raras ocasiones en las que los azotamentes necesitan escribir algo, lo hacen en qualith. Este sistema de escritura táctil, similar al braille, se lee con los tentáculos. El qualith se escribe en estrofas de cuatro versos, y es tan extraño que los no ilícidos requieren el uso de magia para entender su significado.
-Aunque pueden emplearlo para registrar eventos, suelen utilizarlo para marcar portales u otras superficies con advertencias o instrucciones.
 
 ## Características
 
@@ -94,17 +75,33 @@ Impacto: 55 (10d10) de daño perforante. Si este daño reduce los puntos de golp
 **Descarga mental (Recarga 5-6)**
 El azotamentes emite mágicamente una descarga de energía psíquica en un cono de 60 pies. Todas las criaturas que se encuentren en el área deberán superar una tirada de salvación de Inteligencia CD 15 o recibirán 22 (4d8 + 4) de daño psíquico y estarán aturdidas durante 1 minuto. Cada objetivo puede repetir la tirada de salvación al final de cada uno de sus turnos, librándose del efecto si tiene éxito.
 
-## Reacciones
-
-
-
-## Acciones Legendarias
-
-
 
 ## Desafío
 
 7 - 2.900 Xp
+
+
+## Descripción
+
+Los azotamentes o ilícidos son una plaga para las criaturas inteligentes de incontables mundos. Se trata de viajeros interdimensionales, esclavistas, tiranos psiónicos y genios
+insidiosos que cosechan razas enteras para sus propios fines retorcidos. De su cabeza de pulpo surgen cuatro tentáculos que se retuercen de hambre cuando una criatura inteligente se acerca.
+
+Hace eones, los ilícidos controlaban imperios que abarcaban varios mundos. Sometían para después transformar a razas enteras de esclavos humanoides, incluyendo a los githyankis, a los githzerais, a los grimlocks y a los kuo-toas. Unidos por una consciencia colectiva, los ilícidos traman los planes más malvados y ambiciosos que sus insondables mentes pueden concebir. Desde la caída de su imperio, algunos grupos de ilícidos del plano material han residido en el Underdark. 
+
+**Comandantes psiónicos**
+Los azotamentes poseen poderes psiónicos que les permiten controlar la mente de criaturas como trogloditas, grimlocks, quaggoths y ogros. Prefieren comunicarse telepáticamente y usar esta telepatía para enviar órdenes a sus esclavos.
+Cuando se enfrentan a una dura oposición, evitan el combate ordenando a sus esclavos que ataquen. Como extensiones físicas de sus pensamientos, estos esclavos se interponen entre el azotamentes y sus enemigos, sacrificando sus vidas para que sus amos escapen.
+
+**Mente colmena**
+Los azotamentes solitarios suelen ser parias o renegados. La mayoría pertenecen a una colonia unida por lazos familiares dedicada a un cerebro anciano, un ente con forma de cerebro gigante que vive en una piscina salobre cerca del corazón de sus comunidades. Desde esta piscina, un cerebro anciano dicta sus deseos telepáticamente a cada azotamentes en un rango de 5 millas (8 km), ya que es capaz de mantener múltiples conversaciones mentales a la vez.
+
+**Hambre de mente**
+Los Ilícidos subsisten consumiendo cerebros humanoides. Estos cerebros les ofrecen las enzimas, hormonas y energías psíquicas necesarias para su supervivencia. Aquellos ilícidos sanos por llevar una dieta rica en cerebros segregan una delgada capa de moco que envuelve su piel malva.
+Estas criaturas se sienten eufóricas mientras devoran un cerebro humanoide, que incluye los recuerdos, personalidad y temores más profundos de la criatura. En ocasiones cosechan estos cerebros en vez de devorarlos para luego usarlos en extraños experimentos o transformarlos en devoradores de intelectos.
+
+**Qualith**
+En las raras ocasiones en las que los azotamentes necesitan escribir algo, lo hacen en qualith. Este sistema de escritura táctil, similar al braille, se lee con los tentáculos. El qualith se escribe en estrofas de cuatro versos, y es tan extraño que los no ilícidos requieren el uso de magia para entender su significado.
+Aunque pueden emplearlo para registrar eventos, suelen utilizarlo para marcar portales u otras superficies con advertencias o instrucciones.
 
 ## Galería
 

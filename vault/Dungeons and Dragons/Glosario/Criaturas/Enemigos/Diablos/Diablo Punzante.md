@@ -78,10 +78,6 @@ Impacto: 10 (2d6 + 3) de daño perforante.
 Ataque de conjuro a distancia: +5 a impactar, alcance 150 pies, un objetivo. 
 Impacto: 10 (3d6) de daño de fuego. Si el objetivo es un objeto inflamable que no lleve o vista nadie, arderá.
 
-## Reacciones
-
-## Acciones Legendarias
-
 ## Desafío
 
 5 - 1.800 Xp

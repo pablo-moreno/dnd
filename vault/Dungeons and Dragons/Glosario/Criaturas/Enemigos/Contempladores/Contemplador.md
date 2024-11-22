@@ -7,22 +7,7 @@ race: Aberración
 size: Grande
 aliases:
 ---
-Una sola mirada a un contemplador basta para percibir su naturaleza ultraterrena e infame. Agresivas, llenas de odio y codiciosas, estas aberraciones se consideran superiores al resto
-de criaturas, con las que juguetean o destruyen a su antojo.
 
-El cuerpo esférico de un contemplador está levitando constantemente. Un enorme ojo se asienta sobre sus enormes fauces, rodeado de una corona de tallos oculares, unos apéndices que reciben este nombre al estar cada uno de ellos terminado en uno ojo más pequeño. Estos tallos se retuercen para mantener a los enemigos a la vista. Mientras duerme, el contemplador cierra su gran ojo, pero mantiene los demás abiertos, siempre alerta.
-
-Aislacionista xenófobo. Todos los contempladores creen que poseen un gran número de enemigos. Están convencidos de que hay muchas criaturas ofendidas por su genialidad y su poder mágico. Aunque consideran a estos oponentes seres inferiores, toscos y desagradables, están siempre al acecho, sospechando que alguien está conspirando contra ellos, incluso cuando no hay nadie cerca.
-
-El desprecio que los contempladores sienten hacia el resto de criaturas también se extiende a los miembros de su misma especie. Cada contemplador piensa que él mismo representa la perfección de su raza, y que por tanto cualquier desviacíón de este ideal es un defecto. Dado que el físico de los contempladores varía enormemente, el conflicto entre ellos es inevitable. Algunos están protegidos por placas quitinosas superpuestas, mientras que otros tienen una piel uniforme. Los tallos oculares de algunos se flexionan como tentáculos, mientras que los de otros tienen articulaciones como las de un crustáceo. Las diferencias más insignificantes en la pigmentación de la piel podrían enfrentar a dos contempladores de por vida.
-
-Ojo tirano. Ciertos contempladores son capaces de canalizar sus tendencias xenófobas y convertirse en líderes despóticos. En lugar de vivir aislados, estos contempladores, que reciben el apropiado nombre de ojos tiranos, esclavizan a otras criaturas, creando y controlando extensos imperios.
-En ocasiones un ojo tirano establece sus dominios dentro de (o bajo) una gran ciudad, valiéndose de una amplia red de agentes para cumplir su voluntad.
-
-Guaridas ignotas. Dado que se niegan a compartir su territorio con otras criaturas, la mayoría de contempladores se refugian en colinas heladas, ruinas abandonadas y cavernas profundas para trazar sus planes. Los contempladores tallan su cubil mediante el uso del rayo desintegrador que emite uno de sus ojos, favoreciendo la construcción de pasillos verticales que conectan cámaras ubicadas una encima de la otra. Este tipo de
-entorno le permite al contemplador moverse con libertad mientras que impide que los intrusos merodeen fácilmente. Cuando dichos intrusos logran entrar, la altura de los techos abiertos le permite levitar y hostigar a los enemigos en el suelo.
-
-Las salas de estas guaridas, tan extrañas como estas criaturas, reflejan la arrogancia de sus creadores. Las decoran con trofeos de victorias pasadas, incluyendo aventureros petrificados que todavía muestran el horror de sus últimos momentos, pedazos de otros contempladores y objetos mágicos arrebatados a enemigos poderosos. Un contemplador se valora a sí mismo por lo que posee
 
 ## Características
 
@@ -108,10 +93,6 @@ Si el objetivo es un objeto no mágico o una creación de fuerza mágica y su ta
 **10-Rayo mortal**
 La criatura objetivo deberá superar una tirada de salvación de Destreza CD 160 sufrirá 55 (10d10) de daño necrótico. Si el rayo reduce sus puntos de golpe a 0, morirá.
 
-## Reacciones
-
-
-
 ## Acciones Legendarias
 
 El contemplador puede llevar a cabo 3 acciones legendarias, a elegir de entre las opciones presentadas a continuación. Solo es capaz de utilizar una acción legendaria a la vez, y debe hacerlo al final del turno de otra criatura. El contemplador recupera las acciones legendarias gastadas al comienzo de su turno.
@@ -122,6 +103,28 @@ El contemplador usa un rayo ocular determinado aleatoriamente.
 ## Desafío
 
 13 - 10.000 Xp
+
+## Descripción
+
+Una sola mirada a un contemplador basta para percibir su naturaleza ultraterrena e infame. Agresivas, llenas de odio y codiciosas, estas aberraciones se consideran superiores al resto
+de criaturas, con las que juguetean o destruyen a su antojo.
+El cuerpo esférico de un contemplador está levitando constantemente. Un enorme ojo se asienta sobre sus enormes fauces, rodeado de una corona de tallos oculares, unos apéndices que reciben este nombre al estar cada uno de ellos terminado en uno ojo más pequeño. Estos tallos se retuercen para mantener a los enemigos a la vista. Mientras duerme, el contemplador cierra su gran ojo, pero mantiene los demás abiertos, siempre alerta.
+
+**Aislacionista xenófobo**
+Todos los contempladores creen que poseen un gran número de enemigos. Están convencidos de que hay muchas criaturas ofendidas por su genialidad y su poder mágico. Aunque consideran a estos oponentes seres inferiores, toscos y desagradables, están siempre al acecho, sospechando que alguien está conspirando contra ellos, incluso cuando no hay nadie cerca.
+
+El desprecio que los contempladores sienten hacia el resto de criaturas también se extiende a los miembros de su misma especie. Cada contemplador piensa que él mismo representa la perfección de su raza, y que por tanto cualquier desviacíón de este ideal es un defecto. Dado que el físico de los contempladores varía enormemente, el conflicto entre ellos es inevitable. Algunos están protegidos por placas quitinosas superpuestas, mientras que otros tienen una piel uniforme. Los tallos oculares de algunos se flexionan como tentáculos, mientras que los de otros tienen articulaciones como las de un crustáceo. Las diferencias más insignificantes en la pigmentación de la piel podrían enfrentar a dos contempladores de por vida.
+
+**Ojo tirano**
+Ciertos contempladores son capaces de canalizar sus tendencias xenófobas y convertirse en líderes despóticos. En lugar de vivir aislados, estos contempladores, que reciben el apropiado nombre de ojos tiranos, esclavizan a otras criaturas, creando y controlando extensos imperios.
+En ocasiones un ojo tirano establece sus dominios dentro de (o bajo) una gran ciudad, valiéndose de una amplia red de agentes para cumplir su voluntad.
+
+**Guaridas ignotas**
+Dado que se niegan a compartir su territorio con otras criaturas, la mayoría de contempladores se refugian en colinas heladas, ruinas abandonadas y cavernas profundas para trazar sus planes. Los contempladores tallan su cubil mediante el uso del rayo desintegrador que emite uno de sus ojos, favoreciendo la construcción de pasillos verticales que conectan cámaras ubicadas una encima de la otra. Este tipo de
+entorno le permite al contemplador moverse con libertad mientras que impide que los intrusos merodeen fácilmente. Cuando dichos intrusos logran entrar, la altura de los techos abiertos le permite levitar y hostigar a los enemigos en el suelo.
+
+Las salas de estas guaridas, tan extrañas como estas criaturas, reflejan la arrogancia de sus creadores. Las decoran con trofeos de victorias pasadas, incluyendo aventureros petrificados que todavía muestran el horror de sus últimos momentos, pedazos de otros contempladores y objetos mágicos arrebatados a enemigos poderosos. Un contemplador se valora a sí mismo por lo que posee
+
 
 ## Galería
 

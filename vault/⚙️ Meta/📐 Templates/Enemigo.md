@@ -7,7 +7,6 @@ race:
 size: 
 aliases:
 ---
-> Descripción...
 
 ## Características
 
@@ -70,6 +69,10 @@ Nivel 6 ( espacios):
 
 
 ## Desafío
+
+
+
+## Descripción
 
 
 
