@@ -20,7 +20,7 @@ Ritual: true
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Al pisar un objeto o una superficie de piedra lo suficientemente largo como para contener tu cuerpo completamente, tu cuerpo y el equipo que llevas contigo se convierten en piedra mientras dura el conjuro. Usando tu movimiento, pisas la piedra en un punto que puedas tocar. Nada de tu presencia permanece visible ni detectable por medios no mágicos.
 

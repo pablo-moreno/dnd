@@ -24,7 +24,7 @@ Concentración: true
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Brujo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
   - "[[Hechicero]]"
 ---
 (tres cáscaras de nuez)

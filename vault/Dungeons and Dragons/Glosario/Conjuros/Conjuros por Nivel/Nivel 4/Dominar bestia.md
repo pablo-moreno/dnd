@@ -19,7 +19,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
   - "[[Hechicero]]"
 ---
 Intentas embaucar a una bestia que puedas ver dentro del alcance. La criatura debe superar una [[Tirada de Salvación]] de [[Sabiduría]] para no quedar hechizada por ti mientras dura el conjuro. Si tú o las criaturas que son amistosas hacia ti estáis luchando contra dicha bestia, esta tiene ventaja en la tirada de salvación.

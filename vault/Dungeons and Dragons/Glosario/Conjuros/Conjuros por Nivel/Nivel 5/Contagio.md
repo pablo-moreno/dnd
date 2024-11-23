@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Tu toque inflige enfermedad. Haz un ataque de conjuro cuerpo a cuerpo contra una criatura dentro de tu alcance. Si impactas, el objetivo está envenenado.
 

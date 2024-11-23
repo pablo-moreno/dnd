@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 (un puñado de corteza de roble)
 

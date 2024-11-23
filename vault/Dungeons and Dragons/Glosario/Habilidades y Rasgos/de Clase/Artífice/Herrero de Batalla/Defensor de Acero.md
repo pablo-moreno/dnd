@@ -18,4 +18,4 @@ El defensor volverá a la vida después de 1 minuto con todos sus puntos de golp
 
 Tras un descanso largo, puedes crear un nuevo defensor de acero si cuentas con herramientas de herrero. Si ya tienes un defensor por este rasgo, el primero morirá inmediatamente. El defensor también muere si mueres tú. 
 
-Ver [[Dungeons and Dragons/Glosario/Criaturas/Invocaciones/Defensor de Acero|Defensor de Acero]]
+Ver [[Dungeons and Dragons/Glosario/Bestiario/Invocaciones/Defensor de Acero|Defensor de Acero]]

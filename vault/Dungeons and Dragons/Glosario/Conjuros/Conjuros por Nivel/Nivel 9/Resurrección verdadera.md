@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 (unas gotas de agua bendita y diamantes de 2.500.000 po de valor, los cuales consume el conjuro)  
 

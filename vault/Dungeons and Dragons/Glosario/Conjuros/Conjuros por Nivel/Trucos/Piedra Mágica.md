@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Brujo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
   - "[[Artífice]]"
 ---
 Tocas de una a tres piedritas y las imbuyes de magia. Tu u otra persona puede realizar un ataque de conjuro a distancia con una de las piedras aventándola o lanzándola con una honda. Si se tira, una piedra tiene un alcance de 60 pies. Si alguien más ataca con una piedrita, ese atacante agrega tu modificador de habilidad de lanzar conjuros, no el del atacante, a la [[Tirada de Ataque]]. 

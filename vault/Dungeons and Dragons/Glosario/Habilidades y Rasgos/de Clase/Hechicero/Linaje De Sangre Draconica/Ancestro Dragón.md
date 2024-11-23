@@ -24,7 +24,7 @@ Rojo                          [[Fuego]]
 Plata                         [[Frío]]
 Verde                        [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Veneno]]
 
-Puedes leer, escribir y hablar [[dracónico]]. Además, siempre que hagas una prueba de [[Carisma]]
+Puedes leer, escribir y hablar [[Dracónico]]. Además, siempre que hagas una prueba de [[Carisma]]
 interactuando con dragones tu bonificador de competencia se duplica si es aplicable a la tirada.
 
 

@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 (una hoja de muérdago quemada y una rama de pícea)
 

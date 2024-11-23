@@ -21,7 +21,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 (un cuenco con una gema incrustada de al menos 100.000 po de valor, el cual consume el conjuro)
 

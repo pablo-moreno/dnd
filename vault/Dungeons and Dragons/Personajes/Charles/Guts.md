@@ -12,6 +12,13 @@ Trasfondo: "[[Soldado]]"
 Xp: 900
 Jugador: Charles
 ---
+## Estado
+
+| PG  | PGM | CA  | SC  | Turno |
+| --- | --- | --- | --- | ----- |
+|     |     |     |     |       |
+
+## Habilidades
 
 *Habilidades y Dotes:*
 
@@ -25,6 +32,15 @@ Jugador: Charles
 
 -[[Rango Militar]]
 
+
+## Inventario
+
+-
+
 ## Hoja de Personaje
 
 ![[Guts 1.pdf]]
+
+
+
+## Galería

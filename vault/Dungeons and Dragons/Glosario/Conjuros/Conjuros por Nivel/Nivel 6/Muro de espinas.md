@@ -19,7 +19,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 (un puñado de espinas)
 

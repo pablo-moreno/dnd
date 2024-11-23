@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Llamas a los espíritus de la naturaleza para alentarlos contra tus enemigos. Elige un punto que puedas ver dentro del alcance. Los espíritus causan que los árboles, las rocas y el pasto se vuelvan animados en un cubo de 60 pies centrado en ese punto hasta que el conjuro termine.
 

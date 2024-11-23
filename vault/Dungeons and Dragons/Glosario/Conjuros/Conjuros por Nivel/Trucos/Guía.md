@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
   - "[[Artífice]]"
 ---
 Tocas a una criatura voluntaria. Una vez antes de que el conjuro termine, el objetivo puede tirar 1d4 y sumar el resultado a una prueba de característica de su elección. Puede tirar el dado antes o después de hacer la prueba. Luego el conjuro termina.

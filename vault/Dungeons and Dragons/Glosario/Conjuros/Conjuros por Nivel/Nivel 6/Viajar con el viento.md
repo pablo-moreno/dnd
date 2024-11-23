@@ -19,7 +19,7 @@ Duración: 8 horas
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 (fuego y agua bendita)
 

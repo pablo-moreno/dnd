@@ -20,7 +20,7 @@ Ritual:
 Concentración: 
 Clases:
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Elige a una criatura que puedas ver dentro del alcance. Una explosión de energía positiva la invade, haciéndole recuperar 70 [[Puntos de Golpe]]. Este conjuro también termina con los estados ceguera, sordera y cualquier enfermedad que afecte al objetivo. Este conjuro no tiene efecto ni en constructos ni en no muertos.
 

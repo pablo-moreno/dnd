@@ -20,7 +20,7 @@ Ritual: true
 Concentración: 
 Clases:
   - "[[Explorador]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Durante un breve espacio de tiempo te conviertes en uno con la naturaleza y obtienes conocimiento del territorio que te rodea. Al aire libre, el conjuro te da conocimiento sobre la tierra que está a 3 millas o menos de ti. En cuevas o en otros lugares subterráneos, el radio se limita a 300 pies. El conjuro no funciona donde se haya construido sobre la naturaleza, como en dungeons y ciudades.
 

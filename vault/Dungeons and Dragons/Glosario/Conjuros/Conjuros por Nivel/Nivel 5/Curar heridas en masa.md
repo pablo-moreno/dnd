@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Una ola de energía curativa emana de un punto de tu elección dentro del alcance. Elige hasta seis criaturas en una esfera de 30 pies de radio cuyo centro sea ese punto. Cada objetivo recupera una cantidad de [[Puntos de Golpe]] igual a 3d8 + tu modificador por característica para lanzar conjuros. Este conjuro no tiene efecto sobre no muertos ni constructos.
 

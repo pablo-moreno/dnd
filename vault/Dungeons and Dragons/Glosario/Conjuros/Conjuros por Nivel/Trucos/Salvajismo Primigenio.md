@@ -17,7 +17,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Canalizas la magia primordial para hacer que tus dientes o uñas se afilen, listos para lanzar un ataque corrosivo. Haz un ataque de conjuro cuerpo a cuerpo contra una criatura a menos de 5 pies de ti. En un golpe, el objetivo recibe 1d10 de daño [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]]. Después de realizar el ataque, tus dientes o uñas vuelven a la normalidad.
 

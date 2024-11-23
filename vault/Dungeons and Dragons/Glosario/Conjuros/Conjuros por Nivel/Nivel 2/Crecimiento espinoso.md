@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 (siete espinas afiladas o siete ramitas pequeñas, cada una afilada en un extremo)
 

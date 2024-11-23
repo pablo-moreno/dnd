@@ -6,20 +6,12 @@ tags:
   - type/note
 aliases:
 ---
-## Jugadores
+## La Party
 
 
 -
 
 
-## Combates
-
-| Criatura | PG  | CA  | SC  | Turno |
-| -------- | --- | --- | --- | ----- |
-|          |     |     |     |       |
-|          |     |     |     |       |
-|          |     |     |     |       |
-|          |     |     |     |       |
 
 ## Descripción de la Partida
 
@@ -32,3 +24,17 @@ aliases:
 
 -
 
+
+## Combates
+
+| Criatura | PG  | PGM | CA  | SC  | Turno |
+| -------- | --- | --- | --- | --- | ----- |
+|          |     |     |     |     |       |
+|          |     |     |     |     |       |
+|          |     |     |     |     |       |
+|          |     |     |     |     |       |
+
+
+## Mapas
+
+Ver [[Insertar mapa]]

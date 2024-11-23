@@ -18,7 +18,7 @@ Duración: 24 horas
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Tu magia convierte a otros en bestias. Elige cualquier número de criaturas voluntarias que puedas ver dentro del alcance. Transformas a cada objetivo en la forma de una bestia de tamaño Grande o menor con un valor de desafío igual a 4 o menos. Durante los siguientes turnos, puedes usar tu acción para volver a transformar a las criaturas afectadas en otra cosa.
 

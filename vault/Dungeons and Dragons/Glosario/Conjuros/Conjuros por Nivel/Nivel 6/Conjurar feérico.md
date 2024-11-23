@@ -20,7 +20,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Brujo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Convocas a una criatura feérica con un valor de desafío igual a 5 o menos o un espíritu feérico en forma de bestia con un valor de desafío igual a 6 o menos. La criatura feérica aparece en un espacio sin ocupar que puedas ver dentro del alcance y desaparece cuando sus [[Puntos de Golpe]] se reducen a 0 o cuando el conjuro termina.
 

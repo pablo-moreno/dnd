@@ -18,7 +18,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Se crea una enorme nube de tormenta cuyo centro es un punto que puedas ver y se expande en un radio de 360 pies. Los rayos iluminan el área, los truenos estallan y el viento de la tormenta ruge. Todas las criaturas que se encuentran bajo la nube (no más de 5.000 pies por debajo de la misma) deben hacer una [[Tirada de Salvación]] de [[Constitución]] cuando esta aparece. Si fallan, reciben 2d6 puntos de daño por [[Trueno]] y quedan ensordecidas durante 5 minutos.
 

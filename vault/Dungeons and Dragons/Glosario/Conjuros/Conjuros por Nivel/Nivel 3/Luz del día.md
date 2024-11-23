@@ -25,7 +25,7 @@ Clases:
   - "[[Explorador]]"
   - "[[Paladín]]"
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
   - "[[Hechicero]]"
 ---
 Una esfera de luz de 60 pies de radio se expande desde un punto de tu elección dentro del alcance. La esfera es de luz brillante y emite luz tenue en 60 pies adicionales.

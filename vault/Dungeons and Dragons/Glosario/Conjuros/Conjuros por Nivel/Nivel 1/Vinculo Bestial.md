@@ -21,7 +21,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Explorador]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Estableces un vínculo telepático con una bestia que tocas que es amigable o que está hechizada por ti. El conjuro falla si la puntuación de [[Inteligencia]] de la bestia es 4 o mayor.
 

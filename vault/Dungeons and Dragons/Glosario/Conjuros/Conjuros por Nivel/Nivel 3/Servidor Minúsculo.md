@@ -22,7 +22,7 @@ Clases:
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
   - "[[Artífice]]"
 ---
-Tocas un objeto diminuto, no mágico, que no está unido a otro objeto o una superficie y que no está siendo cargado por otra criatura. El objetivo se anima y le brotan pequeños brazos y piernas, convirtiéndose en una criatura bajo tu control hasta que el conjuro termina o la criatura cae a 0 [[Puntos de Golpe]]. Ver [[Dungeons and Dragons/Glosario/Criaturas/Invocaciones/Servidor Minúsculo|Servidor Minúsculo]].
+Tocas un objeto diminuto, no mágico, que no está unido a otro objeto o una superficie y que no está siendo cargado por otra criatura. El objetivo se anima y le brotan pequeños brazos y piernas, convirtiéndose en una criatura bajo tu control hasta que el conjuro termina o la criatura cae a 0 [[Puntos de Golpe]]. Ver [[Dungeons and Dragons/Glosario/Bestiario/Invocaciones/Servidor Minúsculo|Servidor Minúsculo]].
 
 Como acción adicional, puedes comandar mentalmente a la criatura si está a 120 pies de ti. (Si controlas varias criaturas con este conjuro, puedes comandar a cualquiera o todas al mismo tiempo, emitiendo el mismo comando para cada una).
 

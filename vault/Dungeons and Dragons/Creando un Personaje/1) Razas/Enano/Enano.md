@@ -15,7 +15,7 @@ Habilidades:
   - "[[Afinidad con la Piedra]]"
 Idiomas:
   - "[[Común]]"
-  - "[[Dungeons and Dragons/Glosario/Idiomas/Enano|Enano]]"
+  - "[[Dungeons and Dragons/Glosario/Entorno/Idiomas/Enano|Enano]]"
 ---
 
 *Rasgos Enanos
@@ -36,7 +36,7 @@ enana.
 *Competencia con Herramientas*. Ganas competencia con unas herramientas de artesano a tu
 elección: [[herramientas de herrero]], [[materiales de cervecería]] o [[herramientas de albañil]].
 
-*Idiomas*. Puedes hablar, leer y escribir [[Común]] y [[Dungeons and Dragons/Glosario/Idiomas/Enano|Enano]]. 
+*Idiomas*. Puedes hablar, leer y escribir [[Común]] y [[Dungeons and Dragons/Glosario/Entorno/Idiomas/Enano|Enano]]. 
 
 *Subraza*. Dos principales razas de enanos pueblan los mundos de D&D: [[Enano de las Colinas]] y [[Enano de las Montañas]]. Escoge una de estas subrazas.
 

@@ -18,7 +18,7 @@ Duración: 10 minutos
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Una nube de tormenta aparece en forma de un cilindro de 10 pies de altura y 60 pies de radio, cuyo centro es un punto que puedas ver directamente encima de ti a 100 pies. El conjuro falla si no puedes ver el punto en el aire en el que aparece la nube de tormenta (por ejemplo, si estás en una habitación en la que no cabe la nube).
 

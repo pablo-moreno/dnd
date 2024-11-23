@@ -23,7 +23,7 @@ Concentración:
 Clases:
   - "[[Paladín]]"
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
   - "[[Artífice]]"
 ---
 La comida y la bebida no mágicas dentro de una esfera de 5 pies de radio cuyo centro sea un punto que elijas dentro del alcance es purificada y queda libre de veneno y enfermedad.

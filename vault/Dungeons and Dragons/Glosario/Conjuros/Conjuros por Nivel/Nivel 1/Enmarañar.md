@@ -18,7 +18,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Maleza y enredaderas surgen retorciéndose del suelo en un cuadrado de 20 pies que empieza en un punto de tu elección dentro del alcance. Mientras dura el conjuro, estas plantas convierten el suelo del área en un terreno difícil.
 

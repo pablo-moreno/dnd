@@ -19,7 +19,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 (muérdago, un trébol y un [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Vara|Vara]] o un [[Dungeons and Dragons/Glosario/Objetos/Armas/Simples/Bastón]])
 

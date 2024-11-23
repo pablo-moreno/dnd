@@ -18,7 +18,7 @@ Duración: 1 minuto
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Tienes resistencia al daño por [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Ácido]], [[Frío]], [[Fuego]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Relámpago|Relámpago]] y [[Trueno]] hasta el final de la duración del conjuro.
 

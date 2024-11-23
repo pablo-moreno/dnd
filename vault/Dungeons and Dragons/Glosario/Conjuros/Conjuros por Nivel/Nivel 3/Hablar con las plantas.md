@@ -22,7 +22,7 @@ Concentración:
 Clases:
   - "[[Explorador]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Bardo/Bardo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Imbuyes a las plantas que se encuentran a 30 pies o menos de ti con una conciencia y una animación limitadas, lo que les da la capacidad de comunicarse contigo y seguir órdenes sencillas. Puedes preguntarles sobre eventos que sucedieron en el área del conjuro en los últimos días, como sobre las criaturas que han pasado, el clima y otras circunstancias.
 

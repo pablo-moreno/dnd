@@ -14,7 +14,7 @@ Habilidades:
   - "[[Agilidad Mediana]]"
 Idiomas:
   - "[[Común]]"
-  - "[[Dungeons and Dragons/Glosario/Idiomas/Mediano|Mediano]]"
+  - "[[Dungeons and Dragons/Glosario/Entorno/Idiomas/Mediano|Mediano]]"
 ---
 
 *Rasgos Medianos
@@ -35,7 +35,7 @@ comodidad de sus viejas tradiciones.
 
 *Velocidad*. Tu velocidad base a pie es de 25 pies.
 
-*Idiomas*. Puedes hablar, leer y escribir [[Común]] y [[Dungeons and Dragons/Glosario/Idiomas/Mediano|Mediano]]. 
+*Idiomas*. Puedes hablar, leer y escribir [[Común]] y [[Dungeons and Dragons/Glosario/Entorno/Idiomas/Mediano|Mediano]]. 
 
 *Subraza*. Los dos tipos principales de mediano, [[Mediano Piesligeros]] y [[Mediano Fornido]], se parecen más a familias que a verdaderas subrazas. Elige una de estas subrazas.
 

@@ -22,7 +22,7 @@ Ritual:
 Concentración: true
 Clases:
   - "[[Clérigo]]"
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
   - "[[Hechicero]]"
 ---
 (unos cuantos granos de azúcar, algunas semillas de grano y un poco de grasa)

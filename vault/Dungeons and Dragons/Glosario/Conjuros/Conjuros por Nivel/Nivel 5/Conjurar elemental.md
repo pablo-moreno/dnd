@@ -20,7 +20,7 @@ Duración: 1 hora
 Ritual: 
 Concentración: true
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
   - "[[Dungeons and Dragons/Creando un Personaje/2) Clases/Mago/Mago]]"
 ---
 (incienso que se ha de quemar para el aire, arcilla blanda para la tierra, azufre y fósforo para el fuego o agua y tierra para el agua)

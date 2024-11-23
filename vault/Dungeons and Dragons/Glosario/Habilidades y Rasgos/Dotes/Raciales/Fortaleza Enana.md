@@ -6,7 +6,7 @@ tags:
   - type/note
 aliases: 
 Requisito:
-  - "[[Dungeons and Dragons/Glosario/Idiomas/Enano|Enano]]"
+  - "[[Dungeons and Dragons/Glosario/Entorno/Idiomas/Enano|Enano]]"
 ---
 
 La sangre de héroes enanos fluye a través de tus venas. Obtienes los siguientes beneficios:

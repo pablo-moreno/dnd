@@ -18,7 +18,7 @@ Duración: Instantáneo
 Ritual: 
 Concentración: 
 Clases:
-  - "[[Dungeons and Dragons/Glosario/Criaturas/Pnj/Druida]]"
+  - "[[Dungeons and Dragons/Glosario/Bestiario/Pnj/Druida]]"
 ---
 Al susurrarles a los espíritus de la naturaleza, creas uno de los siguientes efectos dentro del alcance:
 
