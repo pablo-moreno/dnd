@@ -70,8 +70,12 @@ El hombre rata realiza dos ataques, solo uno de los cuales puede ser un mordisco
 
 ## Descripción
 
-Este ladino y avaricioso ser con cabeza de rata es un hábil escaramuzador que compensa su falta de poderío físico con destreza y astucia. Prefiere operar desde las sombras, formando bandas que solo infectan a aquellos que creen que pueden aportar algo a su grupo.
+Los hombres rata son licántropos taimados y avariciosos. En su forma de humanoide son inquietos y fibrosos, con cabellos finos y ojos penetrantes. En sus formas híbrida y de humanoide prefieren las armas ligeras y emboscar a sus enemigos en lugar de atacar en grupo. Aunque son capaces de dar mordiscos terribles en su forma de rata, suelen asumirla únicamente para infiltrarse sigilosamente o huir, en lugar de combatir.
+
+Un clan de hombres rata funciona de manera similar a un gremio de ladrones. Transmiten su maldición solo a aquellas criaturas que quieren incorporar al grupo. Los hombres rata que se han convertido en licántropos por accidente o se liberan de las ataduras del clan son perseguidos y asesinados con celeridad.
+
+Es posible encontrar clanes de hombres rata a lo largo y ancho de muchas ciudades, donde moran en sótanos y catacumbas. Medran en las alcantarillas de las urbes más grandes, pues consideran estas zonas sus territorios de caza. Es habitual hallar ratas y ratas gigantes conviviendo con los hombres rata.
 
 ## Galería
 
-
+![[hrata.png]]

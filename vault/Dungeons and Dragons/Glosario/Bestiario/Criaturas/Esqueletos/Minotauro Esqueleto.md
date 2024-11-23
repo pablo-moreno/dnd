@@ -1,60 +1,60 @@
 ---
-name: Esqueleto
+name: Minotauro Esqueleto
 tags:
   - type/enemy
 alignment: Legal malvado
 race: "[[Muerto viviente]]"
-size: "[[Dungeons and Dragons/Glosario/Entorno/Idiomas/Mediano]]"
+size: Grande
 aliases:
-  - esqueleto
-  - esqueletos
-hit_points: 13
-hit_dice: "`dice: 2d8 + 4`"
-ca: "13"
 ---
 
 ## Características
 
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
 | ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 10    | +0          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                                   | 14    | +2          | `dice: 1d20 + 2` |
-| [[Constitución]]                                                               | 15    | +2          | `dice: 1d20 + 2` |
-| [[Inteligencia]]                                                               | 6     | -2          | `dice: 1d20 - 2` |
-| [[Sabiduría]]                                                                  | 8     | -1          | `dice: 1d20 - 1` |
-| [[Carisma]]                                                                    | 5     | -3          | `dice: 1d20 - 3` |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 18    | +4          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 11    | +0          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 15    | +2          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 6     | -2          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 8     | -1          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 5     | -3          | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: `=this.ca`
-[[Puntos de golpe]]: `= this.hit_points` (`=this.hit_dice`)
-[[Velocidad]]: 30 pies
+[[Clase de Armadura]]: 12 (armadura natural)
+[[Puntos de Golpe]]: 67 (`dice: 9d10`+18)
+[[Velocidad]]: 40 pies
 
-## Resistencia
+## Resistencias
 
-Inmunidad al Daño: Veneno
-Inmunidad a Estados: Cansancio, Envenenado
+Vulnerabilidad a daño: contundente
+Inmunidad a daño: veneno
+Inmunidad a estados: cansancio, envenenado
 
 ## Sentidos
 
-[[Visión en la oscuridad]] 60 pies
+[[visión en la oscuridad]] 60 pies
 Percepción pasiva 9
 
 ## Idiomas
 
-No puede hablar, pero entiende todos los idiomas que aprendió en vida
+entiende abisal pero no puede hablar
+
+## Pasivas
+
+**Carga**
+Si el esqueleto se mueve al menos 10 pies en línea recta hacia un objetivo y después le impacta con su ataque de cornada durante el mismo turno, el objetivo recibirá 9 (2d8) de daño perforante adicional. Si el objetivo es una criatura, deberá superar una tirada de salvación de Fuerza CD 140 será empujada hasta 10 pies en dirección contraria y caerá derribada.
 
 ## Acciones
 
-**Espada corta**
-Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, un objetivo.  
-Impacto: 5 (`dice: 1d6 + 2`) de daño perforante.
+**Hacha a dos manos**
+Ataque con arma cuerpo a cuerpo: +6 a impactar, alcance 5 pies, un objetivo. Impacto: 17 (2d12 + 4) de daño cortante.
 
-**Arco corto**
-Ataque con arma a distancia: +4 a impactar, alcance 80/320 pies, un objetivo. 
-Impacto: 5 (`dice: 1d6 + 2`) de daño perforante.
+**Cornada**
+Ataque con arma cuerpo a cuerpo: +6 a impactar, alcance 5 pies, un objetivo. 
+Impacto: 13 (2d8 + 4) de daño perforante.
 
 ## Desafío
 
-1/4 - 50 [[PX]]
+2 - 450 Xp
 
 ## Descripción
 
@@ -80,48 +80,5 @@ Cuando los esqueletos se topan con criaturas vivas, su energía nigromántica lo
 Un esqueleto no necesita respirar, comer, beber ni dormir.
 
 ## Galería
-
-
-![[Esqueleto.png|220]]
-
-
-```statblock
-name: Esqueleto
-size: Mediano
-type: No muerto
-subtype: ""
-alignment: Legal malvado
-ac: 13
-hp: 13
-hit_dice: 2d8 + 4
-speed: 30 ft.
-stats:
-  - 10
-  - 14
-  - 15
-  - 6
-  - 8
-  - 5
-damage_vulnerabilities: Contundente
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: Envenenado
-senses: Visión en la oscuridad 60 pies., Perceción pasiva 9
-languages: No puede hablar
-cr: 1/4
-bestiary: true
-actions:
-  - name: Espada corta
-    desc: "Ataque cuerpo a cuerpo: +4 al impactar, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) daño perforante."
-    attack_bonus: 4
-    damage_dice: 1d6
-    damage_bonus: 2
-  - name: Arco corto
-    desc: "Ataque con arma a distancia: +4 a impactar, alcance 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) de daño [[perforante]]"
-    attack_bonus: 4
-    damage_dice: 1d6
-    damage_bonus: 2
-
-```
 
 
