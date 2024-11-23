@@ -6,5 +6,4 @@ tags:
   - type/note
 aliases:
 ---
-Una vez por turno cuando hagas tiradas de daño por el ataque de un arma de cuerpo a cuerpo,
-puedes volver a tirar los dados y usar cualquiera de los dos totales.
+Una vez por turno cuando hagas tiradas de daño por el ataque de un arma de cuerpo a cuerpo, puedes volver a tirar los dados y usar cualquiera de los dos totales.

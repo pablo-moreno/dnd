@@ -24,3 +24,7 @@ Jugador: Charles
 *Rasgos:*
 
 -[[Rango Militar]]
+
+## Hoja de Personaje
+
+![[Guts 1.pdf]]

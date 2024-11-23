@@ -19,7 +19,7 @@ aliases:
 | [[Sabiduría]]                                                                  | 0     | 0           | `dice: 1d20 + 0` |
 | [[Carisma]]                                                                    | 0     | 0           | `dice: 1d20 + 0` |
 
-[[Clase de Armadura]]: 0
+[[Clase de Armadura]]: 
 [[Puntos de Golpe]]: 0 (`dice: 1d4`)
 [[Velocidad]]: 30
 [[Tirada de Salvación]]:
@@ -33,17 +33,44 @@ aliases:
 
 ## Resistencias
 
-
+-
 
 ## Sentidos
 
-
+-
 
 ## Idiomas
 
-
+-
 
 ## Pasivas
+
+ -
+
+## Acciones
+
+-
+
+## Reacciones
+
+-
+
+## Acciones Legendarias
+
+-
+
+## Desafío
+
+-
+
+## Descripción
+
+-
+
+## Galería
+
+
+
 
 **Lanzamiento de conjuros**
  es un lanzador de conjuros de nivel . Su aptitud mágica es  (Salvación de conjuros CD , + a impactar). Tiene preparados los siguientes conjuros de :
@@ -55,27 +82,3 @@ Nivel 3 ( espacios):
 Nivel 4 ( espacios): 
 Nivel 5 ( espacios): 
 Nivel 6 ( espacios):
-
-## Acciones
-
-
-
-## Reacciones
-
-
-
-## Acciones Legendarias
-
-
-
-## Desafío
-
-
-
-## Descripción
-
-
-
-## Galería
-
-
