@@ -59,6 +59,7 @@ La oscuridad mágica no impide la visión en la oscuridad del diablillo.
 El diablillo tiene ventaja en las tiradas de salvación para evitar conjuros y otros efectos mágicos
 
 ## Acciones
+
 **Aguijón** (mordisco en forma de bestia) 
 Ataque con arma cuerpo a cuerpo: +5 a impactar, alcance 5 pies, un objetivo. 
 Impacto: 5 (1d4 + 3) de daño perforante, y el objetivo deberá hacer una tirada de salvación de Constitución CD 11, sufriendo 10 (3d6) de daño de veneno si la falla, o la mitad del daño si la supera.
@@ -79,3 +80,5 @@ Los diablillos pueden asumir cualquier forma animal, pero su verdadero aspecto e
 invisible antes de atacar a sus rivales con su aguijón venenoso.
 
 ## Galería
+
+![[diablillo.png|270]]

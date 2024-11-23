@@ -3,6 +3,7 @@ title: Escudo de Torre
 creation date: 2024-03-06 11:42
 tags:
   - type/armor
+  - armor/esc
 aliases: 
 Clase_de_Armadura: "+4"
 Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]]"

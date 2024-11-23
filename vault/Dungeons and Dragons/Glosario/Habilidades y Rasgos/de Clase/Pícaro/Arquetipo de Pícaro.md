@@ -16,7 +16,7 @@ Los Arquetipos a elegir son:
 [[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Asesino]]
 [[Bribón Arcano]]
 [[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Espadachín]]
-[[Fantasma]]
+[[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Fantasma]]
 [[Inquisitivo]]
 [[Ladrón]]
 [[Mente Maestra]]

@@ -44,6 +44,8 @@
     "int_Vel": "number",
     "Acciones": "multitext",
     "Salvación": "multitext",
-    "Xp": "number"
+    "Xp": "number",
+    "Valor": "number",
+    "Cantidad": "number"
   }
 }

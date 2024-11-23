@@ -3,6 +3,7 @@ title: Broquel de Muñeca
 creation date: 2024-03-11 16:55
 tags:
   - type/armor
+  - armor/esc
 aliases: 
 Clase_de_Armadura: "+1"
 Tipo_de_Armadura: "[[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]]"
