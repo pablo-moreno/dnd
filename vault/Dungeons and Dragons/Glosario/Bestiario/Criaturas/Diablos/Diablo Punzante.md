@@ -83,6 +83,11 @@ Impacto: 10 (3d6) de daño de fuego. Si el objetivo es un objeto inflamable que 
 
 ## Descripción
 
+Estos diablos son más pequeños que la mayoría, y sirven como mensajeros y espías para grandes diablos y archidiablos. Son los ojos y oídos de los Nueve Infiernos, por lo que incluso aquellos infernales que los desprecian por su debilidad los tratan con un mínimo de respeto.
+
+El cuerpo de los diablos espinosos está cubierto de pinchos, y utilizan los de su cola como arma a distancia. Estas espinas estallan en llamas cuando impactan.
+Cuando no están haciendo de mensajeros o reconociendo el terreno, los diablos espinosos sirven a las legiones infernales como artillería aérea, compensando su relativa debilidad formando hordas que abruman a sus enemigos. Aunque anhelan ascender y obtener poder, los diablos espinosos son cobardes por naturaleza y se dispersarán con rapidez si la batalla se torna en su contra.
+
 ## Galería
 
 

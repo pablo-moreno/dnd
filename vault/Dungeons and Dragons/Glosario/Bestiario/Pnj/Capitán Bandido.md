@@ -11,6 +11,7 @@ hit_dice: "`dice: 10d8+20`"
 ---
 
 ## Características
+
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
 | ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
 | [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 15    | +2          | `dice: 1d20 + 2` |

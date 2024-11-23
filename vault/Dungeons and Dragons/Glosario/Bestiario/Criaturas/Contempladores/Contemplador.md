@@ -8,7 +8,6 @@ size: Grande
 aliases:
 ---
 
-
 ## Características
 
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |

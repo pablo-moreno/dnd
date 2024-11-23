@@ -14,6 +14,7 @@ ca: "13"
 ---
 
 ## Características
+
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
 | ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
 | [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 10    | +0          | `dice: 1d20 + 0` |
@@ -60,6 +61,9 @@ Impacto: 5 (`dice: 1d6 + 2`) de daño perforante.
 Es posible lograr que un esqueleto se levante insuflándole magia oscura. Estos monstruos  obedecen las invocaciones de los lanzadores de conjuros que los convocan desde cementerios pedregosos y campos de batalla, o se alzan en los lugares saturados de muerte y pérdida,  despertados por el estímulo de la magia nigromántica o la presencia de un mal que corrompe lo que toca.
 
 ## Galería
+
+
+![[Esqueleto.png|220]]
 
 
 ```statblock

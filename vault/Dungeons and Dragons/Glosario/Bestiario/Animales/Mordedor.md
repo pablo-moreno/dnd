@@ -50,3 +50,6 @@ Impacto: 1 de daño perforante.
 
 Los mordedores son peces carnívoros con una dentadura muy afilada. Pueden vivir en cualquier entorno acuático, incluso lagos subterráneos. Suelen cazar en grupo; utiliza el perfil del enjambre de mordedores para estos casos.
 
+## Galería
+
+![[Mordedor.png]]

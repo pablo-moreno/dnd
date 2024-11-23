@@ -72,4 +72,10 @@ El diablillo puede, mágicamente, volverse invisible hasta que ataque o deje de 
 
 ## Descripción
 
+Los diablillos pueden encontrarse en cualquiera de los Planos Inferiores, ya sea realizando encargos para sus maestros infernales, espiando a sus rivales o engañando y despistando
+a criaturas mortales. Los diablillos sirven con orgullo a cualquier amo malvado, pero no se puede confiar en ellos para que lleven a cabo tareas veloz o eficientemente.
+
+Los diablillos pueden asumir cualquier forma animal, pero su verdadero aspecto es el de un humanoide de piel roja con una cola con púas, pequeños cuernos y alas correosas. Se hace
+invisible antes de atacar a sus rivales con su aguijón venenoso.
+
 ## Galería

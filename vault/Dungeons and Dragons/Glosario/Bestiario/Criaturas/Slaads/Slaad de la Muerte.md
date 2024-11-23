@@ -8,7 +8,6 @@ size: Mediano
 aliases:
 ---
 
-
 ## Características
 
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
@@ -23,7 +22,6 @@ aliases:
 [[Clase de Armadura]]: 18 (Armadura Natural)
 [[Puntos de Golpe]]: 170 (`dice: 20d8`+80)
 [[Velocidad]]: 30 pies
-[[Tirada de Salvación]]:
 
 ## Habilidades
 
@@ -86,14 +84,9 @@ Impacto: 10 (1d10 + 5) de daño cortante y 7 (2d6) de daño necrótico.
 Ataque con arma cuerpo a cuerpo: +9 a impactar, alcance 5 pies, un objetivo. 
 Impacto: 12 (2d6 + 5) de daño cortante y 7 (2d6) de daño necrótico.
 
-## Reacciones
-
-## Acciones Legendarias
-
 ## Desafío
 
 10 - 5.900 Xp
-
 
 ## Descripción
 

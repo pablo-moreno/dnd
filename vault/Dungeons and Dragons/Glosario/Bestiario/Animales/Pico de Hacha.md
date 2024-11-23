@@ -41,3 +41,4 @@ Impacto: 6 (1d8 + 2) de daño cortante.
 
 Los picos de hacha son aves no voladoras de gran tamaño, que poseen unas patas fuertes y un pesado pico en forma de cuña. Tienen muy mal genio y suelen atacar a cualquier criatura con la que no estén familiarizados que se les acerque.
 
+## Galería

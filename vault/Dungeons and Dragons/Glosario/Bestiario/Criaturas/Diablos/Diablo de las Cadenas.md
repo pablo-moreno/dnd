@@ -71,7 +71,12 @@ Cuando una criatura a la que el diablo pueda ver empiece su turno a 30 pies o me
 
 8 - 3.900 Xp
 
-## Descripión
+## Descripción
+
+Estos siniestros infernales emplean las cadenas como su vestimenta. Los kytons atraen a las criaturas menores con su terrible mirada mientras animan tanto sus propias cadenas
+como cualquier otra que se encuentra cerca, haciendo que de ellas surjan garfios, hojas y púas, que utilizan para destripar a sus enemigos.
+
+Los diablos de las cadenas hacen las veces de los alcaides y torturadores sádicos de los reinos infernales. Se deleitan en el dolor y viven para infligírselo a otros. Son convocados para atormentar las almas mortales atrapadas en los Nueve Infiernos y derraman su cólera en los horribles lémures en los que estas se manifiestan.
 
 ## Galería
 

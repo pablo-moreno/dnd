@@ -7,13 +7,6 @@ race: Aberración
 size: Mediano
 aliases:
 ---
-Un grell se parece a un cerebro bulboso y flotante con un ancho pico afilado. Sus diez largos tentáculos están hechos de músculos anillados que se envainan en una piel fibrosa y dura. Las puntas de esos apéndices están cubiertas de afiladas púas que inyectan un veneno paralizador. Los grells pueden retraer parcialmente sus púas para manipular o utilizar objetos que no quieran atravesar o rasgar.
-
-Estas criaturas no tienen ojos y flotan mediante el uso de la levitación. Sin embargo, poseen un oído agudo y su piel es sensible a las vibraciones y a los campos eléctricos, lo que les permite detectar la presencia de criaturas y objetos en sus inmediaciones. Su habilidad de manipular la electricidad para sentir y moverse también les proporciona la capacidad de absorber el rayo sin perjuicio.
-Aunque son solitarios por naturaleza, los grells pueden reunirse en grupos pequeños llamados aquelarres.
-
-**Emboscadores flotantes**. 
-Estas criaturas prefieren atacar a criaturas solas o perdidas. Para ello, se colocan silenciosamente cerca del techo de un pasillo o una caverna hasta que un objetivo potencial pase bajo ellas, momento en el que descienden rápidamente y lo abrazan con sus tentáculos. Después, flotan hasta su guarida cargando con la criatura paralizada en sus garras.
 
 ## Características
 
@@ -29,7 +22,6 @@ Estas criaturas prefieren atacar a criaturas solas o perdidas. Para ello, se col
 [[Clase de Armadura]]: 12
 [[Puntos de Golpe]]: 55 (`dice: 10d8`+10)
 [[Velocidad]]: 10 pies, levitar 30 pies
-[[Tirada de Salvación]]:
 
 ## Habilidades
 
@@ -52,8 +44,6 @@ Percepción pasiva 14
 
 Grell
 
-## Pasivas
-
 ## Acciones
 
 **Ataque múltiple** 
@@ -69,13 +59,19 @@ Además, el objetivo también es agarrado (CD 15 para escapar). Si es de tamaño
 Ataque con arma cuerpo a cuerpo: +4 a impactar, alcance 5 pies, una criatura. 
 Impacto: 7 (2d4 + 2) de daño perforante.
 
-## Reacciones
-
-## Acciones Legendarias
-
 ## Desafío
 
 3 - 700 Xp
+
+## Descripción
+
+Un grell se parece a un cerebro bulboso y flotante con un ancho pico afilado. Sus diez largos tentáculos están hechos de músculos anillados que se envainan en una piel fibrosa y dura. Las puntas de esos apéndices están cubiertas de afiladas púas que inyectan un veneno paralizador. Los grells pueden retraer parcialmente sus púas para manipular o utilizar objetos que no quieran atravesar o rasgar.
+
+Estas criaturas no tienen ojos y flotan mediante el uso de la levitación. Sin embargo, poseen un oído agudo y su piel es sensible a las vibraciones y a los campos eléctricos, lo que les permite detectar la presencia de criaturas y objetos en sus inmediaciones. Su habilidad de manipular la electricidad para sentir y moverse también les proporciona la capacidad de absorber el rayo sin perjuicio.
+Aunque son solitarios por naturaleza, los grells pueden reunirse en grupos pequeños llamados aquelarres.
+
+**Emboscadores flotantes**. 
+Estas criaturas prefieren atacar a criaturas solas o perdidas. Para ello, se colocan silenciosamente cerca del techo de un pasillo o una caverna hasta que un objetivo potencial pase bajo ellas, momento en el que descienden rápidamente y lo abrazan con sus tentáculos. Después, flotan hasta su guarida cargando con la criatura paralizada en sus garras.
 
 ## Galería
 
