@@ -12,7 +12,7 @@ Has estudiado el funcionamiento de la magia y cómo lanzar conjuros, canalizando
 
 
 HERRAMIENTAS NECESARIAS
-Produces los efectos de tus conjuros de artífice a través de tus herramientas. Debes disponer de un canalizador mágico (en concreto, herramientas de ladrón o algún tipo de herramienta de artesano) para lanzar un conjuro con el rasgo Lanzamiento de Conjuros (es decir, el conjuro necesitará un componente "M" para lanzarlo). También tienes que ser competente con la herramienta para usarla de esta forma. Consulta el capítulo sobre el equipo del Player's Handbook para ver las descripciones de estas herramientas.
+Produces los efectos de tus conjuros de artífice a través de tus herramientas. Debes disponer de un canalizador mágico (en concreto, herramientas de ladrón o algún tipo de herramienta de artesano) para lanzar un conjuro con el rasgo Lanzamiento de Conjuros (es decir, el conjuro necesitará un componente "M" para lanzarlo). También tienes que ser competente con la herramienta para usarla de esta forma.
 
 Tras obtener el rasgo imbuir Objeto en el nivel 2 , también puedes usar como canalizador mágico cualquier objeto que lleve una de tus infusiones.
 

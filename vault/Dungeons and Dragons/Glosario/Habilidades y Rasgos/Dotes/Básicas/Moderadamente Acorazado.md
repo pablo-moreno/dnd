@@ -6,7 +6,7 @@ tags:
   - type/note
 aliases:
 ---
-Requisito: Competencia con armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera]].
+Requisito: Competencia con Armadura  [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Ligera|Ligera]].
 
 Has entrenado para dominar el uso de armadura [[Media]] y [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]], ganando los siguientes
 beneficios:

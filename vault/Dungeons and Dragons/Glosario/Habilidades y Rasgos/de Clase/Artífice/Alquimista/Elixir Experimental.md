@@ -16,7 +16,7 @@ Para crear un elixir experimental, necesitas tener contigo suministros de alquim
 
 Cuando alcances ciertos niveles en esta clase, podrás hacer más elixires tras un descanso largo: dos en el nivel 6 y tres en el 15. Tira el dado para ver el efecto de cada elixir por separado. Cada elixir necesita su propio frasco.
 
-ELIXIR EXPERIMENTAL
+Elixir Experimental
 
 | d6  | Efecto                                                                                                                                                                                                                            |
 | --- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

@@ -85,43 +85,4 @@ Un esqueleto no necesita respirar, comer, beber ni dormir.
 ![[Esqueleto.png|220]]
 
 
-```statblock
-name: Esqueleto
-size: Mediano
-type: No muerto
-subtype: ""
-alignment: Legal malvado
-ac: 13
-hp: 13
-hit_dice: 2d8 + 4
-speed: 30 ft.
-stats:
-  - 10
-  - 14
-  - 15
-  - 6
-  - 8
-  - 5
-damage_vulnerabilities: Contundente
-damage_resistances: ""
-damage_immunities: ""
-condition_immunities: Envenenado
-senses: Visión en la oscuridad 60 pies., Perceción pasiva 9
-languages: No puede hablar
-cr: 1/4
-bestiary: true
-actions:
-  - name: Espada corta
-    desc: "Ataque cuerpo a cuerpo: +4 al impactar, alcance 5 pies, un objetivo. Impacto: 5 (1d6 + 2) daño perforante."
-    attack_bonus: 4
-    damage_dice: 1d6
-    damage_bonus: 2
-  - name: Arco corto
-    desc: "Ataque con arma a distancia: +4 a impactar, alcance 80/320 pies, un objetivo. Impacto: 5 (1d6 + 2) de daño [[perforante]]"
-    attack_bonus: 4
-    damage_dice: 1d6
-    damage_bonus: 2
-
-```
-
 

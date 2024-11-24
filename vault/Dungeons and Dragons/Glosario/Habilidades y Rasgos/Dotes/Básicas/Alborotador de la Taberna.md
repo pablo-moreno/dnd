@@ -14,5 +14,4 @@ Estás acostumbrado a las peleas de taberna usando cualquier arma que tengas a t
 
 • Tu puñetazo sin armas usa un d4 para el daño.
 
-• Cuando golpeas una criatura con un golpe sin armas o un arma improvisada en tu turno, puedes
-usar una acción adicional para intentar agarrar al objetivo.
+• Cuando golpeas una criatura con un golpe sin armas o un arma improvisada en tu turno, puedes usar una acción adicional para intentar agarrar al objetivo.

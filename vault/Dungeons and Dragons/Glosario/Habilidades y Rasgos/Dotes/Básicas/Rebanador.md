@@ -6,8 +6,7 @@ tags:
   - type/note
 aliases:
 ---
-Has aprendido dónde cortar para obtener los mejores resultados, lo que te concede los siguientes
-beneficios:
+Has aprendido dónde cortar para obtener los mejores resultados, lo que te concede los siguientes beneficios:
 
 • Aumenta tu [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]] o tu [[Destreza]] en 1, hasta un máximo de 20.
 

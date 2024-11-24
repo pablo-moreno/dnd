@@ -8,10 +8,7 @@ aliases:
 Edad: 
 size: "[[Dungeons and Dragons/Creando un Personaje/1) Razas/Mediano/Mediano]]"
 Velocidad: 30 pies
-Habilidades:
-  - "[[Ascendencia Dracónica]]"
-  - "[[Arma de Aliento]]"
-  - "[[Resistencia al Daño (Draconido)]]"
+Habilidades: []
 ---
 
 *Rasgos Humanos

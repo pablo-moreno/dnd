@@ -6,10 +6,10 @@ tags:
   - type/note
 aliases:
 ---
-Parrandear es una actividad predeterminada de tiempo de inactividad para muchos personajes. Entre aventuras, ¿quién no quiere relajarse con unas copas y un grupo de amigos en
-una taberna?
+Parrandear es una actividad predeterminada de tiempo de inactividad para muchos personajes. Entre aventuras, ¿quién no quiere relajarse con unas copas y un grupo de amigos en una taberna?
 
-Recursos. Hacer juerga cubre una semana laboral de buena comida, bebida fuerte y socialización. Un personaje puede intentar parrandear con gente de clase baja, media o alta. 
+**Recursos**
+Hacer juerga cubre una semana laboral de buena comida, bebida fuerte y socialización. Un personaje puede intentar parrandear con gente de clase baja, media o alta. 
 Un personaje puede hacer juerga con la clase baja por 1.000 po para cubrir los gastos, o 5.000 po para la clase media. Ir de parranda con la clase alta requiere 25.000 po para la semana laboral y el acceso a la nobleza local.
 
 Un personaje con un trasfondo de noble puede mezclarse con la clase alta, pero otros personajes pueden hacerlo solo si juzgas que el personaje ha conseguido suficientes contactos. Alternativamente, un personaje puede usar un [[kit de disfraz]] y la habilidad de [[Engaño]] para pasar como un noble que visita desde una ciudad distante.

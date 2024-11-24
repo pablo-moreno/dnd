@@ -10,14 +10,14 @@ aliases:
 
 ## Características
 
-| Característica                                                           | Nivel | Bonificador | Lanzar dado      |
-| ------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/Estadisticas/Estadisticas/Fuerza\|Fuerza]] | 3     | -3          | `dice: 1d20 + 0` |
-| [[Destreza]]                                                             | 16    | +3          | `dice: 1d20 + 0` |
-| [[Constitución]]                                                         | 10    | 0           | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                         | 2     | -4          | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                            | 10    | 0           | `dice: 1d20 + 0` |
-| [[Carisma]]                                                              | 1     | -5          | `dice: 1d20 + 0` |
+| Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
+| ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 3     | -3          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 16    | +3          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 10    | 0           | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 2     | -4          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 10    | 0           | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 1     | -5          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 15
 [[Puntos de Golpe]]: 10 (`dice: 1d4`)

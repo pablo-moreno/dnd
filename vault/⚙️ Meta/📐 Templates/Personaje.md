@@ -15,8 +15,13 @@ Jugador:
 ## Estado
 
 | PG  | PGM | CA  | SC  | Turno |
-| --- | --- | --- | --- | ----- |
+| :-: | :-: | :-: | :-: | :---: |
 |     |     |     |     |       |
+- PG: Puntos de Golpe
+- PGM: Puntos de Golpe Máximos
+- SC: Salvación de Conjuros
+- SME: Salvación contra Muerte: éxitos
+- SMF: Salvación contra Muerte, fallos
 
 ## Habilidades
 
