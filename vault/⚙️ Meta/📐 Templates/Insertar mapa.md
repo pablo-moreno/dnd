@@ -1,3 +1,4 @@
+
 ```leaflet
 image: [[Costa de la Espada.jpg]]
 id: costa_de_la_Espada
@@ -61,6 +62,8 @@ Con esta propiedad, podemos escalar las distancias mientras hacemos más pequeñ
 Para ello, dividiremos el resultado de las `bounds` entre un valor que podamos manejar fácilmente (2, 4, 5) y ese mismo valor se lo estableceremos a la propiedad `scale`.
 
 En el ejemplo que estamos viendo, si tenemos `[1888.1, 2857.14]` y lo dividimos entre 4 nos queda `[472.02, 714.28]` como `bounds` límites y el valor de `scale` sería 4.
+
+Para medir distancias en el mapa, mantén pulsado alt y haz click en el punto de inicio y en el de fin, se pueden establecer puntos intermedios para calcular distancias irregulares.
 
 ![[Distancia entre dos localizaciones.png]]
 Aquí podemos ver, por tanto, que la distancia entre Warlock's Crypt y Trollclaw Ford en línea recta es de 148,4 millas.

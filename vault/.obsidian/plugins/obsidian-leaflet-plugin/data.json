@@ -1,5 +1,69 @@
 {
-  "mapMarkers": [],
+  "mapMarkers": [
+    {
+      "id": "almacen_zhent",
+      "lastAccessed": 1732474211426,
+      "markers": [
+        {
+          "id": "ID_a92ab938e8f8",
+          "type": "default",
+          "loc": [
+            -7.46875,
+            9.28125
+          ],
+          "layer": "%5B%5B4QCn8nO.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_9868a9fb38aa",
+          "type": "Enemigo",
+          "loc": [
+            -2.4375,
+            1.57421875
+          ],
+          "link": "Kenku",
+          "layer": "%5B%5B4QCn8nO.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": 1,
+          "maxZoom": 1,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_3bfaa8695aaa",
+          "type": "Enemigo",
+          "loc": [
+            -2.58203125,
+            1.578125
+          ],
+          "link": "Kenku",
+          "layer": "%5B%5B4QCn8nO.jpeg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": "Kenku 1",
+          "minZoom": 2,
+          "maxZoom": 3,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dungeons and Dragons/Partidas/DM/Charles/El Golpe del Dragón/Mapas/Capitulo 1/Almacén Zhent.md",
+        "Dungeons and Dragons/Partidas/DM/Charles/El Golpe del Dragón/Mapas/Capitulo 1/El Portal Bostezante.md",
+        "Dungeons and Dragons/Partidas/DM/Charles/El Golpe del Dragón/Mapas/Capitulo 1/Escondite del Gremio.md"
+      ]
+    }
+  ],
   "defaultMarker": {
     "type": "default",
     "iconName": "map-marker",
@@ -10,17 +74,146 @@
       "y": -2
     }
   },
-  "markerIcons": [],
+  "markerIcons": [
+    {
+      "type": "Jugador 2",
+      "iconName": "circle",
+      "color": "#eeff00",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Jugador 3",
+      "iconName": "circle",
+      "color": "#00a803",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Jugador 4",
+      "iconName": "circle",
+      "color": "#6e00db",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Jugador 5",
+      "iconName": "circle",
+      "color": "#ff6600",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Enemigo",
+      "iconName": "circle",
+      "color": "#ff0000",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Npc",
+      "iconName": "circle",
+      "color": "#858585",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Jugador 1",
+      "iconName": "circle",
+      "color": "#0300d1",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    },
+    {
+      "type": "Jugador 6",
+      "iconName": "circle",
+      "color": "#ff00dd",
+      "alpha": 1,
+      "layer": false,
+      "transform": {
+        "size": 6,
+        "x": 0,
+        "y": -2
+      },
+      "isImage": false,
+      "tags": [],
+      "minZoom": null,
+      "maxZoom": null
+    }
+  ],
   "color": "#dddddd",
   "lat": 39.983334,
   "long": -82.98333,
   "notePreview": false,
-  "layerMarkers": true,
-  "previousVersion": "6.0.2",
+  "layerMarkers": false,
+  "previousVersion": "6.0.5",
   "version": {
     "major": 6,
     "minor": 0,
-    "patch": 2
+    "patch": 5
   },
   "warnedAboutMapMarker": false,
   "copyOnClick": false,
@@ -28,7 +221,47 @@
   "displayOverlayTooltips": true,
   "configDirectory": null,
   "mapViewEnabled": true,
-  "mapViewParameters": {},
+  "mapViewParameters": {
+    "darkMode": "false",
+    "defaultZoom": "1",
+    "distanceMultiplier": 1,
+    "drawColor": "#3388ff",
+    "geojson": [],
+    "geojsonColor": "#3388ff",
+    "gpx": [],
+    "gpxColor": "#3388ff",
+    "height": "500px",
+    "image": "[[4QCn8nO.jpeg]]",
+    "imageOverlay": [],
+    "isMapView": false,
+    "layers": [
+      "[[4QCn8nO.jpeg]]"
+    ],
+    "linksFrom": [],
+    "linksTo": [],
+    "marker": [],
+    "commandMarker": [],
+    "markerFile": [],
+    "markerFolder": [],
+    "markerTag": [],
+    "maxZoom": "10",
+    "minZoom": "1",
+    "osmLayer": true,
+    "overlay": [],
+    "overlayColor": "blue",
+    "scale": "4",
+    "showAllMarkers": false,
+    "tileServer": [],
+    "verbose": false,
+    "zoomDelta": 1,
+    "zoomFeatures": false,
+    "id": "almacen_zhent",
+    "unit": "pies",
+    "recenter": "true",
+    "bound": "[[0 ,0][393.96, 487.76]]",
+    "width": "100%",
+    "filterTag": []
+  },
   "enableDraw": true,
   "defaultUnitType": "imperial",
   "defaultTile": "https://{s}.basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png",
