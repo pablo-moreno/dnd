@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 10 lb
-Precio: "20.000"
+Precio: "5.000"
 int_peso: 10
-int_precio: 20000
+int_precio: 5000
 ---
 
 Un conjunto de herramientas de hojalatero está diseñado para permitirte reparar muchos objetos mundanos. Aunque no puedes fabricar mucho con las herramientas de hojalatero, puedes reparar ropa desgarrada, afilar una espada desgastada y remendar una cota de malla dañada.

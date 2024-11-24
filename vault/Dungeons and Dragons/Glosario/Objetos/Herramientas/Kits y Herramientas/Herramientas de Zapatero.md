@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 5 lb
-Precio: "15.000"
+Precio: "500"
 int_peso: 5
-int_precio: 15000
+int_precio: 500
 ---
 
 Aunque el oficio de zapatero puede parecer demasiado humilde para un aventurero, un buen par de botas llevará a un personaje a través de parajes accidentados y mazmorras mortales. 

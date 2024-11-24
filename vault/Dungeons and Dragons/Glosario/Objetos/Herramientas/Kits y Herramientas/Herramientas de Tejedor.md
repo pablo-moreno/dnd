@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 5 lb
-Precio: "15.000"
+Precio: "100"
 int_peso: 5
-int_precio: 15000
+int_precio: 100
 ---
 
 Las herramientas de tejedor te permiten crear telas y adaptarlas a prendas de vestir. 

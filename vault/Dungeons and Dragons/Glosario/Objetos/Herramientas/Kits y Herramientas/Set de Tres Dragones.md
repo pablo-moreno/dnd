@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 0 lb
-Precio: "10.000"
+Precio: "100"
 int_peso: 0
-int_precio: 10000
+int_precio: 100
 ---
 La competencia en juegos se aplica a un tipo de juego, como La Cuota de Tres Dragones o juegos de azar que usan dados.
 

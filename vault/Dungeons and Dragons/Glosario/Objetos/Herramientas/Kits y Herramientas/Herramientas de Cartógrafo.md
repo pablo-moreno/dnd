@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 6 lb
-Precio: "10.000"
+Precio: "1.500"
 int_peso: 6
-int_precio: 10000
+int_precio: 1500
 ---
 
 Con las herramientas del cartógrafo, puedes crear mapas precisos para facilitar los viajes para ti y para quienes te siguen. Estos mapas pueden abarcar desde representaciones a gran escala de cadenas montañosas hasta diagramas que muestran el diseño de un nivel de mazmorra.

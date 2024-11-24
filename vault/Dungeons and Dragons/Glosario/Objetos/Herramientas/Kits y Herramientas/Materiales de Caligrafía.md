@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 5 lb
-Precio: "20.000"
+Precio: "1.000"
 int_peso: 5
-int_precio: 20000
+int_precio: 1002
 ---
 La caligrafía trata la escritura como un arte delicado y hermoso. Los calígrafos producen texto que es agradable a la vista, utilizando un estilo que es difícil de falsificar. Sus suministros también les dan cierta capacidad para examinar los guiones y determinar si son legítimos, ya que la capacitación de un calígrafo implica largas horas de estudio de escritura e intento de replicar su estilo y diseño.
 

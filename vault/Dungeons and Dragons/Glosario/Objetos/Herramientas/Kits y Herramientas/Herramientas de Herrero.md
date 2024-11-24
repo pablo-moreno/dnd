@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 8 lb
-Precio: "20.000"
+Precio: "2.000"
 int_peso: 8
-int_precio: 20000
+int_precio: 2000
 ---
 Las herramientas de herrero te permiten trabajar el metal, golpearlo para modificar su forma, reparar el daño o convertir lingotes en bruto en artículos útiles.
 

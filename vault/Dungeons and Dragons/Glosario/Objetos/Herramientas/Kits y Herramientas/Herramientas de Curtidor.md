@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 5 lb
-Precio: "15.000"
+Precio: "500"
 int_peso: 5
-int_precio: 15000
+int_precio: 500
 ---
 
 El conocimiento de la marroquinería se extiende a la información sobre las pieles de animales y sus propiedades. También confiere conocimiento en armaduras de cuero y productos similares.

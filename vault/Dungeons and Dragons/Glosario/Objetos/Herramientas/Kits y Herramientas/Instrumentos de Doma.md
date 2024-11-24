@@ -6,8 +6,8 @@ tags:
   - H/Her
 aliases: 
 Peso: 2 lb
-Precio: "20.000"
+Precio: "2.000"
 int_peso: 2
-int_precio: 20000
+int_precio: 2000
 ---
 

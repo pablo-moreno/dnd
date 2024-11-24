@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 9 lb
-Precio: "15.000"
+Precio: "2.000"
 int_peso: 9
-int_precio: 15000
+int_precio: 2000
 ---
 
 La elaboración de cerveza es el arte de producir licor. La cerveza no solo sirve como bebida alcohólica, sino que el proceso de elaboración de la cerveza purifica el agua. La elaboración de cerveza lleva semanas de fermentación, pero solo unas pocas horas de trabajo.

@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 5 lb
-Precio: "25.000"
+Precio: "1.500"
 int_peso: 5
-int_precio: 25000
+int_precio: 1500
 ---
 
 Un kit de falsificación está diseñado para duplicar documentos y facilitar la copia del sello o la firma de una persona.

@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 5 lb
-Precio: "10.000"
+Precio: "3.000"
 int_peso: 5
-int_precio: 10000
+int_precio: 3000
 ---
 
 Alguien competente con herramientas de soplador de vidrio no solo tiene la capacidad de dar forma al vidrio, sino también un conocimiento especializado de los métodos utilizados para producir objetos de vidrio.

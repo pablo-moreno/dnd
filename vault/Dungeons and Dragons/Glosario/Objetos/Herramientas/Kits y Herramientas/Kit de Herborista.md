@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 3 lb
-Precio: "20.000"
+Precio: "500"
 int_peso: 3
-int_precio: 20000
+int_precio: 500
 ---
 La competencia de un kit de herboristería te permite identificar plantas y recolectar de forma segura sus elementos útiles.
 

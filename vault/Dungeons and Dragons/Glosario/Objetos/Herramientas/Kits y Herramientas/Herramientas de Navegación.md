@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 2 lb
-Precio: "20.000"
+Precio: "2.500"
 int_peso: 2
-int_precio: 20000
+int_precio: 2500
 ---
 La competencia con herramientas de navegante te ayuda a determinar un verdadero curso basado en observar las estrellas. También te brinda información sobre gráficos y mapas mientras desarrollas tu sentido de dirección.
 

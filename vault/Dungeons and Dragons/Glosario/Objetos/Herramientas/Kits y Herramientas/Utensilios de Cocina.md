@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 8 lb
-Precio: "5.000"
+Precio: "100"
 int_peso: 8
-int_precio: 5000
+int_precio: 100
 ---
 Esta caja de metal contiene una taza y cubiertos simples. La caja consta de dos partes que se cierran juntas, y uno de las partes puede ser usado como un recipiente de cocción y la otra como una placa o recipiente poco profundo.
 

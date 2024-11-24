@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 2 lb
-Precio: "20.000"
+Precio: "5.000"
 int_peso: 2
-int_precio: 20000
+int_precio: 5000
 ---
 Un kit de envenenador es un recurso favorito para los ladrones, asesinos y otras personas que se dedican a las artimañas. Te permite aplicar venenos y crearlos a partir de diversos materiales. Tu conocimiento de los venenos también te ayuda a tratarlos.
 

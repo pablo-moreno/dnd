@@ -6,9 +6,9 @@ tags:
   - H/Ins
 aliases: 
 Peso: 3 lb
-Precio: "1.200"
+Precio: "600"
 int_peso: 3
-int_precio: 1200
+int_precio: 600
 ---
 La competencia con un instrumento musical indica que estás familiarizado con las técnicas utilizadas para tocarlo. También tienes conocimiento de algunas canciones comúnmente interpretadas con ese instrumento.
 

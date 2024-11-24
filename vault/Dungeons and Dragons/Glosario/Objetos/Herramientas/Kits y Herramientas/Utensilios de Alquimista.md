@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 8 lb
-Precio: "20.000"
+Precio: "5.000"
 int_peso: 8
-int_precio: 20000
+int_precio: 5000
 ---
 
 Los suministros de alquimista permiten que un personaje produzca mezclas útiles, como el ácido o fuego de alquimista.

@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 6 lb
-Precio: "5.000"
+Precio: "800"
 int_peso: 6
-int_precio: 5000
+int_precio: 800
 ---
 
 La habilidad en la carpintería permite a un personaje construir estructuras de madera. Un carpintero puede construir una casa, una choza, un gabinete de madera o artículos similares.

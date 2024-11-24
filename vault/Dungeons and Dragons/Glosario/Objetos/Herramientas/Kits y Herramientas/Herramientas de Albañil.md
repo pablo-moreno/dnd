@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 8 lb
-Precio: "5.000"
+Precio: "1.000"
 int_peso: 8
-int_precio: 5000
+int_precio: 1000
 ---
 Las herramientas de albañil te permiten diseñar estructuras de piedra, incluidas paredes y edificios hechos de ladrillo.
 

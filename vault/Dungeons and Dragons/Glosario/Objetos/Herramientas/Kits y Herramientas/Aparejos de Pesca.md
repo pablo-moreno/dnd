@@ -6,9 +6,8 @@ tags:
   - H/Her
 aliases: 
 Peso: 4 lb
-Precio: "15.000"
+Precio: "100"
 int_peso: 4
-int_precio: 15000
+int_precio: 100
 ---
-Este Equipo incluye una caña de madera, hilo de seda, flotador de corcho, ganchos de acero, las-
-tres de plomo, señuelos de terciopelo y redes estrechas.
+Este Equipo incluye una caña de madera, hilo de seda, flotador de corcho, ganchos de acero, lastres de plomo, señuelos de terciopelo y redes estrechas.

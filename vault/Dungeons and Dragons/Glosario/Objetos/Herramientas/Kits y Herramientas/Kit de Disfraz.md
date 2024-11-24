@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 3 lb
-Precio: "15.000"
+Precio: "2.500"
 int_peso: 3
-int_precio: 15000
+int_precio: 2500
 ---
 La herramienta perfecta para cualquier persona que quiera participar en engaños, un kit de disfraces le permite a su dueño adoptar una identidad falsa.
 

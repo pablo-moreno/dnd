@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 1 lb
-Precio: "15.000"
+Precio: "2.500"
 int_peso: 1
-int_precio: 15000
+int_precio: 2500
 ---
 Quizás las herramientas más comunes utilizadas por los aventureros, las herramientas de ladrón, están diseñadas para abrir cerraduras y frenar trampas. La competencia de las herramientas también te otorga un conocimiento general de trampas y cerraduras.
 

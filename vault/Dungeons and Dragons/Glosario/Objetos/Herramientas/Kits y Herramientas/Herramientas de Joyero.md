@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 2 lb
-Precio: "20.000"
+Precio: "2.500"
 int_peso: 2
-int_precio: 20000
+int_precio: 2500
 ---
 
 La capacitación con herramientas de joyero incluye las técnicas básicas necesarias para embellecer gemas. También te da experiencia en la identificación de piedras preciosas.

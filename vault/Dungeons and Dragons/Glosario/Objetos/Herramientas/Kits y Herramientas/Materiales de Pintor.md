@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 5 lb
-Precio: "20.000"
+Precio: "1.000"
 int_peso: 5
-int_precio: 20000
+int_precio: 1000
 ---
 
 La competencia con suministros de pintor representa tu capacidad para pintar y dibujar. También adquieres comprensión de la historia del arte, que puede ayudarte a examinar las obras de arte.

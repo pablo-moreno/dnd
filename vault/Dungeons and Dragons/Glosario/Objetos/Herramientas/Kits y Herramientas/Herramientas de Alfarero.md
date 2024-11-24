@@ -6,9 +6,9 @@ tags:
   - H/Her
 aliases: 
 Peso: 3 lb
-Precio: "10.000"
+Precio: "1.000"
 int_peso: 3
-int_precio: 10000
+int_precio: 1000
 ---
 Las herramientas de alfarero se utilizan para crear una variedad de objetos de cerámica, generalmente ollas y recipientes similares.
 
