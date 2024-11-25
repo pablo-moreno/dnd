@@ -20,9 +20,10 @@ Una de las acciones más importante de los fieles de Bhaal fue en el año 1255 C
 Antes de la Era de los Trastornos Bhaal sufrió un duro revés en las Moonshaes donde por medio de un agente suyo, Kazgoroth, intentó sembrar la destrucción en la isla y eliminar a la Madre de la Tierra. La derrota de Kazgoroth solo provocó que el dios enviará a uno de sus avatares con el fin de tomar las islas, pero fue derrotado por Tristan, Alto Rey de los Ffolk. Esta derrota le quitó mucho poder y le impidió actuar de forma directa en los Reinos durante un tiempo.
 
 Antes de que pudiera recuperar parte de su poder, Bhaal se vio obligado a caminar por Faerun durante la Era de los Trastornos donde se alió con Bane y Myrkul para hacerse con las Tablas del Destino. Bhaal murió a manos de Cyric en el Puente Boareskyr, convirtiéndose las aguas del río que lo cruzaban en una marisma negra y venenosa. Se cree que una parte de la personalidad de Bhaal sigue en las aguas del río, con lo que si Bhaal alguna vez resucita, será en el Puente Boareskyr.
+
 #### Relaciones
 
-Los aliados de Bhaal eran sobretodo [[Loviatar]] y [[Talona]] debido a que ambas estaban sometidas a Bhaal. [[Dungeons and Dragons/Glosario/Entorno/Dioses/Perdición]], [[Myrkul]], [[Mask]] y [[Hoar]] también se encontraban entre los aliados del Señor del Asesinato.
+Los aliados de Bhaal eran sobretodo [[Loviatar]] y [[Talona]] debido a que ambas estaban sometidas a Bhaal. [[Dungeons and Dragons/Glosario/Entorno/Dioses/Panteón de Faerun/Deidades Malvadas/Perdición]], [[Myrkul]], [[Mask]] y [[Hoar]] también se encontraban entre los aliados del Señor del Asesinato.
 
 Entre sus enemigos se encontraba a Chauntea, con la que mantuvo una dura lucha en las [[Moonshaes]], [[Helm]], [[Lathander]], [[Torm]], [[Tyr]], [[Ilmater]] y [[Lliira]].
 
@@ -33,6 +34,7 @@ Los seguidores de Bhaal creían que todo asesinato fortalecía al sagrado Bhaal.
 Si el estar encarcelados o cualquier otro impedimento no les permitía llevar a cabo el asesinato debían de matar el doble por cada muerte perdida. De acuerdo con las enseñanzas de Bhaal, sus seguidores debían de asegurarse que las victimas debían de saber antes de morir que su asesinato era en nombre de Bhaal.
 
 Los novicios de Bhaal se les hacía aprender esto: “Haz que todo el mundo tema a Bhaal. Haz que tus asesinatos sean especialmente elegantes o horrorosos, o hacer que parezca fácil para aquellos que los vean sientan pasmo y terror. Decid a la gente que el oro ofrecido a la iglesia puede hacer que el Señor del Asesinato les pase por alto por hoy”.
+
 #### Clérigos de Bhaal
 
 Los seguidores de Bhaal se organizaban en pequeñas redes de ámbito local. Los bhaalistas o bhaalyn (tal como eran conocidos los clérigos, el segundo termino usado sobretodo en la Costa de la Espada) solían ser clérigos afincados en áreas urbanas. Los clérigos que actuaban fuera del campo eran los Acechadores de la Muerte, una variante de clérigos más poderosa.
@@ -42,6 +44,7 @@ Las dos facciones mantuvieron unas relaciones cordiales y frías mientras Bhaal 
 El líder de una facción de seguidores de Bhaal, sin importar su poder, es considerado el Alto Primado. El líder de una fortaleza era el Primado. Los asistentes del Primado tomaban el nombre de Primer Asesinato. Éstos tenían poder debajo de él a las Muerte Encapuchadas un grupo de nueve clérigos. Por debajo de ellos estaban los clérigos normales conocidos como Agentes de la Muerte y de forma colectiva como la Mano Asesina.
 
 Pese a que Bhaal alentaba buscar la riqueza personal, la labor principal de los clérigos era prepararse para el asesinato. Su labor consistía en prepararse y realizar los planes necesarios para poder llevar a cabo el asesinato. No era extraño ver a clérigos de Bhaal sirviendo como caza recompensas. Los asesinatos eran selectivos, concentrándose en eliminar posibles enemigos, aunque de vez en cuando se asesinaba con el fin de infundir el miedo a la gente normal.
+
 #### Rituales
 
 El principal ritual de Bhaal era el asesinato en el que se tenía que decir “Bhaal te espera, Bhaal te abraza, nadie escapa a Bhaal”. Tras cada asesinato el clérigo debía de mojar el símbolo de la fe en la sangre del muerto y extender la sangre por sus manos. Cuando ésta desaparecía significaba que el ritual había sido completado.

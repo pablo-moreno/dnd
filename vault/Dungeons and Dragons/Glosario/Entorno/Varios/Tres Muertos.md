@@ -8,5 +8,5 @@ aliases:
 ---
 # ¿Quiénes son?
 
-Los Tres Muertos son los dioses [[Dungeons and Dragons/Glosario/Entorno/Dioses/Perdición]], [[Bhaal]] y [[Myrkul]]
+Los Tres Muertos son los dioses [[Dungeons and Dragons/Glosario/Entorno/Dioses/Panteón de Faerun/Deidades Malvadas/Perdición]], [[Bhaal]] y [[Myrkul]]
 

@@ -57,7 +57,7 @@ El kuo-toa tiene desventaja en las tiradas de ataque y las pruebas de Sabiduría
 El kuo-toa es un lanzador de conjuros de nivel 2. Su aptitud mágica es Sabiduría (salvación de conjuros CD 12, +4 a impactar con ataques de conjuro). Tiene preparados los conjuros de clérigo siguientes:
 
 Trucos (a voluntad): [[llama sagrada]], [[taumaturgia]]
-Nivel 1 (3 espacios): [[escudo de fe]], [[perdición]]
+Nivel 1 (3 espacios): [[escudo de fe]], [[Dungeons and Dragons/Glosario/Entorno/Dioses/Panteón de Faerun/Deidades Malvadas/Perdición]]
 
 ## Acciones
 

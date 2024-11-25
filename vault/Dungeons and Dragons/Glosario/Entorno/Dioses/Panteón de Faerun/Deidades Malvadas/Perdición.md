@@ -7,7 +7,7 @@ tags:
 aliases: 
 alignment: Legal malvado
 ---
-> El Señor negro, la Mano negra, el Señor de la oscuridad
+El Señor negro, la Mano negra, el Señor de la oscuridad
 
 Las retorcidas salas del alcázar Zhentil resuenan con invocaciones malignas salmodiadas en sombríos templos a través de todo [[Faerûn]]. Perdición, el señor de la Oscuridad, ha conquistado su propia muerte, regresando al mundo para llevar oscuras inspiraciones a miles de intrigas, para fomentar el miedo y el odio en las tierras civilizadas y para reafirmar a los mortales comunes que la tiranía, aunque puede sufrir alguna derrota ocasional, nunca morirá.
 
@@ -20,6 +20,7 @@ La tiranía de Perdición es conocida en todo el continente, y es la imagen con 
 Los clérigos de Perdición rezan para sus conjuros a medianoche. Su religión no reconoce fiestas sagradas oficiales, aunque los sirvientes dan gracias a la Mano negra antes y después de las batallas de relevancia o antes de un acto de subterfugio especialmente importante. Los clérigos ancianos a veces declaran días sagrados sin previo aviso, normalmente diciendo actuar por inspiración divina que obtuvieron en sueños. Los ritos incluyen la música de tambores, la salmodia y el sacrificio de seres inteligentes, normalmente sobre un altar de basalto negro u obsidiana. En los últimos tiempos los clérigos de Cyric se han convertido en un sacrificio predilecto, aunque antiguos favoritos como paladines, unicornios, niños y celestiales siguen siendo populares entre los tradicionalistas. Los clérigos de Perdición normalmente adoptan clases múltiples como guerreros, monjes, guardias negros o amos del terror. Aquellos asociados al Culto de dragón a veces adoptan clases múltiples como ataviados de púrpura.
 
 ## Historia/Relaciones:
+
 Incluso cuando era humano, Perdición deseaba por encima de cualquier otra cosa convertirse en el tirano más temido y respetado que el mundo hubiese conocido nunca. No obstante, lograr esto requeriría una cantidad de poder arcano mayor que la que normalmente es concedida a los mortales. Por ello el déspota calculador unió fuerzas con los humanos [[Bhaal]] y [[Myrkul]], que tenían los mismos objetivos, en un pacto de asistencia mutua que terminaría con la apoteosis del trío completo. Los tres villanos tuvieron aventuras a lo largo y ancho de [[Faerûn]], derrotaron a incontables enemigos, mataron a uno de los Siete dioses perdidos y viajaron a través de los planos Inferiores antes de alcanzar su meta. Se beneficiaron de la generosidad (o, según algunos sugieren, de la indiferencia) de [[Yérgal]], que se había cansado de su papel como patrón de los conflictos, la muerte y los muertos. Cada uno obtuvo un tercio del ámbito de poder de Yérgal y dominio de su área de influencia durante siglos.
 
 Sin embargo, incluso el control completo sobre los conflictos no era suficiente para Perdición, por lo que su deseo de supremacía le llevó en 1358 CV a unirse de nuevo con [[Myrkul]]. La pareja robó las _Tablas del destino_, escritas por el señor [[Ao]] para determinar los papeles de las deidades en Toril. Esto precipitó la calamitosa era de los Trastornos, en la cual [[Torm]] el leal dio muerte a Perdición en una furiosa batalla en el puerto de Tantras. Parecía que la ambición sin freno del Señor negro le había conducido a su destrucción. La iglesia de Perdición se fragmentó con la mayoría de los fieles desertando hacia el clero de Cyric, que había heredado el ámbito de poder de Perdición, y hacia Iyakhtu Xvim, la progenie de Perdición y de una poderosa demonio. Los agentes del bien y la libertad respiraron con más tranquilidad esos días, sabiendo que Toril se había librado de quizás su mayor amenaza.
@@ -29,6 +30,7 @@ Aquellos que bajaron la guardia, no obstante, lo habían hecho demasiado irrefle
 Perdición odia virtualmente a todo el panteón faerûnio, pero tiene especial antipatía a [[Torm]], [[Cyric]], [[Mystra]], [[Tempus]], [[Yelmo]], [[Lathander]], [[Oghma]] e [[Ilmáter]], en ese orden. Ha establecido una relación de trabajo con [[Loviatar]], [[Máscara]] y [[Talona]], pero como estas deidades le temen con desesperación, las alianzas no son fuertes.
 
 ## Dogma
+
 No sirvas a otro salvo a Perdición. Témele siempre y haz que los demás le teman incluso más de lo que lo temes tú. La Mano negra siempre acaba aplastando a aquellos que se oponen a él. Desafía a Perdición y muere, o encuentra en la muerte la lealtad hacia él, ya que puede obligarte a hacerlo. Sométete a la palabra de Perdición tal y como es pronunciada por su jerarquía clerical, ya que el verdadero poder sólo puede obtenerse sirviéndole. Extiende el terror oscuro de Perdición. Es la condena de aquellos que no le siguen y dejan que el pdoer se escape de sus manos. Aquellos que se cruzan con la Mano negra encuentran su destrucción antes y más severamente que aquellos que adoran a otras deidades.
 
 ## Clero y templos 
