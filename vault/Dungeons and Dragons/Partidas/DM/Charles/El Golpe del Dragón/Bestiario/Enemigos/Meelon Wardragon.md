@@ -80,7 +80,7 @@ Hace tres meses, por mero aburrimiento, Meelon acompaño a una incipiente banda 
 Allí, la suerte se le acabo. Mientras descansaba en la mazmorra, el grupo fue atacado por monstruos enviados por el Xanathar, incluidos varios devoradores de intelectos. 
 Una de esas criaturas consiguió devorar y sustituir mágicamente el cerebro de Meloon, convirtiendo al campeón de Tymora en un títere. Tras acabar con sus confiados compañeros, Meloon regreso a Waterdeep convertido en un espía del gremio del Xanathar.
 
-El devorador de intelectos que habita en el cráneo de Meloon fue criado por Nihiloor, un azotamentes a las ordenes del Xanathar. Sabe todo lo que el guerrero sabía, de forma que Meloon se commporta como normalmente antes de su descenso al Undermountain. Pasa el rato en el Portal Bostezante, trata de relacionarse con otros aventureros y echa una mano donde haga falta. 
+El devorador de intelectos que habita en el cráneo de Meloon fue criado por Nihiloor, un azotamentes a las ordenes del Xanathar. Sabe todo lo que el guerrero sabía, de forma que Meloon se comporta como normalmente antes de su descenso al Undermountain. Pasa el rato en el Portal Bostezante, trata de relacionarse con otros aventureros y echa una mano donde haga falta. 
 Los objetivos principales del devorador de intelectos son mantener a la gente alejada del Undermountain y hacer que se lleven a cabo las misiones que persigan los objetivos del gremio del Xanathar. Por lo general, dichos encargos buscan erradicar a los enemigos del contemplador, por lo que Meloon esta ansioso de luchar con aquellos que caen en su trampa.
 
 ## Galería
