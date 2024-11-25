@@ -13,9 +13,10 @@ id: waterdeep
 defaultZoom: 0.1
 minZoom: 0.1
 maxZoom: 4
-unit: millas
+lat: 667.552
+unit: pies
 recenter: true
-bounds: [[0, 0], [6675.52, 3275.2]]
-scale: 1
+bounds: [[0, 0], [667.552, 327.52]]
+scale: 20
 width: 100%
 ```

@@ -4,8 +4,8 @@ tags:
   - type/enemy
 alignment: caótico bueno
 race: "[[Humano]]"
-size: "[[Dungeons and Dragons/Glosario/Entorno/Idiomas/Mediano]]"
-aliases: 
+size: Mediano
+aliases:
 ---
 
 ## Características
