@@ -52,6 +52,8 @@ Percepción Pasiva: -
 
 ## Conjuros
 
+Lista de Conjuros de
+
 | Nivel  | Conjuros | EM  |  E  |
 | :----: | -------- | :-: | :-: |
 | Trucos |          |  -  |  -  |
@@ -66,7 +68,7 @@ Percepción Pasiva: -
 |   9    |          |     |     |
 #### Ayuda
 
-* E: Espacio de Conjuros
+* E: [[Espacios de Conjuros]]
 * EM: Espacio de Conjuros Máximo
 
 ### Estadísticas de Conjuros
@@ -76,9 +78,9 @@ Percepción Pasiva: -
 |     |     |     |
 #### Ayuda
 
-- SC: Salvación de Conjuros
-- BC : Bonificador de Lanzamiento de Conjuro
-- AM: Aptitud Mágica
+- SC: CD de [[Tiradas de Salvación]] de Conjuros
+- BC : Bonificador de Lanzamiento de Conjuros
+- AM: Aptitud Mágica en [[Tiradas de Ataque]]
 
 ## Inventario
 

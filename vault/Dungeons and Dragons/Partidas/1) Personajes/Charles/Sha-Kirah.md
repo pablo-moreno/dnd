@@ -58,6 +58,8 @@ Impacto: 0 de daño Contundente.
 
 ## Conjuros
 
+[[Lista de Conjuros de Bardo]]
+
 | Nivel  | Conjuros                                                                                           | EM  |  E  |
 | :----: | -------------------------------------------------------------------------------------------------- | :-: | :-: |
 | Trucos | [[Mano de mago]], [[Prestidigitación]]                                                             |  -  |  -  |
@@ -72,9 +74,8 @@ Impacto: 0 de daño Contundente.
 |   9    |                                                                                                    |     |     |
 #### Ayuda
 
-* E: Espacio de Conjuros
+* E: [[Espacios de Conjuros]]
 * EM: Espacio de Conjuros Máximo
-
 
 ### Estadísticas de Conjuros
 
@@ -83,9 +84,9 @@ Impacto: 0 de daño Contundente.
 | 13  | +5  |  3  |
 #### Ayuda
 
-- SC: Salvación de Conjuros
-- BC : Bonificador de Lanzamiento de Conjuro
-- AM: Aptitud Mágica
+- SC: CD de [[Tiradas de Salvación]] de Conjuros
+- BC : Bonificador de Lanzamiento de Conjuros
+- AM: Aptitud Mágica en [[Tiradas de Ataque]]
 
 
 ## Inventario
