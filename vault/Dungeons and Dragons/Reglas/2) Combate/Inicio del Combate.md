@@ -6,7 +6,6 @@ tags:
   - type/note
 aliases:
 ---
-
 Un combate típico es un enfrentamiento entre dos bandos, una ráfaga de golpes con un arma, fintas, esquivas, juego de piernas, y lanzamiento de conjuros. El juego organiza el caos del combate en un ciclo de asaltos y turnos. Un asalto representa aproximadamente 6 segundos en el mundo de juego.
 
 Durante un asalto, cada contendiente en una batalla toma un turno. El orden de los turnos se determina al principio de un encuentro de combate, cuando todo el mundo tira iniciativa.

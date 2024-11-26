@@ -10,7 +10,7 @@ En tu turno, puedes mover hasta una distancia igual a tu velocidad y realizar un
 
 Las acciones más comunes que puedes realizar están descritas más adelante en la sección [[Acciones en Combate]]. Muchas características de clase y otras habilidades proveen opciones adicionales para tu acción.
 
-Más adelante, en la sección [[Espacio]] se detallan las reglas de movimiento.
+Más adelante, en la sección [[2.Espacio]] se detallan las reglas de movimiento.
 
 Combate Paso a Paso
 

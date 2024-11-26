@@ -14,28 +14,43 @@ Jugador:
 ---
 ## Estado
 
-| PG  | PGM | CA  | SC  | Turno |
-| :-: | :-: | :-: | :-: | :---: |
-|     |     |     |     |       |
-- PG: Puntos de Golpe
+| PG  | PGM | CA  | BC  |  I  | SME | SMF |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+|     |     |     |     |     |     |     |
+#### Ayuda
+- PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
-- SC: Salvación de Conjuros
-- SME: Salvación contra Muerte: éxitos
-- SMF: Salvación contra Muerte, fallos
+- CA: [[Clase de Armadura]]
+- BC: [[Bono de Competencia]]
+- I: Iniciativa
+- SME: [[Salvación contra la muerte]]: éxitos
+- SMF: [[Salvación contra la Muerte]], fallos
+
+
 
 ## Habilidades
 
-*Habilidades y Dotes:*
+### Habilidades y Dotes
 
 -
 
+### Rasgos
 
-*Rasgos:*
+Percepción Pasiva: - 
+
+
+### Competencias
+
+**Armadura**: -
+**Armas**: -
+**Herramientas**: -
+**Idiomas**: -
+
+## Acciones
 
 -
 
-
-*Conjuros:*
+## Conjuros
 
 | Nivel  | Conjuros | EM  |  E  |
 | :----: | -------- | :-: | :-: |
@@ -49,15 +64,34 @@ Jugador:
 |   7    |          |     |     |
 |   8    |          |     |     |
 |   9    |          |     |     |
+#### Ayuda
+
 * E: Espacio de Conjuros
 * EM: Espacio de Conjuros Máximo
+
+### Estadísticas de Conjuros
+
+| SC  | BC  | AM  |
+| :-: | :-: | :-: |
+|     |     |     |
+#### Ayuda
+
+- SC: Salvación de Conjuros
+- BC : Bonificador de Lanzamiento de Conjuro
+- AM: Aptitud Mágica
 
 ## Inventario
 
 -
 
+[[Monedero]]: - 
+
 ## Hoja de Personaje
 
 
+
+## Descripción
+
+-
 
 ## Galería

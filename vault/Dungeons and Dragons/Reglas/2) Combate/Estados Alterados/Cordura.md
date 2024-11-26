@@ -29,4 +29,4 @@ Puedes pedir una tirada de salvación de cordura cuando un personaje corra el ri
 -Atravesar un semiplano sustentado por leyes físicas alienígenas.
 -Resistir un efecto proporcionado por un ataque o conjuro que provoque daño psíquico.
 
-Una salvación de Cordura fallada podría provocar [[locura]] a corto plazo, largo plazo o indefinida. Cada vez que un personaje se vea afectado por locura a largo plazo o indefinida, la Cordura del personaje se reduce en 1. Un conjuro de restauración mayor podría restaurar la Cordura perdida de este modo, y el personaje podría incrementar su Cordura por medio de la subida de niveles.
+Una salvación de Cordura fallada podría provocar [[Locura]] a corto plazo, largo plazo o indefinida. Cada vez que un personaje se vea afectado por locura a largo plazo o indefinida, la Cordura del personaje se reduce en 1. Un conjuro de restauración mayor podría restaurar la Cordura perdida de este modo, y el personaje podría incrementar su Cordura por medio de la subida de niveles.
