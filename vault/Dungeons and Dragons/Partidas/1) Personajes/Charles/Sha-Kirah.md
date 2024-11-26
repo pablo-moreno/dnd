@@ -50,7 +50,11 @@ Percepción Pasiva: 13
 
 **Estoque**
 Ataque con arma cuerpo a cuerpo: + 5 a impactar, alcance 5 pies, un objetivo.
-Impacto: 1d8+3 de daño Perforante.
+Impacto: 1d8 + 3 de daño Perforante.
+
+**Daga**
+Ataque con arma cuerpo a cuerpo: + 5 a impactar, alcance 5 pies, un objetivo.
+Impacto: 1d4 + 3 de daño Perforante.
 
 **Ataque sin Armas**
 Ataque con arma cuerpo a cuerpo: +1 a impactar, alcance 5 pies, un objetivo.
