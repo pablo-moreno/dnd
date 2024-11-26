@@ -8,7 +8,7 @@ aliases:
 ---
 
 ```leaflet
-image: [[faerunlarge.jpg]]
+image: [[Map_-_Faerun_-_3E.jpg]]
 id: faerun
 defaultZoom: 1
 minZoom: 1
