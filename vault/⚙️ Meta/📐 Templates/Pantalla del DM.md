@@ -20,12 +20,18 @@ aliases:
 
 ## Combates
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+|          |     |     |     |     |     |     |       |
+|          |     |     |     |     |     |     |       |
+
+#### Ayuda
+- PG: [[Puntos de Golpe]]
+- PGM: Puntos de Golpe Máximos
+- CA: [[Clase de Armadura]]
+- I: Iniciativa (Ver [[Inicio del Combate]])
+- SME: [[Salvación contra la muerte]]: éxitos
+- SMF: [[Salvación contra la Muerte]], fallos
 
 ## Información Útil
 

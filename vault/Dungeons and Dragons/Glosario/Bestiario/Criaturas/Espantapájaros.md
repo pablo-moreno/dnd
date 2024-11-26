@@ -1,5 +1,5 @@
 ---
-name: Espantapajaros
+name: Espantapájaros
 tags:
   - type/enemy
 alignment: Caótico malo
@@ -7,10 +7,6 @@ race: Autómata
 size: Mediano
 aliases:
 ---
-
-FUE DES CON INT SAB CAR
-11(+0) 13 (+1) 11 (+0) 10 (+0) 10 (+0) 13 (+ 1 )
-
 
 ## Características
 

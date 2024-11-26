@@ -8,10 +8,6 @@ size: Grande
 aliases:
 ---
 
-FUE DES CON INT SAB CAR
-14 (+2) 13 (+1) 16 (+3) 1 (-5) 12 (+1) 5 (-3)
-
-
 ## Características
 
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
