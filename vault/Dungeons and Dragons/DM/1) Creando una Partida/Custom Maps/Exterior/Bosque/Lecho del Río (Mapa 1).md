@@ -1,5 +1,5 @@
 ---
-title: untitled
+title: Lecho del Río (Mapa 1)
 creation date: 2024-11-26 19:28
 tags:
   - state/seedling
@@ -7,15 +7,16 @@ tags:
 aliases:
 ---
 
+
 ```leaflet
-image: [[]]
-id: CaminoB1
+image: [[RiversidePathPublic.jpg]]
+id: Rio1
 defaultZoom: 7
 minZoom: 1
 maxZoom: 10
 unit: pies
 recenter: true
-bound: [[0 ,0][ -, -]]
+bound: [[0 ,0][169.89, 119.92]]
 scale: 36
 width: 100%
 ```

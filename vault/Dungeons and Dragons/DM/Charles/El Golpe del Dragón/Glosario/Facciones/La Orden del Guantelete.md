@@ -1,13 +1,13 @@
 ---
-title: Los Arpistas
-creation date: 2024-11-26 13:05
+title: Sin título
+creation date: 2024-11-26 21:32
 tags:
   - state/seedling
   - type/note
 aliases:
 ---
-Contacto: [[Mirt]]
-Introducción: Ver Manual Pg.37
+Contacto: Savra Belabranta ([[Dungeons and Dragons/Glosario/Bestiario/Pnj/Caballero|Caballero]] NB)
+Introducción: Ver Pg.41
 
 ## Misiones
 
@@ -15,45 +15,21 @@ Introducción: Ver Manual Pg.37
 
 #### Resumen
 
-```leaflet
-image: [[.jpeg]]
-id:
-defaultZoom: 1
-minZoom: 1
-maxZoom: 10
-unit: millas
-recenter: true
-bounds: [[0, 0], [242.391, 578.578]]
-scale: 20
-width: 100%
-```
-Buscar a la yegua parlante llamada Maxeene. Averiguar si ha obtenido información de la Red Negra.
+Los zhents están pagando a bandas en el distrito de la explanada para atacar al Gremio del Xanathar. Se producen peleas todos los días, detenedlas antes de que den comienzo.
 
 #### Transcurso
 
-Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar una prueba de Carisma (Persuasión) CD 13 para convencerla. Identifica a [[Los asaltacondenas, Davil Starsong]] y a Yagra Stonefist, los recogió hace días y bajaron en el Portal Bostezante, hablaron de contratar espías para eliminar los escondites del Gremio del Xanathar.
-
-#### Recompensa
-
-1 de Prestigio con los Arpistas
-
-
-### Misión 2 (Nivel 3)
-
-#### Resumen
-
-
-#### Transcurso
-
+Cuando parezca que hay un combate, superar tres pruebas de carisma (Intimidacion) o derrotar a cuatro matones.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura  | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :-------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+| [[Matón]] | 32  | 32  | 11  |     |     | +0  |       |
+| [[Matón]] | 32  | 32  | 11  |     |     | +0  |       |
+| [[Matón]] | 32  | 32  | 11  |     |     | +0  |       |
+| [[Matón]] | 32  | 32  | 11  |     |     | +0  |       |
+
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -62,8 +38,23 @@ Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar 
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
 - SMF: [[Salv
+#### Recompensa
+
+1 de Prestigio con la Orden del Guantelete
+
+### Misión 2 (Nivel 3)
+
+#### Resumen
+
+La Vibora Negra, una infame ladrona que se creia muerta, ha vuelto y ha robado en una docena de haciendas. Nadie conoce su identidad pero el Waterdeep al descubierto ha revelado que se trata de una noble. Averiguad que saben sobre ella.
+
+#### Transcurso
+
+Reunirse con Gaxly Rudderbust en el periodico y superar una prueba de Carisma (Intimidacion o Persuasion) CD 12 o sobornarle con 5.000 po. Revela que es la hermana desfigurada de [[Ammalia Cassalanter]]. Al ir a la residencia Cassalanter o hacer una tirada de Inteligencia (Investigación) e investigar durante todo el día revela que esa persona no existe.
 
 #### Recompensa
+
+1 de prestigio con la Orden del Guantelete
 
 
 ### Misión 3 (Nivel 4)

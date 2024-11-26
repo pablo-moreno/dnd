@@ -1,5 +1,5 @@
 ---
-title: untitled
+title: Embarcadero (Mapa 1)
 creation date: 2024-11-26 19:28
 tags:
   - state/seedling
@@ -7,16 +7,17 @@ tags:
 aliases:
 ---
 
+
 ```leaflet
-image: [[]]
-id: CaminoB1
+image: [[Embarcadero1.jpg]]
+id: Embarc1
 defaultZoom: 7
 minZoom: 1
 maxZoom: 10
 unit: pies
 recenter: true
-bound: [[0 ,0][ -, -]]
-scale: 36
+bound: [[0 ,0][ 150.58, 112.9]]
+scale: 40
 width: 100%
 ```
 ```leaflet

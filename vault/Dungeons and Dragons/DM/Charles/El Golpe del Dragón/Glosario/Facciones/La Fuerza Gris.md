@@ -6,26 +6,20 @@ tags:
   - type/note
 aliases:
 ---
-Contacto: [[Jalester Silvermane]]
-Introducción: 
+Contacto: [[Vajra Safahr]]
+Introducción: Ver Pg.40
 
 ## Misiones
 
 ### Misión 1 (Nivel 2)
 
-
 #### Resumen
+
+Buscar a Hlam, un monje que vive en una ladera del monte Waterdeep. Preguntarle si hay alguna amenaza.
+
 #### Transcurso
 
-
-#### Combate
-
-|        Criatura        | PG  | PGM | CA  | SME | SMF |  I  | Turno |
-| :--------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
-| [[Carroñero Reptante]] | 51  | 51  | 13  |     |     | +1  |       |
-|      [[Guardia]]       | 11  | 11  | 16  |     |     | +1  |       |
-|      [[Guardia]]       | 11  | 11  | 16  |     |     | +1  |       |
-|                        |     |     |     |     |     |     |       |
+Para ascender la ladera, hay que hacer una tirada de Constitución CD 12 o los jugadores obtienen 1d4 de cansancio. Hlam compartirá la información con una tirada de Carisma (Persuasión) CD 12. Si aciertan les dirá: "El gemelo del mal oculta su rostro de momento, pero esto cambiara antes del final del invierno" (Refiriéndose a Manshoon). Los personajes volverán sin problema.
 
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
@@ -38,12 +32,12 @@ Introducción:
 
 #### Recompensa
 
-1 de Prestigio con la Alianza de los Lores
+1 de Prestigio con la Fuerza Gris
 
 ### Misión 2 (Nivel 3)
 
-
 #### Resumen
+
 #### Transcurso
 
 

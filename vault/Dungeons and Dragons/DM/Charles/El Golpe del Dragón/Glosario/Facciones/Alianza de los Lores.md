@@ -62,6 +62,7 @@ Al noveno día, aparece un [[Carroñero Reptante]] perseguido por dos [[Guardia]
 ### Misión 2 (Nivel 3)
 
 #### Resumen
+
 #### Transcurso
 
 

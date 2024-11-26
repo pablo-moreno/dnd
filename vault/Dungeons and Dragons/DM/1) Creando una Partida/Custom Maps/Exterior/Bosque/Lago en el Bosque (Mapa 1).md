@@ -1,5 +1,5 @@
 ---
-title: untitled
+title: Lago en el Bosque (Mapa 1)
 creation date: 2024-11-26 19:28
 tags:
   - state/seedling
@@ -8,14 +8,14 @@ aliases:
 ---
 
 ```leaflet
-image: [[]]
-id: CaminoB1
+image: [[ForestWaterfallVol2Public.jpg]]
+id: lagob1
 defaultZoom: 7
 minZoom: 1
 maxZoom: 10
 unit: pies
 recenter: true
-bound: [[0 ,0][ -, -]]
+bound: [[0 ,0][ 164.89, 109,93]]
 scale: 36
 width: 100%
 ```

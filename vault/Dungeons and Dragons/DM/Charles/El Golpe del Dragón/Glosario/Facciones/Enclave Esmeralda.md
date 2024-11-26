@@ -49,8 +49,8 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 
 ### Misión 2 (Nivel 3)
 
-
 #### Resumen
+
 #### Transcurso
 
 

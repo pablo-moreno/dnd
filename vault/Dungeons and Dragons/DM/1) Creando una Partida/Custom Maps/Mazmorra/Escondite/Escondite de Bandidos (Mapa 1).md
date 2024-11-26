@@ -8,15 +8,15 @@ aliases:
 ---
 
 ```leaflet
-image: [[]]
+image: [[Bandit-Den-Gridded-22x33-MapPublic.jpg]]
 id: CaminoB1
-defaultZoom: 7
+defaultZoom: 6
 minZoom: 1
 maxZoom: 10
 unit: pies
 recenter: true
-bound: [[0 ,0][ -, -]]
-scale: 36
+bound: [[0 ,0][166.18, 110.57]]
+scale: 18
 width: 100%
 ```
 ```leaflet

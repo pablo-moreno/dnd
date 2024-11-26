@@ -28,8 +28,8 @@ Encontrar al noble no es difícil, pero para robar el pañuelo hay que superar u
 
 ### Misión 2 (Nivel 3)
 
-
 #### Resumen
+
 #### Transcurso
 
 
