@@ -12,12 +12,12 @@ aliases:
 ```leaflet
 image: [[CliffsideBeachPublic.jpg]]
 id: Playa1
-defaultZoom: 7
+defaultZoom: 8
 minZoom: 1
 maxZoom: 10
 unit: pies
 recenter: true
 bound: [[0 ,0][150, 114.93]]
-scale: 35
+scale: 51
 width: 100%
 ```

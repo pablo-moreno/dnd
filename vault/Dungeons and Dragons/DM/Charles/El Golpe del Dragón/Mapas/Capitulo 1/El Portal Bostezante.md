@@ -9,10 +9,10 @@ aliases:
 ## Mapa
 
 ```leaflet
-image: [[YawningPortal_Lvl1_26x25_Night_R2P_Gridless.jpg]]
+image: [[dxSlXSW.jpeg]]
 id: almacen_zhent
-defaultZoom: 6.2
-minZoom: 6.2
+defaultZoom: 6
+minZoom: 1
 maxZoom: 10
 unit: pies
 recenter: true
