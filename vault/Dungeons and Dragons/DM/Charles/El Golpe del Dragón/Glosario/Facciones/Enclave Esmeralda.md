@@ -30,8 +30,8 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 |      Criatura      | PG  | PGM | CA  | SME | SMF |  I  | Turno |
 | :----------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
 | [[Espantapájaros]] | 36  | 36  | 11  |     |     | +1  |       |
-|                    |     |     |     |     |     |     |       |
-|                    |     |     |     |     |     |     |       |
+| [[Espantapájaros]] | 36  | 36  | 11  |     |     | +1  |       |
+| [[Espantapájaros]] | 36  | 36  | 11  |     |     | +1  |       |
 |                    |     |     |     |     |     |     |       |
 
 ##### Ayuda
@@ -51,18 +51,22 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 
 #### Resumen
 
+Sir Ambrose Everdawn, un viejo canoso cammpeon de Kelemvor va a ayudar a la guardia a capturar a un nigromante en [[La Ciudad de los Muertos]]. Ayudadle si no estais ocupados.
+
 #### Transcurso
 
+Convencer a Ambrose ([[Dungeons and Dragons/Glosario/Bestiario/Pnj/Caballero|Caballero]] LB) requiere una prueba de Carisma (Persuasión) CD 13. Al acertar, pedira a los aventureros patrullar el sur del cementerio durante 10 noches. Cada noche los personajes tienen una ''Probabilidad Acumulativa'' del 10% de encontrarse seis [[Esqueleto]]. pero no al nigromante. Una vez muertos no habrá mas encuentros. 
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-
+|   Criatura    | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :-----------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+| [[Esqueleto]] | 30  | 30  | 13  |     |     | +2  |       |
+| [[Esqueleto]] | 30  | 30  | 13  |     |     | +2  |       |
+| [[Esqueleto]] | 30  | 30  | 13  |     |     | +2  |       |
+| [[Esqueleto]] | 30  | 30  | 13  |     |     | +2  |       |
+| [[Esqueleto]] | 30  | 30  | 13  |     |     | +2  |       |
+| [[Esqueleto]] | 30  | 30  | 13  |     |     | +2  |       |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -70,8 +74,11 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
+
+1 de Prestigio con el Enclave Esmeralda y 10.000 po para cada aventurero.
 
 
 ### Misión 3 (Nivel 4)
@@ -83,12 +90,9 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -96,9 +100,10 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
 #### Recompensa
 
+1 de Prestigio con el Enclave Esmeralda
 
 ### Misión 4 (Nivel 5)
 
@@ -109,12 +114,9 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -122,6 +124,8 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
 
+1 de Prestigio con el Enclave Esmeralda

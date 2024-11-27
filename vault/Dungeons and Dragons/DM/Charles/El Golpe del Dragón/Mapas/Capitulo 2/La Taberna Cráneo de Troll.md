@@ -25,6 +25,7 @@ Al final de cada decana, tira un d100+10 y consulta la tabla de [[Regentando un 
 
 ## Mapa
 
+
 ```leaflet
 image: [[Trollskull_Manor.jpg]]
 id: trollskull_Alley

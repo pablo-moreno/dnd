@@ -66,12 +66,9 @@ Reunirse con Gaxly Rudderbust en el periodico y superar una prueba de Carisma (I
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -79,7 +76,8 @@ Reunirse con Gaxly Rudderbust en el periodico y superar una prueba de Carisma (I
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
 
 
@@ -92,12 +90,9 @@ Reunirse con Gaxly Rudderbust en el periodico y superar una prueba de Carisma (I
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -105,6 +100,7 @@ Reunirse con Gaxly Rudderbust en el periodico y superar una prueba de Carisma (I
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
 

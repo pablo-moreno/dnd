@@ -63,21 +63,35 @@ Al noveno día, aparece un [[Carroñero Reptante]] perseguido por dos [[Guardia]
 
 #### Resumen
 
+Harko Swornhold, un aventurero exiliado por intentar sobornar a un magistrado, ha regresado ilegalmente.Creemos que trabaja para el Gremio del Xanathar, le han visto reclutando kenkus en el puerto. Encontradle y pasadlo por la espada con discreccion.
+
 #### Transcurso
 
+Se deben superar tres pruebas de inteligencia (Investigación) CD 14 antes de conseguir 3 fracasos. Cada prueba son 8 horas. Si otros aventureros ayudan se obtiene ventaja en las pruebas. Harko ([[Capitán Bandido]]) y dos [[Kenku]] lucharan contra el grupo.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+-Mapa de Ciudad
 
+|      Criatura       | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :-----------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Capitán Bandido]] | 65  | 65  | 15  |     |     | +3  |       |     |
+|      [[Kenku]]      | 13  | 13  | 13  |     |     | +3  |       |     |
+|      [[Kenku]]      | 13  | 13  | 13  |     |     | +3  |       |     |
+|                     |     |     |     |     |     |     |       |     |
+##### Ayuda
+
+- PG: [[Puntos de Golpe]]
+- PGM: Puntos de Golpe Máximos
+- CA: [[Clase de Armadura]]
+- BC: [[Bono de Competencia]]
+- I: Iniciativa (Ver [[Inicio del Combate]])
+- SME: [[Salvación contra la muerte]]: éxitos
+- SMF: [[Salvación contra la muerte]]: fallos
 
 #### Recompensa
 
+1 de Prestigio con la Alianza de los Lores
 
 ### Misión 3 (Nivel 4)
 
@@ -87,15 +101,21 @@ Al noveno día, aparece un [[Carroñero Reptante]] perseguido por dos [[Guardia]
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
+##### Ayuda
+- PG: [[Puntos de Golpe]]
+- PGM: Puntos de Golpe Máximos
+- CA: [[Clase de Armadura]]
+- BC: [[Bono de Competencia]]
+- I: Iniciativa (Ver [[Inicio del Combate]])
+- SME: [[Salvación contra la muerte]]: éxitos
+- SMF: [[Salvación contra la muerte]]: fallos
 
 #### Recompensa
 
+1 de Prestigio con la Alianza de los Lores
 
 ### Misión 4 (Nivel 5)
 
@@ -106,12 +126,18 @@ Al noveno día, aparece un [[Carroñero Reptante]] perseguido por dos [[Guardia]
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
+##### Ayuda
+- PG: [[Puntos de Golpe]]
+- PGM: Puntos de Golpe Máximos
+- CA: [[Clase de Armadura]]
+- BC: [[Bono de Competencia]]
+- I: Iniciativa (Ver [[Inicio del Combate]])
+- SME: [[Salvación contra la muerte]]: éxitos
+- SMF: [[Salvación contra la muerte]]: fallos
 
 #### Recompensa
 
+1 de Prestigio con la Alianza de los Lores

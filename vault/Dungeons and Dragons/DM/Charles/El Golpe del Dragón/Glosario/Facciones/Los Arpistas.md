@@ -42,18 +42,18 @@ Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar 
 
 #### Resumen
 
+Uza Solizeph es una anciana que vendr libros en un estrecho edificio del distrito mercantil. Dice que ha atrapado un monstruo dentro de su tienda y que teme por sus libros y su gato. Los vigilantes no la ayudaran pero nosotros le debemos un favor. La encontrareis llorando en la Locura de Felzoun, una taberna cercana a su tienda.
 
 #### Transcurso
 
+Uza ([[Plebeyo]] LB) describe la amenaza como un monstruo de muchos ojos que persiguio a su gata. El monstruo es un [[Dungeons and Dragons/DM/Charles/El Golpe del Dragón/Bestiario/Criaturas/Observador|Observador]]. Les dara las llaves de la tienda, que esta echa un desastre, se oye al gato en la tercera planta, pero es en realidad el observador que quiere cazar al gato.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+|                                              Criatura                                              | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------------------------------------------------------------------------------------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Dungeons and Dragons/DM/Charles/El Golpe del Dragón/Bestiario/Criaturas/Observador\|Observador]] | 13  | 13  | 13  |     |     | +3  |       |     |
+
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -61,10 +61,12 @@ Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar 
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
+
 
 #### Recompensa
 
+1 de Prestigio con los Arpistas
 
 ### Misión 3 (Nivel 4)
 
@@ -75,12 +77,9 @@ Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar 
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -88,9 +87,11 @@ Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar 
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
 
+1 de Prestigio con los Arpistas
 
 ### Misión 4 (Nivel 5)
 
@@ -107,6 +108,11 @@ Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar 
 |          |     |     |     |     |       |
 |          |     |     |     |     |       |
 |          |     |     |     |     |       |
+#### Combate
+
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -114,6 +120,8 @@ Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar 
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
 
+1 de Prestigio con los Arpistas

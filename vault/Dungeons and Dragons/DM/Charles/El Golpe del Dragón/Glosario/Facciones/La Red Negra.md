@@ -48,19 +48,14 @@ Al pasar tres noches consecutivas, los aventureros ven a un semielfo borracho, s
 
 #### Resumen
 
+Hay una tienda en el distrito comercial llamada Brebajes Weirdbottle, El gnomo que la regenta, Skeemo es amigo nuestro. Os entregara unas [[Poción de clarividencia]]. Recogedlas y entregadlas en el Atrapadioses, en el distrito del castillo, las recogerá una dama que luce un manto purpura. Quedaos con la propina.
 
 #### Transcurso
 
+[[Skeemo Weirdbottle.png]] ha colocado cuatro [[⚙️ Meta/📐 Templates/Objetos Mágicos/Veneno|Veneno]] en la caja. Tiene el color, el sabor y el aspecto de una [[Poción de clarividencia]]. [[La Víbora Negra]] esperara en el lugar indicado sentada en la parte de atras de un carruaje alquilado. Tras la entrega se marchara.
 
-#### Combate
-
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
 ##### Ayuda
+
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
 - CA: [[Clase de Armadura]]
@@ -71,6 +66,7 @@ Al pasar tres noches consecutivas, los aventureros ven a un semielfo borracho, s
 
 #### Recompensa
 
+1 de Prestigio con los Zhentarim y una bolsa con 15.000 po.
 
 
 ### Misión 3 (Nivel 4)
@@ -82,12 +78,9 @@ Al pasar tres noches consecutivas, los aventureros ven a un semielfo borracho, s
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -95,7 +88,7 @@ Al pasar tres noches consecutivas, los aventureros ven a un semielfo borracho, s
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
 #### Recompensa
 
 
@@ -108,12 +101,9 @@ Al pasar tres noches consecutivas, los aventureros ven a un semielfo borracho, s
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -121,6 +111,6 @@ Al pasar tres noches consecutivas, los aventureros ven a un semielfo borracho, s
 - BC: [[Bono de Competencia]]
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salv
+- SMF: [[Salvación contra la muerte]]: fallos
 #### Recompensa
 
