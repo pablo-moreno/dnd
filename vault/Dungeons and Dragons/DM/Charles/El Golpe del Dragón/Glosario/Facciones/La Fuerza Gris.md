@@ -38,7 +38,7 @@ Para ascender la ladera, hay que hacer una tirada de Constitución CD 12 o los j
 
 #### Resumen
 
-Un [[Dragón de Bronce Joven]] ha establecido su residencia en Waterdeep, hablad con la criatura y averiguad sus intenciones.
+Un [[Dragón de Cobre Joven]] ha establecido su residencia en Waterdeep, hablad con la criatura y averiguad sus intenciones.
 
 #### Transcurso
 
@@ -48,7 +48,7 @@ Vajra entrega una [[Poción de respiración acuática]] a cada aventurero. El gr
 
 |          Criatura          | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
 | :------------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-| [[Dragón de Bronce Joven]] | 119 | 119 | 17  |     |     | +1  |       |     |
+| [[Dragón de Cobre Joven]] | 119 | 119 | 17  |     |     | +1  |       |     |
 |                            |     |     |     |     |     |     |       |     |
 
 ##### Ayuda
