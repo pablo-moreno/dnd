@@ -16,12 +16,12 @@ FUE DES CON INT SAB CAR
 
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |
 | ------------------------------------------------------------------------------ | ----- | ----------- | ---------------- |
-| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 0     | 0           | `dice: 1d20 + 0` |
-| [[Destreza]]                                                                   | 0     | 0           | `dice: 1d20 + 0` |
-| [[Constitución]]                                                               | 0     | 0           | `dice: 1d20 + 0` |
-| [[Inteligencia]]                                                               | 0     | 0           | `dice: 1d20 + 0` |
-| [[Sabiduría]]                                                                  | 0     | 0           | `dice: 1d20 + 0` |
-| [[Carisma]]                                                                    | 0     | 0           | `dice: 1d20 + 0` |
+| [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza\|Fuerza]] | 15    | +2          | `dice: 1d20 + 0` |
+| [[Destreza]]                                                                   | 14    | +2          | `dice: 1d20 + 0` |
+| [[Constitución]]                                                               | 13    | +1          | `dice: 1d20 + 0` |
+| [[Inteligencia]]                                                               | 8     | -1          | `dice: 1d20 + 0` |
+| [[Sabiduría]]                                                                  | 11    | +0          | `dice: 1d20 + 0` |
+| [[Carisma]]                                                                    | 9     | -1          | `dice: 1d20 + 0` |
 
 [[Clase de Armadura]]: 16 ([[armadura de pieles]], [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Escudo|Escudo]])
 [[Puntos de Golpe]]: 27 (`dice: 5d8`+5)

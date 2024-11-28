@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 Contacto: [[Vajra Safahr]]
-Introducción: Ver Pg.40
+Ver Pg.40
 
 ## Misiones
 
@@ -32,7 +32,7 @@ Para ascender la ladera, hay que hacer una tirada de Constitución CD 12 o los j
 
 #### Recompensa
 
-1 de Prestigio con la Fuerza Gris
+1 de Renombre con la Fuerza Gris
 
 ### Misión 2 (Nivel 3)
 
@@ -63,20 +63,24 @@ Vajra entrega una [[Poción de respiración acuática]] a cada aventurero. El gr
 
 #### Recompensa
 
-1 de Prestigio con la Fuerza Gris
+1 de Renombre con la Fuerza Gris
 
 ### Misión 3 (Nivel 4)
 
-
 #### Resumen
+
+Un miembro de la organización ha estado actuando de manera extraña, su nombre es [[Meelon Wardragon]]. Se ha dejado ver por el Portal Bostezante. Observadle una decana e informad.
+
 #### Transcurso
 
+Los aventureros pueden entablar amistad con Meelon o vigilarlo desde lejos. Cada día tiene un duelo telepático con su hacha [[Filoazul]], antes de salir de su habitación en la taberna. Al observarlo durante el enfrentamiento, se puede deducir lo que sucede con una prueba de Sabiduría (Perspicacia) CD15.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+|          Criatura           | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :-------------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+| [[Devorador de Intelectos]] | 21  | 21  | 12  |     |     | +2  |       |
+|    [[Meelon Wardragon]]     | 143 | 143 | 18  |     |     | +2  |       |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -85,9 +89,10 @@ Vajra entrega una [[Poción de respiración acuática]] a cada aventurero. El gr
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
 - SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
 
-1 de Prestigio con la Fuerza Gris
+1 de Renombre con la Fuerza Gris y si liberan la mente de Meelon, Vajra les dara una [[Varita de Secretos]] 
 
 ### Misión 4 (Nivel 5)
 
@@ -98,9 +103,9 @@ Vajra entrega una [[Poción de respiración acuática]] a cada aventurero. El gr
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+|          |     |     |     |     |     |     |       |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -111,4 +116,4 @@ Vajra entrega una [[Poción de respiración acuática]] a cada aventurero. El gr
 - SMF: [[Salvación contra la muerte]]: fallos
 #### Recompensa
 
-1 de Prestigio con la Fuerza Gris
+1 de Renombre con la Fuerza Gris

@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 Contacto: [[Jalester Silvermane]]
-Introducción: Ver Manual Pg.36
+Ver Manual Pg.36
 
 ## Misiones
 
@@ -57,7 +57,7 @@ Al noveno día, aparece un [[Carroñero Reptante]] perseguido por dos [[Guardia]
 
 #### Recompensa
 
-1 de Prestigio con la Alianza de los Lores
+1 de Renombre con la Alianza de los Lores
 
 ### Misión 2 (Nivel 3)
 
@@ -91,19 +91,28 @@ Se deben superar tres pruebas de inteligencia (Investigación) CD 14 antes de co
 
 #### Recompensa
 
-1 de Prestigio con la Alianza de los Lores
+1 de Renombre con la Alianza de los Lores
 
 ### Misión 3 (Nivel 4)
 
 #### Resumen
+
+Los Zhents andan tanteando a un mago rojo de Thay llamado Esloon Bezant. Sabemos que huyo de su patria hace años y que es lo bastante listo para que lo atrapen haciendo algo ilegal. Él y su banda merodean por el distrito del puerto, sabotead el acuerdo.
+
 #### Transcurso
 
+Los aventureros pueden crear diferencias entre las partes difundiendo  rumores. Gastar 2.500 po en sobornos o superar una prueba de Carisma (Persuasión) CD 16. O enfrentarse a Esboon ([[Dungeons and Dragons/Glosario/Bestiario/Pnj/Mago|Mago]] LM) y a su cuadrilla. Pueden derrotarlos o sobornarlos con al menos 50.000 po
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+|                          Criatura                          | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :--------------------------------------------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Dungeons and Dragons/Glosario/Bestiario/Pnj/Mago\|Mago]] | 40  | 40  | 12  |     |     | +2  |       |     |
+|                         [[Matón]]                          | 32  | 32  | 11  |     |     | +0  |       |     |
+|                         [[Matón]]                          | 32  | 32  | 11  |     |     | +0  |       |     |
+|                         [[Matón]]                          | 32  | 32  | 11  |     |     | +0  |       |     |
+|                         [[Matón]]                          | 32  | 32  | 11  |     |     | +0  |       |     |
+|                         [[Matón]]                          | 32  | 32  | 11  |     |     | +0  |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -115,7 +124,7 @@ Se deben superar tres pruebas de inteligencia (Investigación) CD 14 antes de co
 
 #### Recompensa
 
-1 de Prestigio con la Alianza de los Lores
+2 de Renombre con la Alianza de los Lores y la posibilidad de obtener el libro de conjuros de Esloon con sus conjuros preparados para el combate.
 
 ### Misión 4 (Nivel 5)
 
@@ -140,4 +149,4 @@ Se deben superar tres pruebas de inteligencia (Investigación) CD 14 antes de co
 
 #### Recompensa
 
-1 de Prestigio con la Alianza de los Lores
+1 de Renombre con la Alianza de los Lores

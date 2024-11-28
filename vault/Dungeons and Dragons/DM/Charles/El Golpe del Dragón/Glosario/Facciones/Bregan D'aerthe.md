@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 Contacto: [[Jarlaxle Baenre]]
-Introducción: Ver Manual Pg.38
+Ver Manual Pg.38
 
 ## Misiones
 
@@ -23,7 +23,7 @@ Encontrar al noble no es difícil, pero para robar el pañuelo hay que superar u
 
 #### Recompensa
 
-1 de Prestigio con la Bregan D'aerthe
+1 de Renombre con la Bregan D'aerthe
 
 ### Misión 2 (Nivel 3)
 
@@ -37,20 +37,28 @@ Jarlaxle ha escrito un articulo destapando algunas familias nobles de la ciudad 
 
 #### Recompensa
 
-1 de Prestigio con la Bregan D'aerthe
+1 de Renombre con la Bregan D'aerthe
 
 ### Misión 3 (Nivel 4)
 
-
 #### Resumen
+
+Hemos capturado un miembro del Gremio del Xanathar y debéis custodiarlo durante tres noches. Lo encontrareis encerrado en vuestro sótano.
+
 #### Transcurso
 
+Al inspeccionar el sótano de la Mansión Cráneo de Troll, se encontrara a [[Ott Steeltoes]], encerrado dentro de unas bandas de hierro de Bilarro. No se sabe como llego ahí. La primera noche, el Xanathar enviara seis [[Osgo]] al local. Atacaran aunque no se encuentren allí. La segunda noche, los visitaran cuatro plebeyos con devoradores de intelecto en su interior. Pedirán una ronda y echaran un ojo, atacaran si encuentran a Ott ose marcharan si no dan con el.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+| [[Osgo]] | 27  | 27  | 16  |     |     | +2  |       |
+| [[Osgo]] | 27  | 27  | 16  |     |     | +2  |       |
+| [[Osgo]] | 27  | 27  | 16  |     |     | +2  |       |
+| [[Osgo]] | 27  | 27  | 16  |     |     | +2  |       |
+| [[Osgo]] | 27  | 27  | 16  |     |     | +2  |       |
+| [[Osgo]] | 27  | 27  | 16  |     |     | +2  |       |
 ##### Ayuda
 
 - PG: [[Puntos de Golpe]]
@@ -63,7 +71,7 @@ Jarlaxle ha escrito un articulo destapando algunas familias nobles de la ciudad 
 
 #### Recompensa
 
-1 de Prestigio con la Bregan D'aerthe
+2 de Renombre con la Bregan D'aerthe
 
 ### Misión 4 (Nivel 5)
 
@@ -88,4 +96,4 @@ Jarlaxle ha escrito un articulo destapando algunas familias nobles de la ciudad 
 
 #### Recompensa
 
-1 de Prestigio con la Bregan D'aerthe
+1 de Renombre con la Bregan D'aerthe

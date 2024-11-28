@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 Contacto: [[Los asaltacondenas, Davil Starsong]], [[Los asaltacondenas, Tashlin Yafeera]]
-Introducción: Ver Pg.41
+Ver Pg.41
 
 ## Misiones
 
@@ -42,7 +42,7 @@ Al pasar tres noches consecutivas, los aventureros ven a un semielfo borracho, s
 - SMF: [[Salv
 #### Recompensa
 
-1 de Prestigio con los Zhentarim. Si Heldar sobrevive, cada integrante recibe 5.000 po 
+1 de Renombre con los Zhentarim. Si Heldar sobrevive, cada integrante recibe 5.000 po 
 
 ### Misión 2 (Nivel 3)
 
@@ -66,36 +66,28 @@ Hay una tienda en el distrito comercial llamada Brebajes Weirdbottle, El gnomo q
 
 #### Recompensa
 
-1 de Prestigio con los Zhentarim y una bolsa con 15.000 po.
+1 de Renombre con los Zhentarim y una bolsa con 15.000 po.
 
 
 ### Misión 3 (Nivel 4)
 
-
 #### Resumen
+
+Los Snobeedle, el linaje de medianos mas rico de la ciudad, ofrece 50.000 po por obtener información de un miembro de la familia desaparecido, Dasher Snobeedle. Necesitamos el dinero así que investigad lo que podáis sin meteros en ningún lio.
+
 #### Transcurso
 
+Al pasar tres días investigando por el distrito sur o el del puerto, se podrá realizar una tirada de Carisma (Persuasión o Intimidación) para que algún mediano les concierte un encuentro con Dasher, al mediodía del día siguiente. Dasher escuchara a los aventureros pero no volverá a casa, ya que se a unido a una banda de hombres rata llamada los Esquivaesquirlas.
 
-#### Combate
-
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
-##### Ayuda
-- PG: [[Puntos de Golpe]]
-- PGM: Puntos de Golpe Máximos
-- CA: [[Clase de Armadura]]
-- BC: [[Bono de Competencia]]
-- I: Iniciativa (Ver [[Inicio del Combate]])
-- SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salvación contra la muerte]]: fallos
 #### Recompensa
 
+2 de Renombre con los Zhentarim
 
 ### Misión 4 (Nivel 5)
 
-
 #### Resumen
+
+
 #### Transcurso
 
 
@@ -112,5 +104,7 @@ Hay una tienda en el distrito comercial llamada Brebajes Weirdbottle, El gnomo q
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
 - SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
 
+1 de Renombre con los Zhentarim

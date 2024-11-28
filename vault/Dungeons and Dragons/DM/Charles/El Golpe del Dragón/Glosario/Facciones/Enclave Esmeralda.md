@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 Contacto: Melannor Fellbranch ([[druida]], caótico bueno, [[Ascendencia Feérica]], [[Dungeons and Dragons/Glosario/Habilidades y Rasgos/de Raza/Visión en la Oscuridad|Visión en la Oscuridad]] 60 pies, habla común y elfo)
-Introducción: Ver Manual Pg.39
+Ver Manual Pg.39
 
 ## Misiones
 
@@ -45,7 +45,7 @@ Los aventureros se enfrentan no a uno, sino a tres [[Espantapájaros]]. Si los p
 
 #### Recompensa
 
-1 de Prestigio con el Enclave Esmeralda
+1 de Renombre con el Enclave Esmeralda
 
 ### Misión 2 (Nivel 3)
 
@@ -78,21 +78,27 @@ Convencer a Ambrose ([[Dungeons and Dragons/Glosario/Bestiario/Pnj/Caballero|Cab
 
 #### Recompensa
 
-1 de Prestigio con el Enclave Esmeralda y 10.000 po para cada aventurero.
+1 de Renombre con el Enclave Esmeralda y 10.000 po para cada aventurero.
 
 
 ### Misión 3 (Nivel 4)
 
-
 #### Resumen
+
+Unos [[Doppelganger]] amenazan la Ciudad de los Esplendores. Se rumorea que se ocultan en el Portal Bostezante. Buscadlos y librad a la ciudad de su presencia.
+
 #### Transcurso
 
+Los personajes deben hablar con Bonnie, camarera del Portal Bostezante, y superar una prueba de Carisma (Intimidación o Persuasión) CD 15 para convencerla de que se marchen.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+|     Criatura     | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :--------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Doppelganger]] |     |     |     |     |     |     |       |     |
+|                  |     |     |     |     |     |     |       |     |
+|                  |     |     |     |     |     |     |       |     |
+|                  |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -101,9 +107,10 @@ Convencer a Ambrose ([[Dungeons and Dragons/Glosario/Bestiario/Pnj/Caballero|Cab
 - I: Iniciativa (Ver [[Inicio del Combate]])
 - SME: [[Salvación contra la muerte]]: éxitos
 - SMF: [[Salvación contra la muerte]]: fallos
+
 #### Recompensa
 
-1 de Prestigio con el Enclave Esmeralda
+2 de Renombre con el Enclave Esmeralda
 
 ### Misión 4 (Nivel 5)
 
@@ -128,4 +135,4 @@ Convencer a Ambrose ([[Dungeons and Dragons/Glosario/Bestiario/Pnj/Caballero|Cab
 
 #### Recompensa
 
-1 de Prestigio con el Enclave Esmeralda
+1 de Renombre con el Enclave Esmeralda

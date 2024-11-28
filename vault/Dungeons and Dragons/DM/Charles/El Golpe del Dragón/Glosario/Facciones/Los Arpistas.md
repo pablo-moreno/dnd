@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 Contacto: [[Mirt]]
-Introducción: Ver Manual Pg.37
+Ver Manual Pg.37
 
 ## Misiones
 
@@ -35,7 +35,7 @@ Superar prueba de Inteligencia (Investigación) CD 13 para encontrarla, superar 
 
 #### Recompensa
 
-1 de Prestigio con los Arpistas
+1 de Renombre con los Arpistas
 
 
 ### Misión 2 (Nivel 3)
@@ -66,20 +66,23 @@ Uza ([[Plebeyo]] LB) describe la amenaza como un monstruo de muchos ojos que per
 
 #### Recompensa
 
-1 de Prestigio con los Arpistas
+1 de Renombre con los Arpistas
 
 ### Misión 3 (Nivel 4)
 
-
 #### Resumen
+
+Uno de nuestros miembros, Mattrim Mereg, se ha aliado con unos [[Doppelganger]] y cree que podríamos reclutarlos. Localizadlos y tantead si son de fiar.
+
 #### Transcurso
 
+Los aventureros deberán conversar con los cinco [[Doppelganger]], empezando por su líder, Bonnie, que trabaja en el Portal Bostezante. Se requerirán unos días para que Bonnie los convoque a todos. Los jugadores entrevistaran a cada uno y deberán superar una prueba de Sabiduría (Perspicacia) para averiguar si son de fiar. Solo Bonnie resultara de confianza.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+|     Criatura     | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :--------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+| [[Doppelganger]] | 52  | 52  | 14  |     |     | +4  |       |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -91,7 +94,7 @@ Uza ([[Plebeyo]] LB) describe la amenaza como un monstruo de muchos ojos que per
 
 #### Recompensa
 
-1 de Prestigio con los Arpistas
+2 de Renombre con los Arpistas y 5.000 po para cada integrante del grupo.
 
 ### Misión 4 (Nivel 5)
 
@@ -124,4 +127,4 @@ Uza ([[Plebeyo]] LB) describe la amenaza como un monstruo de muchos ojos que per
 
 #### Recompensa
 
-1 de Prestigio con los Arpistas
+1 de Renombre con los Arpistas

@@ -40,7 +40,7 @@ Cuando parezca que hay un combate, superar tres pruebas de carisma (Intimidacion
 - SMF: [[Salv
 #### Recompensa
 
-1 de Prestigio con la Orden del Guantelete
+1 de Renombre con la Orden del Guantelete
 
 ### Misión 2 (Nivel 3)
 
@@ -54,21 +54,26 @@ Reunirse con Gaxly Rudderbust en el periodico y superar una prueba de Carisma (I
 
 #### Recompensa
 
-1 de prestigio con la Orden del Guantelete
+1 de Renombre con la Orden del Guantelete
 
 
 ### Misión 3 (Nivel 4)
 
-
 #### Resumen
+
+Los guardas de la taberna Fin de Turno, en el distrito de la explanada, sufren robos por las noches. El tabernero dice que ha visto unas ratas gigantes por los allrededores. Investigad el suceso.
+
 #### Transcurso
 
+La taberna es hostigada por los Esquivaesquirlas, una banda de [[Hombre Rata]]. Los personajes deberán acabar con al menos tres de ellos o superar una tirada de Carisma (Intimidación) CD 17.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+|    Criatura     | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :-------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+| [[Hombre Rata]] | 33  | 33  | 12  |     |     | +2  |       |
+| [[Hombre Rata]] | 33  | 33  | 12  |     |     | +2  |       |
+| [[Hombre Rata]] | 33  | 33  | 12  |     |     | +2  |       |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -80,6 +85,7 @@ Reunirse con Gaxly Rudderbust en el periodico y superar una prueba de Carisma (I
 
 #### Recompensa
 
+2 de Renombre con la Orden del Guantelete y una [[Poción de Curación]].
 
 ### Misión 4 (Nivel 5)
 
@@ -104,3 +110,4 @@ Reunirse con Gaxly Rudderbust en el periodico y superar una prueba de Carisma (I
 
 #### Recompensa
 
+1 de Renombre con la Orden del Guantelete
