@@ -36,6 +36,6 @@ maxZoom: 10
 unit: pies
 recenter: true
 bound: [[0 ,0][169.89, 119,92]]
-scale: 36
+scale: 18
 width: 100%
 ```
