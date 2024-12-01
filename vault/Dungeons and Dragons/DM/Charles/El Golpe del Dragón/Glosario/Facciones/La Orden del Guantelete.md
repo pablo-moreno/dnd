@@ -89,16 +89,31 @@ La taberna es hostigada por los Esquivaesquirlas, una banda de [[Hombre Rata]]. 
 
 ### Misión 4 (Nivel 5)
 
-
 #### Resumen
+
+Unos diablos espinosos aterrorizan a los ciudadanos en el distrito de la explanada. Ayudadme a acabar con ellos.
+
 #### Transcurso
 
+Los aventureros deben ayudar a Savra a derrotar cinco [[Diablo Punzante]] que tienen a los lugareños atrapados en varios edificios cercanos. Después Gysheer Omfreys ([[Sectario Fanático]] LM) aparecerá en el callejón y atacara a Savra. Gysheer forma parte del culto de Victoro Cassalanter, pero solo lo delatara mediante magia. Como adorar a diablos no es delito, Savra no hará nada contra los Casssalanter y aconseja a los aventureros que sigan su ejemplo.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+|      Criatura       | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :-----------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Diablo Punzante]] | 110 | 110 | 15  |     |     | +3  |       |     |
+| [[Diablo Punzante]] | 110 | 110 | 15  |     |     | +3  |       |     |
+| [[Diablo Punzante]] | 110 | 110 | 15  |     |     | +3  |       |     |
+| [[Diablo Punzante]] | 110 | 110 | 15  |     |     | +3  |       |     |
+| [[Diablo Punzante]] | 110 | 110 | 15  |     |     | +3  |       |     |
+|                     |     |     |     |     |     |     |       |     |
+
+
+|       Criatura        | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :-------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Sectario Fanático]] | 33  | 33  | 13  |     |     | +2  |       |     |
+|                       |     |     |     |     |     |     |       |     |
+
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -110,4 +125,4 @@ La taberna es hostigada por los Esquivaesquirlas, una banda de [[Hombre Rata]]. 
 
 #### Recompensa
 
-1 de Renombre con la Orden del Guantelete
+2 de Renombre con la Orden del Guantelete y una [[Poción de Curación mayor]] a cada integrante del grupo.

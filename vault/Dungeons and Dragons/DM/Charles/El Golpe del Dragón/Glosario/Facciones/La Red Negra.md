@@ -87,15 +87,17 @@ Al pasar tres días investigando por el distrito sur o el del puerto, se podrá 
 
 #### Resumen
 
+Skeemo nos ha traicionado, ha estado proporcionando información a nuestros enemigos. Debe ser eliminado y que parezca un accidente.
 
 #### Transcurso
 
+[[Los asaltacondenas, Skeemo Weirdbottle]] se las arreglara para ir por delante de los aventureros. Al ir a su tienda, lo verán subido a un ómnibus. Si se da cuenta de que lo siguen, conjurara [[Volar]] y se ira. Si se disipa el efecto y sigue la persecución, lanzara [[Invisibilidad mejorada]] para confundirse entre la multitud. Si no logran atraparlo, se ocultara en las torres Kolat.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+|                  Criatura                  | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :----------------------------------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Los asaltacondenas, Skeemo Weirdbottle]] | 72  | 72  | 12  |     |     | +2  |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -107,4 +109,4 @@ Al pasar tres días investigando por el distrito sur o el del puerto, se podrá 
 
 #### Recompensa
 
-1 de Renombre con los Zhentarim
+2 de Renombre con los Zhentarim si no se implica a la Red Negra, y se le podrá arrebatar a Skeemo un libro de conjuros (con sus conjuros preparados), una [[Poción de clarividencia]] y 15.000 po en una faltriquera de seda.

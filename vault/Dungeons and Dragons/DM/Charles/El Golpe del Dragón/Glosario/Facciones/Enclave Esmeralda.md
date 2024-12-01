@@ -114,16 +114,20 @@ Los personajes deben hablar con Bonnie, camarera del Portal Bostezante, y supera
 
 ### Misión 4 (Nivel 5)
 
-
 #### Resumen
+
+El Xanathar esta liberando monstruos por las calles para distraer a los guardias. Las autoridades tienen problemas con un [[Grell]] en el distrito del puerto. Se ha llevado ya a una anciana y si no hacemos nada no sera la ultima.
+
 #### Transcurso
 
+Se requiere una prueba de Sabiduria (Investigacion) CD 18 y otra de Sabiduria (Supervivencia) CD 18 para encontrar al grell. Cada prueba representa una hora de pesquisas. Hay dos [[Grell]] implicados y uno intentara huir si matan al otro.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+| Criatura  | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :-------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Grell]] | 55  | 55  | 12  |     |     | +2  |       |     |
+| [[Grell]] | 55  | 55  | 12  |     |     | +2  |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -135,4 +139,4 @@ Los personajes deben hablar con Bonnie, camarera del Portal Bostezante, y supera
 
 #### Recompensa
 
-1 de Renombre con el Enclave Esmeralda
+2 de Renombre con el Enclave Esmeralda y Jeryth otorgara a cada personaje un [[Encantamiento de Heroísmo]]

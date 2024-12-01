@@ -75,16 +75,20 @@ Al inspeccionar el sótano de la Mansión Cráneo de Troll, se encontrara a [[Ot
 
 ### Misión 4 (Nivel 5)
 
-
 #### Resumen
+
+Tenemos un espía infiltrado en el Gremio del Xanathar, pero se ha visto comprometido, así que debo enviaros a eliminarle. Hacedlo rápido y sin dolor, y sed discretos.
+
 #### Transcurso
 
+Jarlaxle proporciona una ruta hasta la guarida del contemplador a traves de pasadizos subterraneos. El traidor, [[Nar'l Xibrindas]] se encontrara alli. Al seguir las indicaciones de Jarlaxle se llegara a la sala X1 del mapa.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
+|      Criatura       | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
+| :-----------------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
+| [[Nar'l Xibrindas]] | 40  | 40  | 12  |     |     | +2  |       |     |
+|                     |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -96,4 +100,4 @@ Al inspeccionar el sótano de la Mansión Cráneo de Troll, se encontrara a [[Ot
 
 #### Recompensa
 
-1 de Renombre con la Bregan D'aerthe
+2 de Renombre con la Bregan D'aerthe y una estatuilla de oro de Jarlaxle a cada personaje con valor de 25.000 po.

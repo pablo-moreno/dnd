@@ -128,16 +128,14 @@ Los aventureros pueden crear diferencias entre las partes difundiendo  rumores. 
 
 ### Misión 4 (Nivel 5)
 
-
 #### Resumen
+
+Los Vigilantes están desbordados con el estallido de violencia y necesitan ayuda. Hay informes sobre un asesino que merodea por los tejados. Mis fuentes dicen que se descuelga desde las alturas cerca del callejón Cráneo de Troll. Encontradle, alertad sobre su paradero y ayudad a su detención, pero no le matéis ya que podría hacer que empeore la situación.
+
 #### Transcurso
 
+Se deberán superar tres pruebas de Inteligencia (Investigación) CD 18 antes de obtener tres fracasos. Cada prueba son 8 horas de pesquisas. Si otros personajes ayudan se asegura la ventaja en la prueba. Si tiene éxito, los aventureros arrinconan a [[Los asaltacondenas, Ziraj el Cazador]], en un invernadero cercano al callejón Cráneo de Troll. Este se rendirá sin oponer resistencia.
 
-#### Combate
-
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -149,4 +147,4 @@ Los aventureros pueden crear diferencias entre las partes difundiendo  rumores. 
 
 #### Recompensa
 
-1 de Renombre con la Alianza de los Lores
+2 de Renombre con la Alianza de los Lores y 5.000 po paraa cada personaje.

@@ -98,33 +98,14 @@ Los aventureros deberán conversar con los cinco [[Doppelganger]], empezando por
 
 ### Misión 4 (Nivel 5)
 
-
 #### Resumen
+
+Lady [[Remallia Haventree]] esta organizando una fiesta en villa Ulbrinter, en el distrito norte. Sospechamos que hay espías drow que se han colado en la lista de invitados. Asistid a la celebración y eliminad a los drows infiltrados.
+
 #### Transcurso
 
-
-#### Combate
-
-| Criatura | PG  | PGM | CA  | SC  | Turno |
-| -------- | --- | --- | --- | --- | ----- |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-|          |     |     |     |     |       |
-#### Combate
-
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |     |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: | --- |
-|          |     |     |     |     |     |     |       |     |
-##### Ayuda
-- PG: [[Puntos de Golpe]]
-- PGM: Puntos de Golpe Máximos
-- CA: [[Clase de Armadura]]
-- BC: [[Bono de Competencia]]
-- I: Iniciativa (Ver [[Inicio del Combate]])
-- SME: [[Salvación contra la muerte]]: éxitos
-- SMF: [[Salvación contra la muerte]]: fallos
+Remallia no revelara a los aventureros que es miembro de los Arpistas. Hay un espía drow, [[Jarlaxle Baenre]] que utiliza un [[Sombrero de Disfraz]] para adoptar la apariencia de un joven actor de Luskan llamado Erystian Demarne. Sera necesario superar una prueba de Sabiduría (Perspicacia) CD 24 para encontrarle. Al encontrarle, este felicitara a los personajes, dará las gracias a Remallia y se ira a toda prisa.
 
 #### Recompensa
 
-1 de Renombre con los Arpistas
+2 de Renombre con los Arpistas y 20.000 po a cada integrante.

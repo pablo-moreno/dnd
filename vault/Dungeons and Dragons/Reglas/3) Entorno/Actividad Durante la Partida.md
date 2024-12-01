@@ -6,8 +6,7 @@ tags:
   - type/note
 aliases:
 ---
-Mientras los aventureros viajan a través de un dungeon o de las tierras salvajes necesitan permanecer alerta del peligro, y otros personajes podrían realizar otras tareas para facilitar la
-travesía del grupo.
+Mientras los aventureros viajan a través de un dungeon o de las tierras salvajes necesitan permanecer alerta del peligro, y otros personajes podrían realizar otras tareas para facilitar la travesía del grupo.
 
 *Orden de Marcha*
 Los aventureros deberían establecer un orden de marcha. Un orden de marcha hace más fácil el determinar qué personajes son afectados por trampas, cuáles pueden detectar enemigos ocultos, y cuáles son los más cercanos a sus enemigos cuando se desata un combate.
@@ -25,9 +24,11 @@ Usa las puntuaciones pasivas de [[Sabiduría]] ([[Percepción]]) de los personaj
 Por ejemplo, mientras los personajes están explorando un laberinto de túneles, el DM podría decidir que solo aquellos personajes en la posición de retaguardia tienen posibilidades de oír o ver a la criatura sigilosa que sigue al grupo, mientras que los personajes en las posiciones medias o de vanguardia no podrían.
 Mientras viajan a ritmo rápido, los personajes tienen un penalizador de -5 a sus puntuaciones pasivas de [[Sabiduría]] ([[Percepción]]) para detectar amenazas ocultas.
 
-*Encuentros con Criaturas*. Si el DM determina que los aventureros tienen un encuentro con otras criaturas mientras viajan, es cosa de ambos grupos el decidir qué sucede a continuación. Cada grupo debería decidir si atacar, iniciar una conversación, huir o esperar y ver qué hace el otro grupo.
+*Encuentros con Criaturas*
+Si el DM determina que los aventureros tienen un encuentro con otras criaturas mientras viajan, es cosa de ambos grupos el decidir qué sucede a continuación. Cada grupo debería decidir si atacar, iniciar una conversación, huir o esperar y ver qué hace el otro grupo.
 
-*Sorprendiendo a los Enemigos*. Si los aventureros tienen un encuentro con una criatura o grupo hostiles, el DM determina si los aventureros o sus enemigos podrían ser sor- prendidos cuando estalla el combate. 
+*Sorprendiendo a los Enemigos* 
+Si los aventureros tienen un encuentro con una criatura o grupo hostiles, el DM determina si los aventureros o sus enemigos podrían ser sor- prendidos cuando estalla el combate. 
 
 
 Otras Actividades

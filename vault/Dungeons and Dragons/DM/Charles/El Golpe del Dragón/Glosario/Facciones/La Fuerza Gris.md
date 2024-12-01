@@ -96,16 +96,20 @@ Los aventureros pueden entablar amistad con Meelon o vigilarlo desde lejos. Cada
 
 ### Misión 4 (Nivel 5)
 
-
 #### Resumen
+
+El Xanathar usa devoradores de intelectos para tomar el control de ciudadanos de Waterdeep con posiciones clave en la urbe. Debemos atajar el problema de inmediato.  Infiltraos en su guarida y destruid a quien este creando esas criaturas.
+
 #### Transcurso
 
+Los aventureros deben acabar con [[Nihiloor]]. Pueden apostarse en la entrada y esperar a que salgan o enfrentarse a el en el cubil.
 
 #### Combate
 
-| Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |
-| :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
-|          |     |     |     |     |     |     |       |
+|   Criatura   | PG  | PGM | CA  | SME | SMF |  I  | Turno |
+| :----------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
+| [[Nihiloor]] | 71  | 71  | 15  |     |     | +1  |       |
+|              |     |     |     |     |     |     |       |
 ##### Ayuda
 - PG: [[Puntos de Golpe]]
 - PGM: Puntos de Golpe Máximos
@@ -116,4 +120,4 @@ Los aventureros pueden entablar amistad con Meelon o vigilarlo desde lejos. Cada
 - SMF: [[Salvación contra la muerte]]: fallos
 #### Recompensa
 
-1 de Renombre con la Fuerza Gris
+2 de Renombre con la Fuerza Gris y una [[Poción de resistencia (Tipo)]], además de cubrir el coste de cualquier conjuro de [[Alzar a los muertos]] para revivir a los aventureros fallecidos.

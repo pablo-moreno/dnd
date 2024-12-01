@@ -12,7 +12,9 @@ Los aventureros pueden tomarse pequeños descansos en mitad de un día de aventu
 
 *Descanso Breve*
 Un descanso breve es un periodo de respiro de al menos una hora de duración, durante el cual un personaje no hace nada más extenuante que comer, beber, leer y atender sus heridas.
+
 Un personaje puede usar uno o más Dados de Golpe al final de un descanso breve, hasta el número máximo de Dados de Golpe de un personaje, que es igual al nivel de dicho personaje. 
+
 Por cada Dado de Golpe usado de este modo, el jugador lanza el dado y añade su modificador de [[Constitución]] al mismo. El personaje recupera ese total de Puntos de Golpe. El jugador puede decidir gastar un Dado de Golpe adicional tras cada tirada. 
 Un personaje recupera Dados de Golpe tras finalizar un descanso prolongado, tal y como se explica más adelante.
 
