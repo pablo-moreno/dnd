@@ -6,6 +6,8 @@ tags:
   - type/note
 aliases:
 ---
+Ver Manual Pg.24
+
 ## Planta Baja
 
 

@@ -6,6 +6,8 @@ tags:
   - type/note
 aliases:
 ---
+Ver Manual Pg.20
+
 ## Mapa
 
 ```leaflet

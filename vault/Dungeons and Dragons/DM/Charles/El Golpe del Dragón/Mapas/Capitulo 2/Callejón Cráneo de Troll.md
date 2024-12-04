@@ -7,7 +7,7 @@ tags:
 aliases:
 ---
 
-Ver Pg. 32
+Ver Manual Pg. 32
 
 ```leaflet
 image: [[Trollskull Alley (Day - Closed).jpg]]

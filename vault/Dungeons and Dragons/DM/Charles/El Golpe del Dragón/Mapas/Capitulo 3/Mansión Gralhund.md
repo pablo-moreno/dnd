@@ -7,6 +7,8 @@ tags:
 aliases:
 ---
 
+Ver Manual Pg.50
+
 ## Planta Baja
 
 ```leaflet

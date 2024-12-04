@@ -2,7 +2,7 @@
   "mapMarkers": [
     {
       "id": "almacen_zhent",
-      "lastAccessed": 1732709748755,
+      "lastAccessed": 1733307496360,
       "markers": [
         {
           "id": "ID_a92ab938e8f8",
@@ -59,6 +59,7 @@
       "shapes": [],
       "files": [
         "Dungeons and Dragons/DM/Charles/El Golpe del Dragón/Mapas/Capitulo 1/Almacén Zhent.md",
+        "Dungeons and Dragons/DM/Charles/El Golpe del Dragón/Mapas/Capitulo 1/El Portal Bostezante.md",
         "Dungeons and Dragons/DM/Charles/El Golpe del Dragón/Mapas/Capitulo 1/Escondite del Gremio.md"
       ]
     }

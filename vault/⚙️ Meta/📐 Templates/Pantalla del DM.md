@@ -20,6 +20,8 @@ aliases:
 
 ## Combates
 
+### Combate 1
+
 | Criatura | PG  | PGM | CA  | SME | SMF |  I  | Turno |
 | :------: | :-: | :-: | :-: | :-: | :-: | :-: | :---: |
 |          |     |     |     |     |     |     |       |

@@ -17,7 +17,7 @@ aliases:
 ## Actividades y Tiendas
 
 
-| Actividades Durante la Partida                                                               | Tiendas de Objetos                 |
+| Actividades Durante la Partida (10d)                                                         | Tiendas de Objetos                 |
 | -------------------------------------------------------------------------------------------- | ---------------------------------- |
 | [[Realizar Ritos Sagrados]]                                                                  | [[Tienda de Armas]]                |
 | [[Irse de Parranda]]                                                                         | [[Tienda de Armaduras]]<br>        |

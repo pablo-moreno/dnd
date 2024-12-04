@@ -6,6 +6,7 @@ tags:
   - type/note
 aliases:
 ---
+Ver Manual Pg.41
 
 La taberna otorga los beneficios descritos en el apartado [[Regentando un Negocio]], siempre que se paguen los siguientes gastos:
 

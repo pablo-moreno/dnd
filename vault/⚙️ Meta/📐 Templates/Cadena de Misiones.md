@@ -6,9 +6,8 @@ tags:
   - type/note
 aliases:
 ---
-
 Contacto: -
-Introducción: -
+Ver Manual Pg.
 
 ## Misiones
 
