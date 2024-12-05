@@ -11,6 +11,21 @@ Ver Manual Pg.90
 
 ## Mapa
 
+### Entrada
+
+```leaflet
+image: [[ifr0jr4bb44e1.jpeg]]
+id: BovedaEDB
+defaultZoom: 5
+minZoom: 1
+maxZoom: 10
+unit: pies
+recenter: true
+bound: [[0 ,0][ 100, 225]]
+scale: 13
+width: 100%
+```
+
 ### Planta Baja
 
 ```leaflet

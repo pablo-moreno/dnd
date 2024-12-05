@@ -62,6 +62,126 @@
         "Dungeons and Dragons/DM/Charles/El Golpe del Dragón/Mapas/Capitulo 1/El Portal Bostezante.md",
         "Dungeons and Dragons/DM/Charles/El Golpe del Dragón/Mapas/Capitulo 1/Escondite del Gremio.md"
       ]
+    },
+    {
+      "id": "CabañaB1",
+      "lastAccessed": 1733393978204,
+      "markers": [
+        {
+          "id": "ID_8ba9489b7b09",
+          "type": "Jugador 1",
+          "loc": [
+            -2.0404848716087334,
+            0.8829264790590222
+          ],
+          "layer": "%5B%5BForestShackPublic2JPG.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_e9e95ab8e879",
+          "type": "Jugador 6",
+          "loc": [
+            -2.001171710296334,
+            0.7453126190741094
+          ],
+          "layer": "%5B%5BForestShackPublic2JPG.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2477922473804831,
+            0.4879047217484395
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_4b9beaaa983b",
+          "type": "Jugador 2",
+          "loc": [
+            -1.9936087014211354,
+            1.0551937642164133
+          ],
+          "layer": "%5B%5BForestShackPublic2JPG.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": null,
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_2b08fb192a2a",
+          "type": "Enemigo",
+          "loc": [
+            -1.4503913975431653,
+            0.8863279760892431
+          ],
+          "link": "Goblin",
+          "layer": "%5B%5BForestShackPublic2JPG.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2946752751673328,
+            0.3536192359724289
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_1b2909b81938",
+          "type": "Enemigo",
+          "loc": [
+            -1.5929695225431653,
+            0.7574220387609605
+          ],
+          "layer": "%5B%5BForestShackPublic2JPG.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.2518182362633843,
+            0.3883811407343336
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        },
+        {
+          "id": "ID_68394a1abb88",
+          "type": "Enemigo",
+          "loc": [
+            -1.7304690425468996,
+            1.0265624256127417
+          ],
+          "layer": "%5B%5BForestShackPublic2JPG.jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            0.3412986765673531,
+            0.42190483323048217
+          ],
+          "description": null,
+          "minZoom": null,
+          "maxZoom": null,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dungeons and Dragons/DM/1) Recursos del DM/Custom Maps/Exterior/Bosque/Cabaña en el Bosque (Mapa 1).md"
+      ]
     }
   ],
   "defaultMarker": {
