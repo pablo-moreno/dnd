@@ -15,7 +15,7 @@ Si tu campaña tiene una fuerte temática de horror, podrías querer utilizar la
 Muchos efectos mágicos pueden provocar locura en una mente estable. Ciertos conjuros, tales como contactar con otros planos o símbolo pueden causar locura, y puedes utilizar las
 reglas de locura aquí presentadas en lugar de los efectos del conjuro en el Manual del Jugador. Enfermedades, venenos y efectos planares, tales como el viento psíquico o el viento aullante del Pandemonio pueden provocar locura. Algunos artefactos pueden también destruir la psique de un personaje que utiliza o se armoniza con ellos.
 
-Resistir un efecto que induce locura requiere por lo general una tirada de salvación de Sabiduría o Carisma. Si tu juego incluye la puntuación de [[Cordura]], en su lugar la criatura realiza una tirada de salvación de Cordura.
+Resistir un efecto que induce locura requiere por lo general una tirada de salvación de Sabiduría o Carisma. Si tu juego incluye la puntuación de Cordura, en su lugar la criatura realiza una tirada de salvación de Cordura.
 
 
 **Efectos de la Locura**
