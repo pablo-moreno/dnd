@@ -15,7 +15,7 @@ Los Arquetipos a elegir son:
 [[Acechador De La Penumbra]]
 [[Asesino de Monstruos]]
 [[Caminante Del Horizonte]]
-[[Cazador]]
+[[Dungeons and Dragons/Creando un Personaje/2) Clases/Explorador/Cazador]]
 [[Errante Feérico]]
 [[Guardaenjambres]]
 [[Señor De Las Bestias]]

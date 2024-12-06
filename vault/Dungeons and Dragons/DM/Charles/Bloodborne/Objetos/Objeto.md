@@ -9,8 +9,3 @@ Precio:
 int_peso: 
 int_precio:
 ---
-Ataque Básico
-
-
-Ataque de Arma con Truco
-

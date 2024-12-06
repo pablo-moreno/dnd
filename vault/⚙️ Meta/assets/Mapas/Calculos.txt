@@ -1,5 +1,5 @@
-4000
-9000
+2850
+2100
 
 0,0694 -72px
 0,0714 -70px
@@ -12,6 +12,7 @@
 0,0357 -140px
 0,0455 -110px
 0,0416 -120px
+0,2272 -22px
 
 Web Mapas
 https://legendlore.notion.site/9bc0c253895d4dbfa4a9ca62833af0d3?v=9a2e336ae25844698
