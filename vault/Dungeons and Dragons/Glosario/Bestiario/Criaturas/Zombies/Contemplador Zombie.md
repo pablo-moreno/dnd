@@ -7,14 +7,6 @@ race: "[[Muerto viviente]]"
 size: Grande
 aliases:
 ---
-Muerto viviente Grande, neutral malvado
-Clase de Armadura: 
-Puntos de golpe: 93 (11d10 + 33)
-Velocidad: O 
-FUE DES CON INT SAB CAR
-10 (+0) 8 (-1) 16 (+3) 3 (-4) 8 (-1) 5 (-3)
-Tiradas de salvación: Sab +2
-
 
 ## Características
 

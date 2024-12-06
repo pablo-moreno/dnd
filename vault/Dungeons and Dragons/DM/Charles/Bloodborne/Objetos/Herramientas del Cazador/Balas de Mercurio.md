@@ -8,7 +8,7 @@ aliases:
 ---
 Son municiones especiales fabricadas específicamente para cazar bestias. La plata fusionada con sangre y almacenada en el torrente sanguíneo del cazador permite una recarga instantánea. 
 
-Debido a su rareza y creación, solo se pueden llevar 20 las balas de mercurio a la vez, y el costo varía según la fuerza del comprador. Las balas de mercurio se consideran de plata para efectos de resistencia e inmunidad. 
+Debido a su rareza y creación, la cantidad de balas de sangre que puedes llevar nunca puede superar las 5 y el costo varía según la fuerza del comprador. Las balas de mercurio se consideran de plata para efectos de resistencia e inmunidad. 
 
 Algunos enemigos pueden llevar balas de mercurio en su persona. Generalmente, fusileros o personas que portan armas de fuego, por lo que es posible saquear balas de mercurio de los cadáveres.
 

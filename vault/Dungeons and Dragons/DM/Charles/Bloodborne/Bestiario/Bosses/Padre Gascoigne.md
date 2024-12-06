@@ -8,12 +8,6 @@ size: Mediano
 aliases:
 ---
 
-Clase de armadura 
-Puntos de golpe 135 (18d8 + 54)
-Velocidad 
-—
-FUE DES CON INT SAB CAR
-18 (+4) 16 (+3) 16 (+3) 11 (0) 14 (+2) 9 (-1)
 ## Características
 
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |

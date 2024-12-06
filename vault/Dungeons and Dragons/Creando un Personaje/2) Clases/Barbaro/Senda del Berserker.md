@@ -13,7 +13,7 @@ del berserker te sumerges en el caos de la batalla, sin preocuparte de tu salud 
 
 
 *Rasgos*
-Nivel 3: [[Frenesí]]
+Nivel 3: [[Dungeons and Dragons/Glosario/Habilidades y Rasgos/de Clase/Bárbaro/Senda del Berserker/Frenesí]]
 Nivel 6: [[Furia Inconsciente]]
 Nivel 10: [[Presencia Intimidante]]
 Nivel 14: [[Represalia]]

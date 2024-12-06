@@ -3,15 +3,12 @@ title: Vial de Sangre
 creation date: 2024-12-06 12:58
 tags:
   - type/weapon
-aliases: 
-Peso: 
-Precio: 
-int_peso: 
-int_precio:
+aliases:
 ---
-Una sangre especial usada en el trasvase y recogida en un vial. Restaura 2d8 puntos de golpe al usuario. Solo se pueden llevar 20 viales a la vez.
+Una sangre especial usada en el trasvase y recogida en un vial. Restaura 2d8 puntos de golpe al usuario como acción o acción adicional. Solo se pueden llevar 20 viales a la vez.
 
 Una vez se le ha traspasado la sangre al paciente, un tratamiento único habitual en Yharnam, las transfusiones sucesivas recuerdan a la primera y son mucho más vigorizantes. No es ninguna sorpresa que casi todos los yharnamitas sean grandes consumidores de sangre.  
+
 
 
 **Precio de los Viales por Nivel**

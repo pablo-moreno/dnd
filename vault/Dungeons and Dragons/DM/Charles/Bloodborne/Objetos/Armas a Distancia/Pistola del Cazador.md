@@ -11,4 +11,4 @@ int_precio: 15000
 ---
 Ataque Básico
 Ataque con arma a distancia, alcance 100/400 pies, un objetivo, recarga cada 4 disparos
-1d10 de daño perforante. Ligera, Riposte, 
+1d10 de daño perforante. Ligera. 

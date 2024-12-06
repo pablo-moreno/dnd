@@ -46,6 +46,7 @@
     "Salvación": "multitext",
     "Xp": "number",
     "Valor": "number",
-    "Cantidad": "number"
+    "Cantidad": "number",
+    "Bono de Competencia": "multitext"
   }
 }
