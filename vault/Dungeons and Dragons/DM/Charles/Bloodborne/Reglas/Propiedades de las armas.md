@@ -10,6 +10,8 @@ Muchas armas tienen propiedades especiales relacionadas con su uso, como se mues
 
 A Dos Manos: El arma requiere de las dos manos para ser utilizada.
 
+Arcano: El arma se puede utilizar con la característica de lanzamiento de conjuros del usuario.
+
 Dispersión: Cuando esta arma dispara, ataca a todas las criaturas en un cono a su largo alcance. Los ataques son simultáneos. Una criatura adyacente a ti recibe un dado de daño adicional al impactar. 
 
 Dual: Estas armas se dividen en 2 partes cuando se transforman y requieren que ambas manos estén libres. Las armas defensivas otorgan al portador una bonificación de +1 a la CA.

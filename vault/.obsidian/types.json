@@ -47,6 +47,7 @@
     "Xp": "number",
     "Valor": "number",
     "Cantidad": "number",
-    "Bono de Competencia": "multitext"
+    "Bono de Competencia": "multitext",
+    "Ubicación": "multitext"
   }
 }

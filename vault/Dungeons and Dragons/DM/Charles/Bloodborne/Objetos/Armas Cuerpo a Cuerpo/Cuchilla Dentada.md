@@ -8,9 +8,6 @@ Peso: 4 lb
 Precio: "3.000"
 int_peso: 4
 int_precio: 3000
-Bono de Competencia:
-  - Fuerza
-  - Sabiduría
 ---
 Ataque Básico
 Ataque cuerpo a cuerpo, alcance 5 pies, un objetivo.

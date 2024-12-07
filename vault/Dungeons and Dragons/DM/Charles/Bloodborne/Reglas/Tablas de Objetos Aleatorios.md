@@ -15,12 +15,12 @@ aliases:
 |  2  |                                          [[Balas de Mercurio]]                                          |    1     |
 |  3  | [[Dungeons and Dragons/Glosario/Objetos Mágicos y Encantamientos/Alquimia/Alquimia/Antídoto\|Antídoto]] |    1     |
 |  4  |                                           [[Cóctel Molotov]]                                            |    1     |
-|  5  |                                          [[Sangre Fría]] (1/4)                                          |    1     |
-|  6  |                                          [[Sangre Fría]] (1/2)                                          |    1     |
-|  7  |                                           [[Sangre Fría]] (1)                                           |    1     |
+|  5  |                                          [[Sangre Fría]] (1/8)                                          |    1     |
+|  6  |                                          [[Sangre Fría]] (1/4)                                          |    1     |
+|  7  |                                          [[Sangre Fría]] (1/2)                                          |    1     |
 |  8  |                                           [[Vial de Sangre]]                                            |    2     |
 |  9  |                                          [[Balas de Mercurio]]                                          |    2     |
-| 10  |                                      [[Sangre Fría]] (1/4 - 1, d6)                                      |    2     |
+| 10  |                                           [[Sangre Fría]] (1)                                           |    2     |
 
 **Tabla de Objetos Poco Comunes**
 

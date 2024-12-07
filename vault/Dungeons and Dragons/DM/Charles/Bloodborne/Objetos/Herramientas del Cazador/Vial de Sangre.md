@@ -5,7 +5,7 @@ tags:
   - type/weapon
 aliases:
 ---
-Una sangre especial usada en el trasvase y recogida en un vial. Restaura 2d8 puntos de golpe al usuario como acción o acción adicional. Solo se pueden llevar 20 viales a la vez.
+Una sangre especial usada en el trasvase y recogida en un vial. Restaura 16 (3d8+3) puntos de golpe al usuario como acción o acción adicional. Solo se pueden llevar 5 viales a la vez.
 
 Una vez se le ha traspasado la sangre al paciente, un tratamiento único habitual en Yharnam, las transfusiones sucesivas recuerdan a la primera y son mucho más vigorizantes. No es ninguna sorpresa que casi todos los yharnamitas sean grandes consumidores de sangre.  
 

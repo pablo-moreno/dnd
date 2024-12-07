@@ -8,14 +8,11 @@ Peso: 4 lb
 Precio: "1.500"
 int_peso: 4
 int_precio: 1500
-Bono de Competencia: Destreza
 ---
-Requiere Destreza 9.
-
 Ataque Básico
 Ataque con arma cuerpo a cuerpo, alcance 5 pies, un objetivo.
-Impacto: 1d6 de daño contundente. Ligera.
+Impacto: 1d6 de daño contundente. Ligera, Sutil.
 
 Ataque de Arma con Truco
 Ataque con arma cuerpo a cuerpo, alcance 15 pies, Dispersión.
-Impacto: 1d4 de daño cortante. Ligera.
+Impacto: 1d4 de daño cortante. Ligera, Sutil.
