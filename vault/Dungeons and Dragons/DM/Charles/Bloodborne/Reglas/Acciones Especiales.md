@@ -15,5 +15,7 @@ Tiemblas de emoción al pensar en bañarte en la sangre de tus enemigos. Siempre
 **Riposte**
 Cuando el usuario vaya a recibir un ataque cuerpo a cuerpo, y mientras tenga al enemigo en su campo de visión, puede gastar su reacción y una bala de mercurio para realizar una salvación de Destreza CD: CA + Bonus de Salvación de Destreza de la criatura. Si la supera, el enemigo recibe un impacto del arma a distancia, termina su turno y tendrá desventaja en las tiradas de salvación contra ataques hasta el siguiente turno. Si falla, el usuario recibirá el ataque directamente, sin poder realizar una salvación contra el.
 
+El riposte no funciona contra enemigos con un tamaño Enorme o superior.
+
 **Ataque visceral**
 Tu camino te lleva a las profundidades más sangrientas de la Caza. Si logras un riposte a una criatura, puedes usar una acción en tu turno para realizar un ataque visceral. Tu próximo ataque cuerpo a cuerpo cuenta como crítico y el objetivo ya no queda aturdido.

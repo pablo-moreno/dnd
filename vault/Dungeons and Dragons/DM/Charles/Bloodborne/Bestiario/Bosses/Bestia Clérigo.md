@@ -8,12 +8,6 @@ size: Grande
 aliases:
 ---
 
-Clase de armadura 
-Puntos de golpe 114 (12d10 + 48)
-Velocidad 
-—
-FUE DES CON INT SAB CAR
-19 (+4) 15 (+2) 18 (+4) 4 (-3) 13 (+1) 6 (-2)
 ## Características
 
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |

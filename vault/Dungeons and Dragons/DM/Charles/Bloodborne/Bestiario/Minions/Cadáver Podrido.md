@@ -7,12 +7,7 @@ race: No muerto
 size: Mediano
 aliases:
 ---
-Clase de armadura 
-Puntos de golpe 22 (3d8 + 9)
-Velocidad 
-—
-FUE DES CON INT SAB CAR
-15 (+2) 7 (-2) 17 (+3) 2 (-4) 10 (0) 4 (-3)
+
 ## Características
 
 | Característica                                                                 | Nivel | Bonificador | Lanzar dado      |

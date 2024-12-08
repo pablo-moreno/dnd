@@ -21,6 +21,9 @@ scale: 1
 width: 100%
 ```
 
+### Enemigos
+
+Ver [[Cazador de Bestias (Lanza)]], [[Cazador de Bestias (Azada)]], [[Cazador de Bestias (Sierra)]], [[Paciente bestia (varón)]], [[Paciente bestia (Mujer)]], [[Paciente bestia (Matriarca)]], [[Cuervo carroñero]], [[Cazador de barriles de pólvora (Estacador)]], [[Cazador de barriles de pólvora (Lanza Fusil)]].
 
 ## Viejo Yharnam, Parte Baja
 

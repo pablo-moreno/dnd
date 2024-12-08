@@ -43,7 +43,8 @@ width: 100%
 
 ### Enemigos
 
-Ver [[Cazador (Espada)]], [[Cazador (Hacha Pesada)]], [[Cazador (Horca)]], [[Cazador (Rifle)]], [[Verdugo]], [[Perro Rabioso]], [[Cuervo carroñero]], [[Esbirro del cazador]], [[Bestia del Azote]].
+Ver [[Cazador (Espada)]], [[Cazador (Hacha Pesada)]], [[Cazador (Horca)]], [[Cazador (Rifle)]], [[Perro Rabioso]], [[Cuervo carroñero]], [[Esbirro del cazador]], [[Bestia del Azote]].
+
 ## Alcantarillas
 
 ```leaflet
@@ -61,7 +62,27 @@ width: 100%
 
 ### Enemigos
 
-Ver [[Cazador (Espada)]], [[Cazador (Hacha Pesada)]], [[Cazador (Horca)]], [[Cazador (Rifle)]], [[Verdugo]], [[Perro Rabioso]], [[Cuervo carroñero]], [[Rata del Laberinto]], [[Cadáver Podrido]], [[Cerdo devorador de hombres]].
+Ver [[Cazador (Espada)]], [[Cazador (Hacha Pesada)]], [[Cazador (Horca)]], [[Cazador (Rifle)]], [[Perro Rabioso]], [[Cuervo carroñero]], [[Rata del Laberinto]], [[Cadáver Podrido]], [[Cerdo devorador de hombres]], [[Cazador de Bestias (Sierra)]], [[Cazador de Bestias (Lanza)]].
+
+
+## Puente de Oedon
+
+```leaflet
+image: [[sQdZ4je.jpg]]
+id: YharnamPuente
+defaultZoom: 2
+minZoom: 1
+maxZoom: 10
+unit: pies
+recenter: true
+bounds: [[0, 0], [303.10, 120.47]]
+scale: 1
+width: 100%
+```
+
+### Enemigos
+
+Ver [[Cazador (Espada)]], [[Cazador (Hacha Pesada)]], [[Cazador (Horca)]], [[Cazador (Rifle)]], [[Perro Rabioso]], [[Cazador de Bestias (Lanza)]].
 
 ## La Gran Puerta
 
