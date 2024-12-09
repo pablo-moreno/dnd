@@ -21,7 +21,7 @@ Nivel de Clérigo            Conjuros
       3                          [[Inmovilizar persona]], [[Zona de verdad]]
       5                          [[Palabra de curación en masa]] , [[Ralentizar]]
       7                          [[Compulsión]], [[Localizar criatura]]
-      9                          [[Comunión]], [[Dominar persona]]
+      9                          [[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 5/Comunión]], [[Dominar persona]]
 
 
 *Competencias Adicionales*

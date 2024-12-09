@@ -9,11 +9,13 @@ Precio: "3.000"
 int_peso: 4
 int_precio: 3000
 ---
-Ataque Básico
+Esta sierra, efectiva para hacer sangrar alas bestias, se transforma en una larga cuchilla que se sirve de la fuerza centrífuga. La sierra, con sus sanguinarios dientes, se ha convertido en un símbolo de la caza y su eficacia aumenta cuanto más grotesca sea la bestia adversaria  
+
+**Ataque Básico**
 Ataque cuerpo a cuerpo, alcance 5 pies, un objetivo.
 Impacto: 1d6 de daño cortante. Dentada.
 
-Ataque de Arma con Truco
-Ataque cuerpo a cuerpo, alcance 15 pies, un objetivo.
+**Arma con Truco**
+Ataque cuerpo a cuerpo, alcance 10 pies, un objetivo.
 Impacto: 1d6 de daño cortante. Dentada.
 

@@ -32,28 +32,28 @@ Comienzas con el siguiente equipo, además del otorgado por tu trasfondo:
 
 *Tabla de niveles de Bárbaro*
 
-| Nivel | Competencia | Rasgos | Furia | Daño de Furia |
-| ---- | ---- | ---- | ---- | ---- |
-| 1 | +2 | [[Furia]], [[Defensa sin Armadura (B)]], | 2 | +2 |
-| 2 | +2 | [[Ataque Temerario]], [[Sentido del Peligro]] | 2 | +2 |
-| 3 | +2 | [[Senda Primaria]] | 3 | +2 |
-| 4 | +2 | [[Mejora de Característica]] | 3 | +2 |
-| 5 | +3 | [[Ataque Extra]], [[Movimiento Rápido]] | 3 | +2 |
-| 6 | +3 | Rasgo de Senda | 4 | +2 |
-| 7 | +3 | [[Instinto Salvaje]], [[Salto Instintivo]] | 4 | +2 |
-| 8 | +3 | [[Mejora de Característica]] | 4 | +2 |
-| 9 | +4 | [[Crítico Brutal]] | 4 | +3 |
-| 10 | +4 | Rasgo de Senda | 4 | +3 |
-| 11 | +4 | [[Furia Implacable]] | 4 | +3 |
-| 12 | +4 | [[Mejora de Característica]] | 5 | +3 |
-| 13 | +4 | [[Crítico Brutal]] | 5 | +3 |
-| 14 | +5 | Rasgo de Senda | 5 | +3 |
-| 15 | +5 | [[Furia Persistente]] | 5 | +3 |
-| 16 | +5 | [[Mejora de Característica]] | 5 | +4 |
-| 17 | +6 | [[Crítico Brutal]] | 5 | +4 |
-| 18 | +6 | [[Fuerza Indómita]] | 6 | +4 |
-| 19 | +6 | [[Mejora de Característica]] | 6 | +4 |
-| 20 | +6 | [[Campeón Primario]] | Ilimitada | +4 |
+| Nivel | Competencia | Rasgos                                        | Furia     | Daño de Furia |
+| ----- | ----------- | --------------------------------------------- | --------- | ------------- |
+| 1     | +2          | [[Furia]], [[Defensa sin Armadura (B)]],      | 2         | +2            |
+| 2     | +2          | [[Ataque Temerario]], [[Sentido del Peligro]] | 2         | +2            |
+| 3     | +2          | [[Senda Primaria]]                            | 3         | +2            |
+| 4     | +2          | [[Mejora de Característica]]                  | 3         | +2            |
+| 5     | +3          | [[Ataque Extra]], [[Movimiento Rápido]]       | 3         | +2            |
+| 6     | +3          | Rasgo de Senda                                | 4         | +2            |
+| 7     | +3          | [[Instinto Salvaje]], [[Salto Instintivo]]    | 4         | +2            |
+| 8     | +3          | [[Mejora de Característica]]                  | 4         | +2            |
+| 9     | +4          | [[Crítico Brutal]]                            | 4         | +3            |
+| 10    | +4          | Rasgo de Senda                                | 4         | +3            |
+| 11    | +4          | [[Furia Implacable]]                          | 4         | +3            |
+| 12    | +4          | [[Mejora de Característica]]                  | 5         | +3            |
+| 13    | +4          | [[Crítico Brutal]]                            | 5         | +3            |
+| 14    | +5          | Rasgo de Senda                                | 5         | +3            |
+| 15    | +5          | [[Furia Persistente]]                         | 5         | +3            |
+| 16    | +5          | [[Mejora de Característica]]                  | 5         | +4            |
+| 17    | +6          | [[Crítico Brutal]]                            | 5         | +4            |
+| 18    | +6          | [[Fuerza Indómita]]                           | 6         | +4            |
+| 19    | +6          | [[Mejora de Característica]]                  | 6         | +4            |
+| 20    | +6          | [[Campeón Primario]]                          | Ilimitada | +4            |
 
 
 

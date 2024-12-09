@@ -18,7 +18,7 @@ Los Arquetipos a elegir son:
 [[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Espadachín]]
 [[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Fantasma]]
 [[Inquisitivo]]
-[[Ladrón]]
+[[Dungeons and Dragons/Creando un Personaje/2) Clases/Pícaro/Ladrón]]
 [[Mente Maestra]]
 [[Rastreador]]
 [[Rebanaalmas]]

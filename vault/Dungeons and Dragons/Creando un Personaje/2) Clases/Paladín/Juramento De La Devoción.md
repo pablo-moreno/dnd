@@ -20,7 +20,7 @@ Nivel de Paladín          Conjuros
       5                         [[Restablecimiento menor]], [[Zona de verdad]]
       9                         [[Señal de esperanza]], [[Disipar magia]]
       13                        [[Libertad de movimiento]], [[Guardián de la fe]]
-      17                        [[Comunión]], [[Golpe flamígero]]
+      17                        [[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 5/Comunión]], [[Golpe flamígero]]
 
 *Canalizar Divinidad*
 Obtienes las dos siguientes opciones de Canalizar Divinidad.

@@ -51,7 +51,7 @@ La aptitud mágica innata del empíreo es Carisma (salvación de conjuros CD 23,
 impactar con ataques de conjuro). Puede lanzar de forma innata los siguientes conjuros, sin necesidad de componentes materiales:
 
 A voluntad: [[caminar sobre el agua]], [[Pasar sin dejar rastro]], [[respirar bajo el agua]], [[restablecimiento mayor]]
-1/Día cada uno: [[comunión]], [[desplazamiento entre planos]] (solo al lanzador), [[disipar el bien y el mal]], [[terremoto]], [[tormenta de fuego]]
+1/Día cada uno: [[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 5/Comunión]], [[desplazamiento entre planos]] (solo al lanzador), [[disipar el bien y el mal]], [[terremoto]], [[tormenta de fuego]]
 
 **Resistencia Legendaria (3/Día)**
 El empíreo puede elegir tener éxito en una tirada de salvación que haya fallado.

@@ -10,12 +10,11 @@ Mejora de Habilidad:
 ---
 
 
-En combate, luchas con una ferocidad primitiva. En tu turno, puedes entrar en furia como acción
-adicional.
+En combate, luchas con una ferocidad primitiva. En tu turno, puedes entrar en furia como acción adicional.
 
 Mientras estás en furia ganas los siguientes beneficios si no llevas armadura [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Armadura/Pesada]]:
 
-● Tienes ventaja en las pruebas y tiradas de salvación de [[Dungeons and Dragons/Reglas/2) Combate/Daño/Tipo de Daño/Fuerza]].
+● Tienes ventaja en las pruebas y tiradas de salvación de [[Dungeons and Dragons/Reglas/1) Estadisticas/Características/Fuerza|Fuerza]].
 ● Cuando realizas un ataque de cuerpo a cuerpo usando tu Fuerza, ganas un bonificador al daño que aumenta a medida que subes tu nivel de bárbaro, tal como muestra la columna de Daño de Furia en la tabla Bárbaro.
 ● Tienes resistencia al daño [[Contundente]], [[Perforante]] y [[Cortante]].
 

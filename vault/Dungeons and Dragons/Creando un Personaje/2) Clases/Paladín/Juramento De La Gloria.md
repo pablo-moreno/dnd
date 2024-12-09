@@ -19,7 +19,7 @@ Nivel de Paladín             Conjuros
        5                           [[Arma mágica]], [[Potenciar característica]]
        9                           [[Acelerar]], [[Protección contra energía]]
        13                          [[Compulsión]], [[Libertad de movimiento]]
-       17                          [[Comunión]], [[Golpe flamígero]]
+       17                          [[Dungeons and Dragons/Glosario/Conjuros/Conjuros por Nivel/Nivel 5/Comunión]], [[Golpe flamígero]]
 
 *Canalizar Divinidad*
 Obtienes las siguientes dos opciones de Canalizar Divinidad. Consulta el rasgo de clase juramento

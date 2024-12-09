@@ -182,6 +182,36 @@
       "files": [
         "Dungeons and Dragons/DM/1) Recursos del DM/Custom Maps/Exterior/Bosque/Cabaña en el Bosque (Mapa 1).md"
       ]
+    },
+    {
+      "id": "GranCatedral",
+      "lastAccessed": 1733661407238,
+      "markers": [
+        {
+          "id": "ID_ab08daf89bea",
+          "type": "Enemigo",
+          "loc": [
+            100.79997309503148,
+            45
+          ],
+          "layer": "%5B%5BGrand%20Cathedral%20(DnDavid).jpg%5D%5D",
+          "mutable": true,
+          "command": false,
+          "percent": [
+            3.75,
+            -6.299998318439467
+          ],
+          "description": null,
+          "minZoom": 4,
+          "maxZoom": 0,
+          "tooltip": "hover"
+        }
+      ],
+      "overlays": [],
+      "shapes": [],
+      "files": [
+        "Dungeons and Dragons/DM/Charles/Bloodborne/Mapas/3) Distrito de la Catedral.md"
+      ]
     }
   ],
   "defaultMarker": {
