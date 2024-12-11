@@ -1,5 +1,5 @@
 ---
-name: Untitled
+name: Serpiente Parásita
 tags:
   - type/enemy
 alignment: Caótico Neutral

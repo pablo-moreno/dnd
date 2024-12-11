@@ -11,6 +11,8 @@ int_precio: 4500
 ---
 Se dice que la espada de plata fue empleada por Ludwig, primer cazador de la Iglesia. Al transformarla, se combina con su funda para formar un espadón. Difiere en varios aspectos del diseño del taller, lo que sugiere que la Iglesia esperaba bestias inhumanas mucho mayores.  
 
+La hoja de la espada larga de esta arma es la vaina. El componente de espada larga es exclusivo de la Espada Sagrada y perder cualquiera de ellos la vuelve inútil como Arma con Truco.
+
 **Ataque Básico**
 Ataque con arma cuerpo a cuerpo, alcance 5 pies, un objetivo.
 Impacto: 1d8 de daño cortante, Versátil (1d10).

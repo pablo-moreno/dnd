@@ -9,8 +9,8 @@ aliases:
 **Técnica de bala de sangre**
 El conocimiento alquímico de un cazador para transmutar sangre en balas de mercurio. Al gastar una acción den combate, puedes intercambiar el 30 % de tus puntos de golpe máximos por 5 balas de mercurio. 
 
-**Absorción de Daño**
-Tiemblas de emoción al pensar en bañarte en la sangre de tus enemigos. Siempre que recibas daño o pierdas salud de cualquier manera y sigas consciente, puedes atacar a una criatura y ganar la mitad del daño infligido en puntos de vida temporales.
+**Absorción de Sangre**
+Tiemblas de emoción al pensar en bañarte en la sangre de tus enemigos. Siempre que recibas daño o pierdas salud de cualquier manera y sigas consciente, puedes atacar a una criatura y ganar la mitad del daño infligido en puntos de vida temporales solo durante tu próximo turno.
 
 **Cambiar de Arma**
 Los cazadores pueden llevar equipadas dos armas principales y dos secundarias al salir de cacería. Pueden gastar una acción adicional o una reacción para cambiar el arma de una mano al arma guardada. 

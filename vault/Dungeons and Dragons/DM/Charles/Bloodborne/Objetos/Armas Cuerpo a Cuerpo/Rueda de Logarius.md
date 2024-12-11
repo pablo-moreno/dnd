@@ -17,4 +17,14 @@ Impacto: 1d8 de daño contundente, Pesada, Arcana.
 
 
 **Arma con Truco**
-Al transformar este arma, la rueda se divide en dos ruedas conectadas, que puedes "acelerar" hasta 4 veces para aumentar la potencia. Por cada aceleración, se agregarán 1d4 de daño de fuerza a tu próximo ataque antes de que se reinicie el conteo de revoluciones.
+Al transformar este arma, la rueda se divide en dos ruedas conectadas, que puedes "acelerar" hasta 4 veces para aumentar la potencia. Por cada revolución, se agregarán 1d4 de daño de fuerza a tu próximo ataque antes de que se reinicie el conteo de revoluciones.
+
+Cada Revolución que le des a la Rueda mientras está en su estado transformado aumenta la extracción de fuerza vital que toma al final de cada uno de tus turnos.
+
+
+| Revoluciones |  Drenaje de vida   |
+| :----------: | :----------------: |
+|      1       | 6 Puntos de golpe  |
+|      2       | 12 Puntos de golpe |
+|      3       | 18 Puntos de golpe |
+|      4       | 24 Puntos de golpe |

@@ -16,7 +16,7 @@ Para simular el juego de ritmo rápido que es Bloodborne, se ha introducido un c
 
 Cada arma con Truco cuenta como plateada para el propósito de superar resistencias, ya que son las herramientas necesarias para este oficio olvidado. Cada cazador obtiene un arma con Truco al llegar al Sueño del Cazador.
 
-Las armas de fuego son un elemento básico en el entorno victoriano y son un reemplazo de los arcos/ballestas de Dungeon and Dragons. Sin embargo, estas armas simples pero efectivas tienen una propiedad especial: usar un arma de fuego no usa munición ni requiere que el arma esté cargada, sino que drena los puntos de vida del usuario una cantidad especificada en la página de armas. 
+Las armas de fuego son un elemento básico en el entorno victoriano. Sin embargo, estas armas simples pero efectivas tienen una propiedad especial: usar un arma de fuegorequiere de munición especial y el arma debe estar cargada. 
 
 Las armas comunes de Dungeons and Dragons están disponibles para los Cazadores, pero ¿Quién usaría armas tan arcaicas cuando las Bestias están cerca? 
 
