@@ -7,7 +7,7 @@ aliases:
 Peso: 1 lb
 Precio: 3.600 po
 int_peso: 1
-int_precio: 3.6
+int_precio: 3600
 ---
 Una creación invaluable para cazadores con sangre débil. Una ceniza especial recolectada por una secta especial ubicada más allá de los planos. Cargar un arma de fuego con ceniza aumenta el dado de daño del siguiente disparo en un dado. 
 

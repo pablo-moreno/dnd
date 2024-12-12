@@ -9,3 +9,7 @@ Precio:
 int_peso: 
 int_precio:
 ---
+**Ataque Básico**
+
+
+**Arma con Truco**

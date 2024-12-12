@@ -21,7 +21,7 @@ scale: 1
 width: 100%
 ```
 
-## Plaza del Adviento
+## Plaza del Advenimiento
 
 ```leaflet
 image: [[Yahargul Part 2(DnDavid).jpg]]

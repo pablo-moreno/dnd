@@ -6,7 +6,9 @@ tags:
   - type/note
 aliases:
 ---
-Los enemigos tienen una probabilidad del 10% de soltar un objeto al morir. Los cazadores y los Jefes no sueltan ningún objeto de las tablas. Para determinar el loot, se tirara un d4 en la tabla de objetos correspondiente, dependiendo del nivel de desafío de la criatura.
+Los enemigos tienen una probabilidad del 10% de soltar un objeto al morir y se repite la tirada hasta que salga un fallo. Los cazadores y los Jefes no sueltan ningún objeto de las tablas. 
+
+Para determinar el loot, se tirara un d4 en la tabla de objetos correspondiente, dependiendo del nivel de desafío de la criatura. Si los jugadores obtienen varios objetos serán todos iguales.
 
 **Nivel de Desafío de la Criatura**
 Desafío (0 - 1): Dificultad Baja
